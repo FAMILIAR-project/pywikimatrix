@@ -1,0 +1,15 @@
+,Card,Write protection switch [31],DRM
+0,CompactFlash,No,No
+1,SmartMedia,"Partial, sticker",Partial (optional)
+2,"MMC, RS-MMC",No,No
+3,MMCMobile,No,"Yes, secureMMC"
+4,SD,Yes [32][33],"Yes, CPRM"
+5,miniSD,No,"Yes, CPRM"
+6,microSD,No,"Yes, CPRM"
+7,"Memory Stick Standard, PRO",Yes,"Optional, MagicGate"
+8,"Memory Stick Duo, PRO Duo",No,"Optional, MagicGate"
+9,Memory Stick PRO-HG Duo,No,"Optional, MagicGate"
+10,Memory Stick Micro (M2),No,"Optional, MagicGate"
+11,PS Vita Memory Card,No,"Yes, Proprietary"
+12,xD,No,Partial [34]
+13,USB,Sometimes,No

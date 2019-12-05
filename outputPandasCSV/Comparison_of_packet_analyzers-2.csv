@@ -1,0 +1,24 @@
+,Client,Microsoft Windows,macOS,Linux,BSDs,Solaris,Other
+0,Cain and Abel,Yes,No,No,No,No,No
+1,Capsa Free Edition,Yes,No,No,No,No,No
+2,Carnivore,Yes,No,No,No,No,No
+3,Charles Web Debugging Proxy,Yes,Yes,Yes,?,?,?
+4,Clusterpoint Network TrafficSurveillance System,Yes,Yes,Yes,Yes,No,Any virtual-machine compatible OS
+5,CommView,Yes,No,No,No,No,No
+6,dSniff,?,Yes,Yes,Yes,Yes,?
+7,EtherApe,No,Yes,Yes,Yes,Yes,?
+8,Ettercap,Yes,Yes,Yes,Yes,Yes,?
+9,justniffer,No,Yes,Yes,Yes,Yes,?
+10,Kismet,Yes,Yes,Yes,Yes,?,?
+11,LANMeter,No,No,No,No,No,Fluke proprietary hardware
+12,netsniff-ng,No,No,Yes,No,No,No
+13,ngrep,Yes,Yes,Yes,Yes,Yes,"AIX, BeOS, HP-UX, IRIX, Tru64 UNIX"
+14,Microsoft Network Monitor,Yes,No,No,No,No,No
+15,Observer,Yes,No,No,No,No,No
+16,"OmniPeek (formerly AiroPeek, EtherPeek)",Yes,No,No,No,No,No
+17,SteelCentral Transaction Analyzer,Yes,Version 3.5 capture agents on PowerPC only,"GUI, plus version 3.5 capture agents",No,Version 3.5 capture agents on SPARC only,Version 3.5 capture agents on AIX and PA-RISC HP-UX only
+18,snoop,No,No,No,No,Yes,No
+19,tcpdump,Yes (WinDump),Yes,Yes,Yes,Yes,"AIX, HP-UX, IRIX, Tru64 UNIX"
+20,Tranalyzer,No,Yes,Yes,?,?,?
+21,Wireshark (formerly Ethereal),Yes,Yes,Yes,Yes,Yes,"AIX, HP-UX, IRIX, Tru64 UNIX"
+22,Xplico,No,No,Yes,No,No,No

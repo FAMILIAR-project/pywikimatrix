@@ -1,0 +1,25 @@
+,Unnamed: 0,object member,object member.1,object member.2,class member,namespace member
+0,,method,field,property,class member,namespace member
+1,ABAP Objects,x->method(«parameters»).[39],x->field,,x=>field or x=>method(«parameters[39]»).,
+2,C++ (STL),x.method(parameters) orptr->method(parameters),x.field orptr->field,,cls::member,ns::member
+3,Objective-C,[x method«:parameter «bar:parameter ...»»],x->field,x.property (2.0 only) or[x property],[cls method«:parameter «bar:parameter ...»»],
+4,Smalltalk,x method«:parameter «bar:parameter ...»»,,,cls method«:parameter «bar:parameter ...»»,
+5,Swift,x.method(parameters),,x.property,cls.member,
+6,C#,x.method(parameters),x.field,x.property,cls.member,ns.member
+7,Java,x.method(parameters),x.field,,cls.member,ns.member
+8,D,x.method(parameters),x.field,x.property,cls.member,ns.member
+9,Python,x.method(parameters),x.field,x.property,cls.member,ns.member
+10,Visual Basic .NET,x.method(parameters),x.field,x.property,cls.member,ns.member
+11,Xojo,x.method(parameters),x.field,x.property,cls.member,ns.member
+12,Windows PowerShell,x.method(parameters),x.field,x.property,[cls]::member,ns.member
+13,F#,x.method(parameters),,x.property,cls.member,ns.member
+14,eC,x.method«(parameters)»,x.field,x.property,cls::member,ns::member
+15,Eiffel,x.method«(parameters)»,x.field,,{cls}.member,
+16,Ruby,x.method«(parameters)»,,x.property,cls.member,
+17,PHP,x->method(parameters),x->field,x->property,cls::member,ns\member
+18,Perl,x->method«(parameters)»,x->{field},,cls->method«(parameters)»,ns::member
+19,Raku,x.method«(parameters)» or x!method«(parameters)»,x.field or x!field,,cls.method«(parameters)» or cls!method«(parameters)»,ns::member
+20,OCaml,x#method «parameters»,,,,
+21,JavaScript,"x.method(parameters)x[""method""](parameters)","x.fieldx[""field""]","x.propertyx[""property""]","cls.membercls[""member""]",
+22,COBOL,"INVOKE x ""method"" «USING parameters» «RETURNING result» or x::""method""«(«parameters»)»",,property OF x,"INVOKE cls ""method"" «USING parameters» «RETURNING result» or cls::""method""«(«parameters»)» or property OF cls",
+23,Cobra,x.method«(parameters)»,x.field,x.property,cls.member,ns.member

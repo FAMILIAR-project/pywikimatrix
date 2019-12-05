@@ -1,0 +1,4 @@
+,IDE,License,Windows,Linux,macOS,Other platforms
+0,Eclipse JDT,EPL,Yes,Yes,Yes,"FreeBSD, JVM, Solaris"
+1,IntelliJ IDEA,"ASLv2, proprietary",Yes,Yes,Yes,"FreeBSD, OpenBSD, Solaris"
+2,NetBeans,"CDDL, GPL2",Yes,Yes,Yes,Solaris

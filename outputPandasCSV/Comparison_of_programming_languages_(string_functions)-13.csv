@@ -1,0 +1,39 @@
+,Format,Languages,If not found
+0,"string in string(substring, pos, string[startpos:])",ALGOL 68,"returns BOOL: TRUE or FALSE, and position in REF INT pos."
+1,"InStr(«startpos,»string,substring)",VB (positions start at 1),returns 0
+2,"INSTR$(string,substring)",BASIC (positions start at 1),returns 0
+3,"index(string,substring)",AWK,returns 0
+4,"index(string,substring«,startpos»)",Perl 5,returns −1
+5,"index(string,substring«,startpos») string.index(substring,«,startpos»)",Raku,returns Nil
+6,"instr(«startpos,»string,substring)",FreeBASIC,returns 0
+7,"strpos(string,substring«,startpos»)",PHP,returns FALSE
+8,"locate(string, substring)",Ingres,returns string length + 1
+9,"strstr(string, substring)","C, C++ (char * only, returns pointer to first character)",returns NULL
+10,"std.string.indexOf(string, substring)",D,returns −1
+11,"pos(string, substring«, startpos»)",Seed7,returns 0
+12,"strings.Index(string, substring)",Go,returns −1
+13,"pos(substring, string)","Pascal, Object Pascal (Delphi)",returns 0
+14,"pos(substring, string«,startpos»)",Rexx,returns 0
+15,"string.find(substring«,startpos»)",C++ (STL),returns std::string::npos
+16,"string.find(substring«,startpos«,endpos»»)",Python,returns −1
+17,"string.index(substring«,startpos«,endpos»»)",Python,raises ValueError
+18,"string.index(substring«,startpos»)",Ruby,returns nil
+19,"string.indexOf(substring«,startpos»)","Java, JavaScript",returns −1
+20,"string.IndexOf(substring«,startpos«, charcount»»)","VB .NET, C#, Windows PowerShell, F#",returns −1
+21,"string:str(string, substring)",Erlang,returns 0
+22,(string-contains string substring),Scheme (SRFI 13),returns #f
+23,(search substring string),Common Lisp,returns NIL
+24,(string-index substring string),ISLISP,returns nil
+25,List.findIndex (List.isPrefixOf substring) (List.tails string),Haskell (returns Just index),returns Nothing
+26,Str.search_forward (Str.regexp_string substring) string 0,OCaml,raises Not_found
+27,Substring.size (#1 (Substring.position substring (Substring.full string))),Standard ML,returns string length
+28,[string rangeOfString:substring].location,Objective-C (NSString * only),returns NSNotFound
+29,"string.find(string, substring) (string):find(substring)",Lua,returns nil
+30,string indexOfSubCollection: substring startingAt: startpos ifAbsent: aBlock string findString: substring startingAt: startpos,"Smalltalk (Squeak, Pharo)",evaluate aBlock which is a block closure (or any object understanding value) returns 0
+31,"startpos = INDEX(string, substring «,back» «, kind»)",Fortran,returns 0 if substring is not in string; returns LEN(string)+1 if substring is empty
+32,POSITION(substring IN string),SQL,returns 0 (positions start at 1)
+33,"index(string, substring, startpos )",PL/I[9],returns 0 (positions start at 1)
+34,"index(string, substring, occurrence )",Pick Basic,returns 0 if occurrence of substring is not in string; (positions start at 1)
+35,"string.indexOf(substring«,startpos«, charcount»»)",Cobra,returns −1
+36,string first substring string startpos,Tcl,returns −1
+37,(substring⍷string)⍳1,APL,returns 1 + the last position in string

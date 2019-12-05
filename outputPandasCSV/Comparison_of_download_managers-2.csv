@@ -1,0 +1,22 @@
+,Manager,HTTP,HTTPS,FTP,SFTP,MMS,RTSP,Metalink,Magnet link,Podcast,RTMP,BitTorrent,eDonkey
+0,4K Video Downloader,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,BitComet,Yes,Yes,Yes,?,?,?,?,Yes,?,?,Yes,Yes
+2,Download Accelerator Plus,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+3,DownloadStudio,?,?,?,?,?,?,?,?,?,?,?,?
+4,DownThemAll!,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No
+5,FlashGet,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+6,Folx,?,?,?,?,?,?,?,?,?,?,?,?
+7,Free Download Manager,Yes,Yes,Yes,No,Yes[16],Yes[16],No,Yes[17],No,No,Yes,No
+8,Freemake Video Downloader,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+9,Free Studio,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+10,GetRight,Yes,Yes,Yes,No,No,No,Yes,?,Yes,No,Yes,No
+11,Go!Zilla,?,?,?,?,?,?,?,?,?,?,?,?
+12,Internet Download Accelerator,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No
+13,Internet Download Manager,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No
+14,JDownloader,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No
+15,Jigdo,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+16,KGet,Yes,Yes,Yes,Yes,Yes,No,Yes,?,No,No,Yes,No
+17,MiniDM,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+18,MLDonkey,Yes,?,Yes,?,No,No,No,?,No,No,Yes,Yes
+19,Shareaza,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes
+20,Manager,HTTP,HTTPS,FTP,SFTP,MMS,RTSP,Metalink,Magnet link,Podcast,RTMP,BitTorrent,eDonkey

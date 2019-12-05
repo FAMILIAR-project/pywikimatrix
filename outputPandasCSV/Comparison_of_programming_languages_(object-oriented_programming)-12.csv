@@ -1,0 +1,23 @@
+,Unnamed: 0,Has member?,Has member?.1,Handler for missing member,Handler for missing member.1
+0,,Method,Field,Method,Field
+1,ABAP Objects,,,,
+2,C++ (STL),,,,
+3,Objective-C (Cocoa),[x respondsToSelector:@selector(method)],,forwardInvocation:,
+4,Smalltalk,x respondsTo: selector,,doesNotUnderstand:,
+5,C#,(using reflection),(using reflection),(using reflection),(using reflection)
+6,eC,(using reflection),(using reflection),(using reflection),(using reflection)
+7,Java,(using reflection),(using reflection),(using reflection),(using reflection)
+8,D,,,opDispatch(),opDispatch()
+9,Eiffel,,,,
+10,Python,"hasattr(x, ""method"") and callable(x.method)","hasattr(x, ""field"")",__getattr__(),__getattr__()
+11,Visual Basic .NET,(using reflection),(using reflection),(using reflection),(using reflection)
+12,Xojo,(using Introspection),(using Introspection),(using Introspection),(using Introspection)
+13,Windows PowerShell,(using reflection),(using reflection),(using reflection),(using reflection)
+14,F#,(using reflection),(using reflection),(using reflection),(using reflection)
+15,Ruby,x.respond_to?(:method),,method_missing(),
+16,PHP,"method_exists(x, ""method"")","property_exists(x, ""field"")",__call(),__get() / __set()
+17,Perl,"x->can(""method"")",exists x->{field},AUTOLOAD,
+18,Raku,"x.can(""method"")",x.field.defined,AUTOLOAD,
+19,OCaml,,,,
+20,JavaScript,"typeof x.method === ""function""",field in x,,
+21,COBOL,,,,

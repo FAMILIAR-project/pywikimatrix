@@ -1,0 +1,9 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Images,Images,Images,Images,Images,Images
+1,img,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+2,Generic inclusion,Generic inclusion,Generic inclusion,Generic inclusion,Generic inclusion,Generic inclusion
+3,object,4.0[note 2],1.0,Yes,Yes,1.0
+4,param,<3.1[IE 6.0],1.0,Yes,Yes,1.0
+5,Image maps,Image maps,Image maps,Image maps,Image maps,Image maps
+6,map,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+7,area,5.0,1.0,Yes,Yes,1.0

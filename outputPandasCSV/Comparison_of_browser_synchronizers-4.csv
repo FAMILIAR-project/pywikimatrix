@@ -1,0 +1,8 @@
+,Client,Bookmarks,Favicons,Browsing history,Form history,Web feed subscriptions,Search engine plugins,Passwords,Dictionary,Other
+0,BookmarkSync,Yes,No,No,No,No,No,No,No,No
+1,Opera Link,Yes,Yes,Yes,No,No,Yes,Yes,No,"Personal bar, speed dial, notes, typed browser history, content blocker list"
+2,Firefox Sync,Yes,"No, but planned to be added in future[16]",Last 60 days[17],Yes,Yes,No,Yes,No,"open tabs, tab groups, personas, preferences, add-ons (up to 25MB by default)[17]"
+3,Google Chrome,Yes,Yes,Yes,Yes,?,?,Yes,Yes,"open tabs, add-ons, preferences"
+4,,,,,,,,,,
+5,Eversync,Yes,?,?,?,?,?,?,?,open tabs
+6,Client,Bookmarks,Favicons,Browsing history,Form history,Web feed subscriptions,Search engine plugins,Passwords,Dictionary,Other

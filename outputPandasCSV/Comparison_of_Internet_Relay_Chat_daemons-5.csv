@@ -1,0 +1,25 @@
+,IRC daemon,Connect-flood detection,Channel flood controlsbasic / advanced,Join throttling,Spamfilterregexp / glob,Channel censorIRCd config / chanop-controlled,Variable per-channel banlist size,Timed bans,DNSBL,CGI:IRC/WEBIRC host spoofing
+0,Bahamut,Yes,Yes / No,Yes,No / No,No / No,No,No,No,Yes
+1,bIRCd,No,No / No,No,No / No,No / No,No,No,No,No
+2,Charybdis,Yes,No / No,Yes,No / No,No / No,Yes,Yes[citation needed],Yes,Yes
+3,ConferenceRoom,Yes,Yes / Yes,Yes,No / Yes,Partial / No,No,Partial,Yes,No
+4,InspIRCd,Yes,Yes / Yes,Yes,Yes / Yes,Yes / Yes,Yes,Yes,Yes,Yes
+5,IRCD,No,No,No,No,No,No,No,No,No
+6,IRCD-Hybrid,Yes,No / No,No,No / No,No / No,No,No,No,Yes
+7,ircd-ratbox,Yes,No / No,No,No / No,No / No,No,No,No,Yes
+8,ircu,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,No
+9,ithildin,Module,No / No,No,No / No,No / No,No,No,Unknown,Unknown
+10,miniircd,No,No,No,No,No,No,No,No,No
+11,Nefarious IRCu,Yes,No / No,No,Yes / No,No / No,No,No,Yes,Yes
+12,ngIRCd,No,No / No,No,No / No,No / No,No,No,No,Yes
+13,OfficeIRC Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unknown
+14,Oragono,Yes,Yes / No,Unknown,No,No,No,Unknown,No,Yes
+15,PleXusIRCd,Yes,No / No,No,No / No,No / No,No,No,Unknown,Unknown
+16,pureIRCd,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+17,RockIRCd,No,Yes / No,No,No,No,No,No,No,Unknown
+18,RubIRCd,No,No,No,No,No,No,No,No,No
+19,ShadowIRCd,Yes,No / No,Yes,No / No,No / No,Yes,Yes,Yes,Yes
+20,solid-ircd,Yes,Yes / No,Yes,No / No,No / No,No,No,No,Unknown
+21,Synchronet IRCd,Yes,Yes / No,Yes,No / No,No / No,No / No,No,No,Unknown
+22,UnrealIRCd,Yes,Yes,Yes,Yes,Yes / third party module[72],No,Yes,Yes,Yes
+23,WeIRCd,Partial,No / No,No,No / No,No / No,No,No,No,Yes

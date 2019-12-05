@@ -1,0 +1,18 @@
+,Assembler,Operating system,FLOSS,License,Development active
+0,A86/A386,"Windows, DOS",No,Proprietary,No
+1,ACK,"Linux, MINIX, Unix-like",Yes,BSD since 2003,1985-? [1]
+2,IBM ALP,OS/2,No,Proprietary,No
+3,AT&T,Unix System V,No,Proprietary,1985-?[2]
+4,Digital Research ASM86,"CP/M-86, DOS, Intel's ISIS and iRMX",No,Proprietary,1978-1992
+5,FASM,"Windows, DOS, Linux, Unix-like",Yes,BSD with added Copyleft,Yes
+6,GAS,"Unix-like, Windows, DOS, OS/2",Yes,GNU GPL,Since 1987
+7,HLA,"Windows, Linux, FreeBSD, macOS",Yes,Public domain,Yes
+8,"Open Watcom Assembler (HJWASM a.k.a. UASM, JWASM, WASM)","Linux, Windows, DOS, FreeBSD, OS/2","approved by OSI, but not by FSF",Sybase Open Watcom Public,Yes
+9,MASM,"Windows, DOS, OS/2",No,Microsoft EULA,Since 1981[3]
+10,NASM,"Linux, macOS, Windows, DOS, OS/2",Yes,BSD,Yes
+11,Tim Paterson's ASM,"86-DOS, DOS DEBUG",No,Proprietary,1979-1983
+12,TASM,"Windows, DOS",No,Proprietary,?[4][5]
+13,TCCASM,"Unix-like, Windows",Yes,LGPL,Yes
+14,vasm,various,Yes,Free,Yes
+15,Xenix,Xenix 2.3 and 3.0 (before 1985),No,Proprietary,1982-1984
+16,Yasm,"Windows, DOS, Linux, Unix-like",Yes,BSD,No[6]

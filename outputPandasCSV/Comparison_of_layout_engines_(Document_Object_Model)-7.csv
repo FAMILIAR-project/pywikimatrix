@@ -1,0 +1,84 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet,Interface CSSStyleSheet
+1,DOM2,ownerRule,No,?,1.0,?,?,2.0
+2,DOM2,cssRules,No,Yes,1.0,1.3,?,2.0
+3,DOM2,insertRule(),No,No,1.0,No,?,2.0
+4,DOM2,deleteRule(),No,No,1.0,No,?,2.0
+5,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList
+6,DOM2,length,6.0,?,1.0,?,?,2.0
+7,DOM2,item(),6.0,?,1.0,?,?,2.0
+8,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList,Interface CSSRuleList
+9,DOM2,length,No,?,1.0,?,?,2.0
+10,DOM2,item(),No,?,1.0,?,?,2.0
+11,Interface CSSRule,Interface CSSRule,Interface CSSRule,Interface CSSRule,Interface CSSRule,Interface CSSRule,Interface CSSRule,Interface CSSRule
+12,DOM2,type,No,?,1.0,?,?,2.0
+13,DOM2,cssText,No,Yes,1.0,?,?,2.0
+14,DOM2,parentStyleSheet,No,Yes,1.0,1.3,?,2.0
+15,DOM2,parentRule,No,?,1.0,?,?,2.0
+16,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule,Interface CSSStyleRule
+17,DOM2,selectorText,6.0,Yes,1.0,1.3,?,2.0
+18,DOM2,style,No,?,1.0,?,?,2.0
+19,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule,Interface CSSMediaRule
+20,DOM2,media,No,?,1.0,?,?,2.0
+21,DOM2,cssRules,No,?,1.0,?,?,2.0
+22,DOM2,insertRule(),No,?,1.0,?,?,2.0
+23,DOM2,deleteRule(),No,?,1.0,?,?,2.0
+24,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule,Interface CSSFontFaceRule
+25,DOM2,style,No,?,1.9.1[g 3],?,?,2.0
+26,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule,Interface CSSPageRule
+27,DOM2,selectorText,No,?,No[g 4],?,?,2.0
+28,DOM2,style,No,?,No[g 4],?,?,2.0
+29,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule,Interface CSSImportRule
+30,DOM2,href,No,Yes,1.0,1.3,?,2.0
+31,DOM2,media,No,?,1.0,?,?,2.0
+32,DOM2,styleSheet,No,?,1.0,?,?,2.0
+33,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule,Interface CSSCharsetRule
+34,DOM2,encoding,No,?,1.0,?,?,2.0
+35,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule,Interface CSSUnknownRule
+36,DOM2,(no properties),No,?,No[g 5],?,?,2.0
+37,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration,Interface CSSStyleDeclaration
+38,DOM2,cssText,No,?,1.0,?,?,2.0
+39,DOM2,length,No,?,1.0,?,?,2.0
+40,DOM2,parentRule,No,?,1.0,?,?,2.0
+41,DOM2,getPropertyValue(),No,Yes,1.0,1.3,?,1.0
+42,DOM2,getPropertyCSSValue(),No,?,No[g 6],?,?,2.0
+43,DOM2,removeProperty(),No,No,1.0,1.3,?,1.0
+44,DOM2,getPropertyPriority(),No,Incorrect,1.0,?,?,2.0
+45,DOM2,setProperty(),No,Yes,1.0,1.3,?,1.0
+46,DOM2,item(),No,?,1.0,?,?,2.0
+47,Interface CSSValue,Interface CSSValue,Interface CSSValue,Interface CSSValue,Interface CSSValue,Interface CSSValue,Interface CSSValue,Interface CSSValue
+48,DOM2,cssText,No,?,No[g 6],?,?,No
+49,DOM2,cssValueType,No,?,No[g 6],?,?,No
+50,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue,Interface CSSPrimitiveValue
+51,DOM2,primitiveType,No,?,No[g 7],?,?,No
+52,DOM2,setFloatValue(),No,?,No,?,?,No
+53,DOM2,getFloatValue(),No,?,No,?,?,No
+54,DOM2,setStringValue(),No,?,No,?,?,No
+55,DOM2,getStringValue(),No,?,No,?,?,No
+56,DOM2,getCounterValue(),No,?,No,?,?,No
+57,DOM2,getRectValue(),No,?,No,?,?,No
+58,DOM2,getRGBColorValue(),No,?,No,?,?,No
+59,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList,Interface CSSValueList
+60,DOM2,length,No,?,No,?,?,No
+61,DOM2,item(),No,?,No,?,?,No
+62,Interface RGBColor,Interface RGBColor,Interface RGBColor,Interface RGBColor,Interface RGBColor,Interface RGBColor,Interface RGBColor,Interface RGBColor
+63,DOM2,red,No,?,No,?,?,No
+64,DOM2,green,No,?,No,?,?,No
+65,DOM2,blue,No,?,No,?,?,No
+66,Interface Rect,Interface Rect,Interface Rect,Interface Rect,Interface Rect,Interface Rect,Interface Rect,Interface Rect
+67,DOM2,top,No,?,No,?,?,No
+68,DOM2,right,No,?,No,?,?,No
+69,DOM2,bottom,No,?,No,?,?,No
+70,DOM2,left,No,?,No,?,?,No
+71,Interface Counter,Interface Counter,Interface Counter,Interface Counter,Interface Counter,Interface Counter,Interface Counter,Interface Counter
+72,DOM2,identifier,No,?,No,?,?,No
+73,DOM2,listStyle,No,?,No,?,?,No
+74,DOM2,separator,No,?,No,?,?,No
+75,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS,Interface ViewCSS
+76,DOM2,getComputedStyle(),No,No,1.0,No,?,1.0
+77,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS,Interface DocumentCSS
+78,DOM2,getOverrideStyle(),No,?,No[g 8],?,?,No
+79,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS,Interface DOMImplementationCSS
+80,DOM2,createCSSStyleSheet(),No,?,No[g 9],?,?,No
+81,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle,Interface ElementCSSInlineStyle
+82,DOM2,style,6.0,Yes,1.0,1.3,Yes,1.0

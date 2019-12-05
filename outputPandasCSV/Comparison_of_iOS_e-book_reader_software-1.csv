@@ -1,0 +1,22 @@
+,Product,Developer,Pagination,Rotation Lock,Auto-scroll,Progress indicator,Backward/forward,Table of Contents,Bookmarks,Resume,Cloud synchronisation,Go To,Full text search
+0,Apabi Reader[1],Beijing Founder Apabi Technology Limited,Yes,Yes,No,In library and in-book,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+1,Blio[2],"K-NFB Reading Technology, Inc.",Yes,No,No,In-book only,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+2,Bluefire Reader[3],Bluefire Productions,Yes,Yes,No,In-book only,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+3,DL Reader[4],"Datalogics, Inc",Yes,Yes,No,In-book only,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+4,eBookMobi[5],Tien Thinh Vu,Yes,"support on iPad, portrait only on iPhone",No,In library and in-book,Yes,Yes,Unlimited,Yes,No,Yes,No
+5,Ebook Reader[6],Ebooks.com Limited,Yes,Yes,No,In library and in-book,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+6,i2Reader[7],Yuriy Melyushin,Yes,Yes,Yes,In-book only,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+7,iBooks[8],Apple,Yes,No,Manual,In-book only,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+8,Kindle[9],AMZN Mobile LLC,Yes,Yes,No,In library and in-book,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+9,Kobo Reading App[10],Kobo Inc.,Yes,Yes,No,In-book only,Yes,Yes,Last place marker only,Yes,Yes,Yes,No
+10,KyBook Reader[11],Konstantin Bukreev,Yes,Yes,No,In library and in-book,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+11,KyBook 2[12],Konstantin Bukreev,Yes,Yes,In library and in-book,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes,Yes
+12,MapleRead[13],Maplepop LLC,Yes,Yes,No,In library and in-book,Configurable,Yes,Unlimited,Yes,Yes,Yes,Yes
+13,Marvin[14],Appstafarian,Yes,Yes,Yes,In library and in-book,Configurable,Yes,Unlimited,Yes,Optional,Yes,Yes
+14,MegaReader[15],"Inkstone Software, Inc.",Yes,Yes,No,In-book only,Yes,Yes,Unlimited,Yes,No,Yes,No
+15,PocketBook reader[16],Obreey Products,Yes,Yes,Yes,In-book only,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+16,ShuBook[17],Ambibma Ltd.,Yes,Yes,No,In library and in-book,Yes,Yes,Unlimited,Yes,No,Yes,Yes
+17,Stanza[18],Lexcycle,Configurable,Yes,No,In library and in-book,Configurable,Yes,Unlimited,Yes,No,Yes,Yes
+18,uBooks XL[19],Nix Solutions Ltd,Mixed scrolling & pagination,Yes,Yes,Yes,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+19,iBouquiniste[20],Sandr,Yes,Yes,No,In-book only,Yes,Yes,Unlimited,Yes,Yes,Yes,Yes
+20,Product,Developer,Pagination,Rotation Lock,Auto-scroll,Progress indicator,Backward/forward,Table of Contents,Bookmarks,Resume,Cloud synchronisation,Go To,Full text search

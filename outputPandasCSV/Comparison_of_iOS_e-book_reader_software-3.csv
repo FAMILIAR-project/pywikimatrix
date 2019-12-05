@@ -1,0 +1,22 @@
+,Product,Highlight,Annotate,Edit meta-data,Online dictionary,Offline dictionary,Lookup Wikipedia,Translate,Share,TTS support (read aloud),DRM support,Export to iTunes
+0,Apabi Reader,No,No,No,No,No,No,No,Two Chinese websites only,No,No,Yes
+1,Blio,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+2,Bluefire Reader,Yes,Yes,"Author, Title, Publisher",Yes,No,No,No,"Facebook, Twitter, eMail",No,Yes,Yes
+3,DL Reader,Yes,Yes,"Author, Title, Publisher",No,No,No,Yes,No,No,Adobe DRM,Yes
+4,eBookMobi,No,No,No,No,Yes,No,Yes,eMail,No,No,Yes
+5,Ebook Reader,Yes,Yes,No,No,No,No,No,"Facebook, Twitter, eMail, Google+",No,Adobe DRM,Yes
+6,i2Reader,No,No,No,No,Yes,No,No,eMail,No,No,Yes
+7,iBooks,Yes,Yes,No,Yes,Yes,Yes,No,"Facebook, Twitter, eMail, SMS","yes, via VoiceOver",Apple FairPlay,Yes
+8,Kindle,Yes,Yes,No,Yes,Yes,Yes,No,"Facebook, Twitter",No,Yes,Yes
+9,Kobo Reading App,Yes,Yes,No,Yes,No,Yes,No,"Facebook, Twitter",No,Yes,Yes
+10,KyBook,Yes,Yes,Yes,No,Yes,Yes,Yes,"Facebook, Twitter, eMail, VKontakte",Yes,No,Yes
+11,KyBook 2,Yes,Yes,No,Yes,Yes,Yes,"Facebook, Twitter, eMail, VKontakte",Yes,No,Yes,Yes
+12,MapleRead,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+13,Marvin,Yes,Yes,Yes,Yes,Yes,Yes,No,"Facebook, Twitter, eMail, customizable",Yes,No,Yes
+14,MegaReader,No,No,No,No,No,No,No,No,No,No,Yes
+15,PocketBook reader,Yes,Yes,No,Yes,Yes,Yes,No,"Facebook, Twitter, eMail, SMS",No,Yes,Yes
+16,ShuBook,No,No,"Author, Title, Label",No,Yes,No,No,"Whole book only, eMail",No,No,Yes
+17,Stanza,No,Yes,Yes,No,Yes,No,No,"Facebook, Twitter, eMail",No,No,Yes
+18,uBooks XL,Yes,No,Yes,No,No,No,Yes,eMail,No,No,Yes
+19,iBouquiniste,No,No,No,No,No,Yes,Yes,eMail,Yes,No,Yes
+20,Product,Highlight,Annotate,Edit meta-data,Online dictionary,Offline dictionary,Lookup Wikipedia,Translate,Share,TTS support (read aloud),DRM support,Export to iTunes

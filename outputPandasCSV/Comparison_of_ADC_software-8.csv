@@ -1,0 +1,14 @@
+,ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin/API,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other
+0,AirDC++,Yes,Yes,Yes,No,Yes,Yes,Web API,Yes,Tiger tree hash,"TIGR, ADCS, UCMD,NATT, SEGA, PFSR, KEYP, PBD1, UBN1, MCN1, BLOM, SUDP, QP, HBRI, ASCH",Yes,
+1,AirDC++ Web Client,Yes,Yes,Yes,No,Yes,Yes,Web API,Yes,Tiger tree hash,Inherits from AirDC++,Yes,
+2,ApexDC++,Yes,Yes,Yes,Yes,Yes,No,"C++, Lua",Yes,Tiger tree hash,Inherits from StrongDC++,Yes,
+3,DC++,Yes,Yes,Yes,No,Yes,Yes,"C++, Lua",Yes,Tiger tree hash,"TIGR, ADCS, UCMD, BLOM, NATT, SEGA",Yes,
+4,jucy,Yes,Yes,No,No,Yes,Yes,Eclipse RCP,Yes,Tiger tree hash,"TIGR, ADCS, KEYP, SUDP, BLOM, UCMD",Yes,
+5,LinuxDC++,Yes,Yes,No,No,Yes,No,No,Yes,Tiger tree hash,Inherits from DC++,Yes,
+6,EiskaltDC++,Yes,Yes,Yes,Yes,Yes,No,"Lua, QtScript, QML",Yes,Tiger tree hash,"TIGR, ADCS, UCMD, BLOM, NATT, SEGA, PFSR, KEYP, FS",Yes,
+7,FlylinkDC++,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Tiger tree hash,Inherits from StrongDC++,Yes,
+8,RSX++,Yes,Yes,No,Yes,Yes,No,"C++, Lua",Yes,Tiger tree hash,Inherits from StrongDC++,Yes,
+9,TKDC++,Yes,Yes,Yes,No,Yes,No,"C++, Lua",Yes,Tiger tree hash,"TIGR, ADCS, UCMD, BLOM, NATT, PFSR, SEGA",Yes,
+10,StrongDC++,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Tiger tree hash,"TIGR, ADCS, UCMD, BLOM, NATT, PFSR, QP, SEGA",Yes,
+11,ncdc,No,No,No,No,Yes,Yes,No,No,Tiger tree hash,"TIGR, ADCS, KEYP, SUDP",Yes,
+12,ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other

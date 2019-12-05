@@ -1,0 +1,16 @@
+,Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD
+0,SafeStick,Yes,No,Yes,Yes,No,No
+1,SafeStick SuperSonic,Yes,No,Yes,Yes,No,No
+2,IronKey S100,Yes,No,Yes,Yes,No,No
+3,IronKey S200,Yes,No,Yes,Yes,No,No
+4,IronKey D200,Yes,No,Yes,Yes,No,No
+5,CryptX2,Yes,Yes,Yes,Yes,Yes,Yes
+6,DataTraveler 5000,Yes,No,No,No,No,No
+7,DataTraveler Locker+,Yes,No,No,Yes,No,No
+8,DataTraveler Vault,Yes,No,Public partition only,Public partition only,No,No
+9,DataTraveler Vault – Privacy Edition,Yes,No,No,Yes,No,No
+10,JumpDrive SecureII Plus,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+11,IronClad,Yes,No,Yes,Yes,No,No
+12,Cruzer Enterprise,Yes,Unknown,Unknown,Yes,Unknown,Unknown
+13,Store n' Go Corporate,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+14,Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD

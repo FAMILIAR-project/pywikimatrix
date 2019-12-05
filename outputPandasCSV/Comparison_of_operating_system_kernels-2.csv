@@ -1,0 +1,7 @@
+,Kernel Name,TCP,UDP,SCTP,DCCP
+0,DragonFly BSD kernel,Yes,Yes,No,No
+1,FreeBSD kernel,Yes,Yes,Yes,Optional
+2,Linux kernel,Yes,Yes,Yes,Yes
+3,Solaris kernel,Yes,Yes,Yes,?
+4,Windows NT kernel,Yes,Yes,No,?
+5,XNU,Yes,Yes,No,No

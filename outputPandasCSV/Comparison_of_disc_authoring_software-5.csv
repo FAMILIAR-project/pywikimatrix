@@ -1,0 +1,14 @@
+,Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue
+0,Alcohol 120%,Yes,No,No,Yes,Yes,No
+1,CDBurnerXP,Partial[1],No,No,Yes,Partial[1],Yes
+2,cdrtools,Yes,?,?,Yes,No,Yes
+3,DeepBurner,?,?,?,Yes,?,?
+4,ExpressBurn,No,No,No,Yes,No,No
+5,ImgBurn,Yes,No,Yes,Yes,Yes,Yes
+6,InfraRecorder,Yes,No,Yes,Yes,No,?
+7,K3b,Yes,?,?,Yes,Yes,Yes
+8,Libburnia,Yes,No,Yes,Yes,No,Yes
+9,Nero Burning ROM,Yes,No,Partial,Yes,Yes,Yes
+10,UltraISO,Yes,Yes,Yes,Yes,Yes,Yes
+11,X-CD-Roast,?,?,?,Yes,?,?
+12,Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue

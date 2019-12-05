@@ -1,0 +1,21 @@
+,NMDC hub,Windows,Linux,Mac OS X,Other
+0,UFOHub,Yes,No,No,No
+1,Eximius,Yes,No,No,No
+2,PTDCH,Yes,No,No,No
+3,Aquila,Yes,Yes,No,No
+4,Dtella,Yes,Yes,Yes,No
+5,HeXHub,Yes,No,No,No
+6,Open Direct Connect Hub,No,Yes,No,OpenWrt
+7,Flexhub,Yes,Yes,No,Qnap and Synology NAS Devices
+8,openDCd,Yes,Yes,No,No
+9,DDCH DevDirect Connect Hub,Yes,No,No,No
+10,DBHub,No,Yes,No,No
+11,PtokaX,Yes,Yes,Yes,"FreeBSD, OpenBSD, NetBSD, Solaris, illumos, Haiku"
+12,py-dchub,Yes,Yes,Yes,Any Python compatible platform
+13,RusHub,Yes,Yes,Yes,"FreeBSD, Solaris"
+14,VerliHub,No,Yes,No,No
+15,Yhub,Yes,No,No,No
+16,Ynhub,Yes,No,No,No
+17,LamaHub,Yes,Yes,Yes,"OS/2, OpenBSD, NetBSD, TrueOS, FreeBSD, ZeX/OS, Android[9]"
+18,DC Sharp Hub,Yes,No,No,No
+19,NMDC hub,Windows,Linux,Mac OS X,Other

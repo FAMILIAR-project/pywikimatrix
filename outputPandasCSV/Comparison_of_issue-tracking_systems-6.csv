@@ -1,0 +1,37 @@
+,System,Form based,Public key cryptography,Two-factor,OpenID,OAuth,LDAP,Shibboleth,Others
+0,Apache Bloodhound,Yes,Optional[87],No,Optional[88],No,Yes,Unknown,No
+1,Assembla Tickets,Yes,No,No,Yes,Yes,Yes (private version),Unknown,Unknown
+2,Axosoft,Yes,No,No,No,No,Yes,No,No
+3,Bugzilla,Yes,No,No,Optional[89],No,Yes,Unknown,No
+4,Debbugs,No,No,No,No,No,No,No,No
+5,Faveo Helpdesk,Yes,No,No,No,Yes,Yes,No,No
+6,FogBugz,Yes,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+7,Fossil,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown
+8,FusionForge,Yes,No,No,Yes,No,Yes,No,"Yes, CAS"
+9,GLPI,Yes,No,Yes,No,No,Yes,No,No
+10,GNATS,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown
+11,HP Quality Center,No,No,No,No,No,Yes,No,Unknown
+12,IBM Rational ClearQuest,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+13,Jira,Yes,No,No,Yes,Yes,Yes,"Yes, via plugin[90][91]","Yes, via Crowd[92]"
+14,MantisBT,Yes,No,No,Yes[93],Yes[94],Yes,Unknown,No
+15,Microsoft Dynamics CRM,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+16,org-mode,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown
+17,OTRS,Yes,Yes,Yes,Unknown,Unknown,Yes,Unknown,Unknown
+18,Phabricator,Yes,No,Yes,No,Yes,Yes,No,No
+19,Pivotal Tracker,Yes,No,No,"Yes, Google Account",No,No,No,No
+20,Redmine,Yes,Yes[95],No,Yes[96],No,Yes,"Yes, via Apache (using mod_rails)",No
+21,Request Tracker,Yes,Unknown,Unknown,Yes[97],Unknown,Yes[98],Unknown,Yes[99]
+22,Roundup,Yes,Unknown,Unknown,Yes[100],Unknown,Yes,Yes[101],Yes[102]
+23,StarTeam,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown
+24,Supportworks,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+25,SysAid,Yes,No,No,No,No,Yes,No,"Yes, CAS"
+26,Team Foundation Server,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+27,TestTrack,Yes,Optional,No,No,No,Yes,No,Yes - custom DLL
+28,Trac,Yes,Optional[87],No,Optional[88],No,Yes,Unknown,No
+29,TrackerSuite.Net,Yes,No,No,No,No,Yes,No,No
+30,Tuleap,Yes,No,No,Yes,Yes,Yes,No,No
+31,Twproject,Yes,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,"Yes, Simple container auth."
+32,Usersnap,Yes,No,No,No,No,No,No,No
+33,Wrike,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+34,YouTrack,Yes,No,Yes,Yes,Yes,Yes,Unknown,Yes: JIRA account
+35,System,Form based,Public key cryptography,Two-factor,OpenID,OAuth,LDAP,Shibboleth,Others

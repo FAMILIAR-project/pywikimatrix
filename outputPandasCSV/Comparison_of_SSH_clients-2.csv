@@ -1,0 +1,18 @@
+,Name,macOS,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AIX,HP-UX,iOS,Android,Maemo,Windows Phone
+0,AbsoluteTelnet,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+1,ConnectBot,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+2,CRAX Commander,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+3,Dropbear,Yes,No,Yes,Yes,Yes,Yes,?,?,?,Yes,Yes,Yes[Note 1],No,Yes,?
+4,eSSH Client,Yes,Yes,?,Yes,Yes,Yes,?,?,?,No,No,No,No,No,?
+5,lsh,Yes,No,No,Partial[Note 2],Yes,Yes,?,?,?,No,No,No,No,No,?
+6,OpenSSH (OpenBSD Secure Shell),Included,Included[Note 3],Included,Included,Included[Note 4],Yes,?,Yes,Yes,Yes,Yes,Yes[Note 1],Yes,Yes,?
+7,PuTTY,Partial,Yes,?,Yes,Yes,Yes,No,?,?,No,No,No,No,No,Beta
+8,SecureCRT,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,?
+9,SmartFTP,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+10,SSH Tectia Client/ConnectSecure,No,Yes,No,No,Yes,Yes,Yes[Note 5],No,Yes,Yes,Yes,No,No,No,?
+11,Tera Term,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+12,TN3270 Plus,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+13,TtyEmulator,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+14,WinSCP,No,Yes,No,No,No,No,No,No,No,No,No,Yes[Note 1],No,No,?
+15,ZOC,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+16,Name,OS X,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AIX,HP-UX,iOS,Android,Maemo,Windows Phone

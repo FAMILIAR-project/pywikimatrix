@@ -1,0 +1,19 @@
+,Pump type,Cyclic/continuous ?,Maximum lift height,Production cost,Efficiency,Output,Size of device,Fabrication requirements,Difficulty of production,Durability,Difficulty of repair,Suction lift ?
+0,Archimedean screw,continuous,>2m,medium,medium,medium-high,?,?,industrial,?,?,no
+1,Chain (or rope) and washer pump,continuous,3m-20m,medium-high,medium-high,medium,?,?,traditional,?,?,no
+2,Coil pump and spiral pump,continuous,>6m,medium,medium,low-medium,?,?,traditional,?,?,no
+3,Diaphragm pump,cyclic,5m-10m,medium,medium-high,medium,?,?,industrial,?,?,yes
+4,Flash wheel and treadmill,>2m,low-medium,low-medium,medium-high,?,?,?,traditional/industrial,?,?,no
+5,Flexible vane pump,continuous,10m-20m,medium-high,medium,medium,?,?,industrial,?,?,yes
+6,Gas or vapour displacement pump,cyclic,5m-50m,medium,medium,medium-high,?,?,industrial,?,?,no/yes
+7,Gear and lobe pump,continuous,10m-20m,medium,low-medium,very low,?,?,industrial,?,?,yes
+8,Open screw pump,continuous,>6m,high,medium-high,medium-high,?,?,industrial,?,?,no
+9,Peristaltic pump,continuous,>3m,medium,medium,very low,?,?,industrial,?,?,yes
+10,Petropump,continuous,10m-100m,medium-high,high,low-medium,?,?,industrial,?,?,?
+11,Porous rope,continuous,3m-10m,?,?,low-medium,?,?,industrial,?,?,no
+12,Progressive cavity pump (Moyno),continuous,10m-100m,medium-high,medium-high,medium,?,?,industrial,?,?,no
+13,"Piston pump, bucket pump",cyclic,2m-200m,medium-high,high,medium,?,?,traditional/industrial,?,?,yes
+14,Plunger pump,cyclic,100m-500m,high,medium-high,low-medium,?,?,traditional,?,?,yes
+15,Pulser Pump,cyclic,1-300m,low-medium,low,low-medium,small-huge,?,traditional,very high,easy,no
+16,Semi-rotary pump,cyclic,5m-10m,low-medium,low-medium,low-medium,?,?,industrial,?,?,yes
+17,Water ladder,cyclic,>2m,medium,medium,medium,?,?,traditional,?,?,no

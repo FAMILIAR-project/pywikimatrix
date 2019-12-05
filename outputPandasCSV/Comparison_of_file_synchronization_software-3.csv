@@ -1,0 +1,44 @@
+,Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+0,@MAX SyncUp,Windows,Limited,No,,Yes,Yes,Yes,,No,No,,Yes,,Yes,Yes
+1,Allway Sync,Windows,Limited,Yes,Yes,Yes,,Yes,Yes,No,No,Yes,Yes,,,Yes
+2,AIMstor (discontinued),Windows,Limited,Yes,,Yes,Yes,Yes,Yes through VSS,Yes,Yes,Yes,Yes,Casepreservingonly,,
+3,Argentum Backup,Windows,No,Yes,,,,No,Yes,,,,,Yes,,
+4,BackupAssist,Windows,No,,,No,,Yes,,,,,,,,
+5,Backup4all,Windows,Limited,Yes,Yes,No,,Yes,Yes,,,,Yes,,Yes,
+6,Beyond Compare,"Windows, OS X, Linux",Limited,Yes,No,Yes,,Yes,Yes,,,,Yes,,,
+7,Box Sync,"Windows,[24] OS X,[24] Android, BlackBerry, iOS[24]",Limited,,,Yes,?,?,Yes,?,?,?,Yes,?,,No
+8,ChronoSync,OS X,No,No,Yes,Yes,Yes,Yes (only with APFS),Yes,No,No,Yes,Yes,Yes,No,Yes
+9,Cloudike,"Windows, OS X, iPhone, Android",Yes,No,,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,
+10,CloudMe,"Windows, OS X, Linux, iPhone, Android, Google TV, Samsung TV",Yes,No,,Yes,?,?,No,Yes,No,?,?,Yes,?,No
+11,Cubby - Free (discontinued),"Windows, OS X",No,No,,Renames older and keeps both,No,,Yes,Yes,Yes,?,Yes,,No,No
+12,Cubby - Pro (discontinued),"Windows, OS X",No,No,,Renames older and keeps both,No,,Yes,Yes,Yes,?,Yes,,LAN Sync only,Yes
+13,Distributed Storage,"Windows, Linux",No,,,Yes,Yes,Yes,,,,,,,,
+14,Dmailer Sync (discontinued),Windows,Yes,,,,,,,,,,,,,
+15,Dropbox,"Windows, OS X, Linux, Android, iPhone, BlackBerry",Yes,No,,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+16,Easy2Sync for Files,Windows,Yes,,,Yes,,,Yes,"Yes, for folders",,,,,,
+17,Egnyte,"Windows, OS X, Linux, Android, iPad, iPhone",No,No,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Casepreservingonly,Yes,Yes
+18,Gladinet,"Windows, OS X, Android, iPad, iPhone, Windows RT, Blackberry",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+19,GoDrive,"Windows, Mac OS X, Linux, Android, iOS",Limited,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes
+20,GoodSync,"Windows, OS X, Android, iPad, iPhone, USB flash drive",Yes,Yes,"Yes, beta",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+21,GS RichCopy 360,Windows,Limited,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Enterpriseversiononly,Yes
+22,IBM Connections,"Windows, OS X, Android, iOS",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+23,MediaFire,"Windows, OS X, Android, iOS",Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+24,Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+25,Mega,"Windows, OS X, Linux, Android, iPhone, BlackBerry",Yes,,Yes,Yes,,,Yes,Yes,Yes,Yes,Yes,Yes,No[25],Yes
+26,RepliWeb,"Windows, Linux",No,,,Partial,,,Yes,Yes,Yes,Yes,Yes,Yes,,
+27,Resilio Sync (ex. BitTorrent Sync),"Windows, OS X, Linux, Android, iOS, Windows Phone, Amazon Kindle Fire, FreeBSD",Limited,No,"Yes, optional",No,No,No,Yes,Yes,Yes,Yes,Yes,,Yes,Yes
+28,Robocopy,Windows,Yes,No,,No,,,,,,,,,,
+29,SecureSafe,"Windows, OS X, Android, iOS",Yes,,,Yes,No,,No,No,No,No,Yes,Yes,No,No
+30,SpiderOak,"Windows, OS X, Debian, Fedora, Slackware, Android, iOS",No,,,No,,,Yes[26],No,,No,,,Yes[27],Yes
+31,ShareFile,"Windows, OS X, Android, iPhone",Yes,,Yes,,,,Yes[28],Yes,,Yes,,Yes,,Yes
+32,SugarSync,"Windows, OS X, Android, BlackBerry, iPhone, Windows Mobile",No,No,,Yes,,,Yes[29],Yes,Yes,,Yes,,,
+33,Syncdocs,"Windows, web app",Betaversionsonly,Yes,,Yes,No,Yes,Yes,Yes,Yes,Microsoft Word only[30],Yes,,,
+34,Synchronize It!,Windows,No,,,No,,,,,,,,,,
+35,Syncplicity,"Windows, OS X, Android, iPhone, Windows Mobile",Yes,,,Yes,,,Yes,,,Yes,Yes,,No[31],No
+36,Tonido,"Windows, OS X, Linux, Android, BlackBerry, iPhone, Windows Phone",Yes,Yes,,Yes,No,Yes,No,Yes,Yes,Yes,Yes,,,
+37,Tresorit,"Windows, OS X, Linux, Android, BlackBerry, iOS, Windows Phone",Limited,Yes,Yes,Yes,,"Yes, for Windows",Yes,,,,Yes,Yes,No,
+38,Ubuntu One (discontinued 2 April 2014),"Windows, OS X, Ubuntu, iOS, Android[32]",Yes,,,,,,,,,,,,,
+39,Wuala (discontinued),"Windows, OS X, Debian, Ubuntu, Android, iOS",Yes,,Yes,,,,,,,,,,,
+40,ZumoDrive (discontinued),"Windows, OS X, Linux, Android, iPhone, Palm webOS",Yes,,,Yes,,,Yes,,,,,,,
+41,Zetta.net,"Windows, OS X, Linux",No,,,Yes,,Yes,Yes,Yes,Yes,,Yes,"Yes, Preserve file name case & file metadata",Yes,Yes
+42,Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync

@@ -1,0 +1,19 @@
+,Desktop publishing software,PDF,EPS,SVG,TeX/LaTeX,HTML,Other
+0,CorelDRAW,Yes,Yes,Yes,No,Yes,"PSD, AI, SWF, WPD"
+1,Fatpaint,No,No,No,No,No,"JPG, PNG"
+2,Flare,Yes,No,No,No,Yes,"DOC, EPUB, HTML5"
+3,FrameMaker,Yes,Yes,No,No,Yes,"DOC, WPD"
+4,InDesign,Yes,Yes,No,No,Yes,"EPUB, SWF, XML, RTF"
+5,InPage,No,Yes,No,No,No,GIF
+6,iStudio Publisher,Yes,No,No,No,No,"EPUB, RTF"
+7,LyX,Yes,No,No,Yes,Yes,"PS, ODF"
+8,Microsoft Publisher,Yes,No,No,No,Yes,"JPG, PNG, TIFF"
+9,OpenOffice.org,Yes,Yes,Yes,No,Yes,RTF
+10,PageMaker*,with Distiller,Yes,No,No,No,No
+11,PagePlus,Yes,Yes,No,No,Yes,No
+12,Pages,Yes,No,No,No,Yes,"EPUB, RTF"
+13,QuarkXPress,Yes,Yes,No,No,Yes,"EPUB, Kindle, iOS, HTML5"
+14,Scribus,Yes,Yes,Yes,Yes,Yes,List
+15,The Print Shop,Yes,No,No,No,No,No
+16,Ventura*,Yes,Yes,No,No,No,"RTF, PSD, AI, WPD"
+17,Desktop publishing software,PDF,EPS,SVG,TeX/LaTeX,HTML,Other

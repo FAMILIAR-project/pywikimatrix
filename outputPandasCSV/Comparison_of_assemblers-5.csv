@@ -1,0 +1,3 @@
+,Assembler,License,Instruction set,Host platform
+0,IBM AIX assembler,Proprietary,POWER,IBM AIX
+1,vasm,Free,PowerPC,various

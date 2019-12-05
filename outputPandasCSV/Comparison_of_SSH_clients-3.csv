@@ -1,0 +1,16 @@
+,Name,User interface,SSH1,SSH2,Additional protocols,Additional protocols.1,Tunneling,Tunneling.1,Tunneling.2,Sessionmultiplexing[Note 1],Kerberos,IPv6,Terminal,SFTP/SCP,Proxy client[Note 2]
+0,Name,User interface,SSH1,SSH2,TELNET,rlogin,Portforwarding,SOCKS[Note 3],VPN[Note 4],Sessionmultiplexing[Note 1],Kerberos,IPv6,Terminal,SFTP/SCP,Proxy client[Note 2]
+1,AbsoluteTelnet,"GUI (multi-session,single-window)",Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"SOCKS 4, 5; HTTP"
+2,Dropbear,command line,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,?
+3,lsh,command line,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,?
+4,OpenSSH (OpenBSD Secure Shell),command line,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,ProxyCommand
+5,PuTTY,GUI or command line,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes[Note 5],Yes,Yes,Yes[Note 6],"SOCKS 4, 5; HTTP; Telnet; Local"
+6,SecureCRT,GUI,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"SOCKS 4, 5; HTTP; Telnet; Generic"
+7,SmartFTP,"GUI (multi-session,single-window)",No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,"SOCKS 4, 5; HTTP"
+8,Tera Term,GUI,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,SCP,"SOCKS 4, 5; HTTP; Telnet"
+9,TN3270 Plus,GUI,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,SOCKS 4
+10,TtyEmulator,GUI or command line,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,"SOCKS 4,4a, 5; HTTP Local"
+11,WinSCP [Note 7],GUI or command line,Yes,Yes,No,No,limited[Note 8],No,No,No,Yes,Yes,simple,Yes,"SOCKS 4, 5; HTTP; Telnet; Local"
+12,ZOC,TDI or command line,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,SCP through terminal[Note 9],SOCKS 4; 5; HTTP; Jumpserver
+13,Name,User interface,SSH1,SSH2,Additional protocols,Additional protocols,Tunneling,Tunneling,Tunneling,Sessionmultiplexing[Note 1],Kerberos,IPv6,Terminal,SFTP/SCP,Proxy client[Note 2]
+14,Name,User interface,SSH1,SSH2,TELNET,rlogin,Portforwarding,SOCKS[Note 3],VPN[Note 4],Sessionmultiplexing[Note 1],Kerberos,IPv6,Terminal,SFTP/SCP,Proxy client[Note 2]

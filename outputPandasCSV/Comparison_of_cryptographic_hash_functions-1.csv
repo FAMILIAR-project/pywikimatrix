@@ -1,0 +1,20 @@
+,Function,Year,Designer,Derived from,Reference
+0,BLAKE,2008,Jean-Philippe AumassonLuca HenzenWilli MeierRaphael C.-W. Phan,ChaCha20,WebsiteSpecification
+1,BLAKE2,2012,Jean-Philippe AumassonSamuel NevesZooko Wilcox-O'HearnChristian Winnerlein,BLAKE,"WebsiteSpecification.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:""\""""""\""""""'""""'""}.mw-parser-output .citation .cs1-lock-free a{background:url(""//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png"")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url(""//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png"")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url(""//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png"")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url(""//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png"")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}RFC 7693"
+2,GOST R 34.11-94,1994,FAPSI and VNIIstandart,GOST 28147-89,RFC 5831
+3,HAVAL,1992,Yuliang ZhengJosef PieprzykJennifer Seberry,,WebsiteSpecification
+4,KangarooTwelve,2016,Guido BertoniJoan DaemenMichaël PeetersGilles Van Assche,Keccak,WebsiteSpecification
+5,MD2,1989,Ronald Rivest,,RFC 1319
+6,MD4,1990,Ronald Rivest,,RFC 1320
+7,MD5,1992,Ronald Rivest,MD4,RFC 1321
+8,MD6,2008,Ronald Rivest,,WebsiteSpecification
+9,RIPEMD,1992,The RIPE Consortium[1],MD4,
+10,RIPEMD-128RIPEMD-256RIPEMD-160RIPEMD-320,1996,Hans DobbertinAntoon BosselaersBart Preneel,RIPEMD,WebsiteSpecification
+11,SHA-0,1993,NSA,,SHA-0
+12,SHA-1,1995,NSA,SHA-0,Specification
+13,SHA-256SHA-384SHA-512,2002,NSA,,Specification
+14,SHA-224,2004,NSA,,Specification
+15,SHA-3 (Keccak),2008,Guido BertoniJoan DaemenMichaël PeetersGilles Van Assche,RadioGatún,WebsiteSpecification
+16,Streebog,2012,"FSB, InfoTeCS JSC",,RFC 6986
+17,Tiger,1995,Ross AndersonEli Biham,,WebsiteSpecification
+18,Whirlpool,2004,Vincent RijmenPaulo Barreto,,Website

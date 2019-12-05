@@ -1,0 +1,25 @@
+,Name,MP3,FairPlay,ALAC,AAC,WMA-DRM,WMA Lossless,WMA,WAV,Audible,Ogg Vorbis,FLAC,Others
+0,Archos 105,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No
+1,Archos 405,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+2,Archos 5,Yes,No,No,No[90],Yes,No,Yes,Yes,No,Yes,Yes,AC3[90]
+3,Archos 605 WiFi / GPS,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+4,Archos 705 WiFi,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+5,Cowon A3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,"APE, MPC, PCM, TTA, WV"
+6,Cowon D2,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,APE
+7,Cowon Q5W,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,"APE, MPC"
+8,Gigabeat T-Series,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No
+9,GP2X F-200,Yes,No,No,No,No,No,No[91],No,No,Yes,No[92],"APE, MP2, MPC,[92] TTA, WV[93]"
+10,iPod,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,AIFF
+11,iriver clix 2G,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+12,PSP Slim & Lite,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,ATRAC
+13,Samsung Galaxy Player,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No
+14,Samsung T10,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+15,Samsung P2,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+16,Sansa Fuze,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Unknown
+17,Sansa Fuze+,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Unknown
+18,Walkman NWZ-A810 series,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No
+19,ZEN,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+20,ZEN Vision W,Yes,No,No,No,Yes,No[94],Yes,Yes,Yes,No,No,No
+21,Zune,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,WMA Pro Stereo
+22,ZVUE 260,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,MP2
+23,,MP3,AAC-DRM,ALAC,AAC,WMA-DRM,WMA Lossless,WMA,WAV,Audible,Ogg Vorbis,FLAC,Others

@@ -1,0 +1,20 @@
+,Format,Languages
+0,string1 & string2,"Ada, FreeBASIC, Seed7, BASIC, VB, VB .NET, COBOL (between literals only)"
+1,"strcat(string1, string2)","C, C++ (char * only)[8]"
+2,string1 . string2,"Perl, PHP"
+3,string1 + string2,"ALGOL 68, C++ (STL), C#, Cobra, FreeBASIC, Go, Pascal, Object Pascal (Delphi), Java, JavaScript, Windows PowerShell, Python, Ruby, Rust, F#, Swift, Turing, VB, Ya"
+4,string1 ~ string2,"D, Raku"
+5,(string-append string1 string2),"Scheme, ISLISP"
+6,(concatenate 'string string1 string2),Common Lisp
+7,(str string1 string2),Clojure
+8,string1 || string2,"Rexx, SQL, PL/I"
+9,string1 // string2,Fortran
+10,string1 ++ string2,"Erlang, Haskell"
+11,string1 ^ string2,"OCaml, Standard ML, F#"
+12,[string1 stringByAppendingString:string2],Objective-C (NSString * only)
+13,string1 .. string2,Lua
+14,"string1 , string2","Smalltalk, APL"
+15,string1 string2,SNOBOL
+16,string1string2,Bash shell
+17,string1 <> string2,Mathematica
+18,concat string1 string2,Tcl

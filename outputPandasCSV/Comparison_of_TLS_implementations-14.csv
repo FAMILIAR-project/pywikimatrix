@@ -1,0 +1,16 @@
+,Implementation,DEFLATE[172](insecure)
+0,Botan,No
+1,cryptlib,No
+2,GnuTLS,Disabled by default
+3,JSSE,No
+4,LibreSSL,No[42]
+5,MatrixSSL,Disabled by default
+6,mbed TLS,Disabled by default
+7,NSS,Disabled by default
+8,OpenSSL,Disabled by default
+9,RSA BSAFE[55],No
+10,SChannel,No
+11,Secure Transport,No
+12,wolfSSL,Disabled by default
+13,Erlang/OTP SSL application,No
+14,Implementation,DEFLATE

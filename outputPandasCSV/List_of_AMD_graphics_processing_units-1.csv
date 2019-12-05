@@ -1,0 +1,24 @@
+,Name of GPU series,R100,R200,R300,R400,R500,R600,RV670,R700,Evergreen,NorthernIslands,SouthernIslands,SeaIslands,VolcanicIslands,ArcticIslands/Polaris,Vega,Navi
+0,Released,Apr 2000,Aug 2001,Sep 2002,May 2004,Oct 2005,May 2007,Nov 2007,Jun 2008,Sep 2009,Oct 2010,Jan 2012,Sep 2013,Jun 2015,Jun 2016,Jun 2017,Jul 2019
+1,Marketing Name,Radeon 7000,Radeon 8000,Radeon 9000,Radeon X700/X800,Radeon X1000,RadeonHD 1000/2000,RadeonHD 3000,RadeonHD 4000,RadeonHD 5000,RadeonHD 6000,RadeonHD 7000,Radeon R200,Radeon R300,RadeonRX 400/500,RX Vega/VII(7nm),RX5000 Series
+2,AMD support,,,,,,,,,,,,,,,,
+3,Instruction set,Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],TeraScale instruction set,TeraScale instruction set,TeraScale instruction set,TeraScale instruction set,TeraScale instruction set,GCN instruction set,GCN instruction set,GCN instruction set,GCN instruction set,GCN instruction set,RDNA instruction set
+4,Microarchitecture,Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],Not publicly known[citation needed],TeraScale 1,TeraScale 1,TeraScale 1,TeraScale 2 (VLIW5),TeraScale 3 (VLIW4),GCN 1st gen,GCN 2nd gen,GCN 3rd gen,GCN 4th gen,GCN 5th gen,RDNA
+5,Type,Fixed pipeline[a],Programmable pixel & vertex pipelines,Programmable pixel & vertex pipelines,Programmable pixel & vertex pipelines,Programmable pixel & vertex pipelines,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model,Unified shader model
+6,Direct3D,7.0,8.1,9.011 (9_2),9.0b11 (9_2),9.0c11 (9_3),10.011 (10_0),10.111 (10_1),10.111 (10_1),11 (11_0),11 (11_0),11 (11_1)12 (11_1),11 (12_0)12 (12_0),11 (12_0)12 (12_0),11 (12_0)12 (12_0),11 (12_1)12 (12_1),11 (12_1)12 (12_1)
+7,Shader model,,1.4,2.0+,2.0b,3.0,4.0,4.1,4.1,5.0,5.0,5.1,5.16.3,5.16.3,5.16.3,6.4,6.4
+8,OpenGL,1.3,1.3,2.0[b],2.0[b],2.0[b],3.3,3.3,3.3,4.4[c],4.4[c],4.6 (on Linux: 4.5+),4.6 (on Linux: 4.5+),4.6 (on Linux: 4.5+),4.6 (on Linux: 4.5+),4.6 (on Linux: 4.5+),4.6 (on Linux: 4.5+)
+9,Vulkan,,,,,,,,,,,1.0 (Win 7+ or Mesa 17+,1.1,1.1,1.1,1.1,1.1
+10,OpenCL,,,,,,Close to Metal,Close to Metal,1.1,1.2,1.2,1.2,"2.0 (Adrenalin driver on Win7+), 1.2 (on Linux, 2.0 and 2.1 WIP mostly in Linux ROCm)","2.0 (Adrenalin driver on Win7+), 1.2 (on Linux, 2.0 and 2.1 WIP mostly in Linux ROCm)","2.0 (Adrenalin driver on Win7+), 1.2 (on Linux, 2.0 and 2.1 WIP mostly in Linux ROCm)","2.0 (Adrenalin driver on Win7+), 1.2 (on Linux, 2.0 and 2.1 WIP mostly in Linux ROCm)",?
+11,HSA,,,,,,,,,,,,,,,,?
+12,Video decoding ASIC,,,,,,Avivo/UVD,UVD+,UVD 2,UVD 2.2,UVD 3,UVD 4,UVD 4.2,UVD 5.0 or 6.0,UVD 6.3,UVD 7[1][d],VCN 1.0[1][d]
+13,Video encoding ASIC,,,,,,,,,,,VCE 1.0,VCE 2.0,VCE 3.0 or 3.1,VCE 3.4,VCE 4.0[1][d],VCN 1.0[1][d]
+14,Power saving,?,?,?,?,?,PowerPlay,PowerPlay,PowerPlay,PowerPlay,PowerTune,PowerTune & ZeroCore Power,PowerTune & ZeroCore Power,PowerTune & ZeroCore Power,PowerTune & ZeroCore Power,PowerTune & ZeroCore Power,?
+15,TrueAudio,,,,,,,,,,,,Via dedicated DSP,Via dedicated DSP,Via shaders,Via shaders,?
+16,FreeSync,,,,,,,,,,,,12,12,12,12,12
+17,HDCP[e],?,?,?,?,?,?,?,?,?,?,?,1.4,1.4,1.42.2,1.42.2,?
+18,PlayReady[e],,,,,,,,,,,,,,3.0,,3.0
+19,Supported displays[f],1–2,2,2,2,2,2,2,2,2–6,2–6,2–6,2–6,2–6,2–6,2–6,?
+20,Max. resolution,?,?,?,?,?,?,?,?,2–6 × 2560×1600,2–6 × 2560×1600,2–6 × 4096×2160 @ 60 Hz,2–6 × 4096×2160 @ 60 Hz,2–6 × 4096×2160 @ 60 Hz,2–6 × 5120×2880 @ 60 Hz,3 × 7680×4320 @ 60 Hz[2],?
+21,/drm/radeon[g],,,,,,,,,,,,,,,,
+22,/drm/amdgpu[g],,,,,,,,,,,Experimental[3],Experimental[3],,,,

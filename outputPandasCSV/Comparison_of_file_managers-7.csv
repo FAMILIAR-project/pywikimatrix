@@ -1,0 +1,34 @@
+,File manager,File Name [D 1],File Contents [D 2],Basic metadata search [D 3],All metadata search [D 4],RegExp for Contents,Boolean (nesting levels),Fuzzy logic [D 5],Save searches [D 6],Refined searches [D 7]
+0,Altap Salamander,Yes,?,Yes,?,Yes[s 1],Yes,?,Yes,Yes
+1,Commander One,Yes,Yes,Yes[s 2],Yes[s 2],Yes,Yes,?,No,No
+2,CRAX Commander,Yes,Yes,Yes[s 2],?,Yes,Yes,?,No,No
+3,Directory Opus,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,Dired,Yes,?,No,No,Yes,Yes,Yes,No,No
+5,Documents by Readdle,,,,,,,,,
+6,Dolphin,Yes,?,Yes,Yes,Yes,Yes,?,?,Yes
+7,Double Commander,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?
+8,emelFM2,Yes,?,Yes,Yes,?,?,?,Partial,?
+9,FAR Manager,Yes,?,Yes,Yes,Yes[s 3],Yes[s 3],Yes[s 3],Yes,Yes
+10,File Commander,Yes,No,Yes,No,No,Yes,No,Yes,No
+11,Files (Apple),,,,,,,,,
+12,Files by Google,,,,,,,,,
+13,Finder,Yes,?,Yes,Yes,No,?,?,Yes,?
+14,ForkLift,Yes,Partial,Yes,Yes,Yes,Yes,?,No,No
+15,Konqueror,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+16,Krusader,Yes,?,Yes,Yes,Yes[92],No,No,Yes,Yes
+17,GNOME Files (Nautilus),Yes,?,Partial [s 4],Partial [s 4],?,?,?,Yes,?
+18,Nemo,?,?,?,?,?,?,?,?,?
+19,Nomad.NET,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+20,Path Finder,Yes,?,Yes,Yes,No,No,?,No,No
+21,PCManFM,Yes,?,Yes,No,Yes,No,No,No,No
+22,ROX-Filer,Yes,?,Yes,Yes,Yes,Yes,?,No,?
+23,Total Commander,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Partial [s 5]
+24,Windows Explorer,Yes,No,Yes,No,No,?,?,Yes,Yes
+25,Xandros File Manager,?,?,?,?,?,?,?,?,?
+26,Xfe,Yes,Yes[s 6],Yes,No,No,No,No,No,No
+27,Xfile,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes
+28,Xfm,?,?,?,?,?,?,?,?,?
+29,xplorer²,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+30,XYplorer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[s 7]
+31,ZTreeWin,Yes,Yes,Yes,Partial,Partial [s 8],Yes,Yes,Yes,Yes
+32,File manager,File Name [D 1],File Contents [D 2],Basic metadata search [D 3],All metadata search [D 4],RegExp for Contents,Boolean (nesting levels),Fuzzy logic [D 5],Save searches [D 6],Refined searches [D 7]

@@ -1,0 +1,24 @@
+,Driver,802.11,Bus interface,WEP,WPA,WPA2,Monitor mode,Master mode,Ad-Hoc mode
+0,acx,"802.11a?, 802.11b, 802.11g","Cardbus, PCI",Yes,?,?,?,?,Yes
+1,an,802.11b,"Cardbus, PCI, ISA",Yes,?,?,?,?,Yes
+2,arl,,ISA,?,?,?,?,?,?
+3,ath,"802.11a, 802.11b, 802.11g, 802.11n","Cardbus, PCI, Mini PCI",Yes,Yes,Yes,Yes,Yes,Yes
+4,awi,,PC Card,?,?,?,?,Yes,Yes
+5,bwi,"802.11b, 802.11g","Cardbus, PCI",Yes,Yes,Yes,Yes,No,No
+6,cnw,,Cardbus,?,?,?,?,?,?
+7,ipw,802.11b,Mini PCI,Yes,Yes,Yes,Yes,No,Yes
+8,iwi,"802.11a, 802.11b, 802.11g",Mini PCI,Yes,Yes,Yes,Yes,No,Yes
+9,iwn,"802.11a, 802.11b, 802.11g, 802.11n",Mini PCI,Yes,Yes,Yes,Yes,No,No
+10,malo,"802.11b, 802.11g",PCI,Yes,Yes,Yes,Yes,No,No
+11,mwl,"802.11a, 802.11b, 802.11g, 802.11n",PCI,Yes,Yes,Yes,Yes,Yes,No
+12,ral,"802.11a, 802.11b, 802.11g","Cardbus, PCI, Mini PCI",Yes,Yes,Yes,Yes,Yes,Yes
+13,ray,,PC Card,?,?,?,No,No,Yes
+14,rum,"802.11a, 802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,Yes,Yes
+15,run,"802.11a, 802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,Yes,Yes
+16,uath,"802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,No,No
+17,upgt,"802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,No,No
+18,ural,"802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,Yes,Yes
+19,urtw,"802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,No,No
+20,wi,802.11b,"PC Card, Cardbus, PCI",Yes,Yes (since 8.0),Yes (since 8.0),Yes (since 8.0?),Yes,Yes
+21,wpi,"802.11a, 802.11b, 802.11g",Mini PCI,Yes,Yes,Yes,Yes,No,Yes
+22,zyd,"802.11b, 802.11g",USB,Yes,Yes,Yes,Yes,No,No

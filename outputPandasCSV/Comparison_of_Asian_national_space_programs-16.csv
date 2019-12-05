@@ -1,0 +1,4 @@
+,Country,Spacecraft,Power,Thrust,Specific impulse,Year launched
+0,Japan,"Hayabusa (μ-10, microwave ion thrusters)",350 W,8 mN,3200s,2003
+1,China,"Shijian 9A (LIPS-200, ring-cusp magnetic field ion thruster)",1 kW,40 mN,3000s,2012
+2,India,GSAT-9 (Xenon based ion thruster),3.5 kW,72 mN,,2017

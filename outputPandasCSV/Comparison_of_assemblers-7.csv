@@ -1,0 +1,9 @@
+,Assembler,Operating system,Open source,License,Development active
+0,FASM,"Windows, DOS, Unix-like",Yes,BSD,Yes
+1,GAS,"Unix-like, Windows, DOS, OS/2",Yes,GNU GPL,Yes
+2,MASM,"Windows, DOS, OS/2",No,Commercial,Yes
+3,NASM,"Windows, Linux, macOS, DOS, OS/2",Yes,BSD,Yes
+4,Open Watcom Assembler,"Windows, DOS, Linux, FreeBSD, OS/2",Yes,Sybase Open Watcom Public,Yes
+5,POASM,"Windows, Windows Mobile",No,Freeware,Yes
+6,TCCASM,"Unix-like, Windows",Yes,GNU LGPL,Yes
+7,Yasm,"Windows, DOS, Unix-like",Yes,BSD,No

@@ -1,0 +1,19 @@
+,Unnamed: 0,Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+0,AbiWord,2.4.2,"Windows, Mac OS X, Linux, Unix-based systems",,AbiSource,GPL,Yes,Only supports basic ODT documents. Complex ones created in OpenOffice are likely to be broken in AbiWord.
+1,Calligra Words,2.4+,"Windows, Mac OS X, Linux, Unix-based systems",Calligra Suite,KDE Project,GPL / LGPL,Yes,
+2,Google Docs & Spreadsheets,2006,Any (Web-based),Standalone or Google Apps,Google,Proprietary,Yes,
+3,IBM Lotus Symphony,1.0+,"Windows, Linux, Mac OS X",IBM Lotus Symphony,IBM,Proprietary,Yes,Based upon OpenOffice.org.
+4,IBM Workplace Documents,2.5+,Any (Web-based),IBM Workplace Collaboration Services,IBM,Proprietary,Yes,no longer being actively marketed
+5,KWord,1.4+,"Linux, Unix-based systems",KOffice,KDE Project,LGPL,Yes,
+6,LibreOffice Writer,4.0.3,"Windows, Linux, Unix-based systems, Mac OS X, Solaris",LibreOffice,LibreOffice,LGPL,Yes,Multiple ODF versions supported (ISO/ODF 1.0/1.1/1.2/1.2 Extended )
+7,Microsoft Office Word,2007 SP2,Windows,Microsoft Office,Microsoft,Proprietary,Yes,some limitations[3]
+8,NeoOffice Writer,2.1,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,no (not valid),
+9,OpenOffice.org Writer,3.0.0,"Windows, Linux, Unix-based systems, Mac OS X, Solaris",OpenOffice.org,OpenOffice.org,LGPL,Yes,adjustable ODF version (ISO/ODF 1.2)
+10,OpenOffice.org Writer,2.4.1,"Windows, Linux, Unix-based systems, Mac OS X, Solaris",OpenOffice.org,OpenOffice.org,LGPL,Yes,
+11,OpenOffice.org Writer,1.1.5,"Windows, Linux, Unix-based systems, Mac OS X",OpenOffice.org,OpenOffice.org,LGPL / SISSL,,Import only
+12,StarOffice Writer,8,"Windows, Linux, Solaris",StarOffice,Sun Microsystems,Proprietary,Yes,
+13,TextMaker,2006 and higher,"Windows, Linux, FreeBSD, Pocket PC, Windows CE",SoftMaker Office,SoftMaker,Proprietary,Yes,TextMaker 2006 - not valid files;TextMaker 2010 - valid
+14,TextEdit,1.5 and higher,Mac OS X,Standalone,Apple Inc.,Bundled with Mac OS X/Source code available,Yes,
+15,WordPerfect,X4 (2008),Windows,Corel WordPerfect Office X4,Corel,Proprietary,,Import only
+16,Zoho Writer,2006,Any (Web-based),Standalone,AdventNet,Proprietary,Yes,
+17,,Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes

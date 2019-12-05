@@ -1,0 +1,26 @@
+,Example usage,Languages
+0,String.Trim([chars]),"C#, VB.NET, Windows PowerShell"
+1,string.strip();,D
+2,(.trim string),Clojure
+3,sequence [ predicate? ] trim,Factor
+4,(string-trim '(#\Space #\Tab #\Newline) string),Common Lisp
+5,(string-trim string),Scheme
+6,string.trim(),"Java, JavaScript (1.8.1+, Firefox 3.5+)"
+7,Trim(String),"Pascal,[33] QBasic, Visual Basic, Delphi"
+8,string.strip(),Python
+9,"strings.Trim(string, chars)",Go
+10,LTRIM(RTRIM(String)),"Oracle SQL, T-SQL"
+11,"strip(string [,option, char])",REXX
+12,"string:strip(string [,option, char])",Erlang
+13,string.strip or string.lstrip or string.rstrip,Ruby
+14,string =~ s/^\s+//r =~ s/\s+$//r,Perl 5
+15,string.trim,Raku
+16,trim(string),"PHP, Raku"
+17,[string stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]],Objective-C using Cocoa
+18,string withBlanksTrimmedstring withoutSpacesstring withoutSeparators,"Smalltalk (Squeak, Pharo)Smalltalk"
+19,strip(string),SAS
+20,string trim $string,Tcl
+21,TRIM(string) or TRIM(ADJUSTL(string)),Fortran
+22,TRIM(string),SQL
+23,TRIM(string) or LTrim(string) or RTrim(String),ColdFusion
+24,String.trim string,OCaml 4+

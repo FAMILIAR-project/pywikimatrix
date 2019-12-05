@@ -1,0 +1,30 @@
+,Software,ArXiv,CiteSeer,IEEE Xplore,PubMed,Other
+0,Bebop,No,No,No,No,No
+1,BibBase,No,No,No,No,"DBLP, Zotero, BibSonomy, Mendeley"
+2,BibDesk,Yes,Yes,No,Yes,"ACM portal, Jstor, DBLP, Google Scholar, Web of Science, any Z39.50 or Entrez, and others"
+3,Biblioscape,No,No,No,Yes,Import from integrated web browser
+4,BibSonomy,Yes,Yes,Yes,Yes,various[38]
+5,Bibus,No,No,No,Yes,none
+6,Bookends,Yes,No,No,Yes,"Web of Science, Amazon, Google Scholar, Z39.50"
+7,Citavi,Yes,Yes,Yes,Yes,"WorldCat/OCLC, Ovid, EBSCO, ProQuest, Web of Science, Z39.50 (4500+ online resources), SRU. Further catalogs are added upon request. Browser plugins (Firefox, Chrome, Internet Explorer) support DOI lookup, ISBN lookup, PubMed ID lookup, PMCID lookup, arXiv ID lookup, COinS and import from Wikipedia."
+8,CiteULike,Yes,Yes,Yes,Yes,various [4]
+9,colwiz,Yes,Yes,Yes,Yes,"Over 30 repositories, Import from integrated web browser"
+10,EndNote,Yes,No,Yes,Yes,various[39] any Z39.50
+11,F1000Workspace,Yes,Yes,Yes,Yes,"Google scholar, Google Books, Amazon, Web of Science/Web of Knowledge, WorldCat/OCLC, Science Direct, JSTOR, Highwire, PMC Europe, ACMDigitalLibrary, Scopus, Wiley, NIHLibrary, voyager, PrimoLibweb, PubMedID/DOI/ISBN lookup and the majority of journal websites."
+12,JabRef,Yes,Yes,Yes,Yes,"ACM Portal, CrossRef, DBLP, DOAJ, DOI, GVK, Google Scholar, INSPIRE-HEP, Medline, MathSciNet, SAO/NASA Astrophysics Data System, Springer, and zbMATH"
+13,KBibTeX,Yes,Yes,Yes,Yes,"BibSonomy, CiteBase, CSB, DBLP, Google Scholar, ScienceDirect, INSPIRE-HEP, Z MATH, Z39.50"
+14,Mendeley,Yes,Yes,Yes,Yes,various [5]
+15,Paperpile,Yes,No,No,Yes,Google Scholar
+16,Pybliographer,No,No,No,Yes,none
+17,Qiqqa,Yes,No,Yes,Yes,"GoogleScholar, JSTOR"
+18,ReadCube (now Papers),Yes,No,Yes,Yes,"Microsoft Academic, Google Scholar"
+19,refbase,Yes,No,No,Yes,DOI lookup
+20,RefDB,Yes,No,No,Yes,any Z39.50
+21,Reference Manager,No,No,No,Yes,various[40]
+22,Referencer,?,?,?,?,?
+23,RefWorks,No,No,No,Yes,various
+24,SciRef,No,No,No,No,No
+25,Sente,Yes,Yes,Yes,Yes,"Z39.50, SRU, Web of Knowledge"
+26,Wikindx,No,No,No,Yes,via plug-ins
+27,WizFolio,Yes,No,Yes,Yes,various[41]
+28,Zotero,Yes,Yes,Yes,Yes,various[42]

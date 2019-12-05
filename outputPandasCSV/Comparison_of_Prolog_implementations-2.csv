@@ -1,0 +1,13 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Web-related,Web-related.1,Web-related.2,Web-related.3
+0,Name,Conditional compilation,Sockets,Multi-threading,Tabling,HTTP client,HTTP server,HTML Parser,RDF Triple store
+1,BProlog,,,,Yes,,,,
+2,Ciao,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+3,ECLiPSe,Yes,Yes,Yes,,Yes,,Yes,
+4,GNU Prolog,,Yes,,,,,,
+5,Jekejeke Prolog,,Yes,Yes,,Yes,Yes,Yes,
+6,LPA-Prolog,,Yes,,,Yes,Yes,Yes,
+7,SICStus Prolog,Yes,Yes,Yes,,,,,
+8,SWI-Prolog,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Visual Prolog,Yes,Yes,Yes,,Yes,Yes,Yes,
+10,XSB,Yes,Yes,Yes,Yes,Yes,,,
+11,YAP-Prolog,Yes,Yes,Yes,Yes,,,,

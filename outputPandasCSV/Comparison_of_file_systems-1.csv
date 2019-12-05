@@ -1,0 +1,102 @@
+,File system,Creator,Year of introduction,Original operating system
+0,DECtape,DEC,1964,PDP-6 Monitor
+1,OS/3x0 FS,IBM,1964,OS/360
+2,Level-D,DEC,1968,TOPS-10
+3,George 3,ICT (later ICL),1968,George 3
+4,Version 6 Unix file system (V6FS),Bell Labs,1972,Version 6 Unix
+5,RT-11 file system,DEC,1973,RT-11
+6,Disk Operating System (GEC DOS),GEC,1973,Core Operating System
+7,CP/M file system,Digital Research (Gary Kildall),1974,CP/M[1][2]
+8,ODS-1,DEC,1975,RSX-11
+9,GEC DOS filing system extended,GEC,1977,OS4000
+10,FAT (8-bit),Microsoft (Marc McDonald) for NCR,1977,Microsoft Standalone Disk BASIC-80 (later Microsoft Standalone Disk BASIC-86)
+11,DOS 3.x,Apple,1978,Apple DOS
+12,UCSD p-System,UCSD,1978,UCSD p-System
+13,CBM DOS,Commodore,1978,Commodore BASIC
+14,Version 7 Unix file system (V7FS),Bell Labs,1979,Version 7 Unix
+15,ODS-2,DEC,1979,OpenVMS
+16,FAT12,Seattle Computer Products (Tim Paterson),1980,QDOS/86-DOS (later IBM PC DOS 1.0)
+17,ProDOS,Apple,1980,Apple SOS (later ProDOS 8)
+18,DFS,Acorn Computers Ltd,1982,Acorn BBC Micro MOS
+19,ADFS,Acorn Computers Ltd,1983,Acorn Electron (later Arthur/RISC OS)
+20,FFS,Kirk McKusick,1983,4.2BSD
+21,FAT16,"IBM, Microsoft",1984,"PC DOS 3.0, MS-DOS 3.0"
+22,MFS,Apple,1984,System 1
+23,Elektronika BK tape format,"NPO ""Scientific centre"" (now Sitronics)",1985,"Vilnius Basic, BK monitor program"
+24,HFS,Apple,1985,System 2.1
+25,Amiga OFS[1],Metacomco for Commodore,1985,Amiga OS
+26,GEMDOS,Digital Research,1985,Atari TOS
+27,NWFS,Novell,1985,NetWare 286
+28,High Sierra,Ecma International,1986,MSCDEX for MS-DOS 3.1/3.2[3]
+29,FAT16B,Compaq,1987,Compaq MS-DOS 3.31
+30,Minix V1 FS,Andrew S. Tanenbaum,1987,MINIX 1.0
+31,Amiga FFS,Commodore,1988,Amiga OS 1.3
+32,ISO 9660:1988,"Ecma International, ISO",1988,"MS-DOS, ""classic"" Mac OS, and AmigaOS"
+33,HPFS,IBM & Microsoft,1989,OS/2 1.2
+34,Rock Ridge,IEEE,c. 1990,Unix
+35,JFS1,IBM,1990,AIX[a]
+36,VxFS,VERITAS,1991,SVR4.0
+37,ext,Rémy Card,1992,Linux
+38,AdvFS,DEC,1993[4],Digital Unix
+39,NTFS,"Microsoft (Gary Kimura, Tom Miller)",1993,Windows NT 3.1
+40,LFS,Margo Seltzer,1993,Berkeley Sprite
+41,ext2,Rémy Card,1993,"Linux, Hurd"
+42,Xiafs,Q. Frank Xia,1993,Linux
+43,UFS1,Kirk McKusick,1994,4.4BSD
+44,XFS,SGI,1994,IRIX
+45,HFS,IBM,1994,MVS/ESA (now z/OS)
+46,FAT16X,Microsoft,1995,MS-DOS 7.0 / Windows 95
+47,"Joliet (""CDFS"")",Microsoft,1995,"Microsoft Windows, Linux, ""classic"" Mac OS, and FreeBSD"
+48,UDF,ISO/ECMA/OSTA,1995,
+49,"FAT32, FAT32X",Microsoft,1996,MS-DOS 7.10 / Windows 95 OSR2[b]
+50,QFS,Sun Microsystems,1996,Solaris
+51,GPFS,IBM,1996,"AIX, Linux"
+52,Be File System,"Be Inc. (D. Giampaolo, Cyril Meurillon)",1996,BeOS
+53,Minix V2 FS,Andrew S. Tanenbaum,1997,MINIX 2.0
+54,HFS Plus,Apple,1998,Mac OS 8.1
+55,NSS,Novell,1998,NetWare 5
+56,PolyServe File System (PSFS),PolyServe,1998,"Windows, Linux"
+57,ODS-5,DEC,1998,OpenVMS 7.2
+58,WAFL,NetApp,1998,Data ONTAP
+59,ext3,Stephen Tweedie,1999,Linux
+60,ISO 9660:1999,"Ecma International, ISO",1999,"Microsoft Windows, Linux, ""classic"" Mac OS, FreeBSD, and AmigaOS"
+61,JFS,IBM,1999,OS/2 Warp Server for e-business
+62,GFS,Sistina (Red Hat),2000,Linux
+63,ReiserFS,Namesys,2001,Linux
+64,zFS,IBM,2001,z/OS (backported to OS/390)
+65,FATX,Microsoft,2002,Xbox
+66,UFS2,Kirk McKusick,2002,FreeBSD 5.0
+67,OCFS,Oracle Corporation,2002,Linux
+68,SquashFS,"Phillip Lougher, Robert Lougher",2002,Linux
+69,VMFS2,VMware,2002,VMware ESX Server 2.0
+70,Lustre,Cluster File Systems[5],2002,Linux
+71,Fossil,Bell Labs,2003,Plan 9 version 4
+72,Google File System,Google,2003,Linux
+73,ZFS,Sun Microsystems,2004,Solaris
+74,Reiser4,Namesys,2004,Linux
+75,Non-Volatile File System,"Palm, Inc.",2004,Palm OS Garnet
+76,BeeGFS,Fraunhofer/ ThinkParQ,2005,"Linux, Windows via Samba"
+77,GlusterFS,Gluster Inc.,2005,Linux
+78,Minix V3 FS,Andrew S. Tanenbaum,2005,MINIX 3
+79,OCFS2,Oracle Corporation,2005,Linux
+80,NILFS,NTT,2005,Linux
+81,VMFS3,VMware,2005,VMware ESX Server 3.0
+82,GFS2,Red Hat,2006,Linux
+83,ext4,various,2006,Linux
+84,exFAT,Microsoft,2006,Windows CE 6.0
+85,Btrfs,Oracle Corporation,2007,Linux
+86,JXFS,Hyperion Entertainment,2008,AmigaOS 4.1
+87,HAMMER,Matthew Dillon,2008,DragonFly BSD 2.0
+88,LSFS,StarWind Software,2009,"Linux, FreeBSD, Windows"
+89,UniFS,Nasuni,2009,Cloud
+90,CASL,Nimble Storage,2010,Linux
+91,OrangeFS,Omnibond and others,2011,Linux
+92,VMFS5,VMware,2011,vSphere 5.0+
+93,CHFS,University of Szeged,2011,NetBSD 6.0+
+94,ReFS,Microsoft,2012,Windows Server 2012
+95,F2FS,Samsung Electronics,2012,Linux
+96,bcachefs,Kent Overstreet,2015,Linux
+97,APFS,Apple,2016,"macOS High Sierra, iOS 10.3"
+98,NOVA,"UC, San Diego",2017,Linux
+99,HAMMER2,Matthew Dillon[6],2017,DragonFly BSD 5.0
+100,EROFS,Huawei[7],2018,Android

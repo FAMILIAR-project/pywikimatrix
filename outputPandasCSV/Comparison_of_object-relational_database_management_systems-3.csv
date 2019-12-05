@@ -1,0 +1,6 @@
+,Unnamed: 0,Array,List,Set,Multiset,Object reference
+0,CUBRID,Yes,Yes,Yes,Yes,Yes
+1,Oracle,Yes,Yes,Yes,Yes,Yes
+2,OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes
+3,PostgreSQL,Yes,Yes,Yes,Yes,Yes
+4,Informix,No,Yes,Yes,Yes,Yes

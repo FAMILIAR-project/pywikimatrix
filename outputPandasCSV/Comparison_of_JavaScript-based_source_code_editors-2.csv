@@ -1,0 +1,25 @@
+,Feature,Ace,CodeMirror,Orion,CodePress,CodeTextArea,EditArea,Helene,markItUp!,MDK-Editor
+0,Implementation,,nestable full parsers,pattern-based parser,pattern-based parser,,,,,parsers
+1,Syntax highlight,Over 110 languages,Over 130 languages,"mixed mode: HTML + JavaScript and CSS, PHP, EJS; single mode: JavaScript, Java, JSON, CSS, Python, Ruby, XML, YAML (pluggable)","limited mixed mode: HTML + JavaScript (no CSS), PHP + HTML (no JavaScript or CSS), Java, Perl, SQL",only keywords,"only one language at a time: Perl, PHP, CSS, Javascript, Python, HTML, XML, VB, C, CPP, SQL, Pascal, Basic, Brainf*ck",PHP,No,"mixed mode: PHP + HTML + JavaScript + CSS, single-mode: PHP, Javascript, CSS, XML; extensible"
+2,Syntax checking,"HTML, CSS, JavaScript (using JSHint)",Some,JavaScript (using JSLint),No,,,No,,"HTML, JavaScript (using JSLint)"
+3,Tab support,Yes,Yes,Yes,Some,,Yes,,,Yes
+4,"Indent, new line keeps level",optional setting that is on by default,Yes,Yes,very limited,No,Yes,N/A (can't press Enter),No,Yes
+5,"Indent, syntax",Yes,Yes,Yes,,,No,,,No
+6,"Indent, selected block","yes, including Shift+Tab","either automatically, or block-level indent/unindent","yes, including Shift+Tab",No,,"yes, including Shift+Tab",,,"yes, including Shift+Tab and using context menu"
+7,Bracket matching,Yes,Yes,Yes,an implementation exists with mouse-hover bracket matching[citation needed],Ctrl+B; no angle bracket matching,,,No,matching bracket ([{<>}]) always highlighted
+8,XML matching tag highlight,Yes,Yes,No,No,,,,,Yes
+9,Code folding,Yes,Yes[5],Some[6],No,No,No,No,No,No
+10,Code snippets,Yes,through API/add-on,Some,type 'for' or 'if' then Tab,No,Yes,No,Yes,JavaScript
+11,Code suggestion,Yes,example,Yes through esprima content assist plugin,No,,yes[citation needed],,No,"CSS, HTML, JavaScript)"
+12,Toggle syntax highlight on/off,Yes,Yes,No,,,last example in demo,,,textmode
+13,Keyboard shortcuts,All Common Shortcuts & Custom Keybindings,fully configurable,Yes,,,"some common used: Ctrl+f, Ctrl+g,Ctrl+z,Ctrl+y",,Yes,All key combos (except F1 in IE7) can be bound to shortcuts
+14,Line numbers,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,supports mouse selection
+15,Search & replace,regex supported,via API,Yes,,No,toolbar button,,,has API for the studio
+16,Spell checking,addon for context menu,No,No,browser-based,none,browser-based,none,browser-based,No
+17,Toolbar,But command line console,No,No,,No,Yes,No,Yes,No
+18,Visual styling,Fully theme-able,CSS-based themes,Yes,,font-type and font-size,,,,"5 styles to choose from, having 2 font-sizes"
+19,Undo/Redo,Yes,Yes,Yes,Yes,,Yes,,,Differential Undo
+20,Multiple cursors / Block selection,Multiple cursors,Yes,Yes,No,No,No,No,No,No
+21,IndentGuides,Yes,No,No,No,No,No,No,No,No
+22,Inline widgets,Yes,Yes,No,No,No,No,No,No,No
+23,Non US charset support,Yes,Yes,Yes,,,,,,No

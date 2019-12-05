@@ -1,0 +1,18 @@
+,Unnamed: 0,Precondition,Postcondition,Check,Invariant,Loop
+0,ABAP Objects,,,,,
+1,C++ (STL),,,,,
+2,C#,Spec#: type foo( «parameters» ) requires expression { body },Spec#: type foo( «parameters» ) ensures expression { body },,,
+3,Java,,,,,
+4,Objective-C,,,,,
+5,Visual Basic .NET,,,,,
+6,D,f in { asserts } body{ instructions },f out (result) { asserts } body{ instructions },assert(expression),invariant() { expression },
+7,Eiffel,f require tag: expression do end,f do ensure tag: expression end,f do check tag: expression end end,class X invariant tag: expression end,from instructions invariant tag: expression until expr loop instructions variant tag: expression end
+8,Python,,,,,
+9,PHP,,,,,
+10,Perl,,,,,
+11,Raku,PRE { condition },POST { condition },,,
+12,Ruby,,,,,
+13,Windows PowerShell,,,,,
+14,OCaml,,,,,
+15,F#,,,,,
+16,COBOL,,,,,

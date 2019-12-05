@@ -1,0 +1,30 @@
+,Name,"x86, i386, IA-32",x86 SMP,Xen,IA-64,x86-64,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PA-RISC,OpenRISC,others,hosted mode
+0,Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"FR-V, Cell, ETRAX CRIS, M32R, Xtensa, h8, s390, SuperH","UML, coLinux, MkLinux, Itanium Linux-on-Linux, wombat"
+1,FreeBSD[1],Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,PC98,
+2,OpenBSD[2],Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,SuperH ],
+3,NetBSD[3],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"SuperH, ns32k, VAX, hppa, M68010, mipseb, mipsel, sh3eb, sh3el, sparc64",
+4,DragonFly BSD[4],No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,vkernel
+5,OpenSolaris[5] illumos,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,,
+6,AuroraUX[5],Yes,Yes,Yes,No,Yes,Yes[Note 1],No,Yes,Yes,No,Yes[Note 1],Yes,No,No,No,No,,
+7,"Darwin, OpenDarwin[6]",Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,,L4/Darwin
+8,MINIX[7],Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,
+9,FreeDOS,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,
+10,Genode,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,RISC-V,Linux
+11,Haiku,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No[Note 1][8],No,No,No,No,,
+12,KolibriOS,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,
+13,MenuetOS,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,
+14,GNU,Yes,Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],Yes[Note 2],"FR-V, Cell, ETRAX CRIS, M32R, Xtensa, h8, s390, SuperH[Note 2]","UML, Itanium Linux-on-Linux[Note 3]"
+15,ReactOS,Yes,Yes,No[Note 1],No,Yes,No[Note 1],No[Note 1],No,No,No,No,Yes,No,No,No,No,,
+16,RISC OS,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,
+17,"L4, Pistachio",Yes,No,No,Yes[Note 4],Yes[Note 4],Yes[Note 4],No,No,No,Yes[Note 4],Yes[Note 4],Yes,No,No,No,No,,
+18,Plan 9,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes[Note 5],Yes[Note 5],Yes,Yes,Yes,Yes,Yes[Note 5],No,No,See[9][10],"lguest, vx32"
+19,AROS,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,,"i386-linux, i386-freebsd"
+20,Syllable,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,
+21,Inferno,Yes,?,No,No,?,Yes,?,Yes,?,No,Yes,Yes,Yes,Yes[Note 5],No,No,"AMD Am29000,[Note 5] Texas Instruments OMAP","Microsoft Windows, Linux, FreeBSD, Plan 9, OS X, Solaris, Irix, UnixWare,[Note 5] HP-UX,[Note 5] Internet Explorer"
+22,FreeRTOS,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,"AVR, PIC, MSP430, HCS12, 8052, MicroBlaze, Cortex-M3, H8S",
+23,eCos,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,"CalmRISC, ColdFire, FR-V, h8, Matsushita AM3x, Nios II, NEC V8xx, SuperH","Microsoft Windows, Linux"
+24,RTEMS,Yes,No,Xen,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,"Blackfin, Nios II, Coldfire, Texas Instruments C3x/C4x, SuperH, H8S","Linux, Solaris, Cygwin, FreeBSD, multiple CPU simulators"
+25,HelenOS,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,,
+26,E/OS,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,,
+27,TempleOS,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,"QEMU, VirtualBox, etc."
+28,Name,"x86, i386, IA-32",x86 SMP,Xen,IA-64,x86-64,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PA-RISC,OpenRISC,other,hosted mode

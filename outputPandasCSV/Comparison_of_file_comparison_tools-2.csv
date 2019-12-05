@@ -1,0 +1,27 @@
+,Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison[26],Manual compare alignment,Image Compare
+0,Beyond Compare,Yes,Yes,Yes,No,Yes (Files and Folders),Yes (Pro only),,Yes,Yes
+1,Compare++,Yes,Yes,,,Yes,Yes,"Yes (C/C++,C#,Java,Javascript,CSS3)",,
+2,diff,No,Yes,partly,No,No,No,,,
+3,diff3,No,No,,,Yes (non-optional),,,,
+4,Eclipse (compare),Yes,,,,No (only ancestor),Yes,,No,
+5,Ediff,Yes,Yes,Yes,,Yes,Yes,,,
+6,ExamDiff Pro,Yes,Yes,Yes,Yes[27],Yes (ExamDiff Pro Master only)[28],Yes,,manual synchronization,
+7,Far Manager (compare),Yes (Via plugin) [29],Yes,Yes,Yes (Via plugin) [29],No,No,,,
+8,fc,No,No,Yes,,No,No,,,
+9,FileMerge (aka opendiff),Yes,Yes,Yes,,Yes (optional ancestor),Yes,,,
+10,Guiffy SureMerge,Yes,Yes,Yes,,Yes,Yes,,Yes,Yes
+11,IntelliJ IDEA (compare),Yes,Yes,Yes,No,Yes,Yes,,Yes,Yes
+12,jEdit JDiff plugin,Yes,,,,No,Yes,,,
+13,Kompare,,Yes,No,,No,Yes,,,
+14,Lazarus Diff,,,,,,,,,
+15,Meld,Yes,Yes,No,Yes,Yes,Yes,,"line alignment, unlink scroll",
+16,Notepad++ (compare),Yes,No,No,Yes,No,No,No,,
+17,Perforce P4Merge,Yes,No,No,,Yes,Yes,,,Yes
+18,Pretty Diff,Yes,Yes,No,No,No,No,Yes,No,
+19,Tkdiff,Yes,No,No,No,No,No,,,
+20,Total Commander (compare),Yes,Yes,Yes,No,No,Yes,No,resync comparison,No
+21,vimdiff,Yes,Yes (via DirDiff plugin),,,Yes,Yes,,,
+22,WinDiff,Yes,Yes,Yes,Yes,No,No,,,
+23,WinMerge,Yes,Yes,No,Yes,Yes,Yes,,No,Yes
+24,UCC,Yes,Yes,Yes,Yes,No,Yes,,,
+25,Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison[26],Manual compare alignment,Image compare

@@ -1,0 +1,35 @@
+,Format,Type,3GP,3G2,ASF[27],AVI[a],DMF,EVO,FLV[α],F4V,MKV,"PS, TS[33]",M2TS,MP4[34],MXF,Ogg[b],QTFF[37],RMVB,VOB[59],WebM[24]
+0,Speex,Speech,No,No,No,No,No,No,Yes,No,ACM[c],No,No,No,No,Yes,No,No,No,No
+1,AMR,Speech,Yes,"AMR-NB, AMR-WB",Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+2,QCELP,Speech,No,13K,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+3,G.728,Speech,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+4,MPEG-1 Audio Layer I,Lossy,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+5,MPEG-1 Audio Layer II,Lossy,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No
+6,MPEG-1 Audio Layer III,Lossy,No,No,Yes,Yes[β][61],Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Needs OGMtools[62],Yes,No,No,No
+7,MPEG-2 Audio,Lossy,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Layer II,No
+8,AAC,Lossy,Yes,"Only AAC-LC, HE-AAC v1",Yes,Yes[β][61],No,No,Yes,Yes[γ],Yes,Private,Yes,Yes,Yes,No,Yes,"Only AAC-LC, HE-AAC v1",No,No
+9,AC-3,Lossy,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Private,Yes,Yes[63],Yes,Needs OGMtools[62],Yes,Yes,Private,No
+10,E-AC-3,Lossy,No,No,Yes,No,No,Yes,No,No,QuickTime[δ],No,Yes,Yes,No,No,Yes,No,No,No
+11,DTS,Lossy,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Private,Yes,Yes,No,No,No,No,Private,No
+12,WMA,Lossy,No,No,Yes,Yes,No,No,No,No,ACM[c],No,No,No,No,No,No,No,No,No
+13,ATRAC3,Lossy,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+14,QDesign Music 1 and 2,Lossy,No,No,No,No,No,No,No,No,QuickTime[δ],No,No,No,No,No,Yes,No,No,No
+15,Vorbis,Lossy,No,No,No,Tricky[ε],No,No,No,No,Yes,No,No,Private,No,Yes,No,No,No,Yes
+16,Opus,Lossy,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes
+17,FLAC,Lossless,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Not standard[66],No,Yes,No,No,No,No
+18,ALAC,Lossless,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No
+19,MLP,Lossless,No,No,No,No,No,Yes,No,No,No,Private,No,Yes[34],No,No,No,No,Private,No
+20,Dolby TrueHD,Lossless,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No
+21,DTS-HD,Lossless,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes[34],No,No,Yes,No,No,No
+22,WMA Lossless,Lossless,No,No,Yes,Yes,No,No,No,No,ACM[c],No,No,No,No,No,No,No,No,No
+23,ALS,Lossless,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+24,SLS,Lossless,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
+25,LPCM,Not compressed,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Private,Yes,Yes,Yes,Beta[67],Yes,No,Private,No
+26,μ-law PCM,Not compressed,No,No,Yes,Yes,No,No,Yes,No,ACM[c],No,No,No,No,Yes,Yes,No,No,No
+27,A-law PCM,Not compressed,No,No,No,Yes,No,No,Yes,No,ACM[c],No,No,No,Yes,Yes,Yes,No,No,No
+28,Microsoft ADPCM,Not compressed,No,No,Yes[27],Yes,No,No,No,No,ACM[c],No,No,No,No,No,Yes,No,No,No
+29,IEEE floating-point PCM,Not compressed,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No
+30,DV Audio,Not compressed,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes[39],No,Yes,No,No,No
+31,Other,Other,EVS,"EVRC, EVRC-B, EVRC-WB, SMV, VMR-WB",Microsoft GSM 6.10,"G.721, G.722, G.723, G.726, G.729a, CVSD, ATRAC1, Dolby AC-2",—,—,"Asao, SWF ADPCM[68]",—,"Musepack, WavPack, TTA, any format supported by ACM",—,—,—,—,—,"IMA 4:1, non-IEEE floating-point PCM","IS-54, Cook Codec, Sipro Lab ACELP-NET, RealAudio Lossless",—,—
+32,Obsolete,Other,—,—,—,"Truespeech, many others",—,—,—,—,—,—,—,—,—,CELT,"MACE 3:1, MACE 6:1",—,—,—
+33,Format,Type,3GP,3G2,ASF[27],AVI[a],DMF,EVO,FLV[α],F4V,MKV,"PS, TS[33]",M2TS,MP4[34],MXF,Ogg[b],QTFF[37],RMVB,VOB[59],WebM[24]

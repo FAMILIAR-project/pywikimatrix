@@ -1,0 +1,8 @@
+,Engine,Status,Embedded in
+0,WebKit,Active,"Safari browser, plus all browsers hosted on the iOS App Store"
+1,Blink,Active,Google Chrome and all other Chromium-based browsers like Opera and Microsoft Edge
+2,Gecko,Active,"Firefox browser and Thunderbird email client, plus forks like SeaMonkey and Waterfox"
+3,KHTML,Discontinued,Konqueror browser
+4,Presto,Discontinued,formerly in the Opera browser
+5,EdgeHTML,Discontinued,formerly in the Microsoft Edge browser
+6,Trident,Discontinued,Internet Explorer browser and Microsoft Outlook email client

@@ -1,0 +1,11 @@
+,Kernel Name,a.out,ECOFF,ELF,FDPICELFbinaries(mmu less),flatbinaries(superH),HUNK,Mach-O,"Misc(wrapperbased,likeinterpreters)",PE,"SOM(PA-RISC,HP-UX)",NLM,PEF,DOS COM,MZ,LE,LX,NE
+0,Amiga Exec,No,No,Yes[19],No,No,Yes,No,No,No,No,?,?,?,?,?,?,?
+1,DragonFly BSD kernel,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+2,HP-UX kernel,No,No,Yes,No,No,No,No,No,No,Yes,No,No,?,?,?,?,?
+3,Linux kernel,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Some[20],Yes,?,No,?,?,?,?,?
+4,MINIX 3 kernel,Some[7][8],No,Yes[6],No,No,No,No,No,No,No,No,No,?,?,?,?,?
+5,NetBSD kernel,Yes,Yes,Yes,?,?,?,Yes,?,Yes,?,?,?,?,?,?,?,?
+6,ReactOS kernel,?,?,?,?,?,?,?,?,Yes,?,?,?,?,?,?,?,?
+7,Solaris kernel,Yes[21],No,Yes[22],No,No,No,No,No,Some[23],No,?,?,?,?,?,?,?
+8,Windows NT kernel,No,No,Yes with WSL,No,No,No,No,No,Yes,No,No,No,Yes on x86,Yes on x86,?,?,Yes on x86
+9,XNU,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No

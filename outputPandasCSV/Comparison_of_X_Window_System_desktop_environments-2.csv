@@ -1,0 +1,24 @@
+,Unnamed: 0,KDE Software Compilation,GNOME,Mate,Xfce,LXDE,ROX Desktop,Étoilé,EDE,Enlightenment
+0,X window manager,KWin,Mutter,Marco,Xfwm4,Openbox,OroboROX,Azalea,edewm,Enlightenment
+1,X display manager,"KDM, SDDM",GDM,,,LXDM,,,elma,Entrance
+2,File manager,Dolphin (Konqueror before SC 4),Files,Caja,Thunar,PCManFM,ROX Filer,,Efiler,"EFM, Entropy"
+3,Widget toolkit,Qt,GTK+,GTK+,GTK+,GTK+(legacy) / Qt,GTK+,GNUstep,FLTK (previously eFLTK),Elementary
+4,Terminal emulator,Konsole,GNOME Terminal,MATE Terminal,Terminal,LXTerminal,ROXTerm,aterm,,Terminology
+5,Text editor,KWrite (Kate before SC 4),gedit,Pluma,"Mousepad, Leafpad",Leafpad,Edit,TextEdit,,"Eyesight, Ecrire"
+6,Video player,Dragon Player (Kaffeine before SC 4),Videos,,Parole,lxine,mplayer-rox,,,"Enna (media center), Eclair"
+7,Audio player,"JuK, Amarok","Banshee, Rhythmbox",,Parole,LXMusic,MusicBox,Melodie,,Enjoy
+8,CD burners,K3b,Brasero,,Xfburn,,RoxISO,,,
+9,CD ripper,"K3b, KAudioCreator",Sound Juicer,,,,Ripper,,,Extrackt
+10,Image viewer,Gwenview,Eye of GNOME,Eye of MATE,Ristretto,GPicView,Picky,,Eimage,Ephoto
+11,Office suite,"Calligra Suite, KOffice",GnomeOffice,,,,,,,
+12,Web browser,"Konqueror, Falkon",Web,,Midori,,,,,Eve
+13,E-mail client,Kmail,Evolution,,,,GNUMail,,,
+14,Personal information manager,Kontact,Evolution,,,,Contacts,,,
+15,Instant messenger,"Kopete, KDE Telepathy",Empathy,,,,,,,Shotgun
+16,Archive manager,Ark,Archive Manager,Engrampa,"Xarchiver, Squeeze",Xarchiver,Archive,,,
+17,PDF viewer,Okular (KPDF before SC 4),Evince,Atril,,,,Vindaloo,,Epdf
+18,IDE,KDevelop,Anjuta,,,,,"Gorm, ProjectCenter",,EDI
+19,X session manager,ksmserver,gnome-session,mate-session,Xfce4-session,LXSession,ROX-Session,,,
+20,Widget engine,built-in – Plasma (SuperKaramba before SC 4),gDesklets,,,,,,,Elementary
+21,Licenses used,"GPL, LGPL, BSD, others","GPL, LGPL","GPL, LGPL","GPL, LGPL, BSD","GPL, LGPL",GPL,"GPL, BSD","GPL, LGPL","BSD, LGPL"
+22,,KDE Software Compilation,GNOME,MATE,Xfce,LXDE,ROX Desktop,Étoilé,EDE,Enlightenment

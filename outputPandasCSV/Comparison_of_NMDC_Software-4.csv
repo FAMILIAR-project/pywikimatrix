@@ -1,0 +1,10 @@
+,Other software,Software type,FOSS,Software license,Active
+0,jDCBot,General library,Yes,GNU GPL,Yes
+1,Net::DirectConnect,General library,Yes,Unknown,Yes
+2,FlowLib,General library,Yes,GNU GPL,Yes
+3,DC-hublink,Link,Yes,GNU GPL,No
+4,Hub-Link,Link,Yes,GNU GPL,No
+5,MyIrcDcLinks,Link,Yes,GNU GPL,Yes
+6,NetChatLink,Link,Yes,GNU GPL,Yes
+7,Kitty,Bot,Yes,GNU GPL,No
+8,Other software,Software type,FOSS,Software license,Active

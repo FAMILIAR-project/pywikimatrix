@@ -1,0 +1,7 @@
+,Kernel Name,NFS,AFS,CIFS,Coda,9P,Ceph
+0,DragonFly BSD kernel,Yes,No,Yes,No,No,No
+1,FreeBSD kernel,Yes,Yes,Yes,Yes,No,Yes
+2,Linux kernel,Yes,Yes,Yes,Yes,Yes,Yes
+3,Solaris kernel,Yes,Yes,Yes,No,No,No
+4,Windows NT kernel,Yes,Yes,Yes,No,No,No
+5,XNU,Yes,Yes,Yes,No,No,No

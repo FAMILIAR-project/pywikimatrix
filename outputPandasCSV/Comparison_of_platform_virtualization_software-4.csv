@@ -1,0 +1,34 @@
+,Name,Can boot an OS on another disk partition as guest,USB support,GUI,Live memory allocation,3D acceleration,Snapshots per VM,Snapshot of running system,Live migration,Shared folders,Shared clipboard,PCI passthrough
+0,KVM,Yes,Yes,Yes[23],Yes,Yes (via AIGLX),Yes,Yes[24],Yes[25],,,Yes
+1,User Mode Linux,Yes,No,No,No,No,,,No,Yes,,
+2,"Containers, or Zones",Yes,Yes,Yes,Yes,Not needed,Yes[26],Yes,No,Yes,Not needed,Not needed
+3,DosBox,No,No,SVN builds only,No,Glide (SVN builds only),No,Yes,No,No,No,No
+4,"Oracle VirtualBox (formerly OSE, GPLv2), with Guest Additions (GPLv2)[27]",Yes,USB 1.1 only,Yes,Yes,No,Yes branched[28],Yes,Yes,with Guest Additions[29],with Guest Additions[29],No
+5,Oracle VirtualBox with Extension Pack (PUEL) and Guest Additions (GPLv2)[27],Yes,Yes,Yes,Yes,OpenGL 2.0 and Direct3D 8/9[30],Yes branched[28],Yes,Yes,Yes,Yes,Linux only[31]
+6,Oracle VM Server for SPARC (LDoms),Yes,USB 2.0,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+7,OKL4 Microvisor,Yes,Yes,VMs only,Yes,Yes,,,No,,,Static assignment
+8,Virtual Iron 4.2,,,,,,,,Yes,,,
+9,Virtual PC 2007,No,No,Yes,No,No,,,No,Yes,Yes,
+10,Windows Virtual PC,No,partially,Yes,No,No,,,No,Yes,Yes,
+11,VirtualPC 7 for Mac,No,Yes,Yes,Yes,No,,,No,Yes,Yes,
+12,Microsoft Virtual Server 2005 R2,,No,Yes,No,No,?,Yes,No,,,
+13,Microsoft Hyper-V Server 2008 R2,Yes,Partial support over remote desktop connections [11],Yes,Yes,DirectX 9.0c [12] (via RemoteFX),Yes branched,Yes,Yes,,,No
+14,Microsoft Hyper-V Server 2012 R2,Yes,Yes,Yes,Yes,DirectX 9.0c [13] (via RemoteFX),Yes branched,Yes,Yes,,,No
+15,Virtuozzo,Yes,Yes,Yes,Yes,No,,,Yes,,,
+16,VMware ESX Server 3.0 atp,,,Yes,,No,?,Yes,Yes,,,No
+17,VMware ESX Server 2.5.3,,,Yes,,No,,,,,,No
+18,VMware ESX Server 4.0 (vSphere),Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,,,Yes[32]
+19,VMware Fusion 2.0,Yes,Yes,Yes,No,DirectX 9 Shader model 2,,,No,,,No
+20,VMware Server,Yes,Yes,Yes,Yes,No,1,Yes,No,Yes,Yes,
+21,VMware Workstation 5.5,Yes,Yes,Yes,Yes,Experimental support for DirectX 8; also supported with VMGL[33],Yes branched,Yes,No,Yes,Yes,No
+22,VMware Workstation 6.0,Yes,Yes,Yes,Yes,Experimental support for DirectX 8; Also supported with VMGL[33],Yes branched,Yes,No,Yes,Yes,No
+23,VMware Workstation 7.0 and 8.0,Yes,Yes,Yes,Yes,Support for DirectX 9.0c Shader Model 3 and OpenGL 2.13D.[34],Yes branched,Yes,No,Yes,Yes,No
+24,VMware Player,Yes,Yes,Yes,Yes,supported with VMGL[33],No,No,No,Yes,,No
+25,Wind River hypervisor,Yes,Yes,Yes,Yes,Yes,,,No,,,
+26,Wind River VxWorks MILS Platform,Yes,,,,,,,,,,
+27,Xen,Yes,Yes[35],Yes[23],Yes,Supported with VMGL[33],?,Yes,Yes,,,Yes
+28,XCP-ng,Yes,Yes,Yes,Yes,,,Yes,Yes,,,
+29,XenServer,Yes,,Yes[23],Yes,Supported with VMGL[33],Yes,Yes,Yes,,,Yes
+30,z/VM,Yes,Not applicable,Yes (zURM/HMC),Yes,Not applicable,,,Yes (2011),,Not applicable,Not applicable
+31,z LPARs,Yes,Not applicable,Yes (HMC),Yes,Not applicable,,,Yes (2007),,Not applicable,Not applicable
+32,Name,Can boot an OS on another disk partition as guest,USB,GUI,Live memory allocation,3D acceleration,Snapshots per VM,Snapshot of running system,Live migration,Shared folders,Shared clipboard,PCI passthrough

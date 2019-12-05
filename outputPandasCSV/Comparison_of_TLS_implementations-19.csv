@@ -1,0 +1,12 @@
+,Implementation,Dependencies,Optionaldependencies
+0,Botan,C++11,"sqlite, zlib (compression), bzip2 (compression), liblzma (compression), boost, openssl (crypto backend), trousers (TPM)"
+1,GnuTLS,libcnettlegmp,zlib (compression)p11-kit (PKCS #11)trousers (TPM)
+2,JSSE,Java,
+3,MatrixSSL,none,zlib (compression)
+4,MatrixSSL-open,libc or newlib,
+5,mbed TLS,libc,libpkcs11-helper (PKCS #11)zlib (compression)
+6,NSS,libclibnspr4libsoftokn3libplc4libplds4,zlib (compression)
+7,OpenSSL,libc,zlib (compression)
+8,wolfSSL,None,"libc, zlib (compression)"
+9,Erlang/OTP ssl application,"libcrypto (from OpenSSL), Erlang/OTP and its public_key, crypto and asn1 applications",Erlang/OTP -inets (http fetching of CRLs)
+10,Implementation,Dependencies,Optionaldependencies

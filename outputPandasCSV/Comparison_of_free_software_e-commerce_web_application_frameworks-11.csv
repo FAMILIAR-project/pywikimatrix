@@ -1,0 +1,16 @@
+,Unnamed: 0,Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard
+0,Apache OFBiz,Yes,No,No,No,No,No,Yes
+1,Batavi,No,No,No,No,No,No,No
+2,Bigcommerce,Yes,Yes,No,No,No,No,Yes
+3,Drupal Commerce,Yes,No,No,No,No,No,Yes
+4,KonaKart,Yes,Yes,No,No,No,No,Yes
+5,Magento,Yes,add-on ($50.00),Yes,Yes,Yes,Yes,Yes
+6,nopCommerce,Yes,Yes,No,No,No,No,Yes
+7,osCommerce,Yes,Yes,No,No,No,No,Yes
+8,pimcore,No,No,No,No,No,No,No
+9,PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,Sana Commerce,Yes,Yes,No,No,No,No,Yes
+11,Shopify,Yes,Yes,No,Yes,No,No,Yes
+12,WooCommerce,Yes,Yes,No,No,No,No,Yes
+13,Zen Cart,Yes,Yes,No,No,No,No,Yes
+14,,Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard

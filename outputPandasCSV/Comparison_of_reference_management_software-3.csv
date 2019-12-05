@@ -1,0 +1,29 @@
+,Software,BibTeX,Endnote/Refer/BibIX,Medline,MODS XML,RIS,Other
+0,Bebop,Yes,No,No,No,No,unAPI
+1,BibBase,Yes,No,No,No,No,none
+2,BibDesk,Yes,No,Yes,Yes,Yes,"Endnote XML, user customizable"
+3,BibSonomy,Yes,Yes,No,No,Yes,various [2]
+4,Bibus,Yes,Yes,Yes,No,Yes,SQLite
+5,Bookends,Yes,Yes,Yes,No,Yes,various user-customizable
+6,Citavi,Yes,Yes,Yes,Yes,Yes,various
+7,CiteULike,Yes,No,No,No,Yes,"COinS, Delicious"
+8,colwiz,Yes,Yes,No,Yes,Yes,"EndNote XML, CSL formatted HTML"
+9,EndNote,Yes,Yes,Yes,No,Yes,various[16]
+10,F1000Workspace,Yes,No,No,No,Yes,CSV
+11,JabRef,Yes,Yes,No,Yes,Yes,"BibTeXML, DocBook, HTML, OpenDocument for OO.o, RTF, SQL database, user-customizable"
+12,KBibTeX,Yes,Yes,No,Depends[17],Yes,"PDF, PostScript, HTML, XML, RTF"
+13,Mendeley,Yes,Yes,No,No,Yes,Endnote XML
+14,Paperpile,Yes,No,No,No,Yes,none
+15,Pybliographer,Yes,Yes,Yes,No,No,Ovid
+16,ReadCube (now Papers),Yes,Yes,No,No,Yes,none
+17,Qiqqa,Yes,No,No,No,No,none
+18,refbase,Yes,Yes,No,Yes,Yes,"COinS, OpenDocument for OO.o, SRW XML via SRU, unAPI, Word XML"
+19,RefDB,Yes,Yes,No,Yes,Yes,"SRW XML via SRU web service, DocBook, TEI"
+20,Reference Manager,No,No,No,No,Yes,"MEDLARS, TSV, CSV, Reference Manager XML, user-customizable"
+21,Referencer,Yes,No,No,No,No,none
+22,RefWorks,Yes,Yes,No,Yes,Yes,"RIS, BibTeX, Tab delimited or XML metadata"
+23,SciRef,No,No,No,No,Yes,"Plain text, RTF"
+24,Sente,Yes,Yes,No,No,Yes,user-customizable
+25,Wikindx,Yes,Yes,No,Yes,Yes,"COinS, RTF, HTML, ADS, Word BIB"
+26,WizFolio,No,No,No,No,Yes,No
+27,Zotero,Yes,Yes,as of version 4.0[18],Yes,Yes,"COinS, CSV, Several RDF format standards, TEI, Wikipedia citation templates, Endnote XML, CSL JSON, Refer/BiblX, RefWorks tagged"

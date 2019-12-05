@@ -1,0 +1,9 @@
+,Syntax,Language(s)
+0,"""I said \""Hello, world!\""""","C, C++, C#, D, F#, Java, JavaScript, Mathematica, Ocaml, Perl, PHP, Python, Rust, Swift, Wolfram Language, Ya"
+1,"'I said \'Hello, world!\''","CoffeeScript, JavaScript (alternate), Python (alternate)"
+2,"""I said `""Hello, world!`""""",Windows Powershell
+3,"""I said ^""Hello, world!^""""",REBOL
+4,"{I said ""Hello, world!""}",REBOL (alternate)
+5,"""I said, %""Hello, World!%""""",Eiffel
+6,"!""I said \""Hello, world!\""""",FreeBASIC
+7,"r#""I said ""Hello, world!""""#",Rust (alternate)

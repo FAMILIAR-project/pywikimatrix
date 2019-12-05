@@ -1,0 +1,37 @@
+,Name,Developer(s),License,Platforms
+0,AllMyNotes Organizer,Vladonai Software,"Proprietary, Freemium",Microsoft Windows
+1,BasKet Note Pads,KDE,Open source (GPL),Unix-like (KDE)
+2,CintaNotes,Cinta Software,"Proprietary, Freemium",Microsoft Windows
+3,ConnectedText,Eduardo Mauro,"Proprietary, Commercial",Microsoft Windows
+4,Day One,Bloom Built,"Proprietary, Commercial","macOS, iOS, Android"
+5,Dropbox Paper,Dropbox,"Proprietary, Freemium","Android, IOS, web-based"
+6,Evernote,Evernote Corporation,"Proprietary, Freemium for personal use, per-seat licensing for business","Android, iOS, macOS, Microsoft Windows 7/8/10, Microsoft Windows Phone, and web-based"
+7,Gnote,Aurimas Černius,Open source (GPL v3),Linux
+8,Google Keep,Google,"Proprietary, no-cost","Android, iOS, Chrome OS, browser based"
+9,KeyNote NF,"Marek Jedliński, Tranglos Software",Open source (MPL),Microsoft Windows
+10,Memonic,Nektoon AG,"Proprietary, Freemium[Notes 1]","Android (not released yet), iOS, macOS, Microsoft Windows XP/Vista/7/Mobile web-based"
+11,Microsoft OneNote,Microsoft,"Proprietary, Shareware/Freeware/Freemium[Notes 2]","Android, macOS, iOS (iPad, iPhone), Microsoft Windows 7/8/10, Microsoft Windows Server 2008R2/2012R2/2016, Microsoft Windows Phone 8/8.1/10, web-based, mobile web"
+12,MyInfo,Milenix Software,"Proprietary, Shareware",Microsoft Windows XP/Vista/7
+13,MyNotex,Massimo Nardello,Open source (GPL),Linux
+14,Notational Velocity,Zachary Schneirov,Open source (GPL v3),macOS
+15,Notes,Apple,Proprietary,"macOS, iOS, web-based"
+16,Notizen .NET,?,"No-cost, unknown license",Microsoft Windows XP/Vista/7
+17,Okular,Okular Team (KDE),Open source (GPL),"KDE-enabled Linux, Unix, Microsoft Windows, macOS, *BSD[1]"
+18,Open-Sankoré,Sankoré,Open source (GPL),"Linux, macOS, Unix, Microsoft Windows"
+19,Org-mode (Emacs),"Carsten Dominik, et al.",Open source (GPL),"Linux, macOS, Unix, Microsoft Windows (Emacs mode)"
+20,Outline,Gorillized Corporation,"Proprietary, Commercial","macOS, iOS"
+21,PDF Studio,Qoppa Software,"Proprietary, Shareware","Linux, macOS, Microsoft Windows, web-based"
+22,Personal Knowbase,Bitsmith Software,"Proprietary, Commercial",Microsoft Windows
+23,QOwnNotes,Patrizio Bekerle,Open source (GPL),"GNU/Linux, macOS, Microsoft Windows"
+24,Qiqqa,Quantisle Ltd.,"Proprietary, Freemium","Microsoft Windows XP/Vista/7/8, Web-based, Android"
+25,Simplenote,Automattic inc.,Open source,Cross-platform
+26,TagSpaces,TagSpaces UG,Open source (AGPL),"Cross-platform (browser, web-based)"
+27,TiddlyWiki,Jeremy Ruston,Open source (BSD),"Cross-platform (single HTML file, runs in browser, on a nodeJS server, on Android and IOS)"
+28,Tomboy,Alex Graveley,Open source (LGPL),Cross-platform (Mono/GTK+)
+29,TreeDBNotes,?,"Proprietary, Freemium",Microsoft Windows
+30,Ulysses,The Soulmen,SaaS,"macOS, iOS"
+31,Whizfolders,AvniTech Solutions,"Proprietary, Commercial",Microsoft Windows
+32,WikidPad,Michael Butscher,Open source (BSD),Cross-platform (Python)
+33,Microsoft Windows Journal,Microsoft,"Proprietary, Commercial","Microsoft Windows XP Tablet PC edition, Microsoft Windows Vista, Microsoft Windows 7/8/10 (included with OS)"
+34,Zim,Jaap Karssenberg,Open source (GPL),"Cross-platform (Python, GTK+)"
+35,ZOHO Notebook,ZOHO Corporation,"Proprietary, Commercial, Freemium",Self-hosted. SaaS.

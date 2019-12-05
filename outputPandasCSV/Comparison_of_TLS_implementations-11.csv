@@ -1,0 +1,16 @@
+,Implementation,secp160k1(15)[83],secp160r1(16)[83],secp160r2(17)[83],secp192k1(18)[83],secp192r1prime192v1NIST P-192(19)[83],secp224k1(20)[83],secp224r1NIST P-244(21)[83],secp256k1(22)[83],secp256r1prime256v1NIST P-256(23)[83],secp384r1NIST P-384(24)[83],secp521r1NIST P-521(25)[83],arbitrary prime curves(0xFF01)[83][151],arbitrary char2 curves(0xFF02)[83][151]
+0,Botan,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+1,BoringSSL,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes (disabled by default),No,No
+2,GnuTLS,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+3,JSSE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+4,LibreSSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+5,MatrixSSL,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+6,mbed TLS,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+7,NSS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+8,OpenSSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+9,RSA BSAFE,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+10,"SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10",No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No
+11,Secure Transport,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No
+12,wolfSSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+13,Erlang/OTP SSL application,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no,no
+14,Implementation,secp160k1(15)[83],secp160r1(16)[83],secp160r2(17)[83],secp192k1(18)[83],secp192r1prime192v1NIST P-192(19)[83],secp224k1(20)[83],secp224r1NIST P-244(21)[83],secp256k1(22)[83],secp256r1prime256v1NIST P-256(23)[83],secp384r1NIST P-384(24)[83],secp521r1NIST P-521(25)[83],arbitrary prime curves(0xFF01)[83][151],arbitrary char2 curves(0xFF02)[83][151]

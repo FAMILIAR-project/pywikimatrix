@@ -1,0 +1,78 @@
+,Name,Developer,First released,Licensing,Maintained?
+0,Aloaha Crypt Disk,Aloaha,2008,Open source[citation needed],Yes
+1,ArchiCrypt Live,Softwaredevelopment Remus ArchiCrypt,1998,Proprietary,Yes
+2,BestCrypt,Jetico,1993[1],Proprietary,Yes
+3,BitArmor DataControl,BitArmor Systems Inc.,2008-05,Proprietary,Yes
+4,BitLocker,Microsoft,2006,Proprietary,Yes
+5,Bloombase Keyparc,Bloombase,2007,Proprietary,No[2]
+6,Boxcryptor,Secomba GmbH,2011,Proprietary,Yes
+7,CGD,Roland C. Dowdeswell,2002-10-04[3],BSD,Yes
+8,CenterTools DriveLock,CenterTools,2008,Proprietary,Yes
+9,Check Point Full Disk Encryption,Check Point Software Technologies Ltd,1999[4][5][6],Proprietary,Yes
+10,CipherShed,CipherShed Project,2014[7],TrueCrypt License Version 3.0[8],No
+11,CrossCrypt,Steven Scherrer,2004-02-10[9],GPL,No
+12,CryFS,Sebastian Messmer,2015,LGPLv3,Yes
+13,Cryhod,Prim'X Technologies,2010,Proprietary,Yes
+14,Cryptainer,Cypherix Software,1999,Proprietary,Yes
+15,Cryptic Disk,Exlade,2003,Proprietary,Yes
+16,CryptArchiver,WinEncrypt,?,Proprietary,Yes
+17,Cryptoloop,?,2003-07-02[10],GPL,No
+18,Cryptomator,Skymatic UG (haftungsbeschränkt),2016-03-09,GPLv3,Yes
+19,CryptoPro Secure Disk Enterprise,cpsd it-services GmbH,2010,Proprietary,Yes
+20,CryptoPro Secure Disk for BitLocker,cpsd it-services GmbH,2012,Proprietary,Yes
+21,CryptSync,Stefan Küng,2012,Gpl v2,Yes
+22,Discryptor,Cosect Ltd.,2008,Proprietary,No
+23,DiskCryptor,ntldr,2007,GPL,Yes
+24,DISK Protect,Becrypt Ltd,2001,Proprietary,Yes
+25,Cryptsetup / Dmsetup,Christophe Saout,2004-03-11[11],GPL,Yes
+26,Dm-crypt / LUKS,Clemens Fruhwirth (LUKS),2005-02-05[12],GPL,Yes
+27,DriveCrypt,SecurStar GmbH,2001,Proprietary,Yes[13]
+28,DriveSentry GoAnywhere 2,DriveSentry,2008,Proprietary,No
+29,E4M,Paul Le Roux,1998-12-18[14],Open source,No
+30,e-Capsule Private Safe,EISST Ltd.,2005,Proprietary,Yes
+31,eCryptfs,"Dustin Kirkland, Tyler Hicks, (formerly Mike Halcrow)",2005[15],GPL,Yes
+32,EgoSecure HDD Encryption,EgoSecure GmbH,2006,Proprietary,Yes
+33,EncFS,Valient Gough,2003[16],LGPLv3,Yes
+34,EncryptStick,ENC Security Systems,2009,Proprietary,Yes
+35,FileVault,Apple Inc.,2003-10-24,Proprietary,Yes
+36,FileVault 2,Apple Inc.,2011-07-20,Proprietary,Yes
+37,FREE CompuSec,CE-Infosys,2002,Proprietary,Yes
+38,FreeOTFE,Sarah Dean,2004-10-10[17],Open source,No
+39,GBDE,Poul-Henning Kamp,2002-10-19[18],BSD,No
+40,GELI,Pawel Jakub Dawidek,2005-04-11[19],BSD,Yes
+41,GnuPG,Werner Koch,1999-09-07[20],GPL,Yes
+42,gocryptfs,Jakob Unterwurzacher,2015-10-07[21],MIT / X Consortium License,Yes
+43,Knox,AgileBits,2010,Proprietary,Yes
+44,KryptOS,The MorphOS Development Team,2010,Proprietary,Yes
+45,LibreCrypt,tdk,2014-06-19[22],Open source,No
+46,Loop-AES,Jari Ruusu,2001-04-11,GPL,Yes
+47,McAfee Drive Encryption (SafeBoot),"McAfee, LLC",2007[23],Proprietary,Yes
+48,n-Crypt Pro,n-Trance Security Ltd,2005,Proprietary,Yes
+49,NetLib Encryptionizer (directory encryption),NetLib Security,1987,Proprietary,Yes
+50,Nodrive (Virtual Encrypted Disk),Hidden Solutions,2018,Proprietary,Yes
+51,PGPDisk,PGP Corporation (acquired by Symantec in 2010),1998-09-01[24],Proprietary,Yes
+52,Private Disk,Dekart,1993[25],Proprietary,Yes
+53,ProxyCrypt,v77,2013,Open source,Yes
+54,R-Crypto,R-Tools Technology Inc,2008,Proprietary,Yes
+55,SafeGuard Easy,Sophos (Utimaco),1993[26],Proprietary,Yes
+56,SafeGuard Enterprise,Sophos (Utimaco),2007[27],Proprietary,Yes
+57,SafeGuard PrivateDisk,Sophos (Utimaco)[28],2000,Proprietary,Yes
+58,SafeHouse Professional,"PC Dynamics, Inc.",1992,Proprietary,Yes
+59,Scramdisk,Shaun Hollingworth,1997-07-01,Open source,No
+60,Scramdisk 4 Linux,Hans-Ulrich Juettner,2005-08-06[29],GPL,No
+61,SecuBox,Aiko Solutions,2007-02-19,Proprietary,Yes
+62,SECUDE Secure Notebook,SECUDE,2003,Proprietary,Yes
+63,SecureDoc,WinMagic Inc.,1997,Proprietary,Yes
+64,Seqrite Encryption Manager,Quick Heal Technologies Ltd.,2017,Proprietary,Yes
+65,Sentry 2020,SoftWinter,1998[30],Proprietary,No
+66,Softraid / RAID C,OpenBSD,2007-11-01[31],BSD,Yes
+67,SpyProof!,Information Security Corp.,2002,Proprietary,Yes
+68,Svnd / Vnconfig,OpenBSD,2000-12-01[32],BSD,Yes
+69,Symantec Endpoint Encryption,Symantec Corporation,2008,Proprietary,Yes
+70,Tcplay,Alex Hornung,2012-01-28[33],BSD,Yes
+71,Trend Micro Endpoint Encryption (Mobile Armor),Trend Micro[34],2004 or earlier[35],Proprietary,Yes
+72,TrueCrypt,TrueCrypt Foundation,2004-02-02[36],TrueCrypt License 3.1[37],No
+73,USBCrypt,WinAbility Software Corp.,2010,Proprietary,Yes
+74,VeraCrypt,IDRIX,2013-06-22[38],Apache License 2.0[39] TrueCrypt License Version 3.0 (legacy code only),Yes
+75,CyberSafe Top Secret,CyberSoft,2013,Proprietary,Yes
+76,Name,Developer,First released,Licensing,Maintained?

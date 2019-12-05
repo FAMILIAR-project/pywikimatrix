@@ -1,0 +1,31 @@
+,Reader,Plain text,PDF,ePub,HTML,Mobi- Pocket,Fiction- Book (fb2),DjVu,Broadband eBook (BBeB)[h 1],eReader[h 1],Kindle[h 1],WOLF[h 1],Tome Raider[h 1],Open eBook[h 2],Comic Book,OpenXPS
+0,Amazon Kindle 1,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,?,?
+1,"Amazon Kindle 2, DX",Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,?,?
+2,Amazon Kindle 3,Yes,Yes,No[h 3],Yes,Yes,No,No,No,No,Yes,No,No,No,?,?
+3,Amazon Kindle Fire,Yes,Yes,Yes[h 4],Yes,Yes,No,No,No,No,Yes,No,No,No,?,?
+4,Android Devices,Yes,Yes,Yes,Yes,Yes[h 5][36],Yes,Yes[h 5][37],No,Yes[h 5][38],Yes,No,Yes[h 5][31],Yes[h 5],?,Yes
+5,Apple iOS Devices,Yes,Yes,Yes,Yes,Yes[h 5],Yes[h 5],Yes[h 5],No,Yes[h 5],Yes[h 5],No,Yes[h 5],Yes[h 5],Yes[h 6],?
+6,Azbooka WISEreader,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,?,?
+7,Barnes & Noble Nook,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,?,?
+8,Barnes & Noble Nook Color,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,?,?
+9,"Bookeen Cybook Gen3, Opus",Yes,Yes,Yes[h 7],Yes,Yes[h 7],Yes[h 8],No,No,No,No,No,No,Yes,?,?
+10,COOL-ER Classic,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,?,?
+11,Linux Operating System,Yes,Yes,Yes,Yes,Yes,Yes[h 9],Yes,Yes[h 10],?,?,?,?,?,Yes,Yes
+12,Foxit eSlick,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,?,?
+13,Hanlin e-Reader V3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,?,?
+14,Hanvon WISEreader,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,?,?
+15,iRex iLiad,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,?,?
+16,Iriver Story,Yes,Yes,Yes,No,No,Yes[h 5],Yes[h 5],No,No,No,No,No,No,?,?
+17,Kobo eReader,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,?
+18,Nokia N900,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,?
+19,NUUTbook 2,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,?,?
+20,"OLPC XO, Sugar",Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,?,?
+21,Onyx Boox 60,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?,?
+22,Mac OS X,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,?,Yes,?,?
+23,TrekStor eBook Reader Pyrus[39],Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,?,?,?
+24,Windows,Yes,Yes,Yes,Yes,Yes,Yes[h 11],Yes,?,Yes,Yes[h 12],?,?,Yes,Yes[h 13],Yes[h 14]
+25,"Pocketbook 301 Plus, 302, 360°",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?,?
+26,Pocketbook Aqua,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?,?
+27,Sony Reader,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,?,?
+28,Viewsonic VEB612,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,?,?
+29,Windows Phone 7,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,?,?

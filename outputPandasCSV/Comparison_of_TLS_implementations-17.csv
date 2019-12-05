@@ -1,0 +1,16 @@
+,Implementation,/dev/crypto,af_alg,Windows CSP,CommonCrypto,OpenSSL engine
+0,Botan,No,No,No,No,Partial
+1,cryptlib,No,No,No,No,No
+2,GnuTLS,Yes,No,No,No,No
+3,JSSE,No,No,Yes,No,No
+4,LibreSSL,No,No,No,No,No[223]
+5,MatrixSSL,No,No,No,Yes,Yes
+6,mbed TLS,No,No,No,No,No
+7,NSS,No,No,No,No,No
+8,OpenSSL,Yes,Yes,No,No,Yes
+9,RSA BSAFE,No,No,No,No,No
+10,SChannel,No,No,Yes,No,No
+11,Secure Transport,No,No,No,Yes,No
+12,wolfSSL,Yes,Yes,Partial,No,No
+13,Erlang/OTP SSL application,No,No,No,No,Yes
+14,Implementation,/dev/crypto,af_alg,Windows CSP,CommonCrypto,OpenSSL engine

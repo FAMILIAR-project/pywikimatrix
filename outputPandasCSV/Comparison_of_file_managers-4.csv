@@ -1,0 +1,38 @@
+,File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH
+0,Altap Salamander,Yes,No,Yes,No,Yes,Yes
+1,Commander One,Yes[n 1],Yes,Yes[n 1],Yes[n 1],Yes,Yes
+2,CRAX Commander,Yes[n 1],Yes,Yes[n 1],Yes[n 1],Yes,Yes
+3,Directory Opus,Yes,Yes,Yes,No,Yes,Yes (SFTP & SSL[47])
+4,Dired,Yes[n 1],Yes[n 1],Yes[n 1],No,Yes,Yes[n 1]
+5,Documents by Readdle,,,,,,
+6,Dolphin,Yes,Yes,Yes,?,Yes,Yes
+7,Double Commander,Yes,?,?,?,Yes,?
+8,emelFM2,?,?,?,?,No,?
+9,Far Manager,Yes,Partial[n 2],Partial[n 3],No,Yes,Yes[n 4]
+10,File Commander,Yes,Partial[n 2],Partial[n 3],No,Partial[n 5],Partial[n 6]
+11,File Manager,?,?,?,?,?,?
+12,Files (Apple),,,,,,
+13,Files by Google,,,,,,
+14,Finder,Yes[n 1],Yes[n 1],Yes[n 1],Yes[n 1],Partial[n 1],No
+15,ForkLift,Yes,Yes,Yes,Yes,Yes,Yes
+16,GNOME Commander,Yes,Yes,Yes,No,Yes,Yes
+17,Konqueror,Yes,Yes,Yes,Yes,Yes,Yes
+18,Krusader,Yes,Yes,Yes,No,Yes,Yes
+19,muCommander,Yes,?,Yes,?,Yes,Yes
+20,Midnight Commander,Yes,No,Yes,No,Yes,Yes
+21,GNOME Files (Nautilus),Yes,Yes,Yes,Yes,Yes,Yes
+22,Nemo,Yes,?,?,?,Yes,Yes
+23,Nomad.NET,Yes,No,No,No,Yes,No
+24,Path Finder,Yes,Yes,Yes,Yes,Yes (Read Access),No
+25,PCManFM,Yes[n 7],?,?,?,?,?
+26,ROX-Filer,Yes[n 1],Yes[n 1],Yes[n 1],Yes[n 1],Yes[n 1],Yes[n 1]
+27,Total Commander,Yes,Yes[n 4],Partial[n 3],No,Yes,Yes
+28,Thunar,Yes[n 7],Yes[n 7],Yes[n 7],No,Yes[n 7],Yes[n 7]
+29,Windows Explorer,Yes,Yes,Yes[n 8],No,Yes,No
+30,Xandros File Manager,?,?,?,?,?,?
+31,Xfe,?,?,?,?,?,?
+32,Xfm,?,?,?,?,?,?
+33,xplorer²,Yes,Yes[n 9],Partial[n 3],No,Yes,No
+34,XYplorer,Yes,Yes,Yes[n 8],No,Yes,No
+35,ZTreeWin,Yes,Partial[n 5],Partial[n 3],No,Partial[n 5],Partial[n 6]
+36,File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH

@@ -1,0 +1,53 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Exception LSException,Exception LSException,Exception LSException,Exception LSException,Exception LSException,Exception LSException,Exception LSException,Exception LSException
+1,DOM3,code,No,No,No[g 13],No,No,1.0
+2,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS,Interface DOMImplementationLS
+3,DOM3,createLSParser(),No,No,No,No,No,1.0
+4,DOM3,createLSSerializer(),No,No,No,No,No,1.0
+5,DOM3,createLSInput(),No,No,No,No,No,1.0
+6,DOM3,createLSOutput(),No,No,No,No,No,1.0
+7,Interface LSParser,Interface LSParser,Interface LSParser,Interface LSParser,Interface LSParser,Interface LSParser,Interface LSParser,Interface LSParser
+8,DOM3,domConfig,No,No,No,No,No,1.0
+9,DOM3,filter,No,No,No,No,No,1.0
+10,DOM3,async,No,No,No,No,No,1.0
+11,DOM3,busy,No,No,No,No,No,1.0
+12,DOM3,parse(),No,No,No,No,No,1.0
+13,DOM3,parseURI(),No,No,No,No,No,1.0
+14,DOM3,parseWithContext(),No,No,No,No,No,1.0
+15,DOM3,abort(),No,No,No,No,No,1.0
+16,Interface LSInput,Interface LSInput,Interface LSInput,Interface LSInput,Interface LSInput,Interface LSInput,Interface LSInput,Interface LSInput
+17,DOM3,characterStream,No,No,No,No,No,1.0
+18,DOM3,byteStream,No,No,No,No,No,1.0
+19,DOM3,stringData,No,No,No,No,No,1.0
+20,DOM3,systemId,No,No,No,No,No,1.0
+21,DOM3,publicId,No,No,No,No,No,1.0
+22,DOM3,baseURI,No,No,No,No,No,1.0
+23,DOM3,encoding,No,No,No,No,No,1.0
+24,DOM3,certifiedText,No,No,No,No,No,1.0
+25,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver,Interface LSResourceResolver
+26,DOM3,resolveResource(),No,No,No,No,No,No
+27,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter,Interface LSParserFilter
+28,DOM3,whatToShow,No,No,No,No,No,No
+29,DOM3,startElement(),No,No,No,No,No,2.0
+30,DOM3,acceptNode(),No,No,No,No,No,2.0
+31,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent,Interface LSProgressEvent
+32,DOM3,input,No,No,No,No,No,No
+33,DOM3,position,No,No,No,No,No,No
+34,DOM3,totalSize,No,No,No,No,No,No
+35,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent,Interface LSLoadEvent
+36,DOM3,newDocument,No,No,No,No,No,2.0
+37,DOM3,input,No,No,No,No,No,No
+38,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer,Interface LSSerializer
+39,DOM3,domConfig,No,No,No,No,No,1.0
+40,DOM3,newLine,No,No,No,No,No,1.0
+41,DOM3,filter,No,No,No,No,No,1.0
+42,DOM3,write(),No,No,No,No,No,1.0
+43,DOM3,writeToURI(),No,No,No,No,No,1.0
+44,DOM3,writeToString(),No,No,No,No,No,1.0
+45,Interface LSOutput,Interface LSOutput,Interface LSOutput,Interface LSOutput,Interface LSOutput,Interface LSOutput,Interface LSOutput,Interface LSOutput
+46,DOM3,characterStream,No,No,No,No,No,1.0
+47,DOM3,byteStream,No,No,No,No,No,1.0
+48,DOM3,systemId,No,No,No,No,No,1.0
+49,DOM3,encoding,No,No,No,No,No,1.0
+50,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter,Interface LSSerializerFilter
+51,DOM3,whatToShow,No,No,No,No,No,No

@@ -1,0 +1,25 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface CDATASection,Interface CDATASection,Interface CDATASection,Interface CDATASection,Interface CDATASection,Interface CDATASection,Interface CDATASection,Interface CDATASection
+1,DOM1,(no properties),No,No,1.0,Yes,?,2.0
+2,Interface DocumentType,Interface DocumentType,Interface DocumentType,Interface DocumentType,Interface DocumentType,Interface DocumentType,Interface DocumentType,Interface DocumentType
+3,DOM1,name,No,No,1.0,Yes,?,1.0
+4,DOM1,entities,No,No,No[g 2],Yes,?,1.0
+5,DOM1,notations,No,No,No[g 2],Yes,?,1.0
+6,DOM2,publicId,No,No,1.0,Yes,?,1.0
+7,DOM2,systemId,No,No,1.0,Yes,?,1.0
+8,DOM2,internalSubset,No,No,1.0,Yes,?,1.0
+9,Interface Notation,Interface Notation,Interface Notation,Interface Notation,Interface Notation,Interface Notation,Interface Notation,Interface Notation
+10,DOM1,publicId,No,No,1.0,Yes,?,2.0
+11,DOM1,systemId,No,No,1.0,Yes,?,2.0
+12,Interface Entity,Interface Entity,Interface Entity,Interface Entity,Interface Entity,Interface Entity,Interface Entity,Interface Entity
+13,DOM1,publicId,No,No,1.0,Yes,?,No
+14,DOM1,systemId,No,No,1.0,Yes,?,No
+15,DOM1,notationName,No,No,1.0,Yes,?,No
+16,DOM3,inputEncoding,No,No,No,No,?,No
+17,DOM3,xmlEncoding,No,No,No,No,?,No
+18,DOM3,xmlVersion,No,No,No,No,?,No
+19,Interface EntityReference,Interface EntityReference,Interface EntityReference,Interface EntityReference,Interface EntityReference,Interface EntityReference,Interface EntityReference,Interface EntityReference
+20,DOM1,(no properties),No,No,1.0,Yes,?,No
+21,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction,Interface ProcessingInstruction
+22,DOM1,target,No,No,1.0,Yes,?,2.0
+23,DOM1,data,No,No,1.0,Yes,?,2.0

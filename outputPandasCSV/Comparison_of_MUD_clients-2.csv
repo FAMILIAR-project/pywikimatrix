@@ -1,0 +1,7 @@
+,Name,Gui,Logging,Mapper,Multiplaying,Scrollback,Spell checker,Tab completion,Telnet triggers,Timers,Triggers,Redirection,Regex
+0,Axmud,Custom,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+1,Mudlet,Custom,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2,MUSHclient,Custom,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,WSH,Yes
+3,TinTin++,VT100,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+4,Wintin.net,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+5,zMud,Custom,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,WSH,Yes

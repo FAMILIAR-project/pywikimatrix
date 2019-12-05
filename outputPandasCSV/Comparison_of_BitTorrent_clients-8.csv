@@ -1,0 +1,5 @@
+,BitTorrent library,Linux/Unix,Windows,OS X,API,Programming language
+0,libtorrent (Rasterbar),Yes,Yes,Yes,Yes,C++
+1,MonoTorrent,Yes,Yes,Yes,Yes,C#
+2,rTorrent (libTorrent Rakshasa),Yes,No,Yes,Yes,C++
+3,BitTorrent library,Linux/Unix,Windows,OS X,API,Programming language

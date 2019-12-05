@@ -1,0 +1,18 @@
+,IDE,License,Written in Java only,Windows,Linux,macOS,Other platforms,GUI builder
+0,BlueJ,GPL2+GNU linking exception,Yes,Yes,Yes,Yes,Solaris,No
+1,DrJava,Permissive,Yes,Yes,Yes,Yes,Solaris,No
+2,Eclipse JDT,EPL,No[26],Yes,Yes,Yes,"FreeBSD, JVM, Solaris",Yes
+3,Geany,GPL,No,Yes,Yes,Yes,"FreeBSD, AIX, OpenBSD, Solaris, other Unix",No
+4,Greenfoot,GPL,Yes,Yes,Yes,Yes,Solaris,No
+5,IntelliJ IDEA,"Community Edition: Apache License v2.0, Ultimate Edition: proprietary",Yes,Yes,Yes,Yes,"FreeBSD, OpenBSD, Solaris",Yes
+6,JBuilder,Proprietary,Yes,Yes,Yes,Yes,Solaris,Yes
+7,JCreator,Proprietary,No,Yes,No,No,,No
+8,JDeveloper,Proprietary (freeware),Yes,Yes,Yes,Yes,generic JVM,Yes
+9,jGRASP,Proprietary (freeware),Yes,Yes,Yes,Yes,,No
+10,MyEclipse,Proprietary,Yes,Yes,Yes,Yes,"FreeBSD, JVM, Solaris",Yes
+11,NetBeans,"CDDL, GPL2",Yes,Yes,Yes,Yes,"OpenBSD, Solaris",Yes
+12,Rational Application Developer,Proprietary,Yes,Yes,Yes,No,"AIX, Solaris",Yes
+13,Servoy,Proprietary,Yes,Yes,Yes,Yes,Solaris,Yes
+14,SlickEdit,Proprietary,No,Yes,Yes,Yes,"Solaris, Solaris SPARC, AIX, HP-UX",No
+15,Understand,Proprietary,No,Yes,Yes,Yes,Solaris,Yes
+16,Xcode (Apple),Proprietary,No,No,Yes,Yes,,Yes

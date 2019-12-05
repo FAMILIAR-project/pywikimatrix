@@ -1,0 +1,9 @@
+,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TDP,Bus interface
+0,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TDP,Bus interface
+1,Radeon Pro555(Polaris 21) [298][299][300][301],June 2017,GCN 4th gen14 nm,3.0×109123 mm2,768:48:1612 CU,850,40.8,13.6,1306,1/16 SP,GDDR5128-bit,2,5100,81.60,75 W,PCIe 3.0 ×16
+2,Radeon Pro555X(Polaris 21) [298][299][300][302],July 2018,GCN 4th gen14 nm,3.0×109123 mm2,768:48:1612 CU,907,43.54,14.51,1393,1/16 SP,GDDR5128-bit,4,5100,81.60,75 W,PCIe 3.0 ×16
+3,Radeon Pro560(Polaris 21) [298][299][300][303],June 2017,GCN 4th gen14 nm,3.0×109123 mm2,1024:64:1616 CU,907,58.05,14.51,1858,1/16 SP,GDDR5128-bit,4,5080,81.28,75 W,PCIe 3.0 ×16
+4,Radeon Pro560X(Polaris 21) [298][299][300][304],July 2018,GCN 4th gen14 nm,3.0×109123 mm2,1024:64:1616 CU,1004,64.26,16.06,2056,1/16 SP,GDDR5128-bit,4,5080,81.28,75 W,PCIe 3.0 ×16
+5,Radeon Pro570(Polaris 20) [298][299][300][305],June 2017,GCN 4th gen14 nm,5.7×109232 mm2,1792:112:3228 CU,1000,112,32,3584,1/16 SP,GDDR5256-bit,4,6800,217.6,120 W,PCIe 3.0 ×16
+6,Radeon Pro575(Polaris 20) [298][299][300][306],June 2017,GCN 4th gen14 nm,5.7×109232 mm2,2048:128:3232 CU,1100,140.8,35.2,4506,1/16 SP,GDDR5256-bit,4,6800,217.6,120 W,PCIe 3.0 ×16
+7,Radeon Pro580(Polaris 20) [298][299][300][307],June 2017,GCN 4th gen14 nm,5.7×109232 mm2,2304:144:3236 CU,11001200,172.8,38.4,5530,1/16 SP,GDDR5256-bit,8,6800,217.0,150 W,PCIe 3.0 ×16

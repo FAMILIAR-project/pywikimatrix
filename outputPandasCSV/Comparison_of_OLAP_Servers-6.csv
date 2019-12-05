@@ -1,0 +1,14 @@
+,OLAP server,# cubes,# measures,# dimensions,# dimensions in cube,# hierarchies in dimension,# levels in hierarchy,# dimension members
+0,Apache Kylin,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+1,Druid,Unrestricted[a],Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+2,Apache Pinot (Incubating),Unrestricted[a],Unrestricted,Unrestricted,Unrestricted,-,-,Unrestricted
+3,Essbase[35],?,?,?,255,255,?,"20,000,000 (ASO), 1,000,000 (BSO)"
+4,IBM Cognos TM1,Unrestricted[a],Unrestricted,Unrestricted[a],256,Unrestricted[a],Unrestricted,Unrestricted
+5,icCube,2147483647,2147483647,2147483647,2147483647,2147483647,2147483647,2147483647
+6,Infor BI OLAP Server,?,10000000,?,30,?,?,10000000
+7,Jedox OLAP Server,(32 bits),,(32 bits),250,,,
+8,Kyligence,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+9,Kyvos,Unrestricted,Unrestricted,Unrestricted,Unrestricted,1,Unrestricted,Unrestricted
+10,Microsoft Analysis Services[36],2147483647,2147483647,2147483647,"2,147,483,647 (max. number of dimensions in a database)",2147483647,2147483647,"2,147,483,647 (xOLAP) Unrestricted (In-memory)"
+11,MicroStrategy Intelligence Server,Unrestricted[a],Unrestricted[a],Unrestricted[a],?,Unrestricted[a],Unrestricted[a],Unrestricted[a]
+12,SAS OLAP Server[37],Unrestricted[a],1024,128,?,128,19,4294967296

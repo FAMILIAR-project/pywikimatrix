@@ -1,0 +1,26 @@
+,Software,Microsoft Windows,Microsoft Windows.1,Microsoft Windows.2,Microsoft Windows.3,Microsoft Windows.4,Microsoft Windows.5,Microsoft Windows.6,Microsoft Windows.7,Microsoft Windows.8,Darwin/OS X,Linux,Linux.1,Linux.2,Linux.3,IBM,IBM.1,IBM.2,IBM.3,HP-UX,illumos/Solaris
+0,Software,2000,XP,Vista,2003 Server,2008 R2 Server,2008 Server,2012 Server,7 – 64 bit,8 – 64 bit,Darwin/OS X,Red Hat,SUSE,Ubuntu,CentOS,AIX,OS/390,i5/OS,z/OS,HP-UX,illumos/Solaris
+1,AdroitLogic UltraESB,Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+2,Anypoint Platform,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+3,Artix ESB,"with SP3, SP4","with SP1, SP2",,Yes,,,,,,No,Yes,Yes,,,Yes,,No,Yes,Yes,Yes
+4,Automation Anywhere Integration Pack,Yes,Yes,Yes,Yes,,,,,,No,No,No,,,No,No,No,No,No,No
+5,BizTalk Server,Yes[14],Yes[15],Yes[16],Yes[17],Yes[18],Yes[19],Yes[20],Yes[21],Yes[22],No,No,No,,,No,,No,No,No,No
+6,Flow Software,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,No,No,No,,,No,No,No,No,No,No
+7,IBM Integration Bus [23],No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes
+8,JBoss Enterprise Service Bus (ESB),Yes,Yes,Yes,Yes,,,,,,Yes,Yes,Yes,,,Yes,,,,Yes,Yes
+9,JBoss Enterprise SOA Platform,Yes,Yes,Yes,Yes,,,,,,Yes,Yes,Yes,,,Yes,,,,Yes,Yes
+10,Informatica Power Center,Yes,Yes,Yes,Yes,,,,,,,Yes,Yes,,,Yes,,Yes,Yes,Yes,Yes
+11,Openadaptor,Yes,Yes,,Yes,,,,,,Yes,Yes,Yes,,,Yes,,,,Yes,Yes
+12,OpenESB,Yes,Yes,,Yes,,,,,,Yes,Yes,Yes,,,Yes,No,No,No,Yes,Yes
+13,OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+14,Oracle BPEL Process Manager,Yes,Yes,,Yes,Yes,,Yes,Yes,,,Yes,Yes,,,5L,,No,No,Yes,Yes
+15,Oracle Enterprise Service Bus,Yes,Yes,,Yes,Yes,,Yes,Yes,,,Yes,Yes,,,Yes,,No,No,Yes,Yes
+16,PEtALS ESB,Yes,Yes,,Yes,,,,,,Yes,Yes,Yes,,,Yes,No,No,No,Yes,Yes
+17,SAP Exchange Infrastructure,Yes,Yes,Yes,Yes,,,,,,Yes,Yes,Yes,,,Yes,No,Yes[24],Yes,Yes,Yes
+18,ServiceMix,Yes,with SP2,Yes,Yes,,,,,,Yes,Yes,Yes,,,Yes,No,No,No,Yes,Yes
+19,Sonic ESB,Yes,Yes,Yes,Yes,,,,,,,Yes,Yes,,,Yes,No,No,No,Yes,Yes[25]
+20,Spagic,Yes,Yes,,Yes,,,,,,Yes,Yes,Yes,,,Yes,No,No,No,Yes,Yes
+21,Sun Java Composite Application Platform Suite,Yes,Yes[26],,Yes,,,,,,,Yes,Yes,,,Yes,No,No,No,Yes,Yes
+22,TrackerSuite.Net,No,with SP2,Yes,Yes,,,,,,,,,,,,,,,,
+23,Unify NXJ,with SP4,with SP1,,Yes,,,,,,No,Yes,Yes,,,5.3,,No,No,Yes,Yes
+24,WSO2 Enterprise Service Bus (ESB),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,,,,Yes

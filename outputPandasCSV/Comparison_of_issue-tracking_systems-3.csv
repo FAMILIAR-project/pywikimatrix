@@ -1,0 +1,39 @@
+,System,Web,Mobile web,Email,CLI,GUI,REST,SOAP,Mylyn[51],Visual Studio,Others
+0,Apache Bloodhound,Yes,No,Optional[52][53],No,No,No,No,Yes,No,Yes XMLRPC
+1,Assembla Tickets,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+2,Axosoft,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes - iPhone
+3,Bugzilla,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No[54],Yes XMLRPC[55]
+4,Debbugs,No,No,Yes,Yes,No,No,No,No,No,No
+5,Faveo Helpdesk,Yes,No,Yes,No,No,Yes,No,No,No,Yes - Android App iOS App
+6,FogBugz,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes XML
+7,Fossil,Yes,No,No,Yes,No,No,No,No,No,No
+8,FusionForge,Yes,No,No,No,No,No,Yes,No,No,No
+9,GLPI,Yes,No,Yes,No,No,Yes,No,No,No,No
+10,GNATS,Yes,No,Yes,Yes,Yes,No,No,No,No,No
+11,HP Quality Center,Yes,No,No,No,Yes[56],Yes,No,Yes[57],No[54],Yes - IntelliJ IDEA
+12,IBM Rational ClearQuest,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+13,IBM Rational Team Concert,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+14,Jira,Yes,Yes[58],Yes,Yes[59],Yes,Yes,Yes,Yes,No[54],"Yes - Android App, iPhone App"
+15,Launchpad,Yes,No,Yes,No,No,Yes,No,No,No,Yes - Python[60]
+16,MantisBT,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes - Android App
+17,Microsoft Dynamics CRM,Yes,No,Yes,No,No,No,Yes,No,No,No
+18,org-mode,No,No,No,Yes,No,No,No,No,No,No
+19,OTRS,Yes,No,Yes,No,No,Yes,Yes,No,No,No
+20,Phabricator,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No
+21,Pivotal Tracker,Yes,No,Yes,Yes,Yes,Yes,No,No,No,"Yes - XML, iOS App"
+22,Redmine,Yes,Yes[61],Yes,Partial [notes 2],No,Yes,No,Yes,No,"Yes - Android App, iOS App"
+23,Request Tracker,Yes,No,Yes,Yes,No,Yes[62],No,No,No,No
+24,Roundup,Yes,No,Yes,Yes,No,No,No,No,No,Yes XMLRPC[63]
+25,StarTeam,Yes,No,No,No,Yes,No,No,No,Yes,No
+26,Supportworks,Yes,No,Yes,No,Yes,Yes[64],No,No,No,No
+27,SysAid,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No
+28,Team Foundation Server,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No
+29,TestTrack,Yes,No,Yes,No,Yes,No,Yes,No,No,"Yes - XML, Eclipse"
+30,Trac,Yes,No[65],Optional[52],No,No,No,No,Yes,No,Yes XMLRPC
+31,TrackerSuite.Net,Yes,No,Yes,No,No,No,No,No,No,No
+32,Tuleap,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No
+33,Twproject,Yes,No,Yes,No,No,No,No,No,No,No
+34,Usersnap,Yes,No,Yes,No,Yes,No,No,No,No,No
+35,Wrike,Yes,No,No,No,No,No,No,No,No,No
+36,YouTrack,Yes,Yes[66],Yes,No,Yes,Yes,No,Yes[67],No,No
+37,System,Web,Mobile Web,Email,CLI,GUI,REST,SOAP,Mylyn[51],Visual Studio,Others

@@ -1,0 +1,24 @@
+,Format,Languages,If not found
+0,"InStrRev(«startpos,» string,substring)",VB,returns 0
+1,"instrrev(«startpos,» string,substring)",FreeBASIC,returns 0
+2,"rindex(string,substring«,startpos»)",Perl 5,returns −1
+3,"rindex(string,substring«,startpos») string.rindex(substring«,startpos»)",Raku,returns Nil
+4,"strrpos(string,substring«,startpos»)",PHP,returns FALSE
+5,"string.rfind(substring«,startpos»)",C++ (STL),returns std::string::npos
+6,"std.string.rfind(string, substring)",D,returns −1
+7,"string.rfind(substring«,startpos«, endpos»»)",Python,returns −1
+8,"string.rindex(substring«,startpos«, endpos»»)",Python,raises ValueError
+9,"rpos(string, substring«,startpos»)",Seed7,returns 0
+10,"string.rindex(substring«,startpos»)",Ruby,returns nil
+11,"strings.LastIndex(string, substring)",Go,returns −1
+12,"string.lastIndexOf(substring«,startpos»)","Java, JavaScript",returns −1
+13,"string.LastIndexOf(substring«,startpos«, charcount»»)","VB .NET, C#, Windows PowerShell, F#",returns −1
+14,(search substring string :from-end t),Common Lisp,returns NIL
+15,[string rangeOfString:substring options:NSBackwardsSearch].location,Objective-C (NSString * only),returns NSNotFound
+16,Str.search_backward (Str.regexp_string substring) string (Str.length string - 1),OCaml,raises Not_found
+17,"string.match(string, '.*()'..substring) string:match('.*()'..substring)",Lua,returns nil
+18,"Ada.Strings.Unbounded.Index(Source => string, Pattern => substring, Going => Ada.Strings.Backward)",Ada,returns 0
+19,"string.lastIndexOf(substring«,startpos«, charcount»»)",Cobra,returns −1
+20,string lastIndexOfString:substring,Smalltalk,returns 0
+21,string last substring string startpos,Tcl,returns −1
+22,(⌽<\⌽substring⍷'string')⍳1,APL,returns −1

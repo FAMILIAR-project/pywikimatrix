@@ -1,0 +1,6 @@
+,Dataset Name,Brief description,Preprocessing,Instances,Format,Default Task,Created (updated),Reference,Creator
+0,Enron Email Dataset,Emails from employees at Enron organized into folders.,"Attachments removed, invalid email addresses converted to user@enron.com or no_address@enron.com.","~ 500,000",Text,"Network analysis, sentiment analysis",2004 (2015),[172][173],"Klimt, B. and Y. Yang"
+1,Ling-Spam Dataset,Corpus containing both legitimate and spam emails.,Four version of the corpus involving whether or not a lemmatiser or stop-list was enabled.,,Text,Classification,2000,[174][175],"Androutsopoulos, J. et al."
+2,SMS Spam Collection Dataset,Collected SMS spam messages.,None.,5574,Text,Classification,2011,[176][177],T. Almeida et al.
+3,Twenty Newsgroups Dataset,Messages from 20 different newsgroups.,None.,20000,Text,Natural language processing,1999,[178],T. Mitchell et al.
+4,Spambase Dataset,Spam emails.,Many text features extracted.,4601,Text,"Spam detection, classification",1999,[179],M. Hopkins et al.

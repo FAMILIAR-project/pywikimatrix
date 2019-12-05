@@ -1,0 +1,25 @@
+,Unnamed: 0,Get object type,Is instance of (includes subtypes),Upcasting,Downcasting,Downcasting.1
+0,,Get object type,Is instance of (includes subtypes),Upcasting,Runtime check,No check
+1,ABAP Objects,N/A[71],N/A[71],=,?=,
+2,C++ (STL),typeid(x),dynamic_cast<type *>(&x) != NULL,N/A[72],dynamic_cast<type*>(ptr),(type*) ptr or static_cast<type*>(ptr)
+3,C#,x.GetType(),x is type,N/A[72],(type) x or x as type,
+4,D,typeid(x),,N/A[72],cast(type) x,
+5,Delphi,,x is type,N/A[72],x as type,
+6,eC,x._class,"eClass_IsDerived(x._class, type)",N/A[72],,(type) x
+7,Java,x.getClass(),x instanceof class,N/A[72],(type) x,
+8,Objective-C (Cocoa),[x class][73],[x isKindOfClass:[class class]],N/A[72],,(type*) x
+9,Swift,x.dynamicType,x is type,N/A[72],x as! type x as? type,
+10,JavaScript,x.constructor (If not rewritten.),x instanceof class,N/A[74],N/A[74],N/A[74]
+11,Visual Basic .NET,x.GetType(),TypeOf x Is type,N/A[72],"CType(x, type) or TryCast(x, type)",
+12,Xojo,Introspection.GetType(x),x IsA type,,"CType(x, type)",
+13,Eiffel,x.generating_type,attached {TYPE} x,attached {TYPE} x as down_x,,
+14,Python,type(x),"isinstance(x, type)",N/A[74],N/A[74],N/A[74]
+15,PHP,get_class(x),x instanceof class,N/A[74],N/A[74],N/A[74]
+16,Perl,ref(x),"x->isa(""class"")",N/A[74],N/A[74],N/A[74]
+17,Raku,x.WHAT,x.isa(class),N/A[72],type(x) or x.type,
+18,Ruby,x.class,x.instance_of?(type) or x.kind_of?(type),N/A[74],N/A[74],N/A[74]
+19,Smalltalk,x class,x isKindOf: class,N/A[74],N/A[74],N/A[74]
+20,Windows PowerShell,x.GetType(),x -is [type],N/A[72],[type]x or x -as [type],
+21,OCaml,N/A[75],N/A[75],(x :> type),,
+22,F#,x.GetType(),x :? type,(x :> type),(x :?> type),
+23,COBOL,,,x AS type[72],,

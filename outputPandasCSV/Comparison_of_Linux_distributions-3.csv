@@ -1,0 +1,49 @@
+,Distribution,x86,x86-64,ia64,ppc[103],ppc64,sparc32,sparc64,arm,hppa[104],loongson,mips[105],sh,s390,s390x,alpha[106],m68k[107],riscv
+0,Alpine Linux,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No
+1,Arch Linux,Unofficial[108]Official discontinued 2017-11-08[109],Yes,No,Discontinued unofficial port,No,No,No,Unofficial[110],No,Discontinued. Unofficial port[111],No,No,No,No,No,No,
+2,BackTrack,Discontinued from BackTrack 5 and superseded by Kali Linux[112],Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,No,No,No,
+3,BLAG,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+4,Bodhi Linux,Yes,Yes,No,No,No,No,No,Discontinued2013-10-23[113],No,No,No,No,No,No,No,No,
+5,BOSS Linux,Yes,Yes,No,Yes,Yes,No,No,?,No,No,No,No,No,No,No,No,
+6,CentOS,AltArch,Yes,Discontinued3.5-3.84.1-4.7[114],"Beta, Discontinued4.0",AltArch,Beta4.2[114][115],No,AltArch,No,No,No,No,Discontinued3.5-3.84.1-4.7[114][116],Discontinued3.5-3.84.1-4.7[114][116],Discontinued4.2-4.3[114][117][118],No,
+7,Chakra,No,Yes,No,No,No,No,No,?,No,No,No,No,No,No,No,No,
+8,CRUX,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,
+9,Debian[119],Yes,Yes4.0+,Discontinued3.0-7.0[120],Discontinued2.2-8,Yes,Discontinued2.1-4.0[121],Discontinued-7[122],Yes2.2+,Discontinued3.0-5.0,Yes,Yes3.0+,In progress,Discontinued3.0-7,Yes7+,Discontinued2.1-5.0,Discontinued2.0-3.1,In progress[123]
+10,Devuan,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+11,Dragora GNU/Linux-Libre,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+12,dyne:bolic,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+13,Fedora[124],Yes,Yes,Discontinued from Fedora 9[125],Discontinued from Fedora 17,Yes,No,Inactive from Fedora 12[126],Yes[127],No,In progress,Inactive from Fedora 13[128],No,No,Yes,No,No,In progress[129]
+14,Finnix,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,
+15,Gentoo[130],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[131],Yes,Yes[132],Yes[133][134],Yes,Yes,Yes,Yes,Yes,Test release[135]
+16,gNewSense,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,
+17,Guix[136],Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+18,Hyperbola GNU/Linux-libre,Yes,Yes,No,No,In progress[137],No,No,No,No,No,No,No,No,No,No,No,In progress[138]
+19,Kali Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+20,LibreCMC,No,No,No,No,No,No,No,No,No,No,Yes XBurst,No,No,No,No,No,
+21,Manjaro Linux,YesUnofficial[139],Yes,No,No,No,No,No,YesUnofficial[140],No,No,No,No,No,No,No,No,
+22,MEPIS,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+23,Musix GNU+Linux,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+24,OpenELEC,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+25,openSUSE[141],Discontinued42.1,Yes,No,No[142],No[142],No,partial[143],partial[144],No,No,No,No,No,No,No,No,
+26,OpenWrt[145],Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,
+27,Oracle Linux[146],Yes,Yes,Discontinued5[147],No,No,No,No,No,No,No,No,No,No,No,No,No,
+28,Parabola GNU/Linux-libre,Yes,Yes,No,No,Test release[148],No,No,"Yes, ARMv7[149][150]",No,Discontinued[151],Discontinued[151],No,No,No,No,No,Test release[152]
+29,Red Flag Linux,Discontinued8.0[153],Discontinued8.0[153],Discontinued3[154],No,Discontinued3[154],No,No,No,No,No,No,No,No,No,No,No,
+30,Red Hat Linux[155],Discontinued9.0,No,Discontinued7.1-7.2,Test release5.1[156],No,Discontinued4.0-4.25.1-6.2,Test release5.1[156],No,No,No,Test release5.1[156],No,Discontinued7.2,Yes,Discontinued2.1-7.1,Test release5.1[156],
+31,Red Hat Enterprise Linux[157],Discontinued2.1-6[158],Yes3+,Discontinued2.1-5[159],Yes3+,Yes3+,No,No,No,No,No,No,No,Discontinued3-4[160],Yes3+,No,No,
+32,Sabayon Linux,Discontinued,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+33,Scientific Linux,Yes,Yes,Discontinued3-4,No,No,No,No,No,No,No,No,No,No,No,No,No,
+34,SHR,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+35,Slackware,Yes,Yes,No,No,No,Discontinued?[161],No,Yes,No,No,No,No,Discontinued?[162],Discontinued?[162],Discontinued8.1[163],No,
+36,Solus,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+37,Source Mage GNU/Linux,Yes,Yes,No,Yes,No,No,No,No,No,?,No,No,No,No,No,No,
+38,SUSE Linux Enterprise Server[164],Yes,Yes,Yes,Yes,Yes,No,No,AArch64 only[165],No,No,No,No,No,Yes,No,No,
+39,Tor-ramdisk,Yes,Yes[166],No,No,No,No,No,No,No,No,Yes[167],No,No,No,No,No,
+40,Trisquel GNU/Linux,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,
+41,TurnKey GNU/Linux,Selected ISOsavailable,Yes,No,No,No,No,No,No - but under development by community,No,No,No,No,No,No,No,No,
+42,Ubuntu/Kubuntu/Xubuntu/Lubuntu,Yes,Yes,No,Yes,Yes,No,No,"Yes, including 64-bit ARMv8-A",No,No,No,No,No,"Ubuntu only, 16.04+[168]",No,No,
+43,Ututo,Yes,Yes,No,No,No,No,No,No,No,In progress,No,No,No,No,No,No,
+44,Void Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+45,XBMCbuntu,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,
+46,Yellow Dog Linux,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,
+47,Distribution,x86,x86-64,ia64,ppc,ppc64,sparc32,sparc64,arm,hppa,loongson,mips,sh,s390,s390x,alpha,m68k,riscv

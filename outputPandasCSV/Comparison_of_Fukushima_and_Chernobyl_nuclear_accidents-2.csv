@@ -1,0 +1,10 @@
+,Report date,Place,Period,Iodine-131(TBq),Iodine-131(TBq).1,Caesium-137(TBq),Caesium-137(TBq).1,Source
+0,Report date,Place,Period,from,to,from,to,Source
+1,2002,Chernobyl,25 April – June 1986,1600000,1940000,59000,111000,NEA[22]
+2,22 March 2011,Fukushima,12 – 15 March 2011,400000,400000,3000,30000,ZAMG[23]
+3,2 April 2011,Fukushima,12 – 19 March 2011,10000,700001,1000,70000,ZAMG[24]
+4,12 April 2011,Fukushima,11 March – 5 April[25],150000,150000,12000,12000,NSC[26]
+5,12 April 2011,Fukushima,11 – 17 March 2011,130000,130000,6100,6100,NISA[26]
+6,7 June 2011,Fukushima,11 – 17 March 2011,160000,160000,15000,15000,NISA[27]
+7,24 Aug. 2011,Fukushima,11 March – 5 April,130000,130000,11000,11000,NSC[28]
+8,15 Sept. 2011,Fukushima,March – September,100000,200000,10000,20000,Kantei[29]

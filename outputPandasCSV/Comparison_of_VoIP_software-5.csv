@@ -1,0 +1,16 @@
+,Client name,Development status,Open source client,End-to-end authentication[a],Encryption protocols,Encryption protocols.1,Encryption protocols.2,Encryption protocols.3,Forward secrecy,Multiple encryption,Encrypted group calling,"Proxy, Tor"
+0,Client name,Development status,Open source client,End-to-end authentication[a],ZRTP,ECDH,DTLS,SRTP,Forward secrecy,Multiple encryption,Encrypted group calling,"Proxy, Tor"
+1,FaceTime,Active,No[74],No[74],?,?,?,?,Yes[74],?,No,No
+2,Google Duo,Active,No,No,?,?,?,?,?,?,No,No
+3,Jitsi[b],Active,Yes,Yes[74],Yes,No,Yes,Yes,Yes[74],Yes,Yes,?
+4,Line[75][76],Active,No,?,?,?,?,?,?,?,No[75],No
+5,Linphone[b],Active,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,?,No
+6,PGPfone,Abandonware,Viewable source[77],Yes,?,?,?,?,?,?,?,?
+7,Signal,Active,Yes,Yes[74],No,Yes,No,Yes,Yes[74],Yes,No,Depends[78]
+8,Silent Phone,Active,Viewable source[79],Yes[74],Yes,?,?,Yes,Yes[74],Yes,Yes,No
+9,Telegram,Active,Yes,Yes[80],No,No,No,No,Yes,?,No,No
+10,Threema,Active,Partially[c][81],Yes[82],No,Yes[82],Yes[82],Yes[82],Partially[d][82],Yes,No,No
+11,Viber[44],Active,No,?,?,?,?,?,?,?,?,No
+12,WhatsApp,Active,Partially[c][83],Yes[83],No,Yes[83],No,Yes[83],Yes[83],Yes[83],No,No
+13,Wire,Active,Yes,Yes[84],No,?,Yes[50],Yes[50],?,Yes,Yes,No
+14,Zfone,Abandonware,Viewable source[85],Yes,Yes,Optional[86],?,Yes[87],Yes,Yes,?,?

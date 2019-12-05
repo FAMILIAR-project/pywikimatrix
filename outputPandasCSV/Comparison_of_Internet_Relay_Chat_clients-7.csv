@@ -1,0 +1,38 @@
+,Client,Multi-server,UTF-8,Proxy server,irc:// URI scheme,Automatic updates,Scripting language
+0,Bersirc,Yes,No,?,?,?,
+1,BitchX,Yes,No,?,?,?,Enhanced IrcII script
+2,ChatZilla,Yes,Yes,Yes,Yes,Yes,JavaScript
+3,Colloquy,Yes,Yes,?,Yes,Yes[Note 1],"AppleScript, Cocoa, F-Script, JavaScript, Python"
+4,degesch,Yes,Yes,Yes,,,Lua
+5,DMDirc,Yes,Partial,?,Yes,Yes,"Custom Actions system, Java plugins"
+6,ERC,Yes,Yes,Yes[Note 2],?,Yes[Note 3],Emacs Lisp
+7,HexChat,Yes,Yes,Yes,Yes,Yes,"Perl, Python, Tcl, Lua[Note 4], JavaScript, C, C++, and via D-Bus."
+8,HydraIRC,Yes,Yes,?,?,Yes,No
+9,IceChat,Yes,Yes,No,?,Yes,VBScript
+10,ircII,Yes,Yes[Note 5],?,?,?,IrcII script
+11,IRCjr,No,No,No,No,No,
+12,IRCCloud,Yes,Yes,Yes,Yes,,JavaScript
+13,Ircle,Yes,No,?,?,?,AppleScript
+14,Irssi,Yes,Yes,Yes,No,No,Perl
+15,jIRCii,Yes,Yes,Yes,?,No,Sleep
+16,KiwiIRC,Yes,Yes,Yes,Yes,,"JavaScript, Node.js"
+17,Konversation,Yes,Yes,Yes,Yes,?,"Shell script, Ruby, Python, Perl, Java, C++, C#, JavaScript[Note 6]"
+18,KVIrc,Yes,Yes,Yes,Yes,No,"KVS (custom), Perl, Python, C++"
+19,LeafChat,Yes,Yes,?,,Yes,Java
+20,LimeChat,Yes,Yes,?,?,?,
+21,Linkinus,Yes,Yes,Yes,Yes,Yes,"AppleScript, Cocoa"
+22,Mibbit,Yes,Yes,?,Yes,,
+23,mIRC,Yes,Yes,Yes,Yes,Yes[Note 7],mIRC script
+24,Nettalk,Yes,Yes,SOCKS,Yes,Yes,"VBScript, custom"
+25,Opera,Yes,Yes,?,Yes,Yes,
+26,PIRCH,Yes,No,?,?,No,Yes
+27,PJIRC,Yes,Yes,?,?,No,"Partial, JavaScript"
+28,Quassel,Yes,Yes,Yes,?,No,No
+29,qwebirc,No,Yes,No,Yes,Yes,No
+30,rcirc,Yes,Yes,?,?,No,Emacs Lisp
+31,Smuxi,Yes,Yes,Yes,?,?,Yes (language agnostic)
+32,Snak,Yes,Yes,?,?,?,"AppleScript, IrcII script"
+33,Visual IRC,Yes,No,?,?,?,Versus
+34,WeeChat,Yes,Yes,Yes,Yes,?,"C, Perl, Python, Ruby, Lua, Tcl, Scheme (Guile)"
+35,XChat,Yes,Yes,Yes,Yes,No,"Perl, Python, Tcl, Ruby, C++, ECMAScript, Scheme (Guile)"
+36,Client,Multi-server,UTF-8,Proxy server,irc:// URI scheme,Automatic updates,Scripting language

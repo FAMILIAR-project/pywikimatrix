@@ -1,0 +1,24 @@
+,Unnamed: 0,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+0,Ddoc,Yes,Yes[e],No,Yes[e],Yes[e],Yes[e],Yes[e],No,Yes[e],
+1,Document! X,Yes,Yes,No,No,No,No,No,No,No,
+2,Doxygen,Yes,Yes,Yes,Indirectly[f],Yes,Indirectly[f],Yes,Yes,Yes,No
+3,Epydoc,Yes,No,No,Yes,Indirectly[g],Indirectly[g],No,No,No,
+4,Haddock,Yes,Yes,No,No,No,No,No,Partial,No,
+5,HeaderDoc,Yes,No,No,No,No,No,Yes,No,Yes,
+6,Imagix 4D,Yes,No,Yes,No,No,No,No,No,No,
+7,Javadoc,Yes,Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],
+8,JSDoc,Yes,No,No,No,No,No,No,No,No,
+9,JsDoc Toolkit,Yes,No,No,No,No,No,No,No,Yes+JSON,
+10,Natural Docs,Yes,No,No,No,No,No,No,No,No,
+11,NDoc,Yes,Yes,No,No,No,No,No,No,No,
+12,pdoc,Yes,No,No,No,No,No,No,No,No,No
+13,phpDocumentor,Yes,Yes,No,Yes,No,No,No,Yes,Yes,
+14,pydoc,Yes,No,No,No,No,No,No,No,No,No
+15,RDoc,Yes,Yes[i],No,No,No,No,Indirectly[j],No,Yes[i],
+16,ROBODoc,Yes,Indirectly,Yes,Indirectly[g],Yes,Indirectly[g],Yes,Yes,No,
+17,Sandcastle,Yes,Yes,No,No,No,No,No,No,No,
+18,Sphinx,Yes,Yes,,Indirectly[k],Yes,,Yes,,,Yes
+19,Visual Expert,Yes,No,No,No,No,No,No,No,No,
+20,VSdocman,Yes,Yes,No,Yes,No,No,No,No,Yes,
+21,YARD,Yes,No,No,No,No,No,No,No,No,
+22,,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub

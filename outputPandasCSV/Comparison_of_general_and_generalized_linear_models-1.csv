@@ -1,0 +1,11 @@
+,Unnamed: 0,General linear model,Generalized linear model
+0,Typical estimation method,"Least squares, best linear unbiased prediction",Maximum likelihood or Bayesian
+1,Examples,"ANOVA, ANCOVA, linear regression","linear regression, logistic regression, Poisson regression, gamma regression,[8] general linear model"
+2,Extensions and related methods,"MANOVA, MANCOVA, linear mixed model","generalized linear mixed model (GLMM), generalized estimating equations (GEE)"
+3,R package and function,lm() in stats package (base R),glm() in stats package (base R)
+4,Matlab function,mvregress(),glmfit()
+5,SAS procedures,"PROC GLM, PROC REG","PROC GENMOD, PROC LOGISTIC (for binary & ordered or unordered categorical outcomes)"
+6,Stata command,regress,glm
+7,SPSS command,"regression, glm","genlin, logistic"
+8,Wolfram Language & Mathematica function,LinearModelFit[][9],GeneralizedLinearModelFit[][10]
+9,EViews command,ls[11],glm[12]

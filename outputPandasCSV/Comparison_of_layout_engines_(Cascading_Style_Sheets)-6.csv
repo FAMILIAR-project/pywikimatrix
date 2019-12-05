@@ -1,0 +1,33 @@
+,Unnamed: 0,Unnamed: 1,Trident,EdgeHTML,Gecko,WebKit,KHTML,Presto
+0,@counter-style,@counter-style,@counter-style,@counter-style,@counter-style,@counter-style,@counter-style,@counter-style
+1,css-counter-styles-3,additive-symbols,No,No,No[g 59],No,No,No
+2,css-counter-styles-3,fallback,No,No,No[g 59],No,No,No
+3,css-counter-styles-3,negative,No,No,No[g 59],No,No,No
+4,css-counter-styles-3,pad,No,No,No[g 59],No,No,No
+5,css-counter-styles-3,prefix,No,No,No[g 59],No,No,No
+6,css-counter-styles-3,range,No,No,No[g 59],No,No,No
+7,css-counter-styles-3,speak-as,No,No,No[g 59],No,No,No
+8,css-counter-styles-3,suffix,No,No,No[g 59],No,No,No
+9,css-counter-styles-3,symbols,No,No,No[g 59],No,No,No
+10,css-counter-styles-3,system,No,No,No[g 59],No,No,No
+11,@font-face,@font-face,@font-face,@font-face,@font-face,@font-face,@font-face,@font-face
+12,css-fonts-3,font-family,Yes,12,Yes,Yes,Yes,Yes
+13,css-fonts-3,font-feature-settings,Yes,12,Yes,Yes,Yes,Yes
+14,css-fonts-3,font-stretch,Yes,12,Yes,No,No,No
+15,css-fonts-3,font-style,Yes,12,Yes,Yes,Yes,Yes
+16,css-fonts-3,font-variant,Yes,12,Yes,Yes,Yes,Yes
+17,css-fonts-3,font-weight,Yes,12,Partial,Partial,Yes,Incorrect
+18,css-fonts-3,src,Yes,12,Yes,Yes,Yes,Yes
+19,css-fonts-3,unicode-range,Yes,12,36.0[g 60],No,No,No
+20,@viewport,@viewport,@viewport,@viewport,@viewport,@viewport,@viewport,@viewport
+21,css-device-adapt-1,height,10.0[t 50],12,No,No,No,2.7
+22,css-device-adapt-1,max-height,No,No,No,No,No,No
+23,css-device-adapt-1,min-height,No,No,No,No,No,No
+24,css-device-adapt-1,width,10.0[t 51],12,No,No,No,2.7
+25,css-device-adapt-1,max-width,No,No,No,No,No,No
+26,css-device-adapt-1,min-width,No,No,No,No,No,No
+27,css-device-adapt-1,zoom,No,No,No,No,No,2.7
+28,css-device-adapt-1,max-zoom,No,No,No,No,No,2.7
+29,css-device-adapt-1,min-zoom,No,No,No,No,No,2.7
+30,css-device-adapt-1,user-zoom,No,No,No,No,No,2.7
+31,css-device-adapt-1,orientation,No,No,No,No,No,No

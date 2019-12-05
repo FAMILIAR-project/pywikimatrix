@@ -1,0 +1,17 @@
+,Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features
+0,datAshur PRO,Yes,AES 256-bit XTS Hardware Encryption,FIPS 140-2 Level 3,No,USB 3.0,64GB,,OS & Platform independent- software free
+1,diskAshur PRO²,Yes,AES 256-bit XTS Hardware Encryption,FIPS 140-2[1],No,USB 3.1,5TB,,OS & Platform independent- software free
+2,SafeStick SuperSonic,No,AES 256-bit CBC Hardware Encryption,"CESG CCTM, FIPS 140-2[2]",Optional (with SafeConsole),USB 2.0,8GB,,"High transfer speeds, Inactivity lock"
+3,IronKey S100,No,AES 128-bit CBC Hardware Encryption,FIPS 140-2 Level 2,Enterprise Model only,USB 2.0,16GB,Identity Manager; Secure Sessions,
+4,IronKey S200,No,AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Enterprise Model only,USB 2.0,16GB,Identity Manager; Secure Sessions,
+5,IronKey D200,No,AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Enterprise Model only,USB 2.0,32GB,Identity Manager; Secure Sessions,
+6,CryptX2,Yes,AES 256-bit CBC Hardware Encryption,No,No,USB 2.0,64GB / Future Support for 4TB,No Software Required,"ID Verify, Panic Mode, Upgradeable Firmware"
+7,DataTraveler 5000,No,AES 256-bit XTS Hardware Encryption,FIPS 140-2 Level 2[1],No,USB 2.0,16GB,,Water resistant
+8,DataTraveler Locker+,No,Hardware Encryption,No,No,USB 2.0,32GB,No,
+9,DataTraveler Vault,No,AES 256-bit Hardware Encryption,No,No,USB 2.0,32GB,DTVaultLock,Second unsecured partition
+10,DataTraveler Vault – Privacy Edition,No,AES 256-bit Hardware Encryption,No,,USB 2.0,32GB,,Waterproof to 4'
+11,JumpDrive SecureII Plus,No,Hardware,FIPS 140-2 ?,,USB 2.0,,,
+12,IronClad,Yes,AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Yes,USB 2.0,16GB,,
+13,Cruzer Enterprise,No,Hardware,FIPS 140-2 ?,Yes,USB 2.0,,,
+14,Store 'n' Go Corporate,No,Hardware,FIPS 140-2 ?,,USB 2.0,,,
+15,Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features

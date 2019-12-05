@@ -1,0 +1,29 @@
+,Unnamed: 0,Shell command,Execute program,Replace current program with new executed program
+0,Ada[1],Not part of the language standard. Commonly done by compiler provided packages or by interfacing to C or POSIX.[15],Not part of the language standard. Commonly done by compiler provided packages or by interfacing to C or POSIX.[15],Not part of the language standard. Commonly done by compiler provided packages or by interfacing to C or POSIX.[15]
+1,C,"system(""command"");",,"execl(path, args); or execv(path, arglist);"
+2,C++,"system(""command"");",,"execl(path, args); or execv(path, arglist);"
+3,Objective-C,"system(""command"");",[NSTask launchedTaskWithLaunchPath:(NSString *)path arguments:(NSArray *)arguments];,
+4,C#,,"System.Diagnostics.Process.Start(path, argstring);",
+5,F#,,"System.Diagnostics.Process.Start(path, argstring);",
+6,Go,,"exec.Run(path, argv, envv, dir, exec.DevNull, exec.DevNull, exec.DevNull)","os.Exec(path, argv, envv)"
+7,Visual Basic,"Interaction.Shell(command «, WindowStyle» «, isWaitOnReturn»)",,
+8,Visual Basic .NET,"Microsoft.VisualBasic.Interaction.Shell(command «, WindowStyle» «, isWaitOnReturn»)","System.Diagnostics.Process.Start(path, argstring)",
+9,Xojo,"Shell.Execute(command «, Parameters»)","FolderItem.Launch(parameters, activate)",
+10,D,"std.process.system(""command"");",,"std.process.execv(path, arglist);"
+11,Java,,Runtime.exec(command); or new ProcessBuilder(command).start();,
+12,JavaScript Windows Script Host implementation,"WScript.CreateObject (""WScript.Shell"").Run(command «, WindowStyle» «, isWaitOnReturn»);",WshShell.Exec(command),
+13,Common Lisp,(shell command),,
+14,Scheme,(system command),,
+15,ISLISP,,,
+16,Pascal,system(command);,,
+17,OCaml,"Sys.command command, Unix.open_process_full command env (stdout, stdin, stderr),...","Unix.create_process prog args new_stdin new_stdout new_stderr, ...",Unix.execv prog args or Unix.execve prog args env
+18,Standard ML,OS.Process.system command,"Unix.execute (path, args)","Posix.Process.exec (path, args)"
+19,Haskell (GHC),System.system command,System.Process.runProcess path args ...,Posix.Process.executeFile path True args ...
+20,Perl,system(command) or $output = `command` or$output = qx(command),,"exec(path, args)"
+21,Ruby,system(command) or output = `command`,,"exec(path, args)"
+22,PHP,system(command) or $output = `command` or exec(command) or passthru(command),,
+23,Python,os.system(command) or subprocess.Popen(command),"subprocess.call([""program"", ""arg1"", ""arg2"", …])","os.execv(path, args)"
+24,S-Lang,system(command),,
+25,Fortran,"CALL EXECUTE_COMMAND_LINE (COMMAND «, WAIT» «, EXITSTAT» «, CMDSTAT» «, CMDMSG») [a]",,
+26,Windows PowerShell,[Diagnostics.Process]::Start(command),«Invoke-Item »program arg1 arg2 …,
+27,Bash shell,output=`command` or output=$(command),program arg1 arg2 …,

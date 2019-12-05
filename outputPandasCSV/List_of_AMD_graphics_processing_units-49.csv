@@ -1,0 +1,14 @@
+,Model(Codename),Launch,Architecture(Fab),Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Memory[e],Memory[e].1,Memory[e].2,Memory[e].3,TDP (W)
+0,Model(Codename),Launch,Architecture(Fab),Config[f],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Processing power[a][d](GFLOPS),Bus type &width (bit),Size (GiB),Clock (MHz),Band-width (GB/s),TDP (W)
+1,RadeonHD 8550M / 8630M(Sun LE),8 January 2013,GCN 1st gen(28 nm),384:24:8,650700,5.25.6,15.616.8,537.6,DDR364,1,900,14.4,Unknown
+2,RadeonHD 8570M / 8650M(Sun Pro),8 January 2013,GCN 1st gen(28 nm),384:24:8,650700,5.25.6,15.616.8,537.6,GDDR564,1,1125,36,Unknown
+3,RadeonHD 8670M(Mars XT),8 January 2013,GCN 1st gen(28 nm),384:24:8,775825,6.26.6,18.619.8,633.6,DDR364,1,900,14.4,Unknown
+4,RadeonHD 8690M(Sun XT),8 January 2013,GCN 1st gen(28 nm),384:24:8,775825,6.26.6,18.619.8,633.6,GDDR564,1,1125,36,Unknown
+5,RadeonHD 8730M(Mars LE),8 January 2013,GCN 1st gen(28 nm),384:24:8,650700,5.25.6,15.616.8,537.6,DDR3128,2,1000,32,Unknown
+6,RadeonHD 8750M(Mars Pro),8 January 2013,GCN 1st gen(28 nm),384:24:8,620–775670–825,4.966.6,14.8819.8,514.56633.6,DDR3GDDR5128,2,1000,3264,Unknown
+7,RadeonHD 8770M(Mars XT),8 January 2013,GCN 1st gen(28 nm),384:24:8,775825,6.26.6,18.619.8,633.6,GDDR5128,2,1125,72,Unknown
+8,RadeonHD 8790M(Mars XTX),8 January 2013,GCN 1st gen(28 nm),384:24:8,850900,6.87.2,20.421.6,691.2,GDDR5128,2,1125,72,Unknown
+9,RadeonHD 8830M(Venus LE),8 January 2013,GCN 1st gen(28 nm),640:40:16,575625,9.210,2325,800,DDR3128,2,1000,32,Unknown
+10,RadeonHD 8850M(Venus Pro),8 January 2013,GCN 1st gen(28 nm),640:40:16,575–725625–775,9.212.4,2331,800992,DDR3GDDR5128,2,10001125,3272,Unknown
+11,RadeonHD 8870M(Venus XT),8 January 2013,GCN 1st gen(28 nm),640:40:16,725775,11.612.4,2931,992,DDR3GDDR5128,2,10001125,3272,Unknown
+12,RadeonHD 8970M(Neptune XT),8 January 2013,GCN 1st gen(28 nm),1280:80:32,850900,27.228.8,6872,2304,GDDR5256,24,1200,153.6,100

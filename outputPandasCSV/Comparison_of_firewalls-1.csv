@@ -1,0 +1,23 @@
+,Firewall,License,Cost and usage limits,OS
+0,Avast Internet Security,Proprietary,Paid,Microsoft Windows
+1,Comodo InternetSecurity,Proprietary,Free,"Windows 10/8.1/8/7/Vista x32/x64, XP x32"
+2,Intego VirusBarrier,Proprietary,Paid,Mac OS X 10.5 or later; on an Xserve
+3,KasperskyInternet Security,Proprietary,Paid / 30 day trial,Windows unknown versions x32/x64
+4,LavasoftPersonal Firewall,Proprietary,Paid,Windows unknown versions x32/x64
+5,MicrosoftForefront ThreatManagementGateway,Proprietary,Discontinued,Windows unknown versions x64
+6,NetLimiter,Proprietary,Paid,"Windows 10, 8, 7 x64"
+7,Norton 360,Proprietary,Paid,Windows unknown versions x32/x64
+8,Online ArmorPersonal Firewall,Proprietary,Discontinued,Windows unknown versions x32/x64
+9,OutpostFirewall Pro,Proprietary,Discontinued,"Windows 10, 8, 7, Vista, XP x32/x64"
+10,PC ToolsFirewall Plus,Proprietary,Discontinued,Windows unknown versions x32/x64
+11,SygatePersonal Firewall,Proprietary,Discontinued,Windows unknown versions x32
+12,Windows Firewall,Proprietary,Included with WindowsXP SP2 and later,Windows versions x32/x64
+13,ZoneAlarm,Proprietary,Free / Paid,"Windows 10/8.1/8/7/Vista x32/x64, XP x32"
+14,Netfilter/iptables,GPL,Free,Linux kernel module
+15,nftables,GPL,Free,Linux kernel (>=3.13) module
+16,Shorewall,GPL,Free,Linux-based appliance
+17,PeerBlock,GPL,Free,"Windows 8/8.1, 7, Vista x32/x64"
+18,NPF,BSD,Free,NetBSD kernel module
+19,PF,BSD,Free,*BSD kernel module
+20,ipfirewall,BSD,Free,*BSD package
+21,IPFilter,GPLv2,Free,Package for multiple UNIX-like operating systems

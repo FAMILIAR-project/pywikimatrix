@@ -1,0 +1,10 @@
+,NAME,Maximum zoom,Object limit per document,Control point limit,Color management for print,Thumbnails,Adjust Image (functions),Text Recognition (OCR),Scripting support
+0,Easy Trace,12800x,No Limit,?,Yes,Yes,Yes,No,No
+1,FreeHand,64x,?,?,No,?,?,No,Yes
+2,Graphic Tracer Professional,No limit,No limit,No limit,No,?,?,Yes,No
+3,Illustrator,640x,?,?,Yes,?,?,No,Yes
+4,Potrace,,?,?,No,?,?,No,No
+5,ImageTracer[1],,No limit,No limit,No,No,?,No,Yes
+6,Scan2CAD,64K,No limit,No limit,Yes,?,?,Yes,Yes
+7,WinTopo Pro[2],512x,No limit,No limit,Yes,Yes,Yes,No,Yes
+8,,Maximum zoom,Object limit per document,Control point limit,Color management for print,Thumbnails,adjust image (functions),Text Recognition (OCR),Scripting support

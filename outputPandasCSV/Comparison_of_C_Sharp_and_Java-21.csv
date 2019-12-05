@@ -1,0 +1,10 @@
+,Native interoperability,Java,C#
+0,Cross-language interoperability,"Yes (with GraalVM, Nashorn, CORBA, JNI or JNA)[91]",Yes; C# was designed for it[91]
+1,External/native methods,Yes,Yes
+2,Marshalling,External glue code needed,Yes; metadata controlled
+3,Pointers and arithmetics,Yes[92],Yes
+4,Native types,Yes[93],Yes
+5,Fixed-size buffers,No,Yes
+6,Explicit stack allocation,No,Yes
+7,Address-of,No,Yes
+8,Object pinning (fix variable to address),No,Yes

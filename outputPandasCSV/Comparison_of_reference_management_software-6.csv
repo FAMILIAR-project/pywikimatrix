@@ -1,0 +1,29 @@
+,Software,HTML,LaTeX[25],RTF,Plain text,RSS,Other
+0,Bebop,Yes,No,No,No,Yes,unAPI
+1,BibBase,Yes,No,No,No,Yes,No
+2,BibDesk,Yes,Yes,Yes,Yes,Yes,"Atom, DOC, PDF, XML,"
+3,Biblioscape,Yes,No,Yes,Yes,No,No
+4,BibSonomy,Yes,No,Yes,Yes,Yes,OpenOffice-CSV
+5,Bibus,Yes,No,No,No,No,No
+6,Bookends,Yes,No,Yes,Yes,No,clipboard
+7,Citavi,Yes,Yes[26],Yes,Yes,No,"clipboard, DOC, ODT, PDF, HTML"
+8,CiteULike,Yes,No,Yes,Yes,Yes,PDF
+9,colwiz,Yes,Yes,Yes,No,No,PDF
+10,EndNote,Yes,No,Yes,Yes,No,"clipboard, XML"
+11,F1000Workspace,Yes,No,Yes,Yes,No,PDF
+12,JabRef,Yes,Yes,Yes,Yes,No,clipboard
+13,KBibTeX,Yes,No,Yes,No,No,"PDF, PS"
+14,Mendeley,Yes,Yes[27],Yes,Yes,Yes,"clipboard, embeddable HTML widget, RSS"
+15,Paperpile,?,?,?,?,?,?
+16,Pybliographer,Yes,?,No,Yes,No,No
+17,ReadCube (now Papers),Yes,No,No,No,No,PDF
+18,refbase,Yes,Yes,Yes,Yes,Yes,"Markdown, PDF, unAPI"
+19,RefDB,Yes,?,Yes,Yes,No,"DocBook, TEI"
+20,Reference Manager,Yes,No,Yes,Yes,No,clipboard
+21,Referencer,?,?,?,?,?,?
+22,RefWorks,Yes,No,Yes,Yes,No,"DOC, ODT"
+23,SciRef,No,No,Yes,Yes,No,"Doc, others"
+24,Sente,Yes,No,Yes,Yes,No,clipboard
+25,Wikindx,Yes,No,Yes,Yes,Yes,Multiple via BibUtils plug-in
+26,WizFolio,Yes,No,Yes,Yes,No,"clipboard, DOC"
+27,Zotero,Yes,Possible via plugin[28],Yes,Possible via plugins[29],Yes,clipboard

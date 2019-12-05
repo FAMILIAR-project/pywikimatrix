@@ -1,0 +1,26 @@
+,Driver,Chipset,Integration,Free firmware[note 2],License,Original/Primary developer,Development methodologies,Free software[note 3]
+0,an,"Aironet 4500/4800, Cisco Aironet 340/350",Integrated,,BSD,Bill Paul (FreeBSD),Ported from FreeBSD,Yes
+1,ath,Atheros AR521*/ AR2413/ AR2417/ AR5413/ AR5416/ AR5424/ AR9160,Integrated,,BSD,Sam Leffler (FreeBSD),Binary blobs ported from FreeBSD,Yes
+2,athn,Atheros AR5008 up to the AR9287,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+3,atu,Atmel at76c503/ at76c503a/ at76c505/ at76c505a,Integrated,,BSD,Dan Vreeken (FreeBSD),Ported from OpenBSD,Yes
+4,atw,ADMtek ADM8211,Integrated,,BSD,David Young (NetBSD),,Yes
+5,awi,AMD PCnetMobile,Integrated,,BSD,,,Yes
+6,bwi,Broadcom BCM430x/4318,Integrated,,BSD,Sepherosa Ziehau (DragonflyBSD),Ported from Dragonfly BSD,Yes
+7,cnw,Netwave AirSurfer,Integrated,,BSD,,,Yes
+8,ipw,Intel PRO/Wireless 2100,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+9,iwi,Intel PRO/Wireless 2200BG/2915ABG,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+10,iwm,"Intel Wireless WiFi 7260, 7265, 3160",Integrated,No,BSD,Antti Kantee (NetBSD),,Yes
+11,iwn,Intel Wireless WiFi Link 4965/ 5000/ 1000/ 6000,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+12,malo,Marvell 88W8335/88W8310,Integrated,No,BSD,Claudio Jeker (OpenBSD),Ported from OpenBSD,Yes
+13,otus,Atheros AR9001U,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+14,ral,Ralink RT2500/ RT2501/ RT2600/ RT2500USB/RT3592,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+15,ray,Raytheon Raylink / WebGear Aviator,Integrated,,BSD,Christian E. Hopps (NetBSD),,Yes
+16,rtw,Realtek RTL8180L,Integrated,,BSD,David Young (NetBSD),,Yes
+17,rtwn,Realtek RTL8188CE and RTL8192CE,Integrated,,BSD,Stefan Sperling (OpenBSD),Ported from OpenBSD,Yes
+18,run,"Ralink RT2700U, RT2800U and RT3000U",Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+19,upgt,Conexant/Intersil PrismGT SoftMAC USB IEEE 802.11b/g,Integrated,,BSD,Marcus Glocker (OpenBSD),Ported from OpenBSD,Yes
+20,urtw,Realtek RTL8187B/L,Integrated,No,BSD,Weongyo Jeong (FreeBSD),Ported from FreeBSD,Yes
+21,urtwn,"Realtek RTL8188CUS, RTL8188CE-VAU, RTL8188EUS, RTL8188RU, and RTL8192CU",Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+22,wi,Lucent Technologies WaveLAN/IEEE and PRISM-II 802.11,Integrated,No,BSD,Bill Paul,,Yes
+23,wpi,Intel PRO/Wireless 3945ABG,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes
+24,zyd,ZyDAS ZD1211/ ZD1211B,Integrated,No,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,Yes

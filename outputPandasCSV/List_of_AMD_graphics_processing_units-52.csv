@@ -1,0 +1,16 @@
+,Model(Codename),Launch,Architecture(Fab),Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Memory,Memory.1,Memory.2,Memory.3,TDP
+0,Model(Codename),Launch,Architecture(Fab),Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Processing power[a][d](GFLOPS),Bus type& width,Size (GiB),Clock (MHz),Band-width (GB/s),TDP
+1,RadeonR5 M420[141](Jet Pro),15 May 2016,GCN 1st gen(28 nm),320:20:8,780855,15.617.1,6.246.84,499547,DDR364-bit,2,1000,16.0,~20 W
+2,RadeonR5 M430[142](Exo Pro),15 May 2016,GCN 1st gen(28 nm),320:20:8,1030?,20.6,8.2,659.2659.2,DDR364-bit,2,1000,14.4,18 W
+3,RadeonR7 M435[143](Jet Pro),15 May 2016,GCN 1st gen(28 nm),320:20:8,780855,15.617.1,6.246.84,499547,GDDR564-bit,4,1000,32,~20 W
+4,RadeonR7 M440[144](Meso Pro),15 May 2016,GCN 1st gen(28 nm),320:20:8,1021?,20.4,8.17,653653,DDR364-bit,4,1000,16,~20 W
+5,RadeonR7 M445[145](Meso Pro),14 May 2016,GCN 1st gen(28 nm),320:20:8,780920,15.618.4,6.247.36,499589,GDDR564-bit,4,1000,32,~20 W
+6,RadeonR7 M460[146][147](Meso XT),April 2016,GCN 1st gen(28 nm),384:24:8,11001125,26.427.0,8.89.00,844864,DDR364-bit,2,900,14.4,Unknown
+7,RadeonRX 460[148](Baffin),August 2016,GCN 4th gen(14 nm),896:56:16,Unknown,Unknown,Unknown,Unknown,GDDR5128-bit,2,1750,112,35 W?
+8,RadeonR7 M465[149][150](Litho XT),May 2016,GCN 1st gen(28 nm),384:24:8,825960,19.823.0,6.67.68,634737,GDDR5128-bit,4,1150,32,Unknown
+9,RadeonR7 M465X[151](Tropo XT),May 2016,GCN 1st gen(28 nm),512:32:16,900925,28.829.6,14.414.80,921947,GDDR5128-bit,4,1125,72,Unknown
+10,RadeonR9 M470[152](Strato Pro),May 2016,GCN 2nd gen(28 nm),768:48:16,9001000,43.248.0,14.416.00,13821536,GDDR5128-bit,4,1500,96,~75 W
+11,RadeonR9 M470X[153](Strato XT),May 2016,GCN 2nd gen(28 nm),896:56:16,10001100,56.061.6,16.0017.60,1792 1971,GDDR5128-bit,4,1500,96,~75 W
+12,RadeonRX 470[154](Ellesmere Pro),August 2016,GCN 4th gen(14 nm),2048:128:32,Unknown,Unknown,Unknown,Unknown,GDDR5256-bit,4,1650,211,85 W?
+13,RadeonRX 480M(Baffin),TBA,GCN 4th gen(14 nm),1024:xx:xx,Unknown,Unknown,Unknown,Unknown,GDDR5128-bit,Unknown,Unknown,Unknown,35 W
+14,RadeonR9 M485X[155](Antigua XT),May 2016,GCN 3rd gen(28 nm),2048:128:32,723,92.5,23.14,2961,GDDR5256-bit,8,1250,160,~100 W

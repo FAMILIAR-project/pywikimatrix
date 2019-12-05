@@ -1,0 +1,38 @@
+,File Manager,Undo/redo file operation,File compression,File encryption,Rename busy files,File preview,File coloring filter [57],File selection filter,Paste clipboard as file,File and folder reports,ACL (Access control list),Mass Rename [58],Run executable files
+0,Altap Salamander,?,Yes,Yes,?,Yes,Yes,"Yes, multiple [59]",?,Yes,Yes [60],Yes,Yes
+1,Commander One,?,Yes,Yes,Yes,Yes,Yes,Yes,?,No,?,?,?
+2,CRAX Commander,?,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes
+3,Directory Opus,Yes,Yes,Partial,Partial,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+4,Dired,?,Yes,Yes,Yes,No,Yes,Yes,No,?,No,Yes,Yes
+5,Documents by Readdle,,,,,,,,,,,,
+6,Dolphin,Yes,Yes,Yes,Yes,Yes,?,?,Yes,?,Yes,Partial,Yes
+7,Double Commander,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+8,emelFM2,?,Yes,Yes,Yes,No,?,Yes,No,?,Yes,?,?
+9,FAR Manager,?,Yes,Yes,Yes,Yes,Yes,Yes,Partial [61],Yes,Plugin,Plugin,?
+10,File Commander,?,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,?
+11,File Manager,?,Yes,?,?,No,Yes,Yes,No,?,Yes,Yes,Yes
+12,Files (Apple),,Yes,,,Yes,,,,,,,
+13,Files by Google,,,,,,,,,,,,
+14,Finder,Yes,Yes,Yes,Yes,Yes,Yes,?,No,?,Yes,Yes,Yes
+15,ForkLift,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,?
+16,GNOME Commander,?,Yes,?,?,Yes,Yes,?,?,?,No,Yes,?
+17,Konqueror,Partial [62],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[63],Yes
+18,Krusader,?,Yes,Yes,Yes,Yes,No,Yes,Yes,?,Yes,Yes[63],Yes
+19,Midnight Commander,?,Yes,?,?,?,Yes,Yes,Partial[64],?,?,Yes,Yes
+20,GNOME Files (Nautilus),Yes,Yes,No,Yes,Yes,No,No,Partial [65],No,Yes,No,No [66]
+21,Nemo,Yes,Yes,Yes,?,Yes,Yes,?,Yes,?,?,No,Yes
+22,Nomad.NET,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial,?
+23,Path Finder,?,Yes,No [67],No,Yes,No,Yes,No,Yes,No,No,?
+24,PCManFM,No,Yes,?,Yes,No,?,?,?,?,?,?,Yes
+25,ROX-Filer,?,With helper applications,With helper applications,Yes,Yes,No,Yes,No,No,No,Yes,?
+26,STDU Explorer,?,No,No,No,Yes,No,No,No,No,No,No,?
+27,Thunar,No,No,No,?,Yes,No,Yes,?,?,?,Yes,Yes
+28,Total Commander,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Log file,Yes,?
+29,Windows Explorer,Yes,Yes,Partial[68],No,Yes,No,No,Partial [69],No,Yes [70],Partial,Yes
+30,Xandros File Manager,?,?,?,?,?,?,?,?,?,?,?,?
+31,Xfe,Yes,Yes,No,Yes,No,?,Yes,No,?,Yes,No,?
+32,Xfm,?,?,?,?,?,?,?,?,?,?,?,?
+33,xplorer²,No,Yes,Partial [68],Partial,Yes,Yes,Yes,Yes,Yes,Yes [71],Yes,?
+34,XYplorer,Yes,Yes,Partial [68],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+35,ZTreeWin,?,Yes,Partial [72],Yes,Yes,Yes,Yes,No,Yes,No,Yes,?
+36,File Manager,Undo/redo file operation,File compression,File encryption,Rename busy files,File preview,File coloring filter,File selection filter,Paste clipboard as file,File and folder reports,ACL (Access control list),Mass Rename,Run executable files

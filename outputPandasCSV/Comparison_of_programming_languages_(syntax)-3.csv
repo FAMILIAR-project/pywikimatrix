@@ -1,0 +1,21 @@
+,Symbol,Languages
+0,comment ~ ;,"ALGOL 60, SIMULA"
+1,"¢ ~ ¢,# ~ #, co ~ co,comment ~ comment",ALGOL 68[12][13]
+2,/* ~ */,"ActionScript, AutoHotkey, C, C++, C#, D,[14] Go, Java, JavaScript, kotlin, Objective-C, PHP, PL/I, Prolog, Rexx, Rust (can be nested), Scala (can be nested), SAS, SASS, SQL, Swift (can be nested), Visual Prolog, CSS"
+3,#cs ~ #ce,AutoIt[15]
+4,/+ ~ +/,D (can be nested)[14]
+5,/# ~ #/,Cobra (can be nested)
+6,<# ~ #>,Powershell
+7,=begin ~ =cut,Perl
+8,#`( ~ ),"Perl6 (bracketing characters can be (), <>, {}, [], any Unicode characters with BiDi mirrorings, or Unicode characters with Ps/Pe/Pi/Pf properties)"
+9,=begin ~ =end,Ruby
+10,"#<TAG> ~ #</TAG>, #stop ~ EOF,#iffalse ~ #endif, #ifntrue ~ #endif, #if false ~ #endif, #if !true ~ #endif",S-Lang[16]
+11,{- ~ -},Haskell (can be nested)
+12,(* ~ *),"Delphi, ML, Mathematica, Object Pascal, Pascal, Seed7, Applescript, OCaml (can be nested), Standard ML (can be nested), Maple, Newspeak, F#"
+13,{ ~ },"Delphi, Object Pascal, Pascal"
+14,|# ~ #|,Curl
+15,%{ ~ %},MATLAB[11] (the symbols must be in a separate line)
+16,#| ~ |#,"Lisp, Scheme, Racket (can be nested in all three)."
+17,"--[[ ~ ]],--[=[ ~ ]=],--[=...=[ ~ ]=...=]",Lua (brackets can have any number of matching = characters; can be nested within non-matching delimiters)
+18,""" ~ """,Smalltalk
+19,(comment ~ ),Clojure

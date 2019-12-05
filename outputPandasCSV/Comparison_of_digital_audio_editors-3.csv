@@ -1,0 +1,57 @@
+,Unnamed: 0,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+0,ACID Pro,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No
+1,Acoustica,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+2,Ardour,No,Yes,Yes,Unknown,Yes,Yes,No,No,Yes,No,No
+3,Audacity,No,Yes,Yes,No,Yes,Yes,No,No,Only on OS X[2],No,No
+4,AudioDesk,Returns only,No,Via converter,No,No,No,No,No,Yes,No,Yes
+5,Audiotool,No,No,No,No,No,No,No,No,No,No,No
+6,Audition,"Partial (Pre CS5.5 - Yes, CS5.5 - No)",Yes,Yes,Yes,No,No,No,No,Yes,"Partial (Pre CS5.5 - Yes, CS5.5 - No)",No
+7,BIAS Peak,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+8,Bitwig Studio,No,Yes,Yes,Yes,No,No,No,No,No,No,No
+9,Cakewalk by BandLab,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No
+10,Cubase,Yes,No,Yes,Yes,No,No,No,No,No,Terminated (SX3.1),No
+11,Diamond Cut ART,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+12,Digital Performer,Yes,No,Yes,Yes,No,No,No,Yes (with Digi TDM or HD hardware via DAE),Yes,No,Yes
+13,Ecasound,No,Yes,No,No,Yes,No,No,No,No,No,No
+14,FL Studio,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No
+15,GarageBand,Yes,No,No,No,No,No,No,No,Yes,No,No
+16,Goldwave,No,No,Beta,Unknown,No,No,No,No,No,Yes,No
+17,,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+18,Harrison Mixbus,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No
+19,Jokosher,No,No,No,Unknown,Yes,No,No,No,No,No,No
+20,Kristal,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+21,Live,Yes,No,Yes,Yes (Live 10.1 and newer),No,No,No,No,Yes,No,No
+22,LMMS,No,Yes,Yes,Unknown,Yes,No,No,No,No,No,No
+23,Logic Express/Studio,Yes,No,No,No,No,No,No,No,Yes,No,No
+24,Mixcraft,Yes,No,Yes,Yes,No,No,No,No,No,DirectX effects only,No
+25,mp3DirectCut,No,No,No,No,No,No,No,No,No,No,No
+26,MuLab,Yes,Unknown,Yes,No,No,No,No,No,No,No,No
+27,MusE,No,Yes,Yes,Unknown,Yes,Yes,Yes,No,No,No,No
+28,n-Track,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No
+29,Nuendo,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+30,NU-Tech,No,No,Yes,Unknown,No,No,No,No,No,No,No
+31,Podium,Yes,No,Yes,No,No,No,No,No,No,No,No
+32,Pro Tools,Yes,No,No,No,No,No,No,Before version 11,No,No,No
+33,Qtractor,No,Yes,Yes,Unknown,Yes,Yes,Yes,No,Yes,No,No
+34,,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+35,REAPER,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No
+36,Reason,Yes,No,Yes,No,No,No,No,No,No,No,No
+37,Record,Yes,No,No,No,No,No,No,No,No,No,No
+38,Renoise,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No
+39,RiffWorks,Yes,No,Yes,Unknown,No,No,No,No,Yes,No,No
+40,Rosegarden,No,Yes,No,No,Yes,No,Yes,No,No,No,No
+41,Samplitude,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No
+42,Sound Forge,No,No,Yes,Unknown,No,No,No,No,Yes,Yes,No
+43,Soundbooth,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+44,Soundscape 32,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+45,SoX,No,No,No,No,Yes,No,No,No,No,No,No
+46,SpectraLayers,No,No,Yes,Unknown,No,No,No,No,No,No,No
+47,Studio One,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No
+48,Sweep,No,No,No,No,Yes,No,No,No,No,No,No
+49,Total Recorder,No,No,No,No,No,No,No,No,No,No,No
+50,Tracktion,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No
+51,Traverso,No,Yes,No,Unknown,No,Yes,No,No,No,No,No
+52,WaveLab,No,No,Yes,Yes,No,No,No,No,No,No,No
+53,WavePad,No,No,Yes,No,No,No,No,No,No,Yes,No
+54,WaveSurfer,No,No,No,No,No,No,No,No,No,No,No
+55,,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS

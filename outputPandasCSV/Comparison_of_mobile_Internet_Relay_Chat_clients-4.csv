@@ -1,0 +1,13 @@
+,Client,CHAT,Whiteboard,SEND,GET,RESUME,TSEND,SEND T,XMIT,Passive DCC,Server,RDCC,REVERSE,RSEND,Reverse / Firewall DCC,File servers (FSERVs),XDCC
+0,AndroidChat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+1,Mobile Colloquy,Yes[citation needed],No,No,?,No,No,No,No,No,No,No,No,No,No,No,No
+2,fIRC,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+3,jmIrc,No,No,No,?,No,No,No,No,No,No,No,No,No,No,No,No
+4,k-IRC,No,No,No,?,No,No,No,No,No,No,No,No,No,No,No,No
+5,Virca,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+6,wIRC,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+7,WLIrc,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+8,Yaaic,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+9,Simple IRC,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+10,zsIRC,No,No,No,?,No,No,No,No,No,No,No,No,No,No,No,No
+11,Client,CHAT,Whiteboard,SEND,GET,RESUME,TSEND,SEND T,XMIT,Passive DCC,Server,RDCC,REVERSE,RSEND,Reverse / Firewall DCC,File servers (FSERVs),XDCC

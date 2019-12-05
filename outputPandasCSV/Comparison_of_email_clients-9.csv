@@ -1,0 +1,49 @@
+,Client,Label messages,Label messages.1,Label messages.2,Label messages.3,Reformat received messages,Reformat received messages.1,Bi-directional text support,Composing messages,Composing messages.1,Composing messages.2,Native images preview,Native images preview.1,Native images preview.2,Native images preview.3,Native images preview.4,Postpone / scheduled message sending,Native documents preview,Native documents preview.1,Native documents preview.2,Native documents preview.3,Native documents preview.4,Native documents preview.5,Native documents preview.6
+0,Client,with colors,with flag,antidelete,add note,"edit headers (e.g., Subject)",forced recode [Note 1],Bi-directional text support,Spell checking,Signatures,Bottom-posts replies,jpeg,gif,bmp,png,others,Postpone / scheduled message sending,txt,pdf,doc,xls,odt,ods,others
+1,Alpine,Yes,Yes,?,?,?,?,?,Yes,Yes,?,?,?,?,?,?,Yes,Yes,?,?,?,?,?,?
+2,Becky! Internet Mail,Yes,Yes,?,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+3,Citadel,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+4,Claws Mail,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,with a plugin,?,?,?,?,?
+5,Cone,Yes,Yes,Yes,No,?,?,?,Yes,No,?,No,No,No,No,No,?,?,?,?,?,?,?,?
+6,Courier,Yes,Yes,No,No,Yes,?,?,Yes,Yes,?,No,No,No,No,No,Yes,?,No,No,No,No,No,?
+7,Elm,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+8,eM Client,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?
+9,EmailTray,Yes,No,No,No,No,No,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,Yes,Yes,Yes,Yes,No,No,?
+10,Eudora,Yes,Yes,No,No,Yes,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,QuickTime,Yes,?,?,?,?,?,?,?
+11,Eureka Email,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+12,Evolution,Yes,Yes,?,?,No,?,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+13,Gnus,Yes,Yes,Yes,?,?,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,XPM,Yes,?,?,?,?,?,?,?
+14,GroupWise,Yes,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+15,Hiri,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+16,i.Scribe / InScribe,Yes,No,No,Yes,No,No,No,Yes [Note 2],Yes,Yes,Yes [Note 3],Yes,Yes,Yes [Note 4],"ICO, TIFF",Yes,No,No,No,No,No,No,No
+17,IBM Notes,Yes,Yes,?,?,Yes,?,?,Yes,Yes,?,Yes,Yes,Yes,No,"CGM, Lotus PIC, PCX, TIFF",?,Yes,Yes,Yes,Yes,?,?,?
+18,KMail,Yes[78],Yes,No,Yes,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+19,Mailbird,Yes,Yes,?,Yes,?,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,No,No,?
+20,Mailpile,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+21,Microsoft Entourage,Yes,Yes,?,Yes[Note 5],?,?,?,Yes,Yes,?,Yes,Yes,?,Yes,?,?,?,Yes,?,?,?,?,?
+22,Microsoft Office Outlook,Yes,Yes,No,Yes,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,?,Yes,Yes,with a plugin,Yes,Yes,2010,2010,PowerPoint
+23,Mozilla Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+24,Mozilla Thunderbird,Yes,Yes,?,?,with a plugin[79],?,?,Yes,Yes,Yes [Note 6],Yes,Yes,Yes,Yes,ICO,Yes [Note 7],Yes,Yes,No,No,No,No,No
+25,Mulberry,?,Yes,?,?,?,?,?,Yes,Yes,?,No,No,No,No,No,?,?,?,?,?,?,?,?
+26,Mutt,Yes,Yes,No,No,Yes,?,?,Yes,Yes,?,No,No,No,No,No,postpone,?,?,?,?,?,?,?
+27,Netscape Messenger,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+28,Netscape Messenger 9,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+29,nmh / MH,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+30,Opera Mail,Yes,Yes,No,No,?,?,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,"APNG, ICO, SVG, WBMP, XBM, WebP",No,No,No,No,No,No,No,No
+31,Outlook Express,No,Yes,No,No,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,"ICO, art",?,?,?,?,?,?,?,?
+32,Pegasus Mail,Yes,Yes,Yes,Yes,in index,No,No,Yes,Yes,No [Note 8],Yes,Yes,Yes,Yes,TIFF,,Yes,No,No,No,No,No,"RTF, HTML"
+33,Pine,Yes,Yes,?,?,No,with a patch [Note 9],?,Yes [Note 10],Yes,?,No,No,No,No,No,?,?,?,?,?,?,?,?
+34,Pocomail,Yes,Yes,?,Yes,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+35,RoundCube,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?
+36,SeaMonkey Mail & Newsgroups,Yes,Yes,No,No,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+37,SquirrelMail,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?
+38,Sylpheed,Yes,Yes,No,No,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,Yes,No,No,No,No,No,?
+39,The Bat!,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"ICO, emf",Yes,Yes,No,No,No,No,No,No
+40,Trojitá,No,Yes,?,?,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+41,Turnpike,Yes,?,?,No,?,?,?,Yes,Yes,?,Yes,Yes,Yes,No,?,?,?,?,?,?,?,?,?
+42,Windows Live Mail,No,Yes,No,No,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+43,Windows Mail,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+44,YAM,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+45,Zimbra,Yes,Yes,Yes,Yes,?,?,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+46,Client,Label messages,Label messages,Label messages,Label messages,Reformat received messages,Reformat received messages,Bi-directional text support,Composing messages,Composing messages,Composing messages,Native images preview,Native images preview,Native images preview,Native images preview,Native images preview,Postpone/?scheduled message sending,Native documents preview,Native documents preview,Native documents preview,Native documents preview,Native documents preview,Native documents preview,Native documents preview
+47,Client,with colors,with flag,antidelete,add note,"edit headers (e.g., Subject)",forced recode [Note 1],Bi-directional text support,Spell checking,Signatures,Bottom-posts replies,jpeg,gif,bmp,png,others,Postpone/?scheduled message sending,txt,pdf,doc,xls,odt,ods,others

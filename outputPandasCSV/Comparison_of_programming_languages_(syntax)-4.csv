@@ -1,0 +1,56 @@
+,Language,In-line comment,Block comment
+0,"Ada, Eiffel, Euphoria, Occam, SPARK, ANSI SQL, and VHDL",-- InlineComment,
+1,ALGOL 60,,comment BlockComment;
+2,ALGOL 68,,¢ BlockComment ¢ comment BlockComment comment co BlockComment co # BlockComment # £ BlockComment £
+3,APL,⍝ InlineComment,
+4,AppleScript,-- InlineComment,(* BlockComment *)
+5,Assembly language (varies),; InlineComment one example (most assembly languages use line comments only),
+6,AutoHotkey,; InlineComment,/* BlockComment */
+7,"AWK, Bash, Bourne shell, C shell, Maple, R, Tcl, and Windows PowerShell",# InlineComment,<# BlockComment #>
+8,BASIC (various dialects):,'InlineComment (not all dialects) REM InlineComment,
+9,"C (K&R, ANSI/C89/C90), CHILL, PL/I, and REXX",,/* BlockComment */
+10,"C (C99), C++, Go, Swift and JavaScript",// InlineComment,/* BlockComment */
+11,C#,// InlineComment/// InlineComment (XML documentation comment),/* BlockComment *//** BlockComment */ (XML documentation comment)
+12,COBOL I to COBOL 85,* InlineComment (* in column 7),
+13,COBOL 2002,*> InlineComment,
+14,Curl,|| InlineComment,|# BlockComment #| |foo# BlockComment #|
+15,Cobra,# InlineComment,/# BlockComment #/ (nestable)
+16,D,// InlineComment/// Documentation InlineComment (ddoc comments),"/* BlockComment *//** Documentation BlockComment */ (ddoc comments) /+ BlockComment +/ (nestable)/++ Documentation BlockComment +/ (nestable, ddoc comments)"
+17,DCL,$! InlineComment,
+18,"ECMAScript (JavaScript, ActionScript, etc.)",// InlineComment,/* BlockComment */
+19,Forth,\ InlineComment,( BlockComment ) (single line as well as multiline) ( before -- after ) stack comment convention
+20,FORTRAN I to FORTRAN 77,C InlineComment (C in column 1),
+21,Fortran 90,! InlineComment,
+22,Haskell,-- InlineComment,{- BlockComment -}
+23,Java,// InlineComment,/* BlockComment */ /** BlockComment */ (Javadoc documentation comment)
+24,Lisp and Scheme,; InlineComment,#| BlockComment |#
+25,Lua,-- InlineComment,--[==[ BlockComment]==] (variable number of = signs)
+26,Maple,# InlineComment,(* BlockComment *)
+27,Mathematica,,(* BlockComment *)
+28,Matlab,% InlineComment,%{BlockComment (nestable)%}Note: Both percent–bracket symbols must be the only non-whitespace characters on their respective lines.
+29,Object Pascal (Delphi),// InlineComment,(* BlockComment *){ BlockComment }
+30,OCaml,,(* BlockComment (* nestable *) *)
+31,"Pascal, Modula-2, Modula-3, Oberon, and ML:",,(* BlockComment *)
+32,Perl and Ruby,# InlineComment,=beginBlockComment=cut (=end in Ruby) (POD documentation comment) __END__Comments after end of code
+33,PHP,# InlineComment// InlineComment,/* BlockComment *//** Documentation BlockComment */ (PHP Doc comments)
+34,PILOT,R:InlineComment,
+35,PLZ/SYS,,! BlockComment !
+36,PL/SQL and TSQL,-- InlineComment,/* BlockComment */
+37,Prolog,% InlineComment,/* BlockComment */
+38,Python,# InlineComment,"''' BlockComment '''"""""" BlockComment """""" (Documentation string when first line of module, class, method, or function)"
+39,Raku,# InlineComment,#`{BlockComment} =comment This comment paragraph goes until the next POD directive or the first blank line.[19][20]
+40,Rust,"// InlineComment /// InlineComment (""Outer"" rustdoc comment) //! InlineComment (""Inner"" rustdoc comment)","/* BlockComment */ (nestable) /** BlockComment */ (""Outer"" rustdoc comment) /*! BlockComment */ (""Inner"" rustdoc comment)"
+41,SAS,,* BlockComment;/* BlockComment */
+42,Seed7,# InlineComment,(* BlockComment *)
+43,Simula,,comment BlockComment;! BlockComment;
+44,Smalltalk,,"""BlockComment"""
+45,Smarty,,{* BlockComment *}
+46,Standard ML,,(* BlockComment *)
+47,"TeX, LaTeX, PostScript, Erlang, Elixir and S-Lang",% InlineComment,
+48,Texinfo,@c InlineComment @comment InlineComment,
+49,TUTOR,* InlineCommentcommand $$ InlineComment,
+50,Visual Basic,' InlineCommentRem InlineComment,
+51,Visual Basic .NET,' InlineComment ''' InlineComment (XML documentation comment) Rem InlineComment,
+52,Visual Prolog,% InlineComment,/* BlockComment */
+53,Wolfram Language,,(* BlockComment *)
+54,Xojo,' InlineComment// InlineCommentrem InlineComment,

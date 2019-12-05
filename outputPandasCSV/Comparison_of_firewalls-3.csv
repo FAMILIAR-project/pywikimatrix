@@ -1,0 +1,12 @@
+,Can Target:,Changing default policy to accept/reject (by issuing a single rule),IP destination address(es),IP source address(es),TCP/UDP destination port(s),TCP/UDP source port(s),Ethernet MAC destination address,Ethernet MAC source address,Inbound firewall (ingress),Outbound firewall (egress)
+0,Trend Micro Internet Security,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+1,Untangle,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,Vyatta,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+3,Windows XP Firewall,No,No,Yes,Partial[a],No,No,No,Yes,No
+4,Windows Vista Firewall,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+5,Windows 7 /Windows 2008 R2Firewall,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+6,WinGate,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+7,Zeroshell,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,Zorp,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+9,pfSense,Yes,Yes,Yes,Yes,Yes,No[5],No[5],Yes,Yes
+10,IPFire,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes

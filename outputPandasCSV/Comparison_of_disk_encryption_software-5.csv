@@ -1,0 +1,56 @@
+,Name,CBC w/ predictable IVs,CBC w/ secret IVs,CBC w/ random per-sector keys,LRW,XTS,Authenticated encryption
+0,Aloaha Crypt Disk,No,No,No,Yes,Yes,?
+1,ArchiCrypt Live,No,No,No,Legacy support[127],Yes,?
+2,BestCrypt,No,Yes,No,Yes[128],Yes[129],?
+3,BitArmor DataControl,No,Yes,Plumb-IV,No,No,?
+4,BitLocker,No[130],Yes[130],No,No,"Yes, Windows 10 10547+",?
+5,Bloombase Keyparc,?,Yes,?,?,?,?
+6,CGD,No,Yes[131],No,No,No,?
+7,CenterTools DriveLock,?,?,?,?,?,?
+8,Check Point Full Disk Encryption,No,No,Yes,Yes,Yes,?
+9,CipherShed,Legacy support[132],No,No,Legacy support[133],Yes[134],?
+10,CrossCrypt,Yes,No,No,No,No,?
+11,CryFS,No,No,Yes,No,No,?
+12,CryptArchiver,?,?,?,?,?,?
+13,Cryptic Disk,No,No,No,No,Yes,No
+14,Cryhod,No,Yes,No,No,No,?
+15,Cryptoloop,Yes,No,No,No,No,No
+16,DiskCryptor,No,No,No,No,Yes,?
+17,Dm-crypt / LUKS,Yes,Yes,No,"Yes, using *-lrw-benbi[135]","Yes, using *-xts-plain","Yes, using --integrity mode[136]"
+18,DriveCrypt,?,?,?,?,?,?
+19,DriveSentry GoAnywhere 2,?,?,?,?,?,?
+20,E4M,?,?,?,No,No,?
+21,e-Capsule Private Safe,?,?,?,?,?,?
+22,eCryptfs,No,Yes,?,No,No,?
+23,EgoSecure HDD Encryption,No,Yes,No,No,No,?
+24,FileVault,Yes[86],No,No,No,No,?
+25,FileVault 2,No,No,No,No,Yes[137],?
+26,FREE CompuSec,Yes,No,No,No,No,?
+27,FreeOTFE,Yes,Yes,No,Yes,Yes,No
+28,GBDE,No,No,Yes[91],No,No,?
+29,GELI,No,Yes[138],No,No,Yes,?
+30,Loop-AES,"single-key, multi-key-v2 modes[93]",multi-key-v3 mode[93],No,No,No,No
+31,McAfee Drive Encryption (SafeBoot),No,Yes,No,No,No,?
+32,n-Crypt Pro,?,?,No,No,No,?
+33,PGPDisk,?,?,?,?,?,?
+34,Private Disk,No,Yes,No,No,No,?
+35,ProxyCrypt,No,No,No,No,Yes,?
+36,R-Crypto,?,?,?,?,?,?
+37,SafeGuard Easy,?,?,?,?,?,?
+38,SafeGuard Enterprise,?,?,?,?,?,?
+39,SafeGuard PrivateDisk,?,?,?,?,?,?
+40,SafeHouse Professional,Yes,No,No,No,No,?
+41,Scramdisk,No,Yes,No,No,No,?
+42,Scramdisk 4 Linux,No,Yes[139],No,Yes[140],Yes[141],?
+43,SecuBox,Yes,No,No,No,No,?
+44,SecureDoc,?,?,?,?,?,?
+45,Sentry 2020,?,?,?,?,?,?
+46,Seqrite Encryption Manager,No,Yes,No,Yes,Yes,?
+47,Softraid / RAID C,?,?,?,?,Yes[142],?
+48,Svnd / Vnconfig,?,?,?,?,?,?
+49,Symantec Endpoint Encryption,No,No,Yes,No,No,?
+50,TrueCrypt,Legacy support[132],No,No,Legacy support[133],Yes[143],No
+51,USBCrypt,No,Yes,No,No,Yes,?
+52,VeraCrypt,No,No,No,No,Yes,?
+53,CyberSafe Top Secret,No,No,No,No,Yes,?
+54,Name,CBC w/ predictable IVs,CBC w/ secret IVs,CBC w/ random per-sector keys,LRW,XTS,Authenticated encryption

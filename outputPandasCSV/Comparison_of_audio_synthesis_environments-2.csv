@@ -1,0 +1,11 @@
+,Name,Textual/graphical,Object-oriented,Type system
+0,Bidule,Graphical,No,
+1,ChucK,Textual,Yes,Static
+2,Csound,Textual/Graphical (FLTK/Qt/HTML5),No,In development
+3,Impromptu,Mostly textual,-,Dynamic & static
+4,Kyma,Mostly Graphical,Yes,Dynamic
+5,Max/MSP,Graphical,No,
+6,Pure Data,Graphical,No,
+7,Reaktor,Graphical,No,
+8,SuperCollider,Textual/Graphical (Cocoa/Swing/Qt),Yes,Dynamic
+9,MPEG-4/SA,Textual,No,No

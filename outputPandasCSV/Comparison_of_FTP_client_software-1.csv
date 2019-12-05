@@ -1,0 +1,14 @@
+,Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB limit[1],Interface
+0,cURL,Daniel Stenberg,1998,7.67.0 (6 November 2019; 29 days ago[2]) [±],MIT,Yes,CLI
+1,Cyberduck,David V. Kocher,2001,"6.0.4 June 2, 2017; 2 years ago",GPL,Yes,GUI and CLI
+2,FAR Manager,Eugene Roshal / FAR Group,1996,3.0 build 5000 (7 August 2017; 2 years ago) [±],BSD,Yes,TUI
+3,*FileZilla,Community,2001 (January),3.45.1 (25 September 2019; 2 months ago) [±][3],GPL,Yes,GUI
+4,FireFTP,Mime Čuvalo,2004 (September),"2.0.32 (February 1, 2019; 10 months ago) [±]","MPL 1.1, Charityware",Yes (since version 2.0.5),"Waterfox, Firefox pre-version 57 addon"
+5,Fugu,University of Michigan Research Systems Unix Group,2003,"1.2.0 May 2, 2005; 14 years ago",BSD,?,GUI
+6,gFTP,Brian Masney,1998,"2.0.19 November 30, 2008; 11 years ago",GPL,Yes,GTK+
+7,lftp,Alexander V. Lukyanov,1996 (August),"4.8.4 (August 1, 2018; 16 months ago[4]) [±]",GPL,Yes,CLI
+8,Macfusion,Michael Gorbach,?,2.0.4,BSD,?,GUI
+9,NcFTP,NcFTP Software Inc.,1991,"3.2.6 November 27, 2016; 3 years ago",Clarified Artistic License,Yes,CLI
+10,net2ftp,David C. Gartner,2003 (January),"0.98 March 1, 2013; 6 years ago",GPL,?,Web application
+11,tnftp,Luke Mewburn,1999,"20151004 October 4, 2015; 4 years ago",BSD,?,CLI
+12,WinSCP,Martin Přikryl,2000,"5.15.9[5] (December 5, 2019; 0 days ago) [±]",GPL,Yes,GUI and CLI

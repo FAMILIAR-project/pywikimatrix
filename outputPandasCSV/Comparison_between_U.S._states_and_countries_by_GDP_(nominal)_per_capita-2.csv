@@ -1,0 +1,241 @@
+,Rank,Country/U.S. state,USD
+0,1,Luxembourg,105863
+1,2,Switzerland,80637
+2,3,New York,78354
+3,4,Delaware,77931
+4,5,Massachusetts,77433
+5,6,Norway,75389
+6,7,North Dakota,73214
+7,8,Connecticut,72929
+8,9,Alaska,71155
+9,10,Iceland,70248
+10,11,California,69984
+11,12,Washington,69478
+12,13,Wyoming,68806
+13,14,Ireland,68710
+14,15,New Jersey,66157
+15,16,Maryland,65426
+16,17,Illinois,64083
+17,18,Nebraska,63852
+18,19,Minnesota,63608
+19,20,Colorado,61862
+20,21,Hawaii,61696
+21,22,Qatar,61024
+22,23,Texas,60878
+23,24,Iowa,60673
+24,25,Virginia,60470
+25,26,New Hampshire,60321
+26,-,United States,59792
+27,27,Pennsylvania,58828
+28,28,Singapore,57713
+29,29,Oregon,57706
+30,30,South Dakota,57690
+31,31,Denmark,56630
+32,32,Rhode Island,56282
+33,33,Wisconsin,56078
+34,34,Ohio,55890
+35,35,Australia,55692
+36,36,Kansas,54276
+37,37,Utah,54249
+38,38,Indiana,54141
+39,39,Georgia (U.S. state),53758
+40,40,Nevada,53167
+41,41,North Carolina,53050
+42,42,Sweden,52925
+43,43,Louisiana,52602
+44,44,Tennessee,51903
+45,45,Vermont,51549
+46,46,Michigan,50081
+47,47,Missouri,50041
+48,48,Netherlands,48555
+49,49,Oklahoma,48211
+50,50,San Marino,47595
+51,51,Austria,47347
+52,52,Florida,46930
+53,53,New Mexico,46655
+54,54,Arizona,46147
+55,55,Montana,46136
+56,56,Maine,46117
+57,57,Finland,45927
+58,58,Kentucky,45641
+59,59,Canada,45094
+60,60,Germany,44769
+61,61,South Carolina,44162
+62,62,Belgium,43488
+63,63,Alabama,43377
+64,64,West Virginia,41939
+65,65,Arkansas,41803
+66,66,Idaho,41729
+67,67,New Zealand,41572
+68,68,Israel,40272
+69,69,France,39932
+70,70,United Kingdom,39800
+71,71,Japan,38448
+72,72,United Arab Emirates,37732
+73,73,Mississippi,37376
+74,-,European Union,33800
+75,74,Italy,31996
+76,75,Bahamas,31660
+77,76,South Korea,29938
+78,77,Spain,28358
+79,78,Brunei,28278
+80,79,Kuwait,27393
+81,80,Malta,27326
+82,81,Cyprus,25380
+83,82,Bahrain,24325
+84,83,Taiwan,24292
+85,84,Slovenia,23654
+86,85,Portugal,21158
+87,86,Saudi Arabia,21096
+88,87,Czech Republic,20401
+89,88,Estonia,19735
+90,89,Greece,18637
+91,90,Barbados,17757
+92,91,Slovakia,17655
+93,92,Saint Kitts and Nevis,17397
+94,93,Oman,17128
+95,94,Uruguay,16941
+96,95,Lithuania,16730
+97,96,Antigua and Barbuda,16702
+98,97,Trinidad and Tobago,16637
+99,98,Palau,15980
+100,99,Seychelles,15859
+101,100,Latvia,15550
+102,101,Panama,15089
+103,102,Chile,15067
+104,103,Equatorial Guinea,14817
+105,104,Argentina,14462
+106,105,Hungary,14209
+107,106,Poland,13821
+108,107,Croatia,13271
+109,108,Maldives,12527
+110,109,Lebanon,12013
+111,110,Costa Rica,11728
+112,111,Russia,10955
+113,112,Romania,10785
+114,-,World,10728
+115,113,Turkey,10537
+116,114,Mauritius,10504
+117,115,Grenada,10405
+118,116,Brazil,9895
+119,117,Malaysia,9755
+120,118,Saint Lucia,9606
+121,119,Mexico,9318
+122,120,Kazakhstan,8762
+123,121,China,8643
+124,122,Nauru,8574
+125,123,Bulgaria,8077
+126,124,Dominica,7879
+127,125,Montenegro,7678
+128,126,Botswana,7584
+129,127,Dominican Republic,7477
+130,128,Gabon,7373
+131,129,Saint Vincent and the Grenadines,7124
+132,130,Venezuela,6890
+133,131,Peru,6731
+134,132,Turkmenistan,6642
+135,133,Thailand,6590
+136,134,Colombia,6379
+137,135,Ecuador,6216
+138,136,South Africa,6179
+139,137,Serbia,5901
+140,138,Suriname,5869
+141,139,Belarus,5727
+142,140,Paraguay,5600
+143,141,Namibia,5589
+144,142,Fiji,5527
+145,143,Macedonia,5474
+146,144,Iran,5289
+147,145,Jamaica,5193
+148,146,Bosnia and Herzegovina,5180
+149,147,Iraq,4950
+150,148,Belize,4806
+151,149,Libya,4739
+152,150,Guyana,4578
+153,151,Albania,4544
+154,152,Tonga,4520
+155,153,Guatemala,4469
+156,154,Angola,4465
+157,155,Samoa,4258
+158,156,Azerbaijan,4140
+159,157,Jordan,4135
+160,158,Georgia,4085
+161,159,Sri Lanka,4073
+162,160,Algeria,4033
+163,161,Kosovo,3944
+164,162,Swaziland,3915
+165,163,El Salvador,3894
+166,164,Indonesia,3876
+167,165,Armenia,3861
+168,166,Mongolia,3640
+169,167,Tuvalu,3638
+170,168,Marshall Islands,3625
+171,169,Tunisia,3496
+172,170,Bolivia,3353
+173,171,Cape Verde,3238
+174,172,Micronesia,3200
+175,173,Morocco,3151
+176,174,Vanuatu,3094
+177,175,Philippines,2976
+178,176,Bhutan,2903
+179,177,Papua New Guinea,2861
+180,178,Honduras,2766
+181,179,Ukraine,2583
+182,180,Laos,2542
+183,181,Egypt,2501
+184,182,Vietnam,2354
+185,183,Moldova,2280
+186,184,Nicaragua,2207
+187,185,East Timor,2104
+188,186,Solomon Islands,2081
+189,187,Nigeria,1994
+190,188,Djibouti,1989
+191,189,India,1983
+192,190,Republic of the Congo,1958
+193,191,São Tomé and Príncipe,1785
+194,192,Kiribati,1721
+195,193,Kenya,1702
+196,194,Ghana,1663
+197,195,Côte d'Ivoire,1617
+198,196,Bangladesh,1602
+199,197,Pakistan,1541
+200,198,Uzbekistan,1491
+201,199,Zambia,1480
+202,200,Sudan,1428
+203,201,Lesotho,1425
+204,202,Cameroon,1401
+205,203,Cambodia,1390
+206,204,Mauritania,1318
+207,205,Myanmar,1264
+208,206,Zimbabwe,1176
+209,207,Kyrgyzstan,1144
+210,208,Senegal,1038
+211,209,Tanzania,1034
+212,210,Eritrea,980
+213,211,Ethiopia,873
+214,212,Nepal,834
+215,213,Benin,830
+216,214,Tajikistan,824
+217,215,Mali,811
+218,216,Chad,810
+219,217,Guinea-Bissau,794
+220,218,Comoros,788
+221,219,Haiti,784
+222,220,Rwanda,772
+223,221,Guinea,749
+224,222,Liberia,729
+225,223,Uganda,699
+226,224,Burkina Faso,664
+227,225,Togo,611
+228,226,Afghanistan,588
+229,227,Yemen,551
+230,228,Sierra Leone,491
+231,229,"Gambia, The",480
+232,230,Democratic Republic of the Congo,478
+233,231,Madagascar,448
+234,232,Niger,440
+235,233,Mozambique,429
+236,234,Central African Republic,387
+237,235,Malawi,324
+238,236,Burundi,312
+239,237,South Sudan,228

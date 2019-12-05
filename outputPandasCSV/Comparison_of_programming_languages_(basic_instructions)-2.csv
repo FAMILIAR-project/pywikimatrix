@@ -1,0 +1,38 @@
+,Unnamed: 0,Single precision,Double precision,Other precision,Processor dependent
+0,Ada[1],Float,Long_Float,,
+1,ALGOL 68,real[a],long real[a],"short real, long long real, etc.[d]",
+2,C,float[b],double,long double[f],
+3,C++ (STL),float[b],double,long double[f],
+4,Objective-C (Cocoa),float[b],double,long double[f],CGFloat
+5,C#,float,double,,
+6,Java,float,double,,
+7,Go,float32,float64,,
+8,Rust,f32,f64,,
+9,Swift,FloatFloat32,DoubleFloat64,Float80[g],CGFloat
+10,D,float,double,,real
+11,Common Lisp,single-float,double-float,"float, short-float, long-float",
+12,Scheme,,,,
+13,ISLISP,,,,
+14,Pascal (Free Pascal),single,double,,real
+15,Visual Basic,Single,Double,,
+16,Visual Basic .NET,Single,Double,,
+17,Xojo,Single,Double,,
+18,Python,,float,,
+19,JavaScript,,Number[7],,
+20,S-Lang,,,,
+21,Fortran,REAL(KIND = n)[c],REAL(KIND = n)[c],,
+22,PHP,,float,,
+23,Perl,,,,
+24,Raku,num32,num64,,Num
+25,Ruby,,Float,,
+26,Scala,Float,Double,,
+27,Seed7,,float,,
+28,Smalltalk,Float,Double,,
+29,Windows PowerShell,,,,
+30,OCaml,,float,,
+31,F#,float32,float,,
+32,Standard ML,,,,real
+33,Haskell (GHC),Float,Double,,
+34,Eiffel,REAL_32,REAL_64,,
+35,COBOL,FLOAT-BINARY-7[e],FLOAT-BINARY-34[e],"FLOAT-SHORT, FLOAT-LONG, FLOAT-EXTENDED",
+36,Mathematica,,,,Real

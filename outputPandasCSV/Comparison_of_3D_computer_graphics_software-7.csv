@@ -1,0 +1,8 @@
+,Application,Polygon,Polygon.1,Polygon.2,Polygon.3,Curves,Curves.1,Curves.2,Curves.3,Curves.4,Curves.5,Curves.6,Curves.7,Curves.8,Curves.9,Spline/Bézier Surface,Spline/Bézier Surface.1,Spline/Bézier Surface.2,Metaball,Point Clouds,Particles,Voxel,Bone,Text,Camera,Light,Speaker
+0,Application,tris,quads,N-gon,donut,Linear,Quadratic Bézier,Cubic Bézier,B-spline,Cardinal spline,Hermite spline,TCB spline,Smooth-step,Akima spline,NURBS,NURBS regular patch,NURBS trimmed surface,Bicubic Bézier patch,Metaball,Point Clouds,Particles,Voxel,Bone,Text,Camera,Light,Speaker
+1,Blender,Yes,Yes,Yes,No[11],Bézier curve without subdivision,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,3D Texture,Yes,Yes,Yes,Yes,Yes
+2,Maya,Yes,Yes,Yes,Yes,Yes,?,?,?,?,?,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,3D Texture,Yes,Yes,Yes,Yes,No
+3,3ds Max,Yes,Yes,Yes,?,Yes,?,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+4,Cinema 4D,Yes,Yes,Yes,?,Yes,No,Yes,Yes,No,?,No,No,Yes,?,?,?,?,Yes,?,Yes,?,Yes,Yes,Yes,Yes,Null object with Sound Track
+5,LightWave,Yes,Yes,Yes,Yes,?,?,?,Yes,?,only in Graph Editor,only in Graph Editor,?,No,?,(LWCAD plugin),?,No,Yes,No,Yes,?,Yes,Yes,Yes,Yes,?
+6,Shade 3D,Yes,Yes,Yes,?,?,?,Yes,?,No,No,No,No,No,Yes,?,?,Yes,Yes,No,Yes,?,Yes,Yes,Yes,Yes,Sound Object

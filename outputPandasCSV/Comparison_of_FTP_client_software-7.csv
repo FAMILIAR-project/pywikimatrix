@@ -1,0 +1,49 @@
+,Client,FTP,FTP over SSH,SFTP,FTPS (FTP over SSL),FXP (Site2site transfer),DAV / HTTP(S),Compression,Remote Compression,API / Commandline available,Resume Download,Passive mode,Sync Connections
+0,AbsoluteTelnet,No,No,Yes,No,No,No,Yes,Yes,?,?,?,?
+1,ALFTP,Yes,No,No,Yes,No,No,No,?,?,?,?,?
+2,Beyond Compare,Yes,No,Yes (Pro only),Yes (Pro only),No,Yes (Pro only),Yes,Yes,Yes,Yes,Yes,?
+3,Classic FTP,Yes,No,No,Yes,No,No,No,?,?,?,Yes,?
+4,Codeanywhere,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+5,Commander One,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,?
+6,CoreFTP,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,?,?,?
+7,CrossFTP,Yes,Yes (Pro only),Yes (Pro only),Yes (Pro only),Yes (Pro only),Yes (Pro only),Yes,?,Yes,Yes,Yes,?
+8,cURL,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes (Only),Yes,Yes,?
+9,CuteFTP,Yes,Yes,Yes,Yes,Yes,Yes (HTTP(S),Yes,No,?,Yes,Yes,?
+10,Cyberduck,Yes,No,Yes,Yes,No,Yes,No,Yes (SFTP only),Yes,Yes,Yes,?
+11,Directory Opus,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,?
+12,ExpanDrive (Mac),Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,?,?,?
+13,ExpanDrive (Windows),Yes,No,Yes,Yes,No,No,?,No,?,?,?,?
+14,FAR Manager,Yes,Yes,Yes,Yes,?,Yes,No,?,?,Yes,Yes,?
+15,Fetch,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,?
+16,FileZilla,Yes,Yes,Yes,Yes,No,No,No,No,Yes (basic),Yes,Yes,?
+17,FireFTP,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,?
+18,FlashFXP,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,?
+19,Fling FTP,Yes,No,No,Yes,No,No,No,Yes,Yes,?,?,?
+20,ForkLift,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,?
+21,FTP Client,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,?,?
+22,FTP Commander,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,?,?,?,?
+23,FTP Explorer,Yes,No,No,No,?,?,No,?,?,?,?,?
+24,FTP Voyager,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,?
+25,Fugu,No,No,Yes,No,No,No,No,?,?,?,?,?
+26,gFTP,Yes,Yes,Yes,Yes (control connection only),Yes,?,No,?,Yes,?,?,?
+27,Interarchy,Yes,Yes,Yes,Yes,Yes,Yes,No,?,?,Yes,Yes,?
+28,LeechFTP,Yes,No,No,No,No,No,No,?,?,?,?,?
+29,lftp,Yes,Yes,Yes,Yes,Yes,Yes (Partial),No,No,Yes,Yes,?,?
+30,Macfusion,Yes,?,Yes,No,?,?,?,?,?,?,?,?
+31,Macfusion,Yes,?,Yes,No,?,?,?,?,?,?,?,?
+32,NcFTP,Yes,No,No,?,?,?,No,?,Yes,?,Yes,?
+33,pbFtpClient,Yes,Yes,Yes,Yes,No,No,Yes,No,?,?,?,?
+34,PSFTP (PuTTY),No,No,Yes,No,No,No,No,No,Yes,Yes,?,?
+35,Secure FTP,Yes,No,No,Yes,No,No,Yes,Yes,Yes,?,?,?
+36,SmartFTP,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,?
+37,Steed,Yes,No,Yes,Yes,No,No,No,No,No,?,Yes,?
+38,Sysax FTP Automation,Yes,No,Yes,Yes,No,No,Yes,No,Yes (script and command line),?,?,?
+39,Total Commander,Yes,Yes,Yes (plugin),Yes,Yes,Yes (plugin),Yes,?,Yes,Yes,Yes,?
+40,Transmit,Yes,No,Yes,Yes,Yes,Yes,No,?,Yes (AppleScript),Yes,Yes,?
+41,WebDrive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes (SFTP),Yes,Yes,Yes,?
+42,Windows 7 (ftp.exe),Yes,No,No,No,No,No,No,No,No,?,No,?
+43,WinSCP,Yes,Yes,Yes,Yes,No,Yes,Yes (SFTP only),Yes (SCP command),Yes,Yes,Yes,?
+44,WISE-FTP,Yes,No,Yes,Yes,Yes,No,Yes,Yes,?,?,?,?
+45,WS_FTP,Yes,Yes (Pro only),Yes (Pro only),Yes,Yes (Pro only),Yes,Yes (Pro only),No,Yes (Pro only),Yes (Pro only),Yes,?
+46,Yummy FTP,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes (AppleScript),Yes,Yes,?
+47,Client,FTP,FTP over SSH,SFTP,FTPS (FTP over SSL),FXP (Site2site transfer),DAV / HTTP(S),Compression,Remote Compression,API / Commandline available,Resume Download,Passive mode,

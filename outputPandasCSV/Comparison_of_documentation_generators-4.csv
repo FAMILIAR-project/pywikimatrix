@@ -1,0 +1,24 @@
+,Unnamed: 0,PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
+0,Ddoc,No,No,No,No,No,No,No,No,No,No
+1,Document! X,No,No,No,No,No,No,Yes,No,No,No
+2,Doxygen,Yes,No[b],Partial[c],No,No,No,No,No,Yes,No
+3,Epydoc,No,No,Yes,No,No,No,No,No,No,No
+4,Haddock,No,No,No,No,No,No,No,No,No,Yes
+5,HeaderDoc,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+6,Imagix 4D,No,No,No,No,No,No,No,No,No,No
+7,Javadoc,No,No,No,No,No,No,No,No,No,No
+8,JSDoc,No,No,No,No,Yes,No,No,No,No,No
+9,JsDoc Toolkit,No,No,No,No,Yes,No,No,No,No,No
+10,Natural Docs,Partial,Yes,Partial,Partial,Partial,Yes,Partial,No,Partial,No
+11,NDoc,No,No,No,No,No,No,No,No,No,No
+12,pdoc,No,No,Yes,No,No,No,No,No,No,No
+13,perldoc,No,Yes,No,No,No,No,No,No,No,No
+14,phpDocumentor,Yes,No,No,No,No,No,No,No,No,No
+15,pydoc,No,No,Yes,No,No,No,No,No,No,No
+16,RDoc,No,No,No,Yes,No,No,No,No,No,No
+17,ROBODoc,Yes,Yes,No,Yes,Yes,Partial,Yes,No,Yes,No
+18,Sphinx,with Plugin,No,Yes,with Plugin,Yes,No,No,No,No,No
+19,Visual Expert,No,No,No,No,No,No,Yes [4],Yes [5],No,No
+20,VSdocman,No,No,No,No,No,No,No,No,No,No
+21,YARD,No,No,No,Yes,No,No,No,No,No,No
+22,,PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell

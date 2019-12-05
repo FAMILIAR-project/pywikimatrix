@@ -1,0 +1,39 @@
+,Chart type / Framework,Chart type / Framework.1,Adobe Flex built-in charts,Axiis,BirdEye,Flare,Flexmonster,IBM ILOG Elixir,Kap IT Labs,yFiles,amCharts,AnyChart,LiveGap Chart
+0,Cost,Cost,Free,Free,Free,Free,Non-free contact vendor for prices,"Non-free £556 (for EULA), contact vendor for OEM","Free for non-commercial, €2'500 (VAT excluded) for full 1-developer package",Non-free contact vendor for prices,Free (with link to amCharts) link-free from €85},Free (with link to AnyChart) Team license available},Free
+1,License,License,MPL,MIT,MIT,BSD,Proprietary,Proprietary,Proprietary,Proprietary,Proprietary,Proprietary,Free
+2,Open source,Open source,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No
+3,Bar/Column charts,Simple,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+4,Bar/Column charts,Stacked,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes
+5,Bar/Column charts,Floating (Range),Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes
+6,Bar/Column charts,Waterfall,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No
+7,Bar/Column charts,Layered,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No
+8,Line charts,Simple,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+9,Line charts,Spline (Curve),Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
+10,Line charts,Step,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes
+11,Pie charts,Simple,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+12,Pie charts,Doughnut (Ring),Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+13,Pie charts,Exploded,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No
+14,Pie charts,Stacked,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+15,Area charts,Simple,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes
+16,Area charts,Spline (Curve),Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes
+17,Area charts,Stacked,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes
+18,Area charts,Floating (Range),No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
+19,Area charts,Histogram (Step),Yes,No,No,No,No,Yes,No,No,Yes,Yes,No
+20,Scatter plot charts,Simple,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No
+21,Scatter plot charts,Bubble,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+22,Circular charts,Radar,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+23,Circular charts,Polar,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes
+24,Accumulation charts,Pyramid,No,No,No,No,No,No,No,No,No,Yes,No
+25,Accumulation charts,Funnel,No,No,No,No,No,No,No,No,No,Yes,No
+26,Tree/Heat map charts,Tree map,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No
+27,Tree/Heat map charts,Heat map,No,No,No,No,No,Yes,No,No,No,No,No
+28,Finance charts,OHLC,Yes,No,No,No,No,No,No,No,Yes,No,No
+29,Finance charts,Candlestick,Yes,No,No,No,No,No,No,No,Yes,No,No
+30,Finance charts,Kagi,No,No,No,No,No,No,No,No,No,No,No
+31,Gauge charts,Gauge charts,No,No,No,No,No,Yes,No,No,No,Yes,No
+32,Cartogram charts,Cartogram charts,No,No,Yes,No,No,Yes,No,No,No,No,No
+33,Gantt charts,Gantt charts,No,No,No,No,No,Yes,No,No,No,Yes,No
+34,Dependency graphs,Dependency graphs,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+35,Nomograms,Smith chart,No,Yes,No,No,No,No,No,No,No,No,No
+36,Organizational charts,Organizational charts,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+37,Flow charts,Flow charts,No,No,No,No,No,Yes,Yes,Yes,No,No,No

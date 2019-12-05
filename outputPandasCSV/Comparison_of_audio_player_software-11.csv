@@ -1,0 +1,24 @@
+,Audio player,Audio,Audio.1,Audio.2
+0,Audio player,CD,DVD-Audio,HDCD
+1,AIMP,Yes,No,No
+2,Amarok,Partial,No,No
+3,aTunes,No,No,No
+4,Audacious,Yes,No,No
+5,Audion,Yes,No,No
+6,cmus,No,No,No
+7,Cog,No,No,No
+8,foobar2000,Yes,Yes (plugin)[opticalmedianotes 1],Yes (plugin)[opticalmedianotes 2]
+9,JuK,Yes[opticalmedianotes 3],No,No
+10,JRiver Media Center,Yes,Yes[opticalmedianotes 4],Yes
+11,MediaMonkey,Yes,No,No
+12,MusicBee,Yes,Yes,Yes
+13,Musicmatch Jukebox,Yes,No,No
+14,musikCube,Yes,No,No
+15,Rhapsody,Yes,No,No
+16,Rhythmbox,Yes,No,No
+17,Sonique,Yes,No,No
+18,Winamp,Yes,No,No
+19,XMMS,Yes,No,No
+20,Zinf,Yes,No,No
+21,Audio player,CD,DVD-Audio,HDCD
+22,Audio player,Audio,Audio,Audio

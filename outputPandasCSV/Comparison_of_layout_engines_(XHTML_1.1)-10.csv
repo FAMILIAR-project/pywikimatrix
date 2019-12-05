@@ -1,0 +1,11 @@
+,Unnamed: 0,Trident,Tasman,Gecko,WebKit,KHTML,Presto,iCab
+0,caption,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,table,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,td,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,th,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,tr,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5,col,Yes,?,Yes,Yes,Yes,Yes,Yes
+6,colgroup,Yes,?,Yes,Yes,Yes,Yes,Yes
+7,tbody,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,thead,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,tfoot,Yes,Yes,Yes,Yes,Yes,Yes,?

@@ -1,0 +1,37 @@
+,Unnamed: 0,exit block(break),continue,label,branch (goto),return value from generator
+0,Ada[1],exit «loop_name» «when condition»,,label:,goto label,
+1,ALGOL 68,value exit; ...,do statements; skip exit; label: statements od,label: ...,go to label; ...goto label; ...label; ...,yield(value) (Callback)[13]
+2,APL,:Leave,:Continue,label:,→labelor:GoTo label,
+3,C (C99),break;,continue;,label:,goto label;,
+4,Objective-C,break;,continue;,label:,goto label;,
+5,C++ (STL),break;,continue;,label:,goto label;,
+6,D,break;,continue;,label:,goto label;,
+7,C#,break;,continue;,label:,goto label;,yield return value;
+8,Java,break «label»;,continue «label»;,label:,,
+9,JavaScript,break «label»;,continue «label»;,label:,,yield value«;»
+10,PHP,break «levels»;,continue «levels»;,label:,goto label;,yield «key =>» value;
+11,Perl,last «label»;,next «label»;,label:,goto label;,
+12,Raku,last «label»;,next «label»;,label:,goto label;,
+13,Go,break «label»,continue «label»,label:,goto label,
+14,Swift,break «label»,continue «label»,label:,,
+15,Bash shell,break «levels»,continue «levels»,,,
+16,Common Lisp,(return) or (return-from block) or (loop-finish),,(tagbody tag...tag...),(go tag),
+17,Scheme,,,,,
+18,ISLISP,(return-from block),,(tagbody tag...tag...),(go tag),
+19,Pascal(ISO),,,label:[a],goto label;,
+20,Pascal(FPC),break;,continue;,label:[a],goto label;,
+21,Visual Basic,"Exit blockAlternatively, for methods, Return",,label:,GoTo label,
+22,Xojo,"Exit blockAlternatively, for methods, Return",Continue block,label:,GoTo label,
+23,Visual Basic .NET,"Exit blockAlternatively, for methods, Return",Continue block,label:,GoTo label,Yield value
+24,Python,break,continue,,,yield value
+25,RPG IV,LEAVE;,ITER;,,,
+26,S-Lang,break;,continue;,,,
+27,Fortran,EXIT,CYCLE,label[b],GOTO label,
+28,Ruby,break,next,,,
+29,Windows PowerShell,break «label»,continue,,,
+30,OCaml,,,,,
+31,F#,,,,,
+32,Standard ML,,,,,
+33,Haskell (GHC),,,,,
+34,COBOL,EXIT PERFORM or EXIT PARAGRAPH or EXIT SECTION or EXIT.,EXIT PERFORM CYCLE,label «SECTION».,GO TO label,
+35,Ya,break «from where»; f.e. break for switch;,continue «to where»; f.e. continue for switch;,:label,goto :label;,

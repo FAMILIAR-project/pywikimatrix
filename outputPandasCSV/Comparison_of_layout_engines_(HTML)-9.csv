@@ -1,0 +1,7 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Frame layout,Frame layout,Frame layout,Frame layout,Frame layout,Frame layout
+1,frameset,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+2,frame,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+3,noframes,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+4,Inline frames,Inline frames,Inline frames,Inline frames,Inline frames,Inline frames
+5,iframe,<3.1[IE 4.0],1.0,Yes,Yes,1.0

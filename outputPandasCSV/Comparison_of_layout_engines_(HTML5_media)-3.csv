@@ -1,0 +1,18 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Basic structure,Basic structure,Basic structure,Basic structure,Basic structure,Basic structure
+1,html,<3.1[IE 5.0],Yes,Yes,Yes,1.0
+2,head,<3.1[IE 4.0],Yes,Yes,Yes,1.0
+3,body,<3.1[IE 4.0],Yes,Yes,Yes,1.0
+4,Metadata,Metadata,Metadata,Metadata,Metadata,Metadata
+5,title,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+6,meta,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+7,Headings,Headings,Headings,Headings,Headings,Headings
+8,h1,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+9,h2,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+10,h3,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+11,h4,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+12,h5,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+13,h6,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+14,Grouping elements,Grouping elements,Grouping elements,Grouping elements,Grouping elements,Grouping elements
+15,div,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+16,span,<3.1[IE 4.0],1.0,Yes,Yes,1.0

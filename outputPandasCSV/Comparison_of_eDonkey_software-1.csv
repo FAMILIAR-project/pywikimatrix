@@ -1,0 +1,9 @@
+,Client,Fork from,FLOSS,Runs on,Runs on.1,Runs on.2,Kad,Unicode,Languages supp,Development Status
+0,Client,Fork from,FLOSS,Linux,Windows,Mac OS X,Kad,Unicode,Languages supp,Development Status
+1,eDonkey2000,-,No,Yes,Yes,Yes,No,No,1,Discontinued
+2,aMule,xMule,GPL,Yes,Yes[N 1],Yes,Yes,Yes,28,Active
+3,eMule and its Mods,-,GPL,No,Yes,No,Yes,Yes,43[1],Active
+4,eMule Plus,eMule,GPL,No[N 2],Yes,No,No,Yes[N 3],31,Abandoned
+5,MLDonkey,-,GPL,Yes,Yes,Yes,Yes,Yes,3,Discontinued
+6,Shareaza,-,GPL,No[N 4],Yes,No,No,Yes,31,Active
+7,xMule,lMule,GPL,Yes,No,No,No,No,?,Abandoned

@@ -1,0 +1,16 @@
+,Unnamed: 0,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+0,Proceed straight (no turns),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Turn right,,,,,,,,,,,,,,,NOT USED,,(in front of sign),,,NOT USED,,,,,,,NOT USED,
+2,Turn right ahead,,,,,,,,,,,,,,,,,(behind of sign),,,,NOT USED,,,,,,,
+3,Proceed straight or turn right,,,,,,,,,,,,NOT USED,,,,,,,,,,,,,,,,NOT USED
+4,Pass on this side,,,,,,,or,,,or,,,,,,,,,,,,,,,,,,
+5,Pass on either side,,,,,,,,,,,,,,,,,,NOT USED,,,,,,,,,,
+6,Roundabout,NOT USED,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Mandatory direction for vehicles carrying dangerous goods,,,NOT USED,NOT USED,,NOT USED,,NOT USED,NOT USED,,NOT USED,NOT USED,,,NOT USED,NOT USED,,NOT USED,,,,,,,,,,NOT USED
+8,Minimum speed limit,,NOT USED,,,,NOT USED,,,,,NOT USED,NOT USED,,,NOT USED,,,,,,,,,NOT USED,,,,
+9,Minimum speed limit ends,,NOT USED,,,,NOT USED,,,,,NOT USED,NOT USED,,,NOT USED,,,,,,,,,NOT USED,,,,
+10,Bicycles only,,,,,,,,,,,,,,,,,,,,,,,,,[note 8],,,
+11,Pedestrians only,,,,,,,,,,,,,,,,,,,,,,,,,,,,NOT USED
+12,Shared use path,,,,,,,,,,,,,,,,,,,,,,,,,[note 8],,,
+13,Equestrian path,,,,,,,,,,NOT USED,,NOT USED,,,,NOT USED,NOT USED,,,(Belarus),,,,,,,,NOT USED
+14,,Austria,Belgium,Czech Republic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia & Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,United Kingdom

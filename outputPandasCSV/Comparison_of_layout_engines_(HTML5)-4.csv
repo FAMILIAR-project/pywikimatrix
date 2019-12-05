@@ -1,0 +1,25 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Phrase,Phrase,Phrase,Phrase,Phrase,Phrase
+1,em,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+2,strong,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+3,dfn,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+4,code,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+5,samp,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+6,kbd,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+7,var,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+8,cite,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+9,acronym,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+10,abbr,3.1,1.0,Yes,Yes,1.0
+11,Quotations,Quotations,Quotations,Quotations,Quotations,Quotations
+12,blockquote,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+13,q,4.0,1.8[note 1],Yes,Yes,1.0
+14,Subscripts and superscripts,Subscripts and superscripts,Subscripts and superscripts,Subscripts and superscripts,Subscripts and superscripts,Subscripts and superscripts
+15,sub,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+16,sup,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+17,Lines and paragraphs,Lines and paragraphs,Lines and paragraphs,Lines and paragraphs,Lines and paragraphs,Lines and paragraphs
+18,p,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+19,pre,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+20,br,<3.1[IE 5.0],1.0,Yes,Yes,1.0
+21,Marking document changes,Marking document changes,Marking document changes,Marking document changes,Marking document changes,Marking document changes
+22,ins,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+23,del,<3.1[IE 4.0],1.0,Yes,Yes,1.0

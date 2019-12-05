@@ -1,0 +1,24 @@
+,Unnamed: 0,AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments[d]
+0,Ddoc,No,No,No,No,No,No
+1,Document! X,No,No,No,No,No,No
+2,Doxygen,No,No,No,No,No,No
+3,Epydoc,No,No,No,No,No,No
+4,Haddock,No,No,No,No,No,No
+5,HeaderDoc,Yes,No,Yes,Yes,Yes,No
+6,Imagix 4D,No,No,No,No,No,No
+7,Javadoc,No,No,No,No,No,No
+8,JSDoc,No,No,No,No,No,No
+9,JsDoc Toolkit,No,No,No,No,No,No
+10,Natural Docs,No,No,No,No,No,Yes
+11,NDoc,No,No,No,No,No,No
+12,pdoc,No,No,No,No,No,No
+13,perldoc,No,No,No,No,No,No
+14,phpDocumentor,No,No,No,No,No,No
+15,pydoc,No,No,No,No,No,No
+16,RDoc,No,No,No,No,No,No
+17,ROBODoc,No,No,No,No,No,Yes
+18,Sphinx,No,No,No,No,No,No
+19,Visual Expert,No,Yes,No,No,No,No
+20,VSdocman,No,No,No,No,No,No
+21,YARD,No,No,No,No,No,No
+22,,AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments

@@ -1,0 +1,58 @@
+,File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
+0,DECtape,No,No,No,No,No,No,No,No,No,No,No,No
+1,BeeGFS,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No
+2,Level-D,No,No,No,No,No,No,No,No,No,No,No,No
+3,RT-11,No,No,No,No,No,No,No,No,No,No,No,No
+4,APFS,Yes,Yes,?,?,Partial,Yes,?,Yes,?,Yes,Partial,No
+5,Version 6 Unix file system (V6FS),Yes,No,No,No,Yes,Yes,No,No,No,No,No,No
+6,Version 7 Unix file system (V7FS),Yes,No[bf],No,No,Yes,Yes,No,No,No,No,No,No
+7,exFAT,No,No,No,Partial (with TexFAT only),No,Yes,No,No,No,No,No,No
+8,FAT12,No,No,No,Partial (with TFAT12 only),No,Partial (with VFAT LFNs only),No,No,No,Partial (DR-DOS with SECURITY only),No,No
+9,FAT16 / FAT16B / FAT16X,No,No,No,Partial (with TFAT16 only),No,Partial (with VFAT LFNs only),No,No,No,Partial (DR-DOS with SECURITY only),No,No
+10,FAT32 / FAT32X,No,No,No?,Partial (with TFAT32 only),No,Partial (with VFAT LFNs only),No,No,No,No,No,No
+11,GFS,Yes,Yes[bg],Yes,Yes[bh],Yes,Yes,No,No,No,No,?,No
+12,HPFS,No,No,No,No,No,Yes,No,?,No,No,?,No
+13,NTFS,Yes,Yes[bi],No[bj],Yes[bj] (2000),Yes[bk],Yes,Yes,Partial[bl],?,Yes,Yes[bm][36],No
+14,HFS Plus,Yes[37],Yes,No,Yes[bn],Partial[bo],Yes,Yes[bp],No,No,No[bq],No,No
+15,FFS,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+16,UFS1,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+17,UFS2,Yes,Yes,No,Yes[br] [42] [bs],Yes,Yes,No,Yes,?,No,No,No
+18,HAMMER,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No,No,Yes,Yes
+19,LFS,Yes,Yes,Yes[bt],No,Yes,Yes,No,Yes,No,No,No,No
+20,ext,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+21,Xiafs,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+22,ext2,Yes,Yes,No,No,Yes,Yes,No,No,Yes[bu],No,No,No
+23,ext3,Yes,Yes,Yes (2001) [bv],Yes (2001),Yes,Yes,No,No,Yes,No,No,No
+24,ext4,Yes,Yes,Yes[bv],Yes,"Yes, optional [45]",Yes,No,No,Yes,"Yes, experimental [46]",No,No
+25,NOVA,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+26,F2FS,Yes,Yes,Yes[bt],No,Yes,Yes,No,No,No,"Yes, experimental [47]",No,No
+27,Lustre,Yes,Yes,Yes[bv],Yes,Yes,Yes,Yes,No,No,No,No,No
+28,NILFS,Yes,Yes,Yes[bt],No,Yes,Yes,No,Yes,No,No,No,Yes
+29,ReiserFS,Yes,Yes,Yes[bw],Yes,Yes,Yes,No,No,?,No,No,No
+30,Reiser4,Yes,Yes,Yes,No,Yes,Yes,No,?,?,Yes[bx],?,No
+31,OCFS,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+32,OCFS2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No
+33,XFS,Yes,Yes,Yes,Yes,Yes[by],Yes,Yes,No,?,No,"Yes, experimental [48]",No
+34,JFS,Yes,Yes,Yes,Yes (1990),Yes[bz],Yes,No,?,?,No,?,No
+35,QFS,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No
+36,BFS,Yes,Yes,No,Yes,Yes,Yes,?,No,No,No,No,No
+37,NSS,Yes,Yes,?,Yes,Yes[ca],Yes[ca],Yes[cb],Yes,No,Yes,?,No
+38,NWFS,Yes[cc],Yes[cc],No,No,Yes[ca],Yes[ca],Yes[cb],?,No,No,?,No
+39,ODS-2,Yes,Yes[cd],No,Yes,No,No,Yes,Yes,No,No,No,No
+40,ODS-5,Yes,Yes[cd],No,Yes,No,Yes,Yes,Yes,?,No,No,No
+41,UDF,Yes,Yes,Yes[bt],Yes[bt],Yes,Yes,No,No,Yes,No,No,No
+42,VxFS,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes[ce],?,No,Yes,No
+43,Fossil,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No
+44,ZFS,Yes,Yes,Yes[cf],No[cf],Yes,Yes,No,Yes,No,Yes[cg],Yes,Yes
+45,Btrfs,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,"No, planned, not being developed (Nov, 2015)[53]",Yes,Yes
+46,Minix V1,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+47,Minix V2,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+48,Minix V3,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+49,VMFS2,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No
+50,VMFS3,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No
+51,ReFS,No,Yes,?,?,Yes[bk],Yes,?,?,?,No,Yes,Yes
+52,ISO 9660,No,No,No,No,No,No,No,No,No,No,No[ch],No
+53,Rock Ridge,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No[ch],No
+54,"Joliet (""CDFS"")",No,No,No,No,No,Yes,No,No,No,No,No[ch],No
+55,SquashFS,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes
+56,File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums

@@ -1,0 +1,120 @@
+,Software,Budget Management,Time Tracking,Invoicing
+0,2-plan,No,No,No
+1,24SevenOffice,Yes,Yes,Yes
+2,Actionspace,No,Yes,No
+3,Apache Allura,No,No,No
+4,Apache OFBiz,Yes,Yes,Yes
+5,Apache Bloodhound,No,No,No
+6,Asana,No,Yes,No
+7,Assembla,No,Yes,No
+8,Axosoft,No,Yes,No
+9,Basecamp,No,No,No
+10,Calligra Plan,No,No,No
+11,CEITON,Yes,Yes,Yes
+12,Clarizen,Yes,Yes,No
+13,Collabtive,No,Yes,No
+14,Compuware Changepoint,No,Yes,No
+15,ConceptDraw Project,Yes [35],Yes [36],No
+16,Concerto Project Management,Yes,Yes,Yes
+17,Copper Project,Yes,Yes,Yes
+18,dotProject,No,No,No
+19,DynaRoad,Yes,Yes,No
+20,Easy projects,Yes,Yes,Yes
+21,Eclipse PPM software,No,No,No
+22,eGroupWare,No,Yes,No
+23,enQuire,Yes,Yes,Yes
+24,FastTrack Schedule,No,No,No
+25,Feng Office Community Edition,No,Yes,Yes
+26,FinancialForce.com,No,Yes,Yes
+27,FogBugz,No,Yes,No
+28,FusionForge,No,Yes,No
+29,GanttProject,No,No,No
+30,Genius Project,Yes,Yes,Yes
+31,GroveSite,No,No,No
+32,Hall.com,No,No,No
+33,Helix ALM,No,Yes,No
+34,HeySpace,No,No,No
+35,HP Project & Portfolio Software,No,No,No
+36,Huddle,No,No,No
+37,Hyperoffice,No,Yes,No
+38,iManageProject,No,Yes[37],No
+39,InLoox,Yes[38],Yes[38],Yes[38]
+40,in-Step BLUE,Yes,Yes,No
+41,Jira,No,Yes,No
+42,Launchpad,No,No,No
+43,LibrePlan,No,Yes,No
+44,LiquidPlanner,No,Yes,No
+45,LisaProject,No,No,No
+46,MacProject,No,No,No
+47,MantisBT,No,Yes[39],No
+48,MeisterTask,No,Yes,No
+49,Métier,Yes,Yes,Yes
+50,Microsoft Dynamics AX,Yes,Yes,Yes
+51,Microsoft Office Project Server,Yes,Yes,No
+52,Microsoft Project,Yes,Yes,No
+53,Microsoft SharePoint Server,No,No,No
+54,Microsoft Team Foundation Server,No,No,No
+55,Milestones Professional,No,No,No
+56,MyWorkPLAN,Yes,No,No
+57,NetPoint,No,No,No
+58,NetSuite,Yes,Yes,No
+59,O3Spaces,No,No,No
+60,OmniPlan,No,No,No
+61,OnePager Pro,No,No,No
+62,Open Workbench,No,No,No
+63,OpenProj,No,No,No
+64,OpenProject,Yes,Yes,No
+65,Oracle Primavera EPPM (Primavera P6),Yes,Yes,No
+66,phpGroupWare,No,No,No
+67,PHProjekt,No,Yes[40],No
+68,Pivotal Tracker,No,No,No
+69,Plandora,Yes,Yes,No
+70,Planisware,Yes,Yes,Yes
+71,PLANTA Project,Yes,Yes,No
+72,Project KickStart,No,No,No
+73,Project Team Builder,No,No,No
+74,ProjectLibre,Yes[41],Yes[42],No
+75,ProjectManager.com,Yes[43],Yes[44],No
+76,Project.net,No,Yes[45],Yes
+77,Projectplace,No,No,No
+78,Projektron BCS,Yes,Yes,Yes
+79,ProjeQtOr,Yes,Yes,Yes
+80,Proliance,No,No,No
+81,Prolog,Yes,Yes,Yes
+82,Pyrus,Yes,Yes,Yes
+83,RationalPlan,Yes,Yes,Yes
+84,Realisor,No,No,No
+85,Redbooth,No,Yes,No
+86,Redmine,No,Yes,No
+87,Rillsoft Project & Integration Server,Yes,Yes,No
+88,SAP Business ByDesign,Yes,Yes,Yes
+89,Sciforma,Yes,Yes[46],No
+90,Scoro,Yes,Yes,Yes
+91,Severa,No,Yes,No
+92,Smartsheet,No,No,No
+93,Streamtime Software,Yes,Yes,Yes
+94,Spider Project,Yes,Yes,Yes
+95,TACTIC,No,No,No
+96,Talygen,No,Yes,Yes
+97,TaskJuggler,No,No,No
+98,Teamcenter,Yes,Yes,No
+99,TeamDynamixHE,Yes,Yes,No
+100,TeamLab,No,No,No
+101,Teamwork.com,No,Yes,Yes
+102,Tom's Planner,No,No,No
+103,Trac,No,No,No
+104,TrackerSuite.Net,No,Yes,No
+105,Traction TeamPage,No,Yes,No
+106,Trello,No,No,No
+107,Triskell,Yes,Yes,Yes
+108,Tuleap,No,No,No
+109,Twproject,Yes[47],Yes,No
+110,UniPhi,Yes,Yes,Yes
+111,VPMi,Yes,Yes,No
+112,web2project,No,No[48],No
+113,Workamajig,Yes,Yes,No
+114,Workfront,Yes,Yes,No
+115,WorkPLAN Enterprise,No,Yes,No
+116,workspace.com,No,Yes,No
+117,Wrike,No,Yes,No
+118,Zoho Projects,Yes[49],Yes[49],Yes[49]

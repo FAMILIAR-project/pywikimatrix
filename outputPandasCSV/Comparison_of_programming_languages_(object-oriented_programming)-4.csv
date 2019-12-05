@@ -1,0 +1,25 @@
+,Unnamed: 0,public,private,protected,friend
+0,ABAP Objects,public section.[21] data field type type.,private section.[21] data field type type.,protected section.[21] data field type type.,[22]
+1,C++ (STL),public: type field;,private: type field;,protected: type field;,[23]
+2,C#,public type field «= value»;,private type field «= value»;,protected type field «= value»;,internal type field «= value»;
+3,D,public type field «= value»;,private type field «= value»;,,package type field «= value»;
+4,Java,public type field «= value»;,private type field «= value»;,protected type field «= value»;,type field «= value»;
+5,eC,public type field;,private type field;,,
+6,Eiffel,feature field: TYPE,feature {NONE} field: TYPE,feature {current_class} field: TYPE,feature {FRIEND} field: TYPE
+7,Objective-C,@public type field;,@private type field;,@protected type field;,@package type field;
+8,Swift,,,,
+9,Smalltalk,,,[24],
+10,Python,self.field = value[25],N/A[26],,
+11,Visual Basic .NET,Public field As type «= value»,Private field As type «= value»,Protected field As type «= value»,Friend field As type «= value»
+12,Xojo,Public field As type «= value»,Private field As type «= value»,Protected field As type «= value»,
+13,PHP,public $field «= value»;,private $field «= value»;,protected $field «= value»;,
+14,Perl,$self->{field} = value;[25],,,
+15,Raku,has« type »$.field« is rw»,has« type »$!field,,
+16,Ruby,,,@field = value[25],
+17,Windows PowerShell,Add-Member «-MemberType »NoteProperty «-Name »Bar «-Value »value-InputObject variable,,,
+18,OCaml,,,val «mutable» field = value,
+19,F#,,let «mutable» field = value,,
+20,JavaScript,"this.field = value this[""field""] = value[25]",,,
+21,COBOL,,level-number field clauses.[27],,
+22,Cobra,var field «as type» «= value»,var __field «as type» «= value»,var _field «as type» «= value»,
+23,ISLISP,(field :initform value :accessor accessor-name :initarg keyword),,,

@@ -1,0 +1,55 @@
+,Language,Failsafe I/O
+0,1C:Enterprise,Yes
+1,Ada,Yes (exceptions)
+2,ALGOL,Yes (exceptions or return value depending on function)
+3,AutoHotkey,No (global ErrorLevel must be explicitly checked)
+4,Bash,Optional[FSIO 1]
+5,Ballerina,Yes
+6,Bro,Yes
+7,C,No[FSIO 2]
+8,C++,Some (STL iostreams throw on failure but C APIs like stdio or POSIX do not)[FSIO 2]
+9,C#,Yes
+10,COBOL,No
+11,Common Lisp,"Yes (""conditions and restarts"" system)"
+12,D,Yes (throwing on failure) [FSIO 3]
+13,Eiffel,No – It actually depends on the library and it is not defined by the language
+14,Erlang,Yes
+15,Fortran,Yes
+16,GLBasic,No – Will generally cause program to crash
+17,Go,Yes (unless result explicitly ignored)
+18,Gosu,Yes
+19,Harbour,Yes
+20,Haskell,Yes
+21,ISLISP,Yes
+22,Java,Yes
+23,Julia,Yes
+24,Kotlin,Yes
+25,LabVIEW,Yes
+26,Lua,No (some functions do not warn or throw exceptions)
+27,Mathematica,Yes
+28,Object Pascal,Some
+29,Objective-C,Yes (exceptions)
+30,OCaml,Yes (exceptions)
+31,OpenLisp,Yes
+32,Perl,No[FSIO 4]
+33,PHP,Yes
+34,Python,Yes
+35,Raku,Yes
+36,Rebol,Yes
+37,Rexx,Yes (with optional signal on… trap handling)
+38,RPG,No
+39,Ruby,Yes
+40,Rust,Yes (unless result explicitly ignored)
+41,S,Unknown
+42,Smalltalk,Yes
+43,Scala,Yes[FSIO 5]
+44,Standard ML,Yes[citation needed]
+45,Swift ≥ 2.0,Yes (exceptions)
+46,Tcl,Yes
+47,Visual Basic,Yes
+48,Visual Basic .NET,Yes
+49,Visual Prolog,Yes
+50,Wolfram Language,Yes
+51,Xojo,Yes
+52,XPath/XQuery,Yes (exceptions)
+53,Language,Failsafe I/O

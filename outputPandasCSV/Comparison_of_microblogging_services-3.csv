@@ -1,0 +1,9 @@
+,Service,Post via,Post via.1,Post via.2,Post via.3,Post via.4,Post via.5,Read via,Read via.1,Read via.2,Read via.3,Read via.4,Read via.5
+0,Service,Web,XMPP,E-Mail,SMS,API,Micropub,Web,XMPP,E-Mail,SMS,API,Feed
+1,Facebook,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+2,identi.ca / GNU social,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+3,Twitter,Yes,No,No,Yes,Yes,No,Yes,No,?,Yes,Yes,Yes
+4,Mastodon,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+5,Misskey,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+6,micro.blog,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+7,Pleroma,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes

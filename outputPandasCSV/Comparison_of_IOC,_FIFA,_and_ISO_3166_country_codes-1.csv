@@ -1,0 +1,255 @@
+,Flag,Country,IOC,FIFA,ISO,*
+0,,Afghanistan,AFG,AFG,AFG,3OFI
+1,,Åland Islands,,,ALA,1--ï
+2,,Albania,ALB,ALB,ALB,3OFI
+3,,Algeria,ALG,ALG,DZA,3OFï
+4,,American Samoa[1],ASA,ASA,ASM,3OFï
+5,,Andorra,AND,AND,AND,3OFI
+6,,Angola,ANG,ANG,AGO,3OFï
+7,,Anguilla,,AIA,AIA,2-FI
+8,,Antarctica,,,ATA,1--ï
+9,,Antigua and Barbuda,ANT,ATG,ATG,3öFI
+10,,Argentina,ARG,ARG,ARG,3OFI
+11,,Armenia,ARM,ARM,ARM,3OFI
+12,,Aruba,ARU,ARU,ABW,3OFï
+13,,Australia,AUS,AUS,AUS,3OFI
+14,,Austria,AUT,AUT,AUT,3OFI
+15,,Azerbaijan,AZE,AZE,AZE,3OFI
+16,,The Bahamas,BAH,BAH,BHS,3OFï
+17,,Bahrain,BRN,BHR,BHR,3öFI
+18,,Bangladesh,BAN,BAN,BGD,3OFï
+19,,Barbados,BAR,BRB,BRB,3öFI
+20,,Belarus,BLR,BLR,BLR,3OFI
+21,,Belgium,BEL,BEL,BEL,3OFI
+22,,Belize,BIZ,BLZ,BLZ,3öFI
+23,,Benin,BEN,BEN,BEN,3OFI
+24,,Bermuda,BER,BER,BMU,3OFï
+25,,Bhutan,BHU,BHU,BTN,3OFï
+26,,Bolivia,BOL,BOL,BOL,3OFI
+27,,"Caribbean Netherlands: Bonaire, Sint Eustatius and Saba",,,BES,1--ï
+28,,Bosnia and Herzegovina,BIH,BIH,BIH,3OFI
+29,,Botswana,BOT,BOT,BWA,3OFï
+30,,Bouvet Island,,,BVT,1--ï
+31,,Brazil,BRA,BRA,BRA,3OFI
+32,,British Indian Ocean Territory,,,IOT,1--ï
+33,,British Virgin Islands[2],IVB,VGB,VGB,3öFI
+34,,Brunei,BRU,BRU,BRN,3OFï
+35,,Bulgaria,BUL,BUL,BGR,3OFï
+36,,Burkina Faso,BUR,BFA,BFA,3öFI
+37,,Burundi,BDI,BDI,BDI,3OFI
+38,,Cambodia,CAM,CAM,KHM,3OFï
+39,,Cameroon,CMR,CMR,CMR,3OFI
+40,,Canada,CAN,CAN,CAN,3OFI
+41,,Cape Verde,CPV,CPV,CPV,3OFI
+42,,Cayman Islands,CAY,CAY,CYM,3OFï
+43,,Central African Republic,CAF,CTA,CAF,3OƒI
+44,,Chad,CHA,CHA,TCD,3OFï
+45,,Chile,CHI,CHI,CHL,3OFï
+46,,"China, People's Republic of[3]",CHN,CHN,CHN,3OFI
+47,,Christmas Island,,,CXR,1--ï
+48,,Cocos (Keeling) Islands,,,CCK,1--ï
+49,,Colombia,COL,COL,COL,3OFI
+50,,Comoros,COM,COM,COM,3OFI
+51,,"Congo, Democratic Republic of the[4]",COD,COD,COD,3OFI
+52,,"Congo, Republic of the[5]",CGO,CGO,COG,3OFï
+53,,Cook Islands,COK,COK,COK,3OFI
+54,,Costa Rica,CRC,CRC,CRI,3OFï
+55,,Côte d'Ivoire,CIV,CIV,CIV,3OFI
+56,,Croatia,CRO,CRO,HRV,3OFï
+57,,Cuba,CUB,CUB,CUB,3OFI
+58,,Curaçao,,CUW,CUW,2-FI
+59,,Cyprus,CYP,CYP,CYP,3OFI
+60,,Czech Republic,CZE,CZE,CZE,3OFI
+61,,Denmark,DEN,DEN,DNK,3OFï
+62,,Djibouti,DJI,DJI,DJI,3OFI
+63,,Dominica,DMA,DMA,DMA,3OFI
+64,,Dominican Republic,DOM,DOM,DOM,3OFI
+65,,Ecuador,ECU,ECU,ECU,3OFI
+66,,Egypt,EGY,EGY,EGY,3OFI
+67,,El Salvador,ESA,SLV,SLV,3öFI
+68,,England,,ENG,[6],1-ƒ-
+69,,Equatorial Guinea,GEQ,EQG,GNQ,3öƒï
+70,,Eritrea,ERI,ERI,ERI,3OFI
+71,,Estonia,EST,EST,EST,3OFI
+72,,Eswatini,SWZ,SWZ,SWZ,3OFI
+73,,Ethiopia,ETH,ETH,ETH,3OFI
+74,,Falkland Islands,,,FLK,1--ï
+75,,Faroe Islands,,FRO,FRO,2-FI
+76,,Fiji,FIJ,FIJ,FJI,3OFï
+77,,Finland,FIN,FIN,FIN,3OFI
+78,,France,FRA,FRA,FRA,3OFI
+79,,French Guiana,,,GUF,1--ï
+80,,French Polynesia[7],,TAH,PYF,2-ƒï
+81,,French Southern and Antarctic Lands,,,ATF,1--ï
+82,,Gabon,GAB,GAB,GAB,3OFI
+83,,The Gambia,GAM,GAM,GMB,3OFï
+84,,Georgia,GEO,GEO,GEO,3OFI
+85,,Germany,GER,GER,DEU,3OFï
+86,,Ghana,GHA,GHA,GHA,3OFI
+87,,Gibraltar,,GIB,GIB,2-FI
+88,,Greece,GRE,GRE,GRC,3OFï
+89,,Greenland,,,GRL,1--ï
+90,,Grenada,GRN,GRN,GRD,3OFï
+91,,Guadeloupe,,,GLP,1--ï
+92,,Guam,GUM,GUM,GUM,3OFI
+93,,Guatemala,GUA,GUA,GTM,3OFï
+94,,Guernsey,,,GGY,1--ï
+95,,Guinea,GUI,GUI,GIN,3OFï
+96,,Guinea-Bissau,GBS,GNB,GNB,3öFI
+97,,Guyana,GUY,GUY,GUY,3OFI
+98,,Haiti,HAI,HAI,HTI,3OFï
+99,,Heard Island and McDonald Islands,,,HMD,1--ï
+100,,Honduras,HON,HON,HND,3OFï
+101,,Hong Kong[8],HKG,HKG,HKG,3OFI
+102,,Hungary,HUN,HUN,HUN,3OFI
+103,,Iceland,ISL,ISL,ISL,3OFI
+104,,India,IND,IND,IND,3OFI
+105,,Indonesia,INA,IDN,IDN,3öFI
+106,,Iran,IRI,IRN,IRN,3öFI
+107,,Iraq,IRQ,IRQ,IRQ,3OFI
+108,,Ireland[9],IRL,IRL,IRL,3OFI
+109,,Isle of Man,,,IMN,1--ï
+110,,Israel,ISR,ISR,ISR,3OFI
+111,,Italy,ITA,ITA,ITA,3OFI
+112,,Jamaica,JAM,JAM,JAM,3OFI
+113,,Japan,JPN,JPN,JPN,3OFI
+114,,Jersey,,,JEY,1--ï
+115,,Jordan,JOR,JOR,JOR,3OFI
+116,,Kazakhstan,KAZ,KAZ,KAZ,3OFI
+117,,Kenya,KEN,KEN,KEN,3OFI
+118,,Kiribati,KIR,,KIR,2O-I
+119,,"Korea, Democratic People's Rep. (North)[10]",PRK,PRK,PRK,3OFI
+120,,"Korea, Republic of (South)[11]",KOR,KOR,KOR,3OFI
+121,,Kosovo,KOS,KVX,[12],2öƒ-
+122,,Kuwait,KUW,KUW,KWT,3OFï
+123,,Kyrgyzstan,KGZ,KGZ,KGZ,3OFI
+124,,Laos,LAO,LAO,LAO,3OFI
+125,,Latvia,LAT,LVA,LVA,3öFI
+126,,Lebanon,LBN,LIB,LBN,3OƒI
+127,,Lesotho,LES,LES,LSO,3OFï
+128,,Liberia,LBR,LBR,LBR,3OFI
+129,,Libya,LBA,LBY,LBY,3öFI
+130,,Liechtenstein,LIE,LIE,LIE,3OFI
+131,,Lithuania,LTU,LTU,LTU,3OFI
+132,,Luxembourg,LUX,LUX,LUX,3OFI
+133,,Macau,,MAC,MAC,2-FI
+134,,Madagascar,MAD,MAD,MDG,3OFï
+135,,Malawi,MAW,MWI,MWI,3öFI
+136,,Malaysia,MAS,MAS,MYS,3OFï
+137,,Maldives,MDV,MDV,MDV,3OFI
+138,,Mali,MLI,MLI,MLI,3OFI
+139,,Malta,MLT,MLT,MLT,3OFI
+140,,Marshall Islands,MHL,,MHL,2O-I
+141,,Martinique,,,MTQ,1--ï
+142,,Mauritania,MTN,MTN,MRT,3OFï
+143,,Mauritius,MRI,MRI,MUS,3OFï
+144,,Mayotte,,,MYT,1--ï
+145,,Mexico,MEX,MEX,MEX,3OFI
+146,,"Micronesia, Federated States of",FSM,,FSM,2O-I
+147,,Moldova,MDA,MDA,MDA,3OFI
+148,,Monaco,MON,,MCO,2ö-ï
+149,,Mongolia,MGL,MNG,MNG,3öFI
+150,,Montenegro,MNE,MNE,MNE,3OFI
+151,,Montserrat,,MSR,MSR,2-FI
+152,,Morocco,MAR,MAR,MAR,3OFI
+153,,Mozambique,MOZ,MOZ,MOZ,3OFI
+154,,Myanmar,MYA,MYA,MMR,3OFï
+155,,Namibia,NAM,NAM,NAM,3OFI
+156,,Nauru,NRU,,NRU,2O-I
+157,,Nepal,NEP,NEP,NPL,3OFï
+158,,Netherlands,NED,NED,NLD,3OFï
+159,,New Caledonia,,NCL,NCL,2-FI
+160,,New Zealand,NZL,NZL,NZL,3OFI
+161,,Nicaragua,NCA,NCA,NIC,3OFï
+162,,Niger,NIG,NIG,NER,3OFï
+163,,Nigeria,NGR,NGA,NGA,3öFI
+164,,Niue,,,NIU,1--ï
+165,,Norfolk Island,,,NFK,1--ï
+166,,Northern Ireland,,NIR,[6],1-ƒ-
+167,,Northern Mariana Islands,,,MNP,1--ï
+168,,North Macedonia[13],MKD,MKD,MKD,3OFI
+169,,Norway,NOR,NOR,NOR,3OFI
+170,,Oman,OMA,OMA,OMN,3OFï
+171,,Pakistan,PAK,PAK,PAK,3OFI
+172,,Palau,PLW,,PLW,2O-I
+173,,State of Palestine,PLE,PLE,PSE,3OFï
+174,,Panama,PAN,PAN,PAN,3OFI
+175,,Papua New Guinea,PNG,PNG,PNG,3OFI
+176,,Paraguay,PAR,PAR,PRY,3OFï
+177,,Peru,PER,PER,PER,3OFI
+178,,Philippines,PHI,PHI,PHL,3OFï
+179,,Pitcairn Islands,,,PCN,1--ï
+180,,Poland,POL,POL,POL,3OFI
+181,,Portugal,POR,POR,PRT,3OFï
+182,,Puerto Rico,PUR,PUR,PRI,3OFï
+183,,Qatar,QAT,QAT,QAT,3OFI
+184,,Réunion,,,REU,1--ï
+185,,Romania,ROU,ROU,ROU,3OFI
+186,,Russian Federation,RUS,RUS,RUS,3OFI
+187,,Rwanda,RWA,RWA,RWA,3OFI
+188,,Saint Barthélemy,,,BLM,1--ï
+189,,"Saint Helena, Ascension and Tristan da Cunha",,,SHN,1--ï
+190,,Saint Kitts and Nevis,SKN,SKN,KNA,3OFï
+191,,Saint Lucia,LCA,LCA,LCA,3OFI
+192,,Saint Martin (French part),,,MAF,1--ï
+193,,Saint Pierre and Miquelon,,,SPM,1--ï
+194,,Saint Vincent and the Grenadines,VIN,VIN,VCT,3OFï
+195,,Samoa[1],SAM,SAM,WSM,3OFï
+196,,San Marino,SMR,SMR,SMR,3OFI
+197,,São Tomé and Príncipe,STP,STP,STP,3OFI
+198,,Saudi Arabia,KSA,KSA,SAU,3OFï
+199,,Scotland,,SCO,[6],1-ƒ-
+200,,Senegal,SEN,SEN,SEN,3OFI
+201,,Serbia,SRB,SRB,SRB,3OFI
+202,,Seychelles,SEY,SEY,SYC,3OFï
+203,,Sierra Leone,SLE,SLE,SLE,3OFI
+204,,Singapore,SGP,SIN,SGP,3OƒI
+205,,Sint Maarten (Dutch part),,,SXM,1--ï
+206,,Slovakia,SVK,SVK,SVK,3OFI
+207,,Slovenia,SLO,SVN,SVN,3öFI
+208,,Solomon Islands,SOL,SOL,SLB,3OFï
+209,,Somalia,SOM,SOM,SOM,3OFI
+210,,South Africa,RSA,RSA,ZAF,3OFï
+211,,South Georgia and the South Sandwich Islands,,,SGS,1--ï
+212,,South Sudan,SSD,SSD,SSD,3OFI
+213,,Spain,ESP,ESP,ESP,3OFI
+214,,Sri Lanka,SRI,SRI,LKA,3OFï
+215,,Sudan,SUD,SDN,SDN,3öFI
+216,,Suriname,SUR,SUR,SUR,3OFI
+217,,Svalbard and Jan Mayen,,,SJM,1--ï
+218,,Sweden,SWE,SWE,SWE,3OFI
+219,,Switzerland,SUI,SUI,CHE,3OFï
+220,,Syria,SYR,SYR,SYR,3OFI
+221,,Taiwan[14],TPE,TPE,TWN,3OFï
+222,,Tajikistan,TJK,TJK,TJK,3OFI
+223,,Tanzania,TAN,TAN,TZA,3OFï
+224,,Thailand,THA,THA,THA,3OFI
+225,,Timor-Leste[15],TLS,TLS,TLS,3OFI
+226,,Togo,TOG,TOG,TGO,3OFï
+227,,Tokelau,,,TKL,1--ï
+228,,Tonga,TGA,TGA,TON,3OFï
+229,,Trinidad and Tobago,TTO,TRI,TTO,3OƒI
+230,,Tunisia,TUN,TUN,TUN,3OFI
+231,,Turkey,TUR,TUR,TUR,3OFI
+232,,Turkmenistan,TKM,TKM,TKM,3OFI
+233,,Turks and Caicos Islands,,TCA,TCA,2-FI
+234,,Tuvalu,TUV,,TUV,2O-I
+235,,Uganda,UGA,UGA,UGA,3OFI
+236,,Ukraine,UKR,UKR,UKR,3OFI
+237,,United Arab Emirates,UAE,UAE,ARE,3OFï
+238,,United Kingdom[16],GBR,,GBR,2O-I
+239,,United States,USA,USA,USA,3OFI
+240,,United States Minor Outlying Islands,,,UMI,1--ï
+241,,United States Virgin Islands[17],ISV,VIR,VIR,3öFI
+242,,Uruguay,URU,URU,URY,3OFï
+243,,Uzbekistan,UZB,UZB,UZB,3OFI
+244,,Vanuatu,VAN,VAN,VUT,3OFï
+245,,Vatican City State,,,VAT,1--ï
+246,,Venezuela,VEN,VEN,VEN,3OFI
+247,,Vietnam,VIE,VIE,VNM,3OFï
+248,,Wales,,WAL,[6],1-ƒ-
+249,,Wallis and Futuna,,,WLF,1--ï
+250,,Western Sahara,,,ESH,1--ï
+251,,Yemen,YEM,YEM,YEM,3OFI
+252,,Zambia,ZAM,ZAM,ZMB,3OFï
+253,,Zimbabwe,ZIM,ZIM,ZWE,3OFï

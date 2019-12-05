@@ -1,0 +1,5 @@
+,Kernel name,ACL,SCO,LMP,HCI,L2CAP,BNEP,RFComm.,SDP,TCP,AVTCP,AVDTP,OBEX,CMTP,HIDP,HCRP,CAPI,PPP
+0,FreeBSD kernel,?,?,?,Yes,Yes,?,Yes,Yes,?,?,?,No,?,?,?,?,?
+1,Linux,?,Yes,?,Yes,Yes,Yes,Yes,?,?,?,?,?,Yes,Yes,?,?,?
+2,macOS XNU Kernel,?,?,?,?,Yes,?,Yes,Yes,?,?,?,No,?,?,?,?,?
+3,Kernel name,ACL,SCO,LMP,HCI,L2CAP,BNEP,RFComm.,SDP,TCP,AVTCP,AVDTP,OBEX,CMTP,HIDP,HCRP,CAPI,PPP

@@ -1,0 +1,57 @@
+,Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB
+0,Arch Linux,742,,Yes,Yes,Yes,Yes
+1,AUSTRUMI,301,,Yes,Yes,Yes,Yes
+2,BLAG Linux and GNU,696,?,Yes,No,?,
+3,Bodhi Linux,1024,80,Yes,Yes,Yes,Yes
+4,CentOS,"603 (Minimal) 4,096 (DVD)",,Yes,Yes,Yes (installable since 6.0),Yes
+5,Chakra,2150,,No,Yes,Yes,Yes
+6,Debian,958,,Yes,Yes,Yes,Yes
+7,Devuan,868,,Yes,Yes,Yes,Yes
+8,Dragora GNU/Linux-Libre,655,?,Yes,?,?,?
+9,dyne:bolic,1650,?,up to version 2.x,Yes,?,?
+10,Fedora,1434,"256 to 1,024",Yes,Yes,Yes,Yes
+11,Gentoo,"260 (Minimal) 2,048 (Live DVD)",up to 128,Yes,Yes,Yes,Yes
+12,gNewSense[199],1200,512,?,?,Yes,?
+13,Grml,460,32 to 128,Yes,No,Yes,Yes
+14,Guix[200],1375,366,No,Yes,Yes,Yes
+15,Hyperbola GNU/Linux-libre,660 and 688,?,Yes,Yes,Yes,Yes
+16,Knoppix CD,700,128 to 320,Yes,Yes,Only DVD edition is maintained,
+17,Knoppix DVD,4813,128 to 500,No,Yes,,
+18,LibreCMC,?,?,No,No,No,No
+19,Mandriva Linux One,700,128 to 768,Yes,Yes,Yes,Yes
+20,Manjaro Linux,"473 to 2,200[201]","256 to 1,024",Yes,Yes,Yes,Yes
+21,MEPIS,"700 to 4,000",128 to 512,Yes,Yes,Yes,Yes
+22,Musix GNU+Linux,2000,?,No,Yes,Yes,Yes
+23,Nanolinux,18,≈64,Yes,Yes,Yes,Yes
+24,openGEU,700,192 to 512,Yes,,Yes,
+25,openSUSE (Not 42.1),700,128 to 768,Yes,Yes,Yes,Yes
+26,OpenWrt,min 4,min 16,No,No,No,No
+27,Parabola GNU/Linux-libre,"400 to 3,300",?,Yes,Yes,Yes,Yes
+28,Pardus,"1,256 to 1,276","256 to 1,024",Yes,Yes,Yes,Yes
+29,PCLinuxOS,130 to 700,96 to 512,Yes,Yes,Yes,Yes
+30,Pentoo,666 and 700,48 to 96,Yes,Yes,By hand[202],By hand
+31,Porteus,224 to 373,min 36,?,?,Yes,Yes
+32,Puppy Linux (Slacko),235,32 to 192,Yes,Yes,Yes,Yes
+33,Puredyne,542,,Yes,Yes,Yes,Yes
+34,Sabayon Linux Live CD,695,,Yes,Yes,Yes,Yes
+35,Sabayon Linux Live DVD,2400,,No,Yes,Yes,Yes
+36,Scientific Linux,"431 to 2,300[203]",640,Yes,Yes,Yes,Yes
+37,Slackware,2600,"64 to 1,024[204]",Yes,Yes,Yes,Yes
+38,Slax,200,96 to 320,Yes,Yes,,Yes
+39,Solus,1200,1024,No,Yes,Yes,Yes
+40,SystemRescueCD,459,,Yes,Yes,Yes,Yes
+41,SliTaz GNU/Linux,35,24 to 192,Yes,Yes,Yes,Yes
+42,Tails,≈900,"≈1,024",No,Yes,Yes,Yes (when run from DVD)
+43,Tiny Core Linux,16,46,Yes,Yes,Yes,Yes
+44,Tiny SliTaz,64,4,Yes,Yes,By SliTaz,By SliTaz
+45,Tor-ramdisk,5,256 or >[205],Yes,Yes,Yes,Yes
+46,Trisquel,"1,500[206]",384,Yes,Yes,Yes,Yes
+47,TurnKey GNU/Linux Core (base) appliance ISO,212,~173,Yes,Yes,Yes,Yes
+48,Ubuntu,"1,700[207]",384,Yes,Yes,Yes,Yes
+49,Ututo,3500,?,No,Yes,Yes,?
+50,Edubuntu,"2,900[208]",,Yes,Yes,Yes,
+51,Kubuntu,"1,400[209]",384,Yes,Yes,Yes,Yes
+52,XBMC Live,700,"256 to 1,024",Yes,No,Yes,Yes
+53,Zentyal,600,256,Yes,Yes,Yes,Yes
+54,Xubuntu,"1,200[210]",256,Yes,Yes,Yes,Yes
+55,Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB

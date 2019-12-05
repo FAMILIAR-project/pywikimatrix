@@ -1,0 +1,24 @@
+,Firewall,License,Cost,OS
+0,Clavister,Proprietary,Included on all ClavisterNGFWs,Proprietary operating system cOS Core
+1,Check Point,Proprietary,Included on Check Pointsecurity gateways,Proprietary operating system Check Point IPSOand Gaia (Linux-based)
+2,FortiGate,Proprietary,Included on all Fortigatedevices,"Proprietary, FortiOS, Based on the Linux kernel"
+3,Palo Alto Networks,Proprietary,Included on Palo AltoNetworks firewalls,Proprietary operating system PANOS
+4,Sophos,Proprietary,Included on Sophos UTM,Linux-based appliance
+5,Cisco ASA Firepower,Proprietary,Included on all CISCOASA devices,Proprietary operating system
+6,Cisco PIX,Proprietary,Included on all CISCOPIX devices,Proprietary operating system
+7,Juniper SSG,Proprietary,Included on Netscreensecurity gateways,Proprietary operating system ScreenOS
+8,Juniper SRX,Proprietary,Included on SRXsecurity gateways,Proprietary operating system Junos
+9,Sonicwall,Proprietary,Included on Dell appliance,Proprietary operating system SonicOS Based on the Linux kernel
+10,Barracuda Firewall,Proprietary,Included Firewall Next Generation appliance,Windows-based applianceembedded firewall distribution
+11,Cyberoam,Proprietary,Included Firewall Sophos appliance,Windows-based applianceembedded firewall distribution
+12,D-Link,Proprietary,Included Firewall DFL,Windows-based applianceembedded firewall distribution
+13,Endian Firewall,Proprietary,Free / Paid,Linux-based appliance
+14,Forcepoint NGFW,Proprietary,Included on all Forcepoint NGFW devices,Proprietary operating system
+15,OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSD-based appliancefirewall distribution
+16,pfSense,ESF/Apache 2.0,Free / Paid,FreeBSD-based appliancefirewall distribution
+17,Untangle,GPL,Free / Paid,Linux-based appliancefirewall distribution
+18,Zeroshell,GPL,Free / Paid,Linux/NanoBSD-based appliancefirewall distribution
+19,SmoothWall,GPL,Free / Paid,Linux-based applianceembedded firewall distribution [4]
+20,IPFire,GPL,Free (Donations welcomed),Linux-based applianceembedded firewall distribution
+21,WatchGuard,Proprietary,Included on all Firebox devices,"Proprietary, Fireware OS, Based on the Linux kernel"
+22,WinGate,Proprietary,Free / Paid,Windows-based applianceembedded firewall distribution

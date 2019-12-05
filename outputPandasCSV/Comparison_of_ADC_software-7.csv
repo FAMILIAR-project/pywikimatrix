@@ -1,0 +1,14 @@
+,ADC client,GUI,CLI,WebUI,Programming language,Based on
+0,AirDC++,Yes,No,Yes,C++,StrongDC++
+1,AirDC++ Web Client,No,No,Yes,"C++, TypeScript",AirDC++
+2,ApexDC++,Yes,No,No,"C++, Lua",StrongDC++
+3,DC++,Yes,No,No,C++,
+4,Jucy,Yes,No,No,Java,
+5,LinuxDC++,Yes,No,No,C++,DC++
+6,EiskaltDC++,Yes,Yes,Yes,"C++, Lua",DC++
+7,FlylinkDC++,Yes,No,Yes,C++,"StrongDC++, DC++, ApexDC speed mode"
+8,RSX++,Yes,No,No,"C++, Lua",StrongDC++
+9,TKDC++,Yes,No,No,"C++, Lua","StrongDC++, DC++"
+10,StrongDC++,Yes,No,No,C++,DC++
+11,ncdc,No,Yes,No,C,
+12,ADC client,GUI,CLI,WebUI,Programming language,Based on

@@ -1,0 +1,36 @@
+,Unnamed: 0,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+0,Road closed to all vehicles in both directions,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,No entry for vehicular traffic,,,,,,,,,,,,(no exceptions)(with exceptions),,,,,,,,,,,,,,,,
+2,No motor vehicles,,NOTUSED,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,
+3,No motor vehicles except motorcycles,,,,NOTUSED,,NOTUSED,NOTUSED,,,,,NOTUSED,,,,NOTUSED,,,,NOTUSED,,,,,,,NOTUSED,
+4,No motorcycles,,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,
+5,No bicycles,,,,,,,,,,,,,,,,,,,,,,,,,[note 8],,,
+6,No pedestrians,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,No buses,,,,,,,,,,,,,,,,,,,,NOTUSED,,,,,,,,
+8,No heavy goods vehicles,,,,,,,,,,,,,,,,,,or,,,,,,,[note 9],,,[note 10]
+9,No tractors,,NOTUSED,,,,,,,,,,NOTUSED,,,,,,,,,,,,,DISUSED,,,NOTUSED
+10,No trailers,,,,,,,,or,,,,,,,,,,or,,,,oror,,,,,,NOTUSED
+11,No horns or excessive motor noise,,NOTUSED,,,,NOTUSED,,,,NOTUSED,NOTUSED,NOTUSED,,,NOTUSED,,,,,,,,,NOTUSED,REPLACEDby signno. 4.14[note 11],,,NOTUSED
+12,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+13,No overtaking,,,,,,,,,,,,,,,,,,or,,,,,,,,,,
+14,No overtaking by heavy goods vehicles,,,,,,,,,,,,,,,,,,,,,,,,,,,,NOTUSED
+15,Maximum speed limit,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Speed limit zone,,,,,,,,,,,,,,,,,,,,,,,,NOTUSED,or,,,
+17,Maximum height,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Maximum width,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Maximum vehicle length,or,,,,,,,,,,,,,,,,,,,,,,,,,,,and
+20,Maximum weight,,,,,,,,,,,,,,,,or,,,,,,,,,,,,
+21,Maximum weight per axle,,NOTUSED,,,,,,,,,,,,,,,,,,,,,,,,,,NOTUSED
+22,Maximum weight per tandem axle,NOTUSED,NOTUSED,NOTUSED,,,,NOTUSED,NOTUSED,NOTUSED,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,,NOTUSED,NOTUSED,or,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,[note 12],NOTUSED,NOTUSED,NOTUSED
+23,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+24,No vehicles carrying dangerous goods,,or,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,
+25,No vehicles carrying dangerous water pollutants,,,,NOTUSED,NOTUSED,NOTUSED,,,,,,NOTUSED,,,NOTUSED,NOTUSED,,,,NOTUSED,,,,NOTUSED,,,,NOTUSED
+26,No vehicles carrying explosives,NOTUSED,,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,,,,NOTUSED,,,,NOTUSED,NOTUSED,,,,,NOTUSED,,,,,,,
+27,Minimum safe following distance between vehicles,,NOTUSED,,,,,,(over 3.5t),,or,,NOTUSED,,,NOTUSED,NOTUSED,,,,,,,,,,,,NOTUSED
+28,No right turn,,,,,,,,NOTUSED,,,,,,,NOTUSED,,,,,,,,,,,,,
+29,No left turn,,,,,,,,NOTUSED,,,,,,,NOTUSED,,,,,,,,,,,,,
+30,No U-turns,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,No parking or waiting,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,No stopping,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,No parking zone,,,,,,,,,,,,,NOTUSED,,,,,,,,,,,,or,,,
+34,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom

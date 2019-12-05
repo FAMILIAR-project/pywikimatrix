@@ -1,0 +1,48 @@
+,Research Networking Tool,Profiled User Population,Can Users Update Their Own Profile Data?,Type of Networking (Active or Passive),Includes Functionality to Match Expertise with Funding Opportunities
+0,Academic Room,"Anyone can create a profile. Profiled categories include ""Faculty"", ""Grad Students"", ""Undergrads"", ""Professionals""",Yes,Active,No
+1,Activity Insight,"Faculty, Staff, Graduate Students",Yes,Active and Passive,Yes
+2,C-IKNOW,Defined using Web of science ID or on an ad hoc basis,No,Active and Passive,No
+3,PROFILES by Mentis® (formerly Collaborative Partnership / Profile System),"Faculty, Students, Staff, Equipment Owners, Research Centers, Facilities, Technologies, Units etc. as per institution's needs",Yes,Active and Passive,Yes
+4,Community Academic Profiles - CAP,"Active Stanford physicians, School of Medicine faculty, students, staff and postdocs.",Yes,Active and Passive,Unknown
+5,CurvitaTM Profile Manager,All,Unknown,No networking,Unknown
+6,CUSP - Columbia University Scientific Profiles,All Columbia faculty,Yes,Active,Unknown
+7,Digital Vita,All,Yes,Passive,Unknown
+8,Elsevier's Pure,Any researchers can be included,"Yes the Administration module enables users to enter content into their profiles via forms, uploads or imports. Content types supported include (but not limited to): Persons, awarded grants, journals, org units, projects, events, equipment, activities, press clippings, funding opportunities, research outputs (from journal articles to memorandums of understanding), impacts, applications, datasets, student theses, courses taught and prizes",Passive,Yes the Funding Discovery module within Pure automatically recommends funding opportunities from SciVal Funding and suggested collaborators to profiled researchers with no manual effort.
+9,Elsevier's SciVal,All published researchers,"Yes, SciVal links to profiles in Scopus and researchers can submit feedback on profiles within Scopus to have papers added or removed.",Passive,No
+10,Epernicus Solutions & Epernicus Network,Anyone who enters a profile (for Epernicus Network),Yes (for Epernicus Network),Passive,Unknown
+11,Epistemio,Any researcher who creates a profile,Yes,,No
+12,ERIM Member Profile System (ERIM MIS),Multiple faculties at Erasmus use it,Unknown,Active,Unknown
+13,Esploro,"Faculty, Staff, Library Staff, Graduate Students",Yes,Active and Passive,Yes (integration with Pivot and Research Professional)
+14,EUREKA!TM Enhancing Student Research,University of Texas at Austin faculty,Unknown,No networking,Unknown
+15,Expertise @ Maryland,All,Unknown,"Currently passive, but building active",Unknown
+16,Faculty Profile System,Any faculty at UC Irvine,Yes,No networking,Unknown
+17,Faculty Research Information Profile (FRIP),,,,
+18,Faculty Scholarly Productivity Index,"Federally funded, published faculty",Unknown,No networking,Unknown
+19,GENIUS,Any faculty member who creates a profile on the system,Yes,Passive,Unknown
+20,Google,Anyone can be searched on Google,,No networking,No
+21,HUBzero,"Indiana University, Indiana University School of Medicine, Purdue University, U. of Notre Dame, Regenstrief",Unknown,Active,Unknown
+22,iamResearcher,Any researcher who creates a profile,Yes,Passive (?),Unknown
+23,iAMscientist,Any researcher who creates a profile,Yes,Passive,Unknown
+24,i2iConnect,Industry licensing representatives,Unknown,Passive,Unknown
+25,InCites,All published,Yes,Passive,No
+26,INDURE,All faculty at 4 Indiana institutions,Unknown,Passive,Unknown
+27,LatticeGrid,Currently Medical School faculty only. Developed for biomedical research organizations,"Yes (Users can update the Medical School faculty database, which then feeds LatticeGrid",Passive),Yes (Connected to a Northwestern tool called FacultyConnect to match faculty with a special limited set of Northwestern-specific non-federal funding opportunities in the life and biomedical sciences domains)
+28,Lattes Database,Curriculum and institutions database of Science and Technology areas in Brazil. Anyone can create a profile.,Yes,No apparent networking,Unknown
+29,LinkedIn,Anyone who creates a LinkedIn profile,Yes,Passive and Active,Unknown
+30,Life Science Network,Anyone who creates a profile,Yes,Active and Passive,No
+31,Loki,All faculty at University of Iowa,Yes,Passive,Unknown
+32,Loop,Anyone who creates a profile,Yes,Passive and Active,Unknown
+33,Lyterati,"Faculty, academic administrators (department chairs, deans, provost), center directors, grad students, staff",Yes,Active and Passive,Yes (through advanced searching and web profile exploration)
+34,McCormick Collaboration Visualization Tool,All Northwestern publications from Web of Science,No,Passive,No
+35,MizzouLinks,Currently a pilot group from two Missouri interdisciplinary centers,Unknown,Passive,Unknown
+36,MyScienceWork,Anyone who creates a profile,Yes,Active and Passive,Unknown
+37,OSU:pro,All OSU faculty,Unknown,No apparent networking,Unknown
+38,Pivot,"3 million profiles (and growing, according to the publisher). Profiles are compiled even without user registration, but can only be viewed by registered users",Yes,Passive,Yes through a direct connection with the COS product
+39,Profiles,"All users as defined by each institution. ""Profiles"" are also created for institutions, departments, concepts, publications, networks, events or any other class defined in the ontology",Yes,Passive and Active,No
+40,ReachNC,"UNC faculty in various disciplines, Duke, and RTI Fellows",Yes,Passive,No
+41,Research Accelerator,Any member of the Yale research enterprise,Yes (?),Passive,Unknown
+42,ResearcherID,Anyone who creates a profile,Yes,Passive and Active,Unknown
+43,SciENcv,Not yet established,Not yet established,No apparent networking,No
+44,Symplectic Elements,All users may be included (as defined by institution).,"Yes (Profiles are automatically populated with data, as dictated by internal and external data feeds. Some profile data can be manually curated by end users, proxy users, or administrators. Users can create new relationships between elements.)",Passive and Active,"Yes - Through integrations with research news and funding information provider *Research, researchers are able to get tailored funding opportunities linked to their Elements accounts."
+45,VIVO,All users (as defined by the institution),Yes,Passive and Active,Possibly
+46,Yaffle,All Memorial University faculty,Yes,Passive,Unknown

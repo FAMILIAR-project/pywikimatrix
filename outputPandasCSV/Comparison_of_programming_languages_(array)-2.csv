@@ -1,0 +1,20 @@
+,Format,Languages
+0,"name[index] or name[index1, index2] etc.","ALGOL 58, ALGOL 60, ALGOL 68, AWK, Modula, Pascal, Object Pascal, C#, S-Lang[5]"
+1,name[index] or name[index1; index2] etc.or index⌷name or index1 index2⌷name etc.,APL
+2,name[index],"ActionScript, C, CFML, Ch, Cobra, C++, D, Go, Haxe, Java, JavaScript, Julia, Lingo, Lua, Nim, Objective-C (NSArray *), Perl,[5] Python,[5] R, Ruby,[5] Rust, Swift"
+3,$name[index],"Perl,[5] PHP, Windows PowerShell,[5] XPath/XQuery[4]"
+4,@name[index],Raku
+5,"name(index) or name(index1, index2) etc.","Ada, ALGOL W, BASIC, COBOL, Fortran, RPG, GNU Octave, MATLAB, PL/I, Scala, Visual Basic, Visual Basic .NET, Xojo"
+6,$name(index),XPath/XQuery[4]
+7,name.(index),OCaml
+8,name.[index],F#
+9,name ! index,Haskell
+10,$name ? index,XPath/XQuery[4]
+11,(vector-ref name index),Scheme
+12,(aref name index),Common Lisp
+13,(elt name index),ISLISP
+14,name[[index]],"Mathematica,[5] Wolfram Language"
+15,name at:index,Smalltalk
+16,[name objectAtIndex:index],Objective-C (NSArray * only)
+17,index{name,J
+18,name.item(index) or name @ index[6],Eiffel

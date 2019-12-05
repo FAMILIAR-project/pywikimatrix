@@ -1,0 +1,32 @@
+,Name,Parsing algorithm,Input grammar notation,Output languages,"Grammar, code",Lexer,Development platform,IDE,License
+0,ACCENT,Earley,Yacc variant,C,Mixed,external,All,No,"Free, GNU GPL"
+1,APaGeD,"GLR, LALR(1), LL(k)",?,D,Mixed,generated,All,No,"Free, Artistic"
+2,Bison,"LALR(1), LR(1), IELR(1), GLR",Yacc,"C, C++, Java, XML","Mixed, except XML",external,All,No,"Free, GNU GPL"
+3,DMS Software Reengineering Toolkit,GLR,?,Parlanse,Mixed,generated,Windows,No,Proprietary
+4,DParser,Scannerless GLR,?,C,Mixed,scannerless,POSIX,No,"Free, BSD"
+5,Dypgen,Runtime-extensible GLR,?,OCaml,Mixed,generated,All,No,"Free, CeCILL-B"
+6,E3,Earley,?,OCaml,Mixed,"external, or scannerless",All,No,?
+7,Elkhound,GLR,?,"C++, OCaml",Mixed,external,All,No,"Free, BSD"
+8,eu.h8me.Parsing,GLR,?,N/A (state machine is runtime generated),Separate,external,.NET Framework,No,"Free, BSD"
+9,GDK,"LALR(1), GLR",?,"C, Lex, Haskell, HTML, Java, Object Pascal, Yacc",Mixed,generated,POSIX,No,"Free, MIT"
+10,Happy,"LALR, GLR",?,Haskell,Mixed,external,All,No,"Free, BSD"
+11,Hime Parser Generator,GLR,?,"C#, Java, Rust",Separate,generated,".NET Framework, Java virtual machine",No,"Free, GNU LGPL"
+12,IronText Library,"LALR(1), GLR",C#,C#,Mixed,generated or external,.NET Framework,No,"Free, Apache 2.0"
+13,Jison,"LALR(1), LR(0), SLR(1)",Yacc,"JavaScript, C#, PHP",Mixed,generated,All,No,"Free, MIT"
+14,Syntax,"LALR(1), LR(0), SLR(1) CLR(1) LL(1)",JSON/Yacc,"JavaScript, Python, PHP, Ruby, C#, Rust, Java",Mixed,generated,All,No,"Free, MIT"
+15,Laja,"Scannerless, two phase",Laja,Java,Separate,scannerless,All,No,"Free, GNU GPL"
+16,ModelCC,Earley,Annotated class model,Java,Generated,generated,All,No,"Free, BSD"
+17,parglare,Scannerless LR/GLR,BNF-like,"Python interpreted, automata run-time generated",Mixed,scannerless,All,No,"Free, MIT"
+18,P1,Combinators,BNF-like,OCaml,Mixed,"external, or scannerless",All,No,?
+19,P3,Earley–combinators,BNF-like,OCaml,Mixed,"external, or scannerless",All,No,?
+20,P4,"Earley–combinators, infinitary CFGs",BNF-like,OCaml,Mixed,"external, or scannerless",All,No,?
+21,Scannerless Boolean Parser,Scannerless GLR (Boolean grammars),?,"Haskell, Java",Separate,scannerless,Java virtual machine,No,"Free, BSD"
+22,SDF/SGLR,Scannerless GLR,SDF,"C, Java",Separate,scannerless,All,Yes,"Free, BSD"
+23,SmaCC,"GLR(1), LALR(1), LR(1)",?,Smalltalk,Mixed,internal,All,Yes,"Free, MIT"
+24,SPARK,Earley,?,Python,Mixed,external,All,No,"Free, MIT"
+25,Tom,GLR,?,C,Generated,none,All,No,"Free, ""No licensing or copyright restrictions"""
+26,UltraGram,"LALR, LR, GLR",?,"C++, C#, Java, Visual Basic .NET",Separate,generated,Windows,Yes,Proprietary
+27,Wormhole,"Pruning, LR, GLR, Scannerless GLR",?,"C, Python",Mixed,scannerless,Windows,No,"Free, MIT"
+28,Whale Calf,"General tabular, SLL(k), Linear normal form (conjunctive grammars), LR, Binary normal form (Boolean grammars)",?,C++,Separate,external,All,No,Proprietary
+29,yaep,Earley,Yacc-like,C,Mixed,external,All,No,"Free, GNU LGPL"
+30,Zecc,Recursive pattern matching,Zecc/Zacc,Linkable library,Mixed,Scannerless,macOS,Yes,Proprietary

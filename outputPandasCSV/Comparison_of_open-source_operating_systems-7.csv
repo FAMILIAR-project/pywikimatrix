@@ -1,0 +1,27 @@
+,Name,RAID,quota,Resource access control,encryption,other special file system features
+0,Linux,Yes,Yes,"Unix, ACL, MAC",Yes,"LVM, EVMS"
+1,FreeBSD,Yes,Yes,"Unix, ACL, MAC",Yes,"GEOM, snapshots, background fsck, user-mountable file systems"
+2,OpenBSD,Yes,Yes,Unix,Yes,
+3,NetBSD,Yes,Yes,"Unix, Veriexec",Yes,"Snapshots, Journaling"
+4,DragonFly BSD,Yes,Yes,Unix,Yes,"HAMMER, Snapshots, Checksumming, Deduplication"
+5,"OpenSolaris, illumos",Yes,Yes,"Unix, ACL, MAC",Yes,"Solaris Volume Manager, ZFS, snapshots, transparent data repair"
+6,AuroraUX,Yes,Yes,"Unix, ACL, MAC",,"Solaris Volume Manager, ZFS, snapshots, transparent data repair"
+7,"Darwin, OpenDarwin",,Yes,"Unix, ACL",Yes,
+8,MINIX,,,Unix,,
+9,FreeDOS,,,No,,
+10,Genode,No,No,No,No,Per-process virtual file-system layer
+11,KolibriOS,,,No,,
+12,MenuetOS,,,No,,
+13,GNU,,,Unix,,
+14,ReactOS,,,No,,
+15,"L4, Fiasco, Pistachio",,,,,
+16,Plan 9,No,No,"Unix-like, no root",No,"snapshots, venti archival storage, per-process namespace, user-mountable file systems"
+17,AROS,,,,,
+18,Syllable,,,Unix,,"64-bit, journaling, extended file attributes"
+19,Inferno,No,No,"Unix-like, no root",No,"per-process namespace, user-mountable file systems"
+20,FreeRTOS,,,,,
+21,eCos,,,,,
+22,RTEMS,,,,,
+23,HelenOS,No,No,No,No,No
+24,E/OS,Yes,Yes,Unix,Yes,No
+25,Name,RAID,quota,Resource access control,encryption,other special file system features

@@ -1,0 +1,22 @@
+,Model(Codename),Launch,ArchitectureFab,TransistorsDie Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory[e],Memory[e].1,Memory[e].2,Memory[e].3,TDP (Watts),TDP (Watts).1,Bus interface,Release Price (USD)
+0,Model(Codename),Launch,ArchitectureFab,TransistorsDie Size,Config[f],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Size (MB),Clock (MHz),Bus type& width (bit),Bandwidth (GB/s),Idle,Max.,Bus interface,Release Price (USD)
+1,Radeon HD 7350(Cedar),January 2012,TeraScale 240 nm,292×10659 mm2,80:8:4,400650,3.25.2,1.62.6,104,,256512,400800900,DDR2DDR3 64-bit,6.412.8,6.4,19.1,PCIe 2.1 ×16,OEM
+2,Radeon HD 7450(Caicos),January 2012,TeraScale 240 nm,370×10667 mm2,160:8:4,625750,5.06.0,2.53.0,200240,,5121024,533800,DDR364-bit,8.512.8,9,18,PCIe 2.1 ×16,OEM
+3,Radeon HD 7470(Caicos),January 2012,TeraScale 240 nm,370×10667 mm2,160:8:4,625775,5.06.2,2.53.1,200248,,5121024,800900,DDR3GDDR564-bit,12.814.4,9,27,PCIe 2.1 ×16,OEM
+4,Radeon HD 7510(Turks LE),February 2013,TeraScale 240 nm,716×106118 mm2,320:16:4,650,10.4,2.6,416,,1024,667,DDR3128-bit,21.3,Unknown,Unknown,PCIe 2.1 ×16,OEM
+5,Radeon HD 7570(Turks Pro-L),January 2012,TeraScale 240 nm,716×106118 mm2,480:24:8,650,15.6,5.2,624,,5121024,9001000,DDR3GDDR5128-bit,28.864,1011,4460,PCIe 2.1 ×16,OEM
+6,Radeon HD 7670(Turks XT),January 2012,TeraScale 240 nm,716×106118 mm2,480:24:8,800,19.2,6.4,768,,5121024,1000,GDDR5128-bit,64,12,66,PCIe 2.1 ×16,OEM
+7,Radeon HD 7730(Cape Verde LE),April 2013,GCN 1st gen28 nm,1500×106123 mm2,384:24:8,800,19.2,6.4,614.4,38.4,1024,1125,DDR3GDDR5128-bit,25.672,10,47,PCIe 3.0 ×16,$60
+8,Radeon HD 7750(Cape Verde Pro),February 2012,GCN 1st gen28 nm,1500×106123 mm2,512:32:16,800900,25.628.8,12.814.4,819.2921.6,51.257.6,102420484096,8001125,DDR3GDDR5128-bit,25.672,10,55,PCIe 3.0 ×16,$110
+9,Radeon HD 7770GHz Edition(Cape Verde XT),February 2012,GCN 1st gen28 nm,1500×106123 mm2,640:40:16,1000,40,16,1280,80,10242048,1125,GDDR5128-bit,72,10,80,PCIe 3.0 ×16,$160
+10,Radeon HD 7790(Bonaire XT),March 2013,GCN 2nd gen28 nm,2080×1061602,896:56:16,1000,56.0,16.0,1792,128,10242048,1500,GDDR5128-bit,96,10,85,PCIe 3.0 ×16,$150
+11,Radeon HD 7850(Pitcairn Pro),March 2012,GCN 1st gen28 nm,2800×106212mm2,1024:64:32,860,55.04,27.52,1761.28,110.08,10242048,1200,GDDR5256-bit,153.6,10,130,PCIe 3.0 ×16,$250
+12,Radeon HD 7870GHz Edition(Pitcairn XT),March 2012,GCN 1st gen28 nm,2800×106212mm2,1280:80:32,1000,80,32,2560,160,2048,1200,GDDR5256-bit,153.6,10,175,PCIe 3.0 ×16,$350
+13,Radeon HD 7870 XT(Tahiti LE),November 2012,GCN 1st gen28 nm,4313×106352mm2,1536:96:32,925975,88.8,29.6,2841.62995.2,710.4748.8,2048,1500,GDDR5256-bit,192.0,15,185,PCIe 3.0 ×16,$270
+14,Radeon HD 7950(Tahiti Pro),January 2012,GCN 1st gen28 nm,4313×106352mm2,1792:112:32,800,89.6,25.6,2867.2,717,3072,1250,GDDR5384-bit,240,15,200,PCIe 3.0 ×16,$450
+15,Radeon HD 7950 Boost(Tahiti Pro2),August 2012,GCN 1st gen28 nm,4313×106352mm2,1792:112:32,850925,103.6,29.6,3046.43315.2,761.6828.8,3072,1250,GDDR5384-bit,240,15,225,PCIe 3.0 ×16,$330
+16,Radeon HD 7970(Tahiti XT),January 2012,GCN 1st gen28 nm,4313×106352mm2,2048:128:32,925,118.4,29.6,3788.8,947.2,30726144,1375,GDDR5384-bit,264,15,250,PCIe 3.0 ×16,$550
+17,Radeon HD 7970GHz Edition(Tahiti XT2),June 2012,GCN 1st gen28 nm,4313×106352mm2,2048:128:32,10001050,128.0,32,40964300,10241075,30726144,1500,GDDR5384-bit,288,15,250,PCIe 3.0 ×16,$500
+18,Radeon HD 7990(New Zealand),April 2013,GCN 1st gen28 nm,2× 4313×106352 mm2,2× 2048:128:32,9501000,2× 128,2× 32,7782.48192,1945.62048,2× 3072,1500,GDDR5384-bit,2× 288,15,375,PCIe 3.0 ×16,$1000
+19,Model(Codename),Launch,ArchitectureFab,TransistorsDie Size,Config[f],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Size (MiB),Clock(MHz),Bus type& width (bit),Bandwidth (GB/s),Idle,Max.,Bus interface,Release Price (USD)
+20,Model(Codename),Launch,ArchitectureFab,TransistorsDie Size,Core,Core,Fillrate[a][b][c],Fillrate[a][b][c],Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS),Memory[e],Memory[e],Memory[e],Memory[e],TDP (Watts),TDP (Watts),Bus interface,Release Price (USD)

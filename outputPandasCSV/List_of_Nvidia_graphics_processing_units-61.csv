@@ -1,0 +1,6 @@
+,Model,Code name[169],Fab (nm),Bus interface,Core clock (MHz),Boost clock (MHz),Memory clock (MHz),Core config1,Fillrate[170],Fillrate[170].1,Memory,Memory.1,Memory.2,Memory.3,Processing power (GFLOPS)[170],Processing power (GFLOPS)[170].1,Supported API version,Supported API version.1,Supported API version.2,Supported API version.3,Supported API version.4,TBP (Watts),Notes
+0,Model,Code name[169],Fab (nm),Bus interface,Core clock (MHz),Boost clock (MHz),Memory clock (MHz),Core config1,Pixel (GP/s),Texture (GT/s),Size (GB),Bandwidth (GB/s),Bus type,Bus width (bit),Single precision,Double precision,Direct3D,OpenGL,Vulkan,OpenCL,CUDA,TBP (Watts),Notes
+1,Quadro RTX 4000,TU104,12,PCIe 3.0 ×16,1005,1545,1625(13000),2304:144:64:36:288,98.9,222.5,8,416,GDDR6,256,7119,222.5,12.1,4.6,1.1,1.2,7.5,160,3x DisplayPort 1x USB Type-C
+2,Quadro RTX 5000,TU104,12,PCIe 3.0 ×16,1620,1815,1750(14000),3072:192:64:48:384,116.2,348.5,16,448,GDDR6,256,11151,348.5,12.1,4.6,1.1,1.2,7.5,200,3x DisplayPort 1x USB Type-C
+3,Quadro RTX 6000,TU102,12,PCIe 3.0 ×16,1440,1770,1750(14000),4608:288:96:72:576,169.9,509.8,24,576,GDDR6,384,16312,509.8,12.1,4.6,1.1,1.2,7.5,250,3x DisplayPort 1x USB Type-C
+4,Quadro RTX 8000,TU102,12,PCIe 3.0 ×16,1395,1770,1750(14000),4608:288:96:72:576,169.9,509.8,48,672,GDDR6,384,16312,509.8,12.1,4.6,1.1,1.2,7.5,250,3x DisplayPort 1x USB Type-C

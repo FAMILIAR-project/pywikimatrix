@@ -1,0 +1,8 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Blink,Presto,KSVG,Amaya
+0,<img>,5.0[t 1],2.0[g 2],Yes[w 1],?,2.1,No,5.1
+1,<embed>,5.0[t 1],1.8,Yes[w 2],?,Partial[note 2],Partial[note 3],5.2
+2,<object>,5.0[t 1],1.8,Yes[w 2],?,Yes,Partial[note 3],5.1
+3,CSS background-image,5.0[t 1],2.0[g 3],No,?,2.1,No,?
+4,CSS list-style-image,5.0[t 1],2.0[g 3],Partial[note 4],?,2.1,No,?
+5,as Favicon,No,41[g 4],No,?,2.1.1,No,?
+6,in data URIs,5.0,Yes,Yes,?,No,?,?

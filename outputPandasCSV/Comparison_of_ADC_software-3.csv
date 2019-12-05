@@ -1,0 +1,15 @@
+,ADC hub,GUI,CLI,Other,Programming language,Based on
+0,ADCH++,No,Yes,?,"C++, Lua, Python, Ruby",
+1,ADCH++ GUI,Yes,No,?,"C++, Python",ADCH++
+2,DSHub,Yes,Yes,?,"Java, Python",
+3,FlexHub,Planned,Yes,?,Lua,
+4,Luadch,No,Yes,?,"C++, Lua",
+5,Luadch GUI,Yes,No,?,wxLua,
+6,Nexthub,Yes,No,No,C-Sharp,
+7,uhub,No,Yes,?,C,
+8,Erlhub,?,?,?,Erlang,
+9,Qhub,?,?,?,?,
+10,Starlet ADC Hub,No,Yes,No,C,
+11,StarHub,Yes,?,?,Java,
+12,RusHub,No,Yes,No,C++,
+13,ADC hub,GUI,CLI,Other,Programming language,Based on

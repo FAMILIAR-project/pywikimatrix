@@ -1,0 +1,10 @@
+,Syntax,Language(s)
+0,"'Hello, world!'","APL, Bourne shell, Fortran, Object Pascal, Pascal, Perl, PHP, Pick Basic, Ruby, Windows PowerShell, Smalltalk"
+1,"q(Hello, world!)",Perl (alternate)
+2,"%q(Hello, world!)",Ruby (alternate)
+3,"R""(Hello, world!)""",C++11
+4,"@""Hello, world!""","C#, F#"
+5,"r""Hello, world!""","Cobra, D, Python, Rust"
+6,"""Hello, world!""","Cobol, FreeBASIC, Pick Basic"
+7,"`Hello, world!`","D, Go"
+8,"raw""Hello, world!""",Scala

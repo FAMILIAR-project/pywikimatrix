@@ -1,0 +1,3 @@
+,Kernel name,Deflate,zlib,LZO,LZJB,gzip
+0,Linux,Yes,Yes,Yes,No,Yes
+1,Solaris kernel,?,?,?,Yes,Yes

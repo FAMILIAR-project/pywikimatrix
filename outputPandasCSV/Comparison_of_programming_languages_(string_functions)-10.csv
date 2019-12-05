@@ -1,0 +1,26 @@
+,Format,Languages
+0,"string_in_string(string, loc int, substring)",ALGOL 68
+1,"ContainsStr(string, substring)",Object Pascal (Delphi)
+2,"strstr(string, substring) != NULL","C, C++ (char * only)"
+3,string.Contains(substring),"C#, VB .NET, Windows PowerShell, F#"
+4,string.contains(substring),"Cobra, Java (1.5+), Raku"
+5,string.indexOf(substring) >= 0,JavaScript
+6,"strpos(string, substring) !== false",PHP
+7,"pos(string, substring) <> 0",Seed7
+8,substring in string,"Cobra, Python (2.3+)"
+9,"string.find(string, substring) ~= nil",Lua
+10,string.include?(substring),Ruby
+11,Data.List.isInfixOf substring string,Haskell (GHC 6.6+)
+12,string includesSubstring: substring,"Smalltalk (Squeak, Pharo, Smalltalk/X)"
+13,String.isSubstring substring string,Standard ML
+14,(search substring string),Common Lisp
+15,(not (null (string-index substring string))),ISLISP
+16,(substring? substring string),Clojure
+17,"! StringFreeQ[string, substring]",Mathematica
+18,"index(string, substring, startpos)>0","Fortran, PL/I[9]"
+19,"index(string, substring, occurrence)>0",Pick Basic
+20,"strings.Contains(string, substring)",Go
+21,string.find(substring) != string::npos,C++
+22,[string containsString:substring],"Objective-C (NSString * only, iOS 8+/OS X 10.10+)"
+23,string.rangeOfString(substring) != nil,Swift (Foundation)
+24,∨/substring⍷string,APL

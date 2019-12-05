@@ -1,0 +1,64 @@
+,Unnamed: 0,Maintainer,First public release date,Latest stable version,Latest release date,License,Public issues list
+0,4D (4th Dimension),4D S.A.S.,1984,v16.0,2017-01-10[1],Proprietary,No
+1,ADABAS,Software AG,1970,8.1,2013-06,Proprietary,No
+2,Adaptive Server Enterprise,SAP AG,1987,16.0 SP03 PL07,2019-06-10,Proprietary,No
+3,Advantage Database Server (ADS),SAP AG,1992,12.0,2015,Proprietary,No
+4,Altibase,Altibase Corp.,2000,7.1.0.1.2,2018-03-02,GNU-AGPLv3; GNU-LGPLv3(for client-libraries),No
+5,Apache Derby,Apache,2004,10.15.1.3[2],2019-03-11,Apache License,Yes[3]
+6,ClustrixDB,MariaDB Corporation,2010,v7.0,2015-08-19,Proprietary,No
+7,CUBRID,NHN Corporation,2008-11,10.1.0,2017-07-14,"GPL v2 or later, BSD license for APIs and GUI tools",Yes[4]
+8,Datacom,"CA, Inc.",Early 70s[5],14[6],2012[7],Proprietary,No
+9,DB2,IBM,1983,11.1,2016-04-12,Proprietary,No
+10,Empress Embedded Database,Empress Software Inc,1979,10.20,2010-03,Proprietary,No
+11,EXASolution,EXASOL AG,2004,6.0.0,2017-03-17,Proprietary,No
+12,FileMaker,"FileMaker, Inc., an Apple subsidiary",1985-04,18,2019-05-22,Proprietary,No
+13,Firebird,Firebird project,2000-07-25,3.0.4,2018-10-04,IPL[8] and IDPL[9],Yes[10]
+14,GPUdb,GIS Federal,2014,3.2.5,2015-01-14,Proprietary,No
+15,HSQLDB,HSQL Development Group,2001,2.4.1,2018-05-20,BSD,Yes[11]
+16,H2,H2 Software,2005,1.4.197,2018-03-18,EPL and modified MPL,Yes[12]
+17,Informix Dynamic Server,IBM,1980,14.10.xC1,2019-03-25,Proprietary,No
+18,Ingres,Ingres Corp.,1974,10.2,2014-09-30,GPL and Proprietary,No
+19,InterBase,Embarcadero,1984,XE7 v12.0.4.357,2015-08-12,Proprietary,No
+20,Linter SQL RDBMS,RELEX Group,1990,6.0.17.53,2018-02-15,Proprietary,Yes[13]
+21,LucidDB,The Eigenbase Project,2007-01,0.9.4,2012-01-05,GPL v2,No
+22,MariaDB,MariaDB Community,2010-02-01,10.4.10,2019-11-08[14],"GPL v2, LGPL (for client-libraries)[15]",Yes[16]
+23,MaxDB,SAP AG,2003-05,7.9.0.8,2014,Proprietary,Yes[17]
+24,Microsoft Access (JET),Microsoft,1992,16 (2016),2015-09-22,Proprietary,No
+25,Microsoft Visual Foxpro,Microsoft,1984,9 (2005),2007-10-11,Proprietary,No
+26,Microsoft SQL Server,Microsoft,1989,2017 (14),2017-10-02,Proprietary,No
+27,Microsoft SQL Server Compact (Embedded Database),Microsoft,2000,2011 (v4.0),,Proprietary,No
+28,Mimer SQL,Mimer Information Technology,1978,v10.1.5A,2019-02-28,Proprietary,No
+29,MonetDB,The MonetDB Team / CWI,2004,Apr2019,2019-04-26,"Mozilla Public License, version 2.0[18]",Yes[19]
+30,mSQL,Hughes Technologies,1994,4.1[20],2017-06-30,Proprietary,No
+31,MySQL,Oracle Corporation,1995-11,8.0.18[21],2019-10-14,GPL v2 or Proprietary,Yes[22]
+32,MemSQL,MemSQL,2012-06,5.8.6 (2017),2017-06-30,Proprietary,No
+33,NexusDB,NexusDB Pty Ltd,2003,4.00.14,2015-06-25,Proprietary,No
+34,HP NonStop SQL,Hewlett-Packard,1987,SQL/MX 3.4,,Proprietary,No
+35,NuoDB,NuoDB,2013,3.0.1,,Proprietary,No
+36,Omnis Studio,TigerLogic Inc,1982-07,6.1.3 Release 1no,2015-12,Proprietary,No
+37,OpenBase SQL,OpenBase International,1991,11.0.0,,Proprietary,No
+38,OpenEdge,Progress Software Corporation,1984,11.6.3,2016-08-19,Proprietary,No
+39,OpenLink Virtuoso,OpenLink Software,1998,7.2.5.1,2018-08-15,GPL v2 or Proprietary,Yes[23]
+40,Oracle DB,Oracle Corporation,1979-11,18.1.0.0,2018-07-23[24],Proprietary,No
+41,Oracle Rdb,Oracle Corporation,1984,7.3.3.1.0,2019-03-21[25],Proprietary,No
+42,Paradox,Corel Corporation,1985,11,2009-09-07,Proprietary,No
+43,Percona Server for MySQL,Percona,2006,8.0.17-8[26],2019-10-30,GPL v2,Yes
+44,Pervasive PSQL,Pervasive Software,1982,v12,2015,Proprietary,No
+45,Polyhedra DBMS,ENEA AB,1993,9.0,2015-06-24,"Proprietary, with Polyhedra Lite available as Freeware[27]",No
+46,PostgreSQL,PostgreSQL Global Development Group,1989-06,12,2019-10-03[28],PostgreSQL Licence (a liberal Open Source license)[29],No[30]
+47,R:Base,R:BASE Technologies,1982,10.0,2016-05-26,Proprietary,No
+48,Raima Database Manager,Raima Inc.,1984,14.1,2018-03-23,Proprietary,No
+49,RDM Server,Raima Inc.,1993,8.4,2012-10-31,Proprietary,No
+50,SAP HANA,SAP AG,2010,2.0 SPS04,2019-08-08,Proprietary,No
+51,solidDB,UNICOM Global,1992,7.0.0.10,2014-04-29,Proprietary,No
+52,SQL Anywhere,SAP AG,1992,17.0.0.48,2019-07-26,Proprietary,No
+53,SQLBase,Unify Corp.,1982,11.5,2008-11,Proprietary,No
+54,SQLite,D. Richard Hipp,2000-09-12,3.28.0,2019-04-16[31],Public domain,Yes[32]
+55,SQream DB,SQream Technologies,2014,2.1[33],2018-01-15,Proprietary,No
+56,Superbase,Superbase,1984,Scientific (2004),,Proprietary,No
+57,Teradata,Teradata,1984,15,2014-04,Proprietary,No
+58,Tibero,TmaxSoft,1992,6,2015-04,Proprietary,No
+59,TiDB,Apache,2016,3.0.0,2019-06-28[34],Apache License,Yes[35]
+60,UniData,Rocket Software,1988,8.2.1,2017-07,Proprietary,No
+61,YugaByte DB,Apache,2018,1.3.1,2019-07-30[36],Apache License,Yes[37]
+62,,Maintainer,First public release date,Latest stable version,Latest release date,License,Public issues list

@@ -1,0 +1,25 @@
+,Format,Languages
+0,reverse string,"Perl 5, Haskell"
+1,flip string string.flip,Raku
+2,lists:reverse(string),Erlang
+3,strrev(string),PHP
+4,string[::-1],Python
+5,(string-reverse string),Scheme (SRFI 13)
+6,(reverse string),Common Lisp
+7,string.reverse,"Ruby, D (modifies string)"
+8,new StringBuilder(string).reverse().toString(),Java
+9,"std::reverse(string.begin(), string.end());","C++ (std::string only, modifies string)"
+10,StrReverse(string),VB
+11,string.Reverse().ToString(),"VB .NET, C#"
+12,implode (rev (explode string)),Standard ML
+13,"string.split("""").reverse().join("""")",JavaScript
+14,string.reverse(string) (string):reverse(),Lua
+15,string reverse,Smalltalk
+16,StringReverse[string],Mathematica
+17,reverse(string),PL/I
+18,«FUNCTION» REVERSE(string),COBOL
+19,string.toCharArray.toList.reversed.join(),Cobra
+20,String(string.characters.reverse()),Swift (2.x)
+21,String(reverse(string)),Swift (1.2)
+22,string reverse string,Tcl
+23,⌽string,APL

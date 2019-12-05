@@ -1,0 +1,19 @@
+,Driver,Chipset,Integration,Free firmware[note 2],License,Development,Free software[note 3]
+0,ath[66][67],Atheros AR5211/ AR5212/ AR5213/ AR5214,Integrated with Solaris Nevada build 29,No firmware required[3],Dual GPL/BSD with proprietary HAL,Port of Madwifi,No
+1,ipw,Intel PRO/Wireless 2100,Community project,No,BSD,Ported from OpenBSD,Yes
+2,iwi,Intel PRO/Wireless 2200BG/2225BG/2915ABG,Community project,No,BSD,Ported from OpenBSD,Yes
+3,pcan,Cisco Aironet 340/350,Community project,,BSD,Ported from FreeBSD,Yes
+4,pcwl,"Lucent/Agere Systems Hermes (WaveLAN/ORiNOCO), Intersil PRISM-2 802.11b",Community project,,BSD,Ported from FreeBSD,Yes
+5,ral,Ralink RT2500,Community project,,BSD,Ported from OpenBSD,Yes
+6,rtw,Realtek RTL8180L,Community project,,BSD,Ported from NetBSD,Yes
+7,malo,Marvell 88W8335/ 88W8310,Community project,,BSD,Ported from OpenBSD,Yes
+8,wpi,Intel PRO/Wireless 3945ABG,Community project,No,BSD,Ported from OpenBSD,Yes
+9,iwk,Intel Wireless WiFi Link 4965AGN,Community project,No,BSD,Ported from OpenBSD,Yes
+10,arn,Atheros 9000,Community project,No,BSD,based on ath9k,Yes
+11,rwd,Ralink RT2561/RT2561S/RT2661,Community project,No,BSD,,Yes
+12,rwn,Ralink RT2700/2800,Community project,No,BSD,,Yes
+13,urtw,Realtek RTL8187L/B USB,Community project,No,BSD,,Yes
+14,atu,Atmel AT76C50x,Community project,No,BSD,,Yes
+15,mwl,Marvell 88W8363,Community project,No,BSD,,Yes
+16,ural,Ralink RT2500USB,Community project,No,BSD,,Yes
+17,zyd,ZyDAS ZD1211 chipsets,Community project,Yes,BSD,Ported from OpenBSD,Yes

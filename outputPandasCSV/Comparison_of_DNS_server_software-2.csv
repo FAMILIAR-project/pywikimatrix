@@ -1,0 +1,18 @@
+,Server,BSD,Solaris,Linux,Mac OS X,Windows
+0,BIND,Yes,Yes,Yes,Yes,Yes[Note 1]
+1,Microsoft DNS,No,No,No,No,Included[Note 2]
+2,djbdns,Yes,Yes,Yes,Yes,No
+3,Dnsmasq,Yes,Yes,Yes,Yes,No
+4,Simple DNS Plus,No,No,No,No,Yes
+5,NSD,Yes,Yes,Yes,Yes,No
+6,Knot DNS,Yes,No,Yes,Yes,No
+7,Knot Resolver,Partial,No,Yes,Yes,No
+8,PowerDNS,Yes,Yes [7],Yes,Beta,No
+9,MaraDNS,Yes,Yes [8],Yes,Yes,Partial
+10,pdnsd,Yes,Partial[40],Yes,Yes,No
+11,Posadis,Yes,Yes,Yes,Yes,Yes [9]
+12,Unbound,Yes,Yes,Yes,Yes,Yes
+13,Cisco Network Registrar,No,Yes,Yes,No,Yes
+14,YADIFA,Yes,Yes,Yes,Yes,No
+15,Secure64 DNS Authority,No,No,Yes,No,No
+16,Secure64 DNS Cache,No,No,Yes,No,No

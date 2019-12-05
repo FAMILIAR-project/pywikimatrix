@@ -1,0 +1,12 @@
+,Name,Shell scripting,Shell scripting.1,MIDI,MIDI.1,OSC,OSC.1,HID,VST,Audio Units,Audio Units.1,Other
+0,Name,In,Out,In,Out,In,Out,HID,VST,As host,As unit,Other
+1,Bidule,,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+2,ChucK,,,Yes,Yes,Yes,Yes,Yes,,,,
+3,Csound,Yes,Yes,Yes,Yes,Yes,Yes,,No,,,"binding from Haskell (hCsound), C, C++, Python, Java, Lua, Lisp, JavaScript"
+4,Impromptu,,,Yes,Yes,Yes,Yes,,,Yes,No,Bidirectional Scheme to Objective-C bridge
+5,Kyma,,,Yes,Yes,Yes,Yes,Yes,,,,
+6,Max/MSP,,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,
+7,Pure Data,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Some,Some,"bindings for Python, Lua, Java, GStreamer. the Camomile plugin may host PD as plugin within DAW. PD-extended presently has multiple options to host LADSPA plugins within PD environment."
+8,Reaktor,,,Yes,Yes,Yes,Yes,,Yes,No,Yes,
+9,SuperCollider,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,No,Yes,"LADSPA Host, scsynth can be controlled by OSC messages (Haskell, Scala, Python, Ruby, Scheme etc.)"
+10,VCV Rack,,,Yes,Yes,Yes,Yes,,Yes,,,

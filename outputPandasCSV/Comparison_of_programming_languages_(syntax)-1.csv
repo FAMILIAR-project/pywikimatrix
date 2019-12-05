@@ -1,0 +1,57 @@
+,Language,Statement separator-terminator,Secondary separator[1]
+0,ABAP,period separated,
+1,Ada,semicolon terminated,
+2,ALGOL,semicolon separated,
+3,ALGOL 68,semicolon and comma separated[2],
+4,APL,newline terminated,⋄ separated
+5,AppleScript,newline terminated,
+6,AutoHotkey,newline terminated,
+7,BASIC,newline terminated,colon separated
+8,Boo,newline terminated,
+9,C,semicolon terminates statements,comma separates expressions
+10,C++,semicolon terminates statements,comma separates expressions
+11,C#,semicolon terminated,
+12,COBOL,"whitespace separated, sometimes period separated, optionally separated with commas and semi-colons.",
+13,Cobra,newline terminated,
+14,CoffeeScript,newline terminated,
+15,D,semicolon terminated,
+16,Eiffel,newline terminated,semicolon
+17,Erlang,"colon separated, period terminated",
+18,F#,newline terminated,semicolon
+19,Fortran,newline terminated,semicolon
+20,Forth,semicolons terminate word definitions,
+21,GFA BASIC,newline terminated,
+22,Go,semicolon separated (inserted by compiler),
+23,Haskell (in do-notation),newline separated,
+24,"Haskell (in do-notation, when braces are used)",semicolon separated,
+25,Java,semicolon terminated,
+26,JavaScript,semicolon separated (but sometimes implicitly inserted on newlines),
+27,Kotlin,semicolon separated (but sometimes implicitly inserted on newlines),
+28,Lua,whitespace separated (semicolon optional),
+29,Mathematica,semicolon separated,
+30,MATLAB,newline terminated,semicolon or comma[3]
+31,Object Pascal (Delphi),semicolon separated,
+32,Objective-C,semicolon terminated,
+33,OCaml,semicolon separated,
+34,Pascal,semicolon separated,
+35,Perl,semicolon separated,
+36,PHP,semicolon terminated,
+37,Pick Basic,newline terminated,semicolon separated
+38,PowerShell,newline terminated,semicolon separated
+39,Prolog,"comma separated (conjunction), semicolon separated (disjunction), period terminated (clause)",
+40,Python,newline terminated,semicolon
+41,Raku,semicolon separated,
+42,Ruby,newline terminated,semicolon
+43,Rust,semicolon terminates statements,comma separates expressions
+44,Scala,newline terminated (semicolon optional),semicolon
+45,Seed7,semicolon separated (semicolon termination is allowed),
+46,Simula,semicolon separated,
+47,S-Lang,semicolon separated,
+48,Smalltalk,period separated,
+49,Standard ML,semicolon separated,
+50,Swift,semicolon separated (inserted by compiler),
+51,Visual Basic,newline terminated,colon separated
+52,Visual Basic .NET,newline terminated,colon separated
+53,Wolfram Language,semicolon separated,
+54,Xojo,newline terminated,
+55,Language,Statement separator-terminator,Secondary separator[1]

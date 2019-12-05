@@ -1,0 +1,24 @@
+,Audio player,ID3v1,ID3v2,APEv2 tag,Vorbis comment,Cue sheet,CD-Text,WAVE chunks
+0,AIMP,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,Amarok,Yes[metadatanotes 1],Yes[metadatanotes 1][metadatanotes 2],Yes[metadatanotes 1],Yes,Yes[metadatanotes 3],?,Yes
+2,Audacious,Yes,Yes,Yes,Yes,Yes,Yes,?
+3,Audion,Yes,Yes,No,No,?,?,?
+4,cmus,Yes,Yes,Yes,Yes,Yes,No,?
+5,Cog,Yes,Yes,Yes,Yes,Yes,?,?
+6,foobar2000,Yes,Yes,Yes,Yes,Yes,Yes[metadatanotes 4],Yes
+7,iTunes,Yes,Yes,Yes,?,?,?,?
+8,JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,JuK,Yes[metadatanotes 1],Yes[metadatanotes 1],Yes[metadatanotes 1],Yes[metadatanotes 1],?,?,?
+10,MediaMonkey,Yes,Yes,Yes,Yes,?,Yes,?
+11,Mixxx,Yes,Yes,Yes,Yes,No,No,Yes
+12,MPXPLAY,Yes,Yes,Yes,Yes,?,?,?
+13,MusicBee,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+14,Musicmatch Jukebox,Yes,Yes,No,?,?,Yes,?
+15,musikCube,Yes,Yes,Yes,?,?,?,?
+16,Quod Libet,Yes,Yes,Yes,Yes,No,No,Yes
+17,Rhapsody,Yes,Yes,No,No,?,?,?
+18,Rhythmbox,Yes,Yes,Yes,Yes,?,?,?
+19,Sonique,Yes,No,?,?,?,?,?
+20,XMMS,Yes,Yes,No,Yes,?,?,?
+21,Zinf,Yes,Yes,No,Yes,?,?,?
+22,Audio player,ID3v1,ID3v2,APEv2 tag,Vorbis comment,Cue sheet,CD-Text,WAVE chunks

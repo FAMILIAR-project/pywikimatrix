@@ -1,0 +1,26 @@
+,Unnamed: 0,Inverse search[Note 6],DDE support[Note 7],Organises Projects,Menu for inserting symbols,Document comparison,Spell-checking,Multiple undo-redo
+0,AUCTeX,Yes,No,Partial (master file),Yes,Yes,Yes[Note 8],Yes
+1,Authorea,Yes,,Yes,No,No,Yes,Yes
+2,Auto-Latex Equations for Google Docs,Yes,,Yes,No,No,Yes,Yes
+3,CoCalc,Yes,,No,No,No,Yes,Yes
+4,GNOME LaTeX,Yes,,Yes,Yes,No,Yes,Yes
+5,Gummi,Yes,,Yes,No,No,Yes,Yes
+6,Kile,Yes,No,Yes,Yes,No,Yes,Yes
+7,LEd,Yes,?,Yes,Yes,No,Yes,Yes
+8,LyX,Yes,?,No,Yes,Yes,Yes,Yes
+9,MeWa,No,No,No,Yes,No,Yes,Yes
+10,Notepad++,"Yes, with SumatraPDF","Yes, with a DDE client",Yes,Partial[Note 9],Yes,Yes,Yes
+11,Overleaf,Yes,No,Yes,No,Yes,Yes,Yes
+12,Scientific WorkPlace,,?,?,Yes,No,Yes,No (one level)
+13,ShareLaTeX,Yes,No,Yes,No,Yes,Yes,Yes
+14,TexLab,Yes,,Yes,Yes,No,Yes,Yes
+15,TeXmacs,Yes,Yes,No,Yes,No,Yes,Yes
+16,Texmaker,Yes,No,Partial (master file),Yes,No,Yes,Yes
+17,TeXnicCenter,Yes,Yes,Yes,Yes,No,Yes,Yes
+18,TeXShop,Yes,No,No,Yes[Note 10],No,Yes,Yes
+19,TeXstudio,Yes,Yes,Partial (master file),Yes,Yes,Yes,Yes
+20,TeXworks,Yes,No,No,No,No,Yes[Note 11],Yes
+21,Verbosus,No,No,Yes,Yes,No,No,Yes
+22,WinEdt,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+23,WinShell,Yes,No,Yes,Yes,No,Yes,Yes
+24,,Inverse search,DDE Support,Organises Projects,Menu for inserting symbols,Document comparison,Spell-checking,Multiple undo-redo

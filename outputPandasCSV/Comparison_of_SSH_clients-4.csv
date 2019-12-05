@@ -1,0 +1,10 @@
+,Name,Keyboard mapping,Session tabs,ZMODEM transfers,Find text in buffer,Mouse input support[Note 1],Unicode support,URL hyperlinking,Public key authentication,Smart card support,Hardware encryption,FIPS 140-2 validation,Scripting,Shared Database,Auto-reconnect,CA Certificates
+0,AbsoluteTelnet,full,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,?,?
+1,OpenSSH (OpenBSD Secure Shell),?,No,No,?,Yes[Note 2],Yes,not native[Note 3],Yes,Yes[Note 4],Yes,Partial[Note 5],No,No,?,Yes[Note 6]
+2,PuTTY,No,No[Note 7],No,No,Yes,Yes,No[Note 8],Yes,No[Note 9],Yes,No,No,No,No,No[Note 10]
+3,SecureCRT,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,?,?
+4,SmartFTP,Partial,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,AES-NI,Yes,No,?,?,?
+5,Tera Term,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,?,?
+6,TN3270 Plus,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,?,?,?
+7,TtyEmulator,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,?,?,?
+8,ZOC,full,Yes,Yes,Alt+F,Yes,UTF-8,Yes,Yes,pkcs#11,No,No,Yes,?,?,?

@@ -1,0 +1,12 @@
+,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TBP,Bus interface
+0,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TBP,Bus interface
+1,Radeon R5 430(Oland Pro) [59][60],June 2016OEM,GCN 1st gen28 nm,1040×10690 mm2,384:24:86 CU,730780,17.5218.72,5.846.24,560599,37.440,DDR3GDDR5128-bit,12,18004500,28.872,50 W,PCIe 3.0 ×8
+2,Radeon R5 435(Oland) [59][61],June 2016OEM,GCN 1st gen28 nm,1040×10690 mm2,320:20:85 CU,1030,20.6,8.24,659,41.2,DDR364-bit,2,2000,16,50 W,PCIe 3.0 ×8
+3,Radeon R7 430(Oland Pro) [62][63],June 2016OEM,GCN 1st gen28 nm,1040×10690 mm2,384:24:86 CU,730780,17.5218.72,5.846.24,560599,37.440,DDR3GDDR5128-bit,124,18004500,28.872,50 W,PCIe 3.0 ×8
+4,Radeon R7 435(Oland) [62][64],June 2016OEM,GCN 1st gen28 nm,1040×10690 mm2,320:20:85 CU,920,18.4,7.36,589,36.8,DDR364-bit,2,2000,16,50 W,PCIe 3.0 ×8
+5,Radeon R7 450(Cape Verde Pro) [62][65],June 2016OEM,GCN 1st gen28 nm,1500×106123 mm2,512:32:168 CU,1050,33.6,16.8,1075,65.2,GDDR5128-bit,2,4500,72,65 W,PCIe 3.0 ×16
+6,Radeon RX 455(Bonaire Pro) [62][66],June 2016OEM,GCN 2nd gen28 nm,2080×106160 mm2,768:48:1612 CU,1050,50.4,16.8,1613,100.8,GDDR5128-bit,2,6500,104,100 W,PCIe 3.0 ×16
+7,Radeon RX 460(Baffin) [67][68][69][70][71],August 2016$109 USD(2 GB)$139 USD(4 GB),GCN 4th genSamsung/GloFo14LPP[72][f],3000×106123 mm2,896:56:1614 CU,10901200,6167.2,17.419.2,19532150,122132,GDDR5128-bit,24,7000,112,<75 W,PCIe 3.0 x8
+8,Radeon RX 470D(Ellesmere) [74],October 2016CNY ¥1299(China Only),GCN 4th genSamsung/GloFo14LPP[72][f],5700×106232 mm2,1792:112:3228 CU,9261206,103.7135.1,29.638.6,33194322,207270,GDDR5256-bit,4,7000,224,120 W,PCIe 3.0 ×16
+9,Radeon RX 470(Ellesmere Pro) [67][69][70],August 2016$179 USD,GCN 4th genSamsung/GloFo14LPP[72][f],5700×106232 mm2,2048:128:3232 CU,9261206,118.5154.4,29.638.6,37934940,237309,GDDR5256-bit,48,6600,211,120 W,PCIe 3.0 ×16
+10,Radeon RX 480(Ellesmere XT) [75][76][77][78],June 2016$199 USD (4 GB)$239 USD (8 GB),GCN 4th genSamsung/GloFo14LPP[72][f],5700×106232 mm2,2304:144:3236 CU,11201266,161.3182.3,35.840.5,51615834,323365,GDDR5256-bit,48,70008000,224256,150 W,PCIe 3.0 ×16

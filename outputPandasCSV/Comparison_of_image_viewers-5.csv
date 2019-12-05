@@ -1,0 +1,25 @@
+,Program,Fullscreen,slideshow,zoom(styles),cache decoded images,thumbnails (sizes),thumbnail caching,navigation views,print,sort(schemes)
+0,ACDSee,Yes,Yes,"Yes 1:1, fit width and/or height, lock","Yes previous, next",Yes user-defined,Yes database,"directory-tree, albums, calendar, favourites, search results",Yes,"Yes user-defined, name, date, size, type, ..."
+1,CDisplay,Yes,Yes,"Yes 1:1, fit over/under width/height, fullscreen, doublepage",,"YesFixed, with scroll",,Thumbnails(of current folder images or archive),No,No
+2,Comix,Yes,Yes,"Yes 1:1, fit over/under width/height, fullscreen, doublepage",,"YesFixed, with scroll",,Thumbnails(of current folder images or archive),No,No
+3,digiKam,Yes,Yes,"Yes fit, in/out","Yes previous, next",Yes adjustable size,Yes,"Yes album-tree, tags, calendar, searches, map (geolocation)",Yes,"Yes tags, date, keywords, metadata"
+4,Eye of gnome,Yes,Yes,"Yes +/-, 1:1, best fit",,"image collection pane, only one row",,Thumbnails(of current folder images),Yes,No
+5,F-Spot,Yes,Yes,Yes,,Yes,,"list, file-tree",,Yes keywords
+6,FastPictureViewer,Yes,YesAuto-advance mode,"Yes 1:1, fit, 50%-6400% magnifier, click-and-hold zooming","Yesdynamic, adaptive","Yes96x96px, shown on navigation slider (Vista or later)",Yes(uses OS-managed cache on Windows Vista or later),"YesWindowed or full-screen, back and forth navigation, bookmarks, navigation slider",No,"Yes Filenames, file creation/modification date, Exif date taken, GPS timestamp"
+7,FastStone Image Viewer,Yes,Yes,"Yes 1:1, 2%-5000% magnifier, click-and-hold zooming, fit width and/or height, lock",No,Yes 6 predefined sizes,Yes database,"dir-tree, back and forth navigation, bookmarks",Yes,"Yes user-defined, name, date, file size, image size, type"
+8,Geeqie,Yes,Yes,"Yes fit, 1:1, in/out","Yes previous, next",Yes 24x24 - 256x256,Yes as png-files centrally or in sub-dir,"list, dir-tree, collection",Yes,"Yes collections, keywords, directory"
+9,gThumb,Yes,"Yes random, forward, reverse","Yes fit, 1:1, remember, fit-if-larger, in/out",,"Yes 48x48 - 256x256, 9 sizes",Partial Newer versions cache in a central directory,"list, icon, subfolders, categories, catalog",Yes,"Yes catalogs, categories"
+10,Gwenview,Yes,Yes,"Yes fit, 1:1, fit-if-larger, zoom to 1600%",,Yes adjustable size,Yes,"Yes fullscreen thumbnails, dir-tree",Yes,"Yes name, size, date"
+11,IrfanView,Yes,Yes,"Yes 1:1, fit width and/or height, lock",No,Yes 18 predefined sizes: 50×50–800×800,No,"dir-tree, search results",Yes,"Yes name, date, file size, image width/height, type, user-defined"
+12,KPhotoAlbum,Yes,Yes,"Yes fit, in/out, presets",,Yes,,views search results,,by date
+13,Phase One Media Pro,Yes,Yes,"YesFit to viewing area/height/width, 1:1, zoom to 1600%",Yes,"Yes Yes, user-defined",YesDatabase,"Yes Catalog-sets, date, filetypes, events, author, people, by search, by keywords and all metadata",Yes,"Yes name, date, size, user-defined"
+14,Picasa,Partial only in slideshow mode,Yes,"Partial no view window, fit to viewing area, 1:1, zoom to 400%",No,Yes user defined,Yesdatabase,"directory-tree, albums, timeline",Yes,"Partial name, date, size, user-defined"
+15,ResourceSpace,Yes,Yes,Yes,Yes,Yesuser defined,Yesdatabase,"thumbs, list, events, tags",Yescontact sheet,"Yesdate, relevance, colour"
+16,Shotwell,Yes,Yes,Yes,No,Yes fixed size,Yes,"Thumbs, Events (dates), tags",Yes,"Yes Title, Exposure Date"
+17,Simple Comic,Yes,Yes,YesMagnifying loupe on cursor,,Yes,,"Yesfullscreen thumbnails, thumbnails when hovering over progress bar, single page, double page",No,Only by ascending file name.
+18,STDU Viewer,Yes,No,"Yesfit to width, fit to height, fit to size",No,Yes,No,No,Yes,No
+19,Windows Photo Viewer,Yes,Yes,"Yes 1:1, fit, in/out",Yes,No,No,No,Yes,No
+20,XnView and XnViewMP,Yes,Yes,"Yes 1:1, fit width and/or height, lock","Yes previous, next",Yes user-defined,Yesdatabase,"dir-tree, favourites, categories",Yes,"Partial name, date, size, type, etc.; no user-defined order"
+21,xv,No,Yes,,No,Yes fixed size,Yes in subdirectory (.xvpics),,Yes,Partial name
+22,Zoner Photo Studio,Yes,Yes,"Yes 1:1, fit width and/or height, lock","Yes in Viewer, previous and next",Yes user-defined,Yesdatabase,"dir-tree, albums, CD compilations, media archive, search results, web albums","Yes contact sheet, templates, calendars, paper saver","Yes name, date, size, type, etc.; user-defined order"
+23,Program,Fullscreen,slideshow,zoom (styles),cache decoded images,thumbnails (sizes),thumbnail caching,navigation views,print,sort (schemes)

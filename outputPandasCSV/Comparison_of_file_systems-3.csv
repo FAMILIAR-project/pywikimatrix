@@ -1,0 +1,62 @@
+,File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/ read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
+0,BeeGFS,Yes,Yes,No,Yes,Yes,No,Yes,?,Yes,Yes
+1,CP/M file system,No,No,Yes[ag],No,No,No,No,No,No,No
+2,DECtape[29],No,No,Yes,No,No,No,No,No,No,No
+3,Elektronika BK tape format,No,No,No,No,No,No,No,No,No,Yes
+4,Level-D,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+5,RT-11[30],No,No,Yes (date only),No,No,No,No,No,No,Yes
+6,Version 6 Unix file system (V6FS)[31],Yes,Yes,No,Yes,No,No,No,No,No,No
+7,Version 7 Unix file system (V7FS)[32],Yes,Yes,No,Yes,No,No,No,No,No,No
+8,exFAT,No,No,Yes,Yes,No,No,No,No,No,No
+9,FAT12/FAT16/FAT32,No,No,Yes,Yes,No[ah],No,No,No,No[ai],No
+10,HPFS,Yes[aj],No,Yes,Yes,No,No,No,?,Yes,No
+11,NTFS,Yes,Yes[ak],Yes,Yes,Yes,No,Yes,Yes[al],Yes,No
+12,ReFS,Yes,Yes,Yes,Yes,Yes,No,Yes,?,Yes[am],Yes[an]
+13,HFS,No,No,Yes,No,No,Yes,No,No,Yes,No
+14,HFS Plus,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No
+15,FFS,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+16,UFS1,Yes,Yes,No,Yes,Yes,No,Yes[ao],Yes[ao],No[ap],No
+17,UFS2,Yes,Yes,Yes,Yes,Yes,No,Yes[ao],Yes[ao],Yes,No
+18,HAMMER,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,No,Yes
+19,LFS,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+20,ext,Yes,Yes,No,No,No,No,No,No,No,No
+21,Xiafs,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+22,ext2,Yes,Yes,No,Yes,Yes,No,Yes[aq],Yes[aq],Yes,No
+23,ext3,Yes,Yes,No,Yes,Yes,No,Yes[aq],Yes[aq],Yes,No
+24,ext4,Yes,Yes,Yes,Yes,Yes,No,Yes[aq],Yes[aq],Yes,Partial[ar]
+25,NOVA,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+26,Lustre,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No
+27,F2FS,Yes,Yes,Yes,Yes,Yes,No,Yes[aq],Yes[aq],Yes,No
+28,GPFS,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+29,GFS,Yes,Yes,No,Yes,Yes,No,Yes[aq],Yes[aq],Yes,No
+30,NILFS,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes
+31,ReiserFS,Yes,Yes,No,Yes,Yes,No,Yes[aq],Yes[aq],Yes,No
+32,Reiser4,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+33,OCFS,No,Yes,No,No,Yes,Yes,No,No,No,No
+34,OCFS2,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+35,XFS,Yes,Yes,Partial[as],Yes,Yes,No,Yes,Yes[aq],Yes,Partial[at]
+36,JFS,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+37,QFS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+38,BFS,Yes,Yes,Yes,No,No,No,No,No,Yes,No
+39,AdvFS,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No
+40,NSS,Yes,Yes,Yes[au],Yes[au],Yes,Yes[au],Yes,?,Yes[av][aw],No
+41,NWFS,Yes,?,Yes[au],Yes[au],Yes,Yes[au],Yes,?,Yes[av][aw],No
+42,ODS-5,Yes,Yes,Yes,?,?,Yes,Yes,?,Yes[ax],No
+43,APFS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Partial
+44,VxFS,Yes,Yes,Yes,Yes,Yes,No,Yes,?,Yes[aq],No
+45,UDF,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+46,Fossil,Yes,Yes[ay],No,Yes,Yes,No,No,No,No,No
+47,ZFS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[az],Yes[ba],Yes
+48,Btrfs,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes[bb]
+49,Minix V1,Yes,Yes,No,No,No,No,No,No,No,No
+50,Minix V2,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+51,Minix V3,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+52,VMFS2,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+53,VMFS3,Yes,Yes,No,Yes,Yes,No,No,No,No,No
+54,ISO 9660:1988,No,No,Yes,No,No,No,No,No,No,No
+55,Rock Ridge,Yes,Yes,No,Yes[bc],Yes,No,No[bd],No[be],No[be],No
+56,"Joliet (""CDFS"")",No,No,Yes,No,No,No,No,No,No,No
+57,ISO 9660:1999,No,No,Yes,No,No,No,No,No,No,No
+58,High Sierra,No,No,Yes,No,No,No,No,No,No,No
+59,SquashFS,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+60,File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC

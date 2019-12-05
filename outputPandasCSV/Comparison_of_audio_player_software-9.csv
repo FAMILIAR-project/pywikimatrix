@@ -1,0 +1,27 @@
+,Audio player,"asx,wax, wvx",M3U,pls,XSPF,CUE
+0,AIMP,Yes,Yes,Yes,Yes,Yes
+1,Amarok,Yes,Yes,Yes,Yes,Yes
+2,Audacious,Partial,Yes,Yes,Yes,Yes
+3,Audion,?,?,?,?,?
+4,Clementine,Yes,Yes,Yes,Yes,Yes
+5,cmus,No,Yes,Yes,No,?
+6,Cog,?,?,?,?,?
+7,Exaile,Yes,Yes,Yes,Yes,?
+8,foobar2000,Yes,Yes,Yes,Yes,Yes
+9,iTunes,No,Yes,?,?,No
+10,JRiver Media Center,Yes,Yes,Yes,Yes,Yes
+11,JuK,?,?,?,?,?
+12,MediaMonkey,?,Yes,?,No,?
+13,MPXPLAY,?,Yes,Yes,?,Yes
+14,MusicBee,Yes,Yes,Yes,Yes,Yes
+15,Musicmatch Jukebox,?,Yes,?,?,?
+16,musikCube,?,?,?,?,?
+17,Quod Libet,Partial,Yes,Yes,No,?
+18,Rhapsody,?,?,?,?,?
+19,Rhythmbox,?,?,Yes,?,No
+20,Sonique,?,Yes,Yes,?,?
+21,Spotify[21],No,No,No,No,No
+22,Winamp,Yes,Yes,Yes,Yes,?
+23,XMMS,?,Yes,Yes,?,?
+24,Zinf,?,?,?,No,?
+25,Audio player,asx/wax/wvx,M3U,pls,XSPF,CUE

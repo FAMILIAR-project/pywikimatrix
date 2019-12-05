@@ -1,0 +1,7 @@
+,Name,License,Deployment,Platforms
+0,netTransformer,GPL,Desktop,Windows/Linux/macOS
+1,OpenNMS,AGPLv3,Desktop,"Linux, macOS, others"
+2,SolarWinds,Proprietary,Desktop,Windows
+3,PathSolutions,Proprietary,Desktop,Windows
+4,Spiceworks,Proprietary,Desktop,Windows
+5,Auvik,Proprietary,Desktop,"Linux, Windows"

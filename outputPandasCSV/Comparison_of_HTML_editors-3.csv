@@ -1,0 +1,33 @@
+,Editor,WYSIWYG,FTP Upload,WebDAV Upload,Server-side scripting,Shared editing,Spell checking,Templates,Templates Update Sync,Page Preview,Form Handler
+0,Amaya,Yes,No,Yes,No,No,Yes,Partial[6],No,Yes,?
+1,Aptana,No,Yes,?,Yes (via plugins),Yes,No,Some (i.e. Snippets),?,Yes,?
+2,Arachnophilia,No,?,?,?,?,Yes,Yes,?,Yes,?
+3,Bluefish,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,?
+4,BlueGriffon,Yes,No(add-on)[7],No,?,No,Yes,Yes(via commercial proprietary add-on)[8],No,Yes,?
+5,Brackets,"""Live Preview"" in-browser",Yes (via extension),No,Yes,No,Yes (via extension),Yes (via extension),No,Yes,?
+6,Claris Homepage,Yes,Yes,No,No,No,Yes,Yes,No,Yes,?
+7,Codelobster,No,Yes,No,Yes,No,No,Yes,?,Yes,?
+8,CoffeeCup HTML Editor,No,Yes,?,No,No,Yes,Yes,?,Yes,?
+9,Dreamweaver,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,EZGenerator,Yes,Yes,?,?,?,Yes,Yes,?,Yes,?
+11,Freeway,Yes,Yes,No,Yes,No,Yes,Yes,?,Yes,Yes
+12,GoLive,Yes,Yes,Yes,Yes,No,Yes,Yes,?,Yes,?
+13,HTML-Kit,No,Yes,?,Yes,No,Yes,Yes,?,Yes,?
+14,KompoZer,Yes,Yes,No,No,No,Yes,Yes,No,Yes,?
+15,LibreOffice,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,?
+16,Maqetta,Yes,?,?,?,?,?,?,?,Yes,?
+17,Microsoft Expression Web,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+18,Microsoft FrontPage,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+19,Microsoft SharePoint Designer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+20,Microsoft Visual Web Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+21,Mobirise,Yes,Yes,No,Yes,No,No,Yes,?,Yes,Yes
+22,Web Architect,No,Yes,?,Yes,No,Yes,Yes,?,Yes,?
+23,Nvu,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,?
+24,openElement,Yes,Yes,No,Yes,No,Yes,Yes,?,Yes,Yes
+25,OpenOffice.org,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,?
+26,oXygenXML Editor,Partial (more like WYSIWYM),Yes and SFTP,Yes,Yes,Yes,Yes,Yes,Yes,Partial (via XSLT to browser),"maybe, depends on type."
+27,Quanta Plus,Yes,Yes,No (cvs instead),Yes,Yes,Yes,Yes,Yes,Yes,?
+28,RocketCake,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes
+29,SeaMonkey Composer,Yes,Yes,Yes,No,No,Yes,No,No,Yes,?
+30,TOWeb,Yes,Yes,No,Yes,No,Yes,Yes,?,Yes,Yes
+31,Editor,WYSIWYG,FTP Upload,WebDAV Upload,Server-side scripting,Shared editing,Spell checking,Templates,Templates Update Sync,Page Preview,Form Handler

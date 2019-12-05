@@ -1,0 +1,14 @@
+,ADC client,Windows,Linux,OS X,BSD,Haiku
+0,AirDC++,Yes,No,No,No,No
+1,AirDC++ Web Client,No,Yes,No installable package[8],Yes,?
+2,ApexDC++,Yes,No,No,No,No
+3,DC++,Yes,No,No,No,No
+4,jucy,Yes,Yes,Yes,No,No
+5,LinuxDC++,No,Yes,No,Yes,No
+6,EiskaltDC++,Yes,Yes,Yes,Yes,Yes
+7,FlylinkDC++,Yes,No,No,No,No
+8,RSX++,Yes,No,No,No,No
+9,TKDC++,Yes,No,No,No,No
+10,StrongDC++,Yes,No,No,No,No
+11,ncdc,No,Yes,Yes,Yes,?
+12,ADC client,Windows,Linux,OS X,BSD,Haiku

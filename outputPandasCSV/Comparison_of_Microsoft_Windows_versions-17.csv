@@ -1,0 +1,44 @@
+,Operating system,Limit on IA-32,Limit on x64
+0,Windows NT 4.0,4 GB,
+1,Windows 2000 Professional/Server,4 GB,
+2,Windows 2000 Advanced Server,8 GB,
+3,Windows 2000 Datacenter,32 GB,
+4,Windows XP Starter,512 MB,
+5,Windows XP Home,4 GB,
+6,Windows XP Professional,4 GB,128 GB
+7,Windows Server 2003 RTM Web,2 GB,
+8,Windows Server 2003 RTM Standard/Small Business,4 GB,
+9,Windows Server 2003 RTM Enterprise/Datacenter,64 GB,
+10,Windows Server 2003 R2/SP1 Standard,4 GB,32 GB
+11,Windows Server 2003 R2/SP1 Enterprise/Datacenter,64 GB,1 TB
+12,Windows Vista Starter,1 GB,
+13,Windows Vista Home Basic,4 GB,8 GB
+14,Windows Vista Home Premium,4 GB,16 GB
+15,Windows Vista Business/Enterprise/Ultimate,4 GB,128 GB
+16,Windows Home Server,4 GB,
+17,Windows Server 2008 Web Server/Standard/Small Business,4 GB,32 GB
+18,Windows HPC Server 2008,,128 GB
+19,Windows Server 2008 Enterprise/Datacenter,64 GB,1 TB
+20,Windows 7 Starter,2 GB,
+21,Windows 7 Home Basic,4 GB,8 GB
+22,Windows 7 Home Premium,4 GB,16 GB
+23,Windows 7 Professional/Enterprise/Ultimate,4 GB,192 GB
+24,Windows Server 2008 R2 Foundation,,8 GB
+25,Windows Server 2008 R2 Web Server/Standard,,32 GB
+26,Windows HPC Server 2008 R2,,128 GB
+27,Windows Server 2008 R2 Enterprise/Datacenter,,2 TB
+28,Windows 8,4 GB,128 GB
+29,Windows 8 Pro/Enterprise,4 GB,512 GB
+30,Windows Server 2012 Foundation,,32 GB
+31,Windows Server 2012 Essentials,,64 GB
+32,Windows Server 2012 Standard/Datacenter,,4 TB
+33,Windows Storage Server 2012 Standard,,4 TB
+34,Windows Storage Server 2012 Workgroup,,32 GB
+35,Hyper-V Server 2012,,4 TB
+36,Windows 10 Mobile,4 GB,
+37,Windows 10 Home,4 GB,128 GB
+38,Windows 10 Pro,4 GB,2 TB
+39,Windows 10 Education,4 GB,2 TB
+40,Windows 10 Enterprise,4 GB,2 TB
+41,Windows Server 2016 Standard,,24 TB
+42,Windows Server 2016 Datacenter,,24 TB

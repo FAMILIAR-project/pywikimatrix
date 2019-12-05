@@ -1,0 +1,25 @@
+,Shell,Functions,Exception handling,Search & replace on variable substi­tutions,Arith­metic,Floating point,Math function library,Linear arrays or lists,Assoc­iative arrays,Lambda functions,eval func­tion,Pseudo­random number generation,Bytecode
+0,Bourne shell 1977 version,No,Yes (via trap),No,No,No,No,No,No,No,Yes,No,No
+1,Bourne shell current version,Yes since SVR2,Yes (via trap),No,Yes[nb 8],No,No,No,No,No,Yes,No,No
+2,POSIX shell,Yes,Yes (via trap),No,Yes,No,No,No,No,No,Yes,No,No
+3,bash (v4.0),Yes,Yes (via trap),Yes (via ${//} syntax),Yes,No,No,Yes,Yes,No,Yes,Yes ($RANDOM),No
+4,csh,No,No,Yes (via $var:s/// syntax),Yes,No,No,Yes,No,No,Yes,No,No
+5,tcsh,No,No,Yes (via $var:s/// syntax),Yes,No,No,Yes,No,No,Yes,No,No
+6,Hamilton C shell,Yes,No,Yes (via $var:s/// syntax),Yes,Yes,Yes,Yes,No,No,Yes,Yes (random utility),No
+7,Scsh,Yes,?,Yes (via string functions and regular expressions),?,?,?,Yes,?,Yes,Yes,"Yes (random-integer, random-real)","Yes (compiler is Scheme48 virtual machine, via scshvm)"
+8,ksh (ksh93t+),Yes,Yes (via trap),Yes (via ${//} syntax and builtin commands),Yes,Yes,Yes,Yes,Yes,No,Yes,Yes ($RANDOM),Yes (compiler is called shcomp)
+9,pdksh,Yes,Yes (via trap),No,Yes,No,No,Yes,No,No,Yes,Yes ($RANDOM),No
+10,zsh,Yes,Yes,Yes (via ${:s//} and ${//} syntax),Yes,Yes,Yes (zsh/mathfunc module),Yes,Yes,No,Yes,Yes ($RANDOM),Yes (built-in zcompile command)
+11,ash,Yes,Yes (via trap),No,Yes (since 1992)[44],No,No,No,No,No,Yes,No,No
+12,CCP,No,?,No,No,?,?,No,No,No,No,No,No
+13,COMMAND.COM,No,Partial (only Auto-fail (via COMMAND /F (or /N in some versions of DR-DOS)),No,No,No,No,No,No,No,No,No,No
+14,OS/2 CMD.EXE,No,No,No,?,No,No,?,No,No,No,No,No
+15,Windows CMD.EXE,Yes (via CALL :label),No,Yes (via SET %varname:expression syntax),Yes (via SET /A)[45],No,No,Yes (via SET[46]),No,No,No,Yes (%random%),No
+16,4DOS,Yes,"Yes (via ON command, optional Auto-fail via 4DOS /F)",Yes (via %@Replace[...] function),Yes (via SET /A),?,?,"Yes (via ranges, include lists, @file lists and FOR command)",No,No,Yes,Yes (%@Random[...] function),Yes (via BATCOMP command)
+17,4OS2,?,?,?,?,?,?,?,?,No,Yes,Yes (%@Random[...] function),?
+18,TCC (formerly 4NT),Yes,Yes (via ON and various ...MONITOR commands),Yes (via %@Replace[...] function),Yes (via SET /A),?,?,"Yes (via ranges, include lists, @file lists and FOR command)",?,No,Yes,Yes (%@Random[...] function),Yes (via BATCOMP command)
+19,PowerShell,Yes,Yes (Try-Catch-Finally),Yes (-replace operator),Yes,Yes,[Math] class[47],Yes,Yes,Yes,Yes,Yes,"Yes, automatic"
+20,rc,Yes,Yes,No,?,?,?,Yes,?,No,Yes,No,No
+21,BeanShell,Yes,Yes,?,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes
+22,VMS DCL,Yes,Yes,No,Yes,No,"yes, for compiled programs",Yes,No,No,No,No,No
+23,fish,Yes,Yes (via trap),No,Yes,Yes,Yes,Yes,No,No,Yes,Yes (random),No

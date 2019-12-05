@@ -1,0 +1,32 @@
+,Unnamed: 0,Directives[Note 1],Conditionals,Atomic groups[Note 2],Named capture[Note 3],Comments,Embedded code,Unicode property support [19],Balancing groups[Note 4],Variable-length look-behinds[Note 5]
+0,Boost.Regex,Yes,Yes,Yes,Yes,Yes,No,Some[Note 6],No,No
+1,Boost.Xpressive,Yes,No,Yes,Yes,Yes,No,No,No,No
+2,CL-PPCRE,Yes,Yes,Yes,Yes,Yes,Yes,Some[Note 6],No,No
+3,EmEditor,Yes,Yes,?,?,Yes,No,?,No,No
+4,FREJ,No,No,Yes,Yes,Yes,No,?,No,No
+5,GLib/GRegex,Yes,Yes,Yes,Yes,Yes,No,Some[Note 6],No,No
+6,GNU grep,Yes,Yes,?,Yes,Yes,No,No,No,No
+7,Haskell,?,?,?,?,?,No,No,No,No
+8,Helios RXPF,Yes,Yes,No,Yes,Yes,No,No,No,No
+9,ICU Regex,Yes,No,Yes,Yes[Note 7],Yes,No,Yes,No,No
+10,Java,Yes,No,Yes,Yes[Note 8],Yes,No,Some[Note 6],No,No
+11,JavaScript (ECMAScript),No,No,No,No,No,No,No,No,No
+12,JGsoft,Yes,Yes,Yes,Yes,Yes,No,Some[Note 6],No,Yes
+13,Lua,No,No,No,No,No,No,No,No,No
+14,.NET,Yes,Yes,Yes,Yes,Yes,No,Some[Note 6],Yes,Yes
+15,OCaml,No,No,No,No,No,No,No,No,No
+16,OmniOutliner 3.6.2,?,?,?,?,No,No,?,No,No
+17,PCRE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+18,Perl,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No[Note 9]
+19,PHP,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+20,Python,Yes,Yes,Yes[Note 10],Yes,Yes,No,Yes[Note 11],No,Yes[Note 10]
+21,Qt/QRegExp,No,No,No,No,No,No,No,No,No
+22,RE2,Yes,No,?,Yes,No,No,Some[Note 6],No,No
+23,Ruby / Onigmo,Yes,Yes,Yes,Yes,Yes,Yes,Some[Note 6],No,No
+24,Tcl,Yes,No,Yes,No,Yes,No,Yes,No,No
+25,TRE,Yes,No,No,No,Yes,No,?,No,No
+26,Vim,Yes,No,Yes,No,No,No,No,No,Yes
+27,RGX,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+28,XML Schema,No,No,No,No,No,No,Yes,No,No
+29,XPath 3/XQuery,No,No,No,No,No,No,Yes,No,No
+30,XRegExp,Leading only,No,No,Yes,Yes,No,Yes,No,No

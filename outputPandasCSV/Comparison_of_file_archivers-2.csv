@@ -1,0 +1,34 @@
+,Unnamed: 0,Windows,DOS,Mac OS X,Linux,BSD,Other Unix,AmigaOS,Android,Windows Mobile,Windows Phone
+0,7-Zip,Yes[1],Command-line interface[2],Yes[2],Yes[2],Command-line interface[2],Command-line interface[2],Command-line interface,No,Yes,No
+1,ALZip,Yes,Command-line interface[13],No,No,No,No,No,No,No,No
+2,ALZip for Mac,No,No,Yes,No,No,No,No,No,No,No
+3,Archive Manager,No,No,No,Yes,Yes,Yes,No,No,No,No
+4,Archive Utility,No,No,Yes,No,No,No,No,No,No,No
+5,Ark,No,No,No,Yes,Yes,Yes,No,No,No,No
+6,B1 Free Archiver,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+7,BetterZip,No,No,Yes,No,No,No,No,No,No,No
+8,bsdtar/libarchive,Yes,No,Yes,Yes,Yes,Yes,Partial,Unknown,Unknown,No
+9,Commander One,No,No,Yes,No,No,No,No,No,No,No
+10,CRAX Commander,No,No,Yes,No,No,No,No,No,No,No
+11,Disk ARchiver,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No
+12,Filzip,Yes,No,No,No,No,No,No,No,No,No
+13,FreeArc,Yes,No,No,Yes,Yes,Yes,No,No,No,No
+14,GNU tar,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+15,iArchiver,No,No,Yes,No,No,No,No,Unknown,Unknown,?
+16,Info-ZIP,Yes,Yes,Yes,Yes,Yes,Yes[9],Yes,No,Yes[8],No
+17,KGB Archiver,Yes[7],Partial,Command-line interface,Yes,No,No,No,Yes,Unknown,?
+18,PeaZip,Yes[1],Unknown,Under Development[14],Yes,Yes,No,No,Unknown,Unknown,?
+19,PKZIP,Yes,Yes,No,Yes,No,Yes,Yes,Unknown,Unknown,?
+20,PowerArchiver,Yes,Unknown,Command-line interface,No,No,No,No,Unknown,Unknown,?
+21,Star,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,?
+22,StuffIt,Yes,Unknown,Yes,"X86 only, older version (5.2.0?)",No,older version (5.2.0?),No,Unknown,Unknown,?
+23,The Unarchiver,Command-line interface,No,Yes,Command-line interface,No,No,No,Unknown,No,?
+24,TUGZip,Yes,Unknown,No,No,No,No,No,Unknown,Unknown,?
+25,WinAce,Yes,Command-line interface[5],Command-line interface expander only[5],"X86, Command-line interface expander only[5]",No,No,Command-line interface expander only,Unknown,Unknown,?
+26,WinRAR and RAR,Yes[1],Yes,Command-line interface[6],"X86 and x86-64, Command-line interface[6]",Command-line interface[6],Command-line interface[6],Command-line interface expander only,Yes[15],Yes,?
+27,WinZip,Yes[1],Command-line interface,Yes,No,No,No,Yes,Yes,Unknown,?
+28,XAD,No,No,No,Yes,Yes,Yes,Yes,Unknown,Unknown,?
+29,Xarchiver,No,No,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,?
+30,ZipGenius,Yes,Unknown,No,No,No,No,No,Unknown,Unknown,?
+31,ZPAQ,Yes,Unknown,Yes,Yes,No,No,No,Unknown,Unknown,?
+32,,Windows,DOS,Mac OS X,Linux,BSD,Unix,AmigaOS,Android,Windows Mobile,Windows Phone

@@ -1,0 +1,24 @@
+,Format,Languages
+0,string (string'Last - n + 1 .. string'Last),Ada
+1,"Right(string,n)",VB
+2,"RIGHT$(string,n)",BASIC
+3,"right(string,n)","FreeBASIC, Ingres, Pick Basic"
+4,"strcpy(string2, string+n) (n must not be greater than the length of string)",C
+5,string.Substring(string.Length()-n),C#
+6,string[len(string)-n:],Go
+7,string.substring(string.length()-n),Java
+8,string.slice(-n),JavaScript[25]
+9,"right(string,n «,padchar»)","Rexx, Erlang"
+10,"substr(string,-n)","Perl 5, PHP"
+11,"substr(string,*-n) string.substr(*-n)",Raku
+12,string[-n:],"Cobra, Python"
+13,string[n],Pick Basic
+14,(string-take-right string n),Scheme (SRFI 13)
+15,string[-n..-1],"Ruby, Ya"
+16,string[$-n .. $],D[26]
+17,String.sub string (String.length string - n) n,OCaml[16]
+18,"string.sub(string, -n) (string):sub(-n)",Lua
+19,string last: n,"Smalltalk (Squeak, Pharo)"
+20,"StringTake[string, -n]",Mathematica[17]
+21,string (1:n),COBOL
+22,¯n↑string.,APL

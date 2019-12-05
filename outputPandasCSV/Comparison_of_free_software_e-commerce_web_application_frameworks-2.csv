@@ -1,0 +1,22 @@
+,Unnamed: 0,Flat file,MySQL,MySQLi,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Apache Derby,MongoDB
+0,Apache OFBiz,No,Yes,No,Yes,Yes,Yes,No[22],Yes,Yes,?
+1,Batavi,No,Yes,No,No,No,No,No,No,?,No
+2,Bigcommerce,No,Yes,No,Yes,No,No,No,No,?,No
+3,Drupal Commerce,No,Yes,Yes,Yes,No,No,Yes,No,No,?
+4,KonaKart,No,Yes,No,Yes,Yes,Yes,No,No,?,No
+5,LemonStand,Yes,Yes,No,No,No,No,No,No,?,No
+6,Magento,No,Yes,Yes,No,No,No,No,No,No,No
+7,nopCommerce,No,No,No,No,Yes,No,No,No,No,No
+8,OpenCart,No,Yes,Yes,?,?,?,?,?,?,No
+9,osCommerce,No,Yes,No,No,No,No,No,No,No,No
+10,pimcore,No,Yes,No,No,No,No,No,No,No,No
+11,PrestaShop,No,Yes,Yes,No,No,No,No,No,No,No
+12,Sana Commerce,No,No,No,No,Yes,No,No,No,?,No
+13,Shopify,No,Yes,Yes,No,No,No,No,No,?,No
+14,Spree Commerce,?,Yes,?,Yes,?,?,Yes,?,No,No
+15,Storehippo,No,No,No,No,No,No,No,No,No,Yes
+16,SupaDupa,No,Yes,Yes,No,No,No,No,No,?,No
+17,WooCommerce,No,Yes,Yes,No[23],No,No,No,No,No,No
+18,X-Cart,No,Yes,Yes,Yes,No,No,No,No,No,No
+19,Zen Cart,No,Yes,Yes,No,No,No,No,No,No,No
+20,,Flat file,MySQL,MySQLi,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Apache Derby,MongoDB

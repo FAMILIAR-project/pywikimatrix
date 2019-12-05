@@ -1,0 +1,17 @@
+,OLAP server,Windows,Linux,UNIX,z/OS,AIX
+0,Apache Kylin,No,Yes,Yes,No,No
+1,Druid,No,Yes,Yes,,
+2,Apache Pinot (Incubating),No,Yes,Yes,,
+3,Essbase,Yes,Yes,Yes,No,
+4,IBM Cognos TM1,Yes,Yes,Yes,No,Yes
+5,icCube,Yes,Yes,Yes,Yes,Yes
+6,Infor BI OLAP Server,Yes,No,No,No,
+7,Jedox OLAP Server,Yes,Yes,Yes,No,
+8,Kyligence,No,Yes,Yes,No,No
+9,Kyvos,No,Yes,Yes,No,No
+10,Microsoft Analysis Services,Yes,No,No,No,
+11,MicroStrategy Intelligence Server,Yes,Yes,Yes,No,Yes
+12,Mondrian OLAP server,Yes,Yes,Yes,Yes,
+13,Oracle Database OLAP Option,Yes,Yes,Yes,Yes,
+14,SAP NetWeaver BW,Yes,Yes,Yes,Yes,
+15,SAS OLAP Server,Yes,Yes,Yes,Yes,

@@ -1,0 +1,44 @@
+,Unnamed: 0,R-/R+ tree,Hash,Expression,Partial,Reverse,Bitmap,GiST,GIN,Full-text,Spatial,FOT,Duplicate index prevention
+0,4th Dimension,?,Cluster,?,?,?,?,?,?,Yes,?,?,No
+1,ADABAS,?,?,?,?,?,?,?,?,?,?,?,No
+2,Adaptive Server Enterprise,No,No,Yes,No,Yes,No,No,No,Yes,?,?,No
+3,Advantage Database Server,No,No,Yes,No,Yes,Yes,No,No,Yes,?,?,No
+4,Apache Derby,No,No,No,No,No,No,No,No,No[77],?,?,No
+5,ClustrixDB,No,Yes,No,No,No,No,No,No,No,No,?,No
+6,CUBRID,No,No,Yes[78],Yes[78],Yes,No,No,No,No,No,No,No
+7,DB2,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes[79],?,?,No
+8,Empress Embedded Database,Yes,No,No,Yes,No,Yes,No,No,No,?,?,No
+9,EXASolution,No,Yes,No,No,No,No,No,No,No,?,?,No
+10,Firebird,No,No,Yes,No,Yes,No,No,No,No[80],?,?,No
+11,HSQLDB,No,No,No,No,No,No,No,No,No,?,?,No
+12,H2,No,Yes,No,No,No,No,No,No,Yes[81],Yes[82],?,No
+13,Informix Dynamic Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[83],Yes
+14,Ingres,Yes,Yes,Ingres v10,No,No,Ingres v10,No,No,No,?,?,No
+15,InterBase,No,No,No,No,No,No,No,No,No,?,?,No
+16,Linter SQL RDBMS10,No,Yes temporary indexes for equality joins,Yes for some scalar functions like LOWER and UPPER,No,No,No,No,No,Yes[84],No,No,Yes
+17,LucidDB,No,No,No,No,No,Yes,No,No,No,?,?,No
+18,MariaDB,"Aria and MyISAM tables and, since v10.2.2, InnoDB tables only[85]","MEMORY,[86] InnoDB,5 tables only",PERSISTENT virtual columns only[87],No,No,No,No,No,Yes[88],"Aria and MyISAM tables and, since v10.2.2, InnoDB tables only[85]",?,No
+19,MaxDB,No,No,No,No,No,No,No,No,No,?,?,No
+20,Microsoft Access (JET),No,No,No,No,No,No,No,No,No[89],?,?,No
+21,Microsoft Visual Foxpro,No,No,Yes,Yes,Yes2,Yes,No,No,No,?,?,No
+22,Microsoft SQL Server,Spatial Indexes,Yes4,Yes3,Yes,on Computed columns3,Bitmap filter index for Star Join Query,No,No,Yes[90],Yes[91],?,No
+23,Microsoft SQL Server Compact (Embedded Database),No,No,No,No,No,No,No,No,No[92],?,?,No
+24,Mimer SQL,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No
+25,MonetDB,No,Yes,No,No,No,Yes,No,No,No,No,No,No
+26,MySQL,Spatial Indexes[93],"MEMORY, Cluster (NDB), InnoDB,5 tables only",No[94],No,No,No,No,No,"MyISAM tables[95] and, since v5.6.4, InnoDB tables[96]","MyISAM tables[97] and, since v5.7.5, InnoDB tables[98]",?,No
+27,OpenLink Virtuoso,Yes,Cluster,Yes,Yes,No,Yes,No,No,Yes,Yes (Commercial only),No,No
+28,Oracle,Yes 11,Cluster Tables,Yes,Yes 6,Yes,Yes,No,No,Yes[99],Yes[100],?,Yes[101]
+29,Oracle Rdb,No,Yes,?,No,No,?,No,No,?,?,?,No
+30,Pervasive PSQL,No,No,No,No,No,No,No,No,No,No,No,No
+31,Polyhedra DBMS,No,Yes,No,No,No,No,No,No,No,No,?,No
+32,PostgreSQL,Yes,Yes,Yes,Yes,Yes7,Yes,Yes,Yes,Yes[102],PostGIS[103],?,No
+33,Raima Database Manager,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No
+34,RDM Server,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+35,SAP HANA,?,?,?,?,?,?,?,?,?,?,?,No
+36,solidDB,No,No,No,No,Yes,No,No,No,No,No,No,No
+37,SQL Anywhere,No,No,Yes,No,No,No,No,No,Yes,Yes,?,Yes
+38,SQLite,Yes[104],No,Yes[105],Yes,No,No,No,No,Yes[106],SpatiaLite[107],?,No
+39,SQream DB,?,?,?,?,Yes,?,?,?,?,?,?,No
+40,Teradata,No,Yes,Yes,Yes,No,Yes,No,No,?[108],?,?,No
+41,UniVerse,Yes,Yes,Yes3,Yes3,Yes3,No,No,No,?,Yes[109],?,No
+42,,R-/R+ tree,Hash,Expression,Partial,Reverse,Bitmap,GiST,GIN,Full-text,Spatial,FOT,Duplicate index prevention

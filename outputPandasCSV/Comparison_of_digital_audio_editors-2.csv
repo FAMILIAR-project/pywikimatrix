@@ -1,0 +1,22 @@
+,Digital audio editor,Creator / developer,Software license,Microsoft Windows,MacOS,iOS,Linux,BSD,Online,Network storage,External hardware
+0,Acoustica,Acon Digital,Proprietary,Yes,Yes,No,No,No,No,Unknown,Unknown
+1,Audacity,Audacity Team,GNU GPL,Yes,Yes,Yes,Yes,Yes,No,NFS,
+2,Audiotool,Hobnox,Proprietary,Yes,Yes,Not officially supported,Yes,No,Yes,NFS,Optional MIDI support
+3,BIAS Peak,BIAS,Proprietary,No,Yes,No,No,No,No,,
+4,Diamond Cut ART,Diamond Cut Productions,Proprietary,Yes,No,No,No,No,No,Unknown,Unknown
+5,Ecasound,Kai Vehmanen,GNU GPL,No,Yes,No,Yes,Yes,No,Unknown,Unknown
+6,Goldwave,Goldwave Inc.,Proprietary Shareware,Yes,No,No,No,No,No,,
+7,Jokosher,Jokosher,GNU GPL,Yes,No,No,Yes,No,No,NFS,
+8,NU-Tech,Leaff Engineering,Proprietary,Yes,No,No,No,No,No,,
+9,RiffWorks,Sonoma Wire Works,Proprietary,Yes,Yes,No,No,No,No,,
+10,Sound Forge,Magix,Proprietary,Yes,Yes,No,No,No,No,,
+11,Soundbooth,Adobe Systems,Proprietary,Yes,Yes,No,No,No,No,,
+12,SoX,"Chris Bagwell, et al.",GNU GPL,Yes,Yes,No,Yes,Yes,No,,
+13,SpectraLayers,Sony,Proprietary,Yes,Yes,No,No,No,No,,
+14,Sweep,Conrad Parker,GNU GPL,No,No,No,Yes,Yes,No,,
+15,Total Recorder,HighCriteria,Proprietary Shareware,Yes,No,No,No,No,No,,
+16,Traverso DAW,Traverso,GNU GPL,Yes,Yes,No,Yes,No,No,NFS,
+17,WaveLab,Steinberg,Proprietary,Yes,Yes,No,No,No,No,,"External gear, MIDI"
+18,WavePad,NCH Software,Proprietary / Freemium,Yes,Yes,Yes,No,No,No,,
+19,WaveSurfer,Centre for Speech Technology at KTH,BSD-like,Yes,Yes,No,Yes,Yes,No,,
+20,Digital audio editor,Creator / developer,Software license,Microsoft Windows,MacOS,iOS,Linux,BSD,Online,Network storage,External hardware

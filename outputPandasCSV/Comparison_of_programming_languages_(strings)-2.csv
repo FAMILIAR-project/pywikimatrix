@@ -1,0 +1,11 @@
+,Syntax,Language(s)
+0,"$""hello, {name}""","C#, Visual Basic .NET"
+1,"""Hello, $name!""","Bourne shell, Perl, PHP, Windows PowerShell"
+2,"qq(Hello, $name!)",Perl (alternate)
+3,"""Hello, {$name}!""",PHP (alternate)
+4,"""Hello, #{name}!""","CoffeeScript, Ruby"
+5,"%Q(Hello, #{name}!)",Ruby (alternate)
+6,"(format t ""Hello, ~A"" name)",Common Lisp
+7,"`Hello, ${name}!`",JavaScript (ECMAScript 6)
+8,"""Hello, \(name)!""",Swift
+9,"f'Hello, {name}!'",Python

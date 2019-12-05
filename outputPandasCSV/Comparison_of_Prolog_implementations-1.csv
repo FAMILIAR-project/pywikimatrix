@@ -1,0 +1,22 @@
+,Platform,Platform.1,Platform.2,Features,Features.1,Features.2,Features.3,Features.4,Features.5,Features.6,Features.7,Toolkit,Toolkit.1,Toolkit.2,Prolog Mechanics
+0,Name,OS,Licence,Native Graphics,Compiled Code,Unicode,Object Oriented,Native OS Control,Stand Alone Executable,C Interface[3],Java Interface[3],Interactive Interpreter,Debugger,Code Profiler,Syntax
+1,BProlog,"Unix, Windows, Mac OS X",Free for non-commercial uses,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"ISO-Prolog, plus event-handling, CLP(FD), and tabling"
+2,JIProlog,"JVM, Android",Shareware/Commercial and AGPL,Yes,,Yes,,Yes via Java,Yes,Yes via Java,Yes,Yes,Yes,,ISO-Prolog
+3,Ciao,"Unix, Windows, Mac OS X","GPL, LGPL",,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"ISO-Prolog, plus extensions"
+4,DOS-PROLOG,MS-DOS,Shareware,Yes,Yes,Yes,,Yes,Yes,,,,Yes,,Edinburgh Prolog
+5,ECLiPSe,"Linux, Windows, Solaris, macOS",MPL,,Yes,,,Yes,,Yes,Yes,Yes,Yes,Yes,"Extended Prolog, Multi-dialect, including ISO"
+6,GNU Prolog,"Unix, Windows, Mac OS X","GPL, LGPL",,Yes,,,Yes,Yes,Yes,,Yes,Yes,,ISO-Prolog
+7,Jekejeke Prolog,"JVM, Android",Distribution Evaluation,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,Yes,"ISO-Prolog, Java API"
+8,JLog,JVM,GPL,Yes,Yes,,,,,,Yes,Yes,,,ISO-Prolog
+9,JScriptLog,Web Browser,GPL,,,,,,,,,Yes,,,ISO-Prolog
+10,jTrolog,JVM,LGPL,,,Yes,,,,,Yes,Yes,Yes,,ISO-Prolog tests[permanent dead link]
+11,LPA-PROLOG,Windows,Commercial,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Edinburgh Prolog with extensions
+12,Open Prolog,Mac OS,Freeware,,,,,,,,,,Yes,,
+13,Poplog Prolog,"Linux (32- and 64-bit), Unix, Windows",Free Open Source,"Only through POP-11, on Linux",Yes,,,Yes,Yes,Yes,,Yes,Yes,,"Edinburgh Prolog, with interfaces to Poplog Common Lisp and Pop-11"
+14,SICStus Prolog,"Unix, Linux, Windows, macOS",Commercial,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,ISO-Prolog
+15,Strawberry Prolog,"Windows, Unix","Freeware, Commercial",Yes,Yes,Yes,,,Yes,,,,Yes,,Not ISO-Prolog + extensions
+16,SWI-Prolog,"Unix, Linux, Windows, macOS",BSD License,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"ISO-Prolog, Edinburgh Prolog"
+17,tuProlog,"JVM, Android",LGPL,Yes,,Yes,,,,Yes,Yes,Yes,Yes,,ISO-Prolog
+18,Visual Prolog,Windows,"Freeware, Commercial",Yes,Yes,Yes,Yes,Yes,Yes,Yes,,,Yes,Yes,
+19,XSB Prolog,"Linux, Windows, Solaris, macOS",LGPL,,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"ISO-Prolog, tabled WFS"
+20,YAP-Prolog,"Linux, Windows, Solaris, Mac OS X, HP-UX",GPL or Artistic (user choice),,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,,"Edinburgh, ISO-Prolog, Quintus and SICStus Prolog compatible"

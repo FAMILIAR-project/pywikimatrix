@@ -1,0 +1,14 @@
+,Unnamed: 0,Native UTF-16 support[Note 1],Native UTF-8 support[Note 1],Multi-line matching,Partial match[Note 2]
+0,Boost.Regex,No,No,Yes,Yes
+1,GLib/GRegex,Yes,Yes,Yes,Yes
+2,Helios RXPF,Yes,Yes,No,Yes
+3,ICU Regex,Yes,No,Yes,?
+4,Java,No,Partial[Note 3],Yes,Yes
+5,.NET,No[Note 4],Yes,Yes,?
+6,PCRE,Yes[Note 5],Yes,Yes,Yes
+7,Qt/QRegExp,Yes,No,No,?
+8,Tcl,Yes,Yes[Note 6],Yes,?
+9,TRE,No,?,Yes,?
+10,RGX,No,No,Yes,?
+11,wxWdigets::wxRegEx[Note 7],Yes,Yes,Yes,?
+12,XRegExp,Yes,?,Yes,?

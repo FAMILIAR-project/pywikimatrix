@@ -1,0 +1,9 @@
+,Unnamed: 0,Windows,macOS,Linux,BSD,Unix,DOS,Android
+0,ALGLIB,Yes,Yes,Yes,Yes,Yes,No,Yes
+1,GNU Scientific Library,Yes,Yes,Yes,Yes,Yes,No,Yes
+2,ILNumerics,Yes,Yes,Yes,Yes,Yes,No,No
+3,IMSL Numerical Libraries,Yes,Yes,Yes,No,Yes,No,No
+4,Math.NET Numerics,Yes,Yes,Yes,Yes,Yes,No,No
+5,NAG Numerical Library,Yes,Yes,Yes,No,Yes,Yes,No
+6,NMath,Yes,No,No,No,No,No,No
+7,SciPy (Python packages),Yes,Yes,Yes,Yes,Yes,Yes,No

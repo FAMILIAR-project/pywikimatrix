@@ -1,0 +1,7 @@
+,Reference types,Java,C#
+0,Garbage collection,Yes,Yes
+1,Weak references,Yes,Yes
+2,Reference queue (interaction with garbage collection),Yes,Yes
+3,Soft references,Yes,Yes
+4,Phantom references,Yes,No
+5,Proxy support,Yes; proxy generation,Yes; object contexts

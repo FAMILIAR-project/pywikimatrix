@@ -1,0 +1,21 @@
+,IDE,Developer,Latest stable release,Platform,License,Autocomplete,Debugger,Refactoring support,VCS Support
+0,Adobe Dreamweaver,Adobe Systems,-,Cross-platform,Proprietary,Yes,No,No,No
+1,Aptana Studio,"Aptana, Inc.","December 2013, 3.5.0",Cross-platform,"GPL, proprietary",Yes,Yes,No,via plugins
+2,CodeLite,CodeLite,"October 2015, 9.0",Cross-platform,GPL,Yes,Yes,No,"Git, SVN"
+3,Codelobster,Codelobster,"March 2018, 5.14.5",Windows,Proprietary,Yes,Yes,No,via plugins
+4,Eclipse Che,Eclipse Foundation / Zend,"4.7 / September 2, 2016",Cross-platform,EPL,Yes,Yes,Yes,Unknown
+5,Eclipse PDT,Eclipse Foundation / Zend,"5.2 / December 20, 2017","Windows, Linux, macOS, FreeBSD, JVM, Solaris",EPL,Yes,Yes,Yes,"CVS, Git, Mercurial, SVN (via plugins)"
+6,Geany,Geany Team,"1.27 / March 13, 2016","Windows, Linux, macOS, FreeBSD, AIX, OpenBSD, Solaris, other Unix",GPL,Yes,No,No,via plugins
+7,HTML-Kit,Chami.com,292,Windows (all),Proprietary,Unknown,No,Unknown,Unknown
+8,HyperEdit,Jonathan Deutsch / Tumult,"1.6 / April 30, 2008",macOS,Proprietary,Yes,No,No,No
+9,KDevelop,KDE KDevelop Team,"5.2.3 (November 24, 2017; 2 years ago) [±]",Cross-platform,GPL,Yes,No,Unknown,"CVS, Git, SVN"
+10,Komodo IDE / Edit,ActiveState,10.0.1 (June 2016),Cross-platform,Proprietary,Yes,Yes,Yes,"Bazaar, CVS, Git, Mercurial, Perforce, SVN"
+11,NetBeans,Sun Microsystems / Oracle,"9.0 / July 29, 2018; 16 months ago[37]",Cross-platform on Netbeans,"CDDL, GPL",Yes,Yes,Yes,"CVS, Git, Mercurial, SVN"
+12,PHPEclipse (Eclipse),PHPEclipse project team,1.2.2 / September 2009,"Windows, Linux, macOS, FreeBSD, JVM, Solaris",CPL,Yes,Yes,Unknown,Unknown
+13,PhpED Professional,NuSphere Corporation,"19.111 / May, 2019",Windows,Proprietary,Yes,Yes,Unknown,"CVS, SVN, any other Windows-shell integrated"
+14,PHPEdit,WaterProof SARL,"3.6.4 (April 9, 2010; 9 years ago) [±]",Windows,Proprietary,Yes,Yes,No,"CVS, SVN"
+15,PhpStorm (IntelliJ IDEA),JetBrains,2019.1 / 28 March 2019,"Windows, Linux, macOS, FreeBSD, OpenBSD, Solaris",Proprietary,Yes,Yes,Yes,"CVS, Git, Mercurial, Perforce, SVN"
+16,Quanta Plus,KDE Web Dev Team,"3.5.8 / October 16, 2007",Linux,GPL,Unknown,No,Unknown,Unknown
+17,RadPHP (formerly Delphi for PHP),Embarcadero Technologies,"XE2 / August 30, 2011",Windows,Proprietary,Yes,Yes,Yes,Unknown
+18,SlickEdit,SlickEdit,October 2016,"Windows, Linux, macOS, AIX, HP-UX, Solaris",Proprietary,Yes,Yes,No,Yes
+19,Zend Studio,Zend,10.6 / February 2014,Cross-platform,Proprietary,Yes,Yes,Yes,"CVS, Git, SVN, others (via plugins)"

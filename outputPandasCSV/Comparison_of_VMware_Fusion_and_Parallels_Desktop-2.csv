@@ -1,0 +1,7 @@
+,Requirement,Product,Product.1
+0,Requirement,VMware Fusion 4.0,Parallels Desktop 15
+1,Host OS,Mac OS X 10.6.7 or later; Mac OS X 10.7 recommended,Mac OS X 10.6.8 or later; Mac OS X 10.7.5 or later; Mac OS X 10.8.4 or later; Mac OS X 10.9 or later
+2,Processor,,"Intel Core i5, Core i7, Core i9 or Xeon processor"
+3,RAM,2 GB (4 GB Recommended),4 GB Recommended
+4,Disk space for product,750 MB,500 MB for Parallels Desktop application installation Additional disk space for the guest operating system (at least 16 GB is required for Windows 10)
+5,Graphics,,"Intel, AMD Radeon or NVIDIA"

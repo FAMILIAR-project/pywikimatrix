@@ -1,0 +1,25 @@
+,Shell,String processing,Alternation (Brace expansion),Pattern matching (regular expressions built-in),Pattern matching (filename globbing),Globbing qualifiers (filename generation based on file attributes),Recursive globbing (generating files from any level of subdirectories)
+0,Bourne shell 1977 version,?,No,No,"Yes (*, ?, [...])",No,No
+1,Bourne shell recent version,Partial (prefix and suffix stripping in variable expansion),No,No,"Yes (*, ?, [...])",No,No
+2,POSIX shell,Partial (prefix and suffix stripping in variable expansion),No,No,"Yes (*, ?, [...])",No,No
+3,bash (v4.0),Partial (prefix and suffix stripping in variable expansion),Yes,Yes,"Yes (*, ?, [...], {...})",No,Yes (**/...)
+4,csh,Yes (:s and other editing operators),Yes,No,Yes,No,No
+5,tcsh,Yes (:s and other editing operators),Yes,Yes,Yes,No,No
+6,Hamilton C shell,"Yes (:s and other editing operators + substr, strlen, strindex, printf, reverse, upper, lower, concat and other builtin functions)",Yes,No,Yes,No,"Yes (via indefinite directory ""..."" wildcard[48])"
+7,Scsh,?,?,Yes,Yes,No,No
+8,ksh (ksh93t+),"Partial (prefix, suffix stripping and string replacement in variable expansion)",Yes[49],Yes,"Yes (*, ?, [...])",No,"Yes (with set -G, no following of symlinks)"
+9,pdksh,?,Yes[49],No,Yes,No,No
+10,zsh,"Yes (through variable processing: e.g. substring extraction, various transformations via parameter expansion)",Yes,Yes,"Yes (*, ?, [...], extended globbing[50])",Yes,Yes (**/... or ***/... to follow symlinks)
+11,ash,?,?,No,Yes,No,No
+12,CCP,No,No,No,No,No,No
+13,COMMAND.COM,No,No,No,"Yes (*, ?)",No,No
+14,OS/2 CMD.EXE,No,No,No,"Yes (*, ?)",Partial (only in DIR /A:... command),No
+15,Windows CMD.EXE,Partial (only through FOR /F and SET /A),No,No[nb 17],"Yes (*, ?)",Partial (only in DIR /A:... command),"Yes (via FOR /R command, or, where available, indirectly via /S subdir option)"
+16,4DOS,"Yes (through variable functions %@...[], extended environment variable processing, various string commands and FOR /F and SET /A)",No,No,"Yes (*, ?, [...], extended wildcards, SELECT popup command)","Yes (via /A:... attribute and /I""..."" description options and /[S...] size, /[T...] time, /[D...] date, and /[!...] file exclusion ranges)","Yes (via FOR /R command, or indirectly via GLOBAL command or, where available, /S subdir option)"
+17,4OS2,?,No,No,?,?,?
+18,TCC (formerly 4NT),"Yes (through variable functions %@...[], extended environment variable processing, various string commands and FOR /F and SET /A)",No,Yes,"Yes (*, ?, [...], extended wildcards, SELECT popup command)","Yes (via /A:... attribute and /I""..."" description options and /[S...] size, /[T...] time, /[D...] date, /[O...] owner, and /[!...] file exclusion ranges)","Yes (via FOR /R command, or indirectly via GLOBAL command or, where available, /S subdir option)"
+19,PowerShell,"Yes (Concat/Substring/Insert/Remove/Replace, ToLower/ToUpper, Trim/TrimStart/TrimEnd, Compare, Contains/StartsWith/EndWith, Format, IndexOf/LastIndexOf, Pad/PadLeft/PadRight, Split/Join, regular expression functions and other .NET string functions)",No,Yes (full regex support)[nb 18],"Yes (*, ?, [...])",?,?
+20,rc,?,?,No,Yes,No,No
+21,BeanShell,?,?,Yes,?,?,?
+22,VMS DCL,Yes,No,No,Yes,No,Yes (via [SUBDIR...])
+23,fish,Yes (builtin string function),Yes,yes (via builtin string match and string replace functions),"Yes (*, ?, {...})",No,Yes (**/...)

@@ -1,0 +1,29 @@
+,Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)
+0,AIMP,No,via Plugins,Yes,Yes,Yes,Yes,via Plugins,No
+1,Amarok,Partial[featurenotes 1],Yes,Partial[featurenotes 2],Yes,Yes,Yes,Yes,Yes
+2,Audacious,No,No,Yes,No,Yes,Yes,Yes,No
+3,Audion,No,No,Yes,No,?,Yes,?,No
+4,cmus,No,No,Yes,Yes,Yes,No,Yes,No
+5,Cog,No,No,No,No,Yes,No,Yes,No
+6,Clementine,No,No,No,Yes,Yes,Yes,Yes,Yes
+7,Exaile,No,?,No,Yes,Yes,No,Yes[16],Yes
+8,foobar2000,No,Partial[a],Yes[featurenotes 3],Yes,Yes,Yes,Partial[a],Yes
+9,iTunes,Yes,Yes,Partial[a],Yes,Yes,Yes,Yes,Yes
+10,JRiver Media Center,Yes,via Plugins,Yes,Yes,Yes,Yes,via Plugins,Yes
+11,JuK,No,No,No,Yes,No,No,Yes[featurenotes 4],?
+12,MediaMonkey,Yes,Partial[a],Yes,Yes,Yes,Yes,Partial[a],Yes
+13,MPXPLAY,Yes (with MMC v2.00a),?,text-interface,Yes,Yes,Yes,Yes (also LCD ability),?
+14,Music Player Daemon,No,Yes,Client dependent,Yes,Yes,Client dependent,Yes,Client dependent
+15,MusicBee,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+16,Musicmatch Jukebox,No,No,Yes,Yes,?,Yes,Yes,?
+17,musikCube,No,No,No,Yes,No,Partial[a],?,Yes
+18,Quod Libet,No,No,No,Yes,Yes,No,Yes,Yes
+19,Rhapsody,No,No,No,Yes,?,No,?,?
+20,Rhythmbox,No,No,No,Yes,Yes,Yes,Yes,Yes
+21,Sonique,Partial[a],No,Yes,No,No,Yes,?,No
+22,Spotify,Yes,?,No,No,Yes,No,Yes (via app),No
+23,Winamp,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+24,XMMS,Partial[a],Partial[a],Yes,No,Partial[a],Yes,Yes,No
+25,XMPlay,Partial[a],Partial[a],Yes,No,Yes,Yes,No,No
+26,Zinf,No,No,Yes,Yes,?,No,?,?
+27,Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)

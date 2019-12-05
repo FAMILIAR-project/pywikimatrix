@@ -1,0 +1,35 @@
+,Format,Languages
+0,UCase(string),VB
+1,ucase(string),FreeBASIC
+2,toupper(string),AWK (changes string)
+3,uc(string),"Perl, Raku"
+4,string.uc,Raku
+5,toupper(char),C (operates on one character)
+6,"for(size_t i = 0, len = strlen(string); i< len; i++) string[i] = toupper(string[i]);for (char *c = string; *c != '\0'; c++) *c = toupper(*c);",C (string / char array)
+7,std.string.toUpper(string),D
+8,"transform(string.begin(), string.end(), result.begin(), toupper)[20]",C++[32]
+9,uppercase(string),Object Pascal (Delphi)
+10,upcase(char),Object Pascal (Delphi) (operates on one character)
+11,strtoupper(string),PHP
+12,upper(string),Seed7
+13,"echo ""string"" | tr 'a-z' 'A-Z'",Unix
+14,"translate(string), or UPPER variables, or PARSE UPPER VAR SrcVar DstVar",Rexx
+15,string.upper(),Python
+16,upcase(string),Pick Basic
+17,string.upcase,Ruby [22]
+18,strings.ToUpper(string),Go
+19,(string-upcase string),"Scheme, Common Lisp"
+20,String.uppercase string,OCaml
+21,String.map Char.toUpper string,Standard ML
+22,map Char.toUpper string,Haskell
+23,string.toUpperCase(),"Java, JavaScript"
+24,to_upper(string),Erlang
+25,string.ToUpper(),"VB .NET, C#, Windows PowerShell, F#"
+26,string.uppercaseString,"Objective-C (NSString * only), Swift (Foundation)"
+27,string.upper(string) (string):upper(),Lua
+28,string asUppercase,Smalltalk
+29,UPPER(string),SQL
+30,ToUpperCase[string],Mathematica
+31,«FUNCTION» UPPER-CASE(string),COBOL
+32,string.toUpper,Cobra
+33,string toupper string,Tcl

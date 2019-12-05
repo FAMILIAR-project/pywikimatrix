@@ -1,0 +1,18 @@
+,OLAP server,MOLAP,ROLAP,HOLAP,Offline
+0,Apache Kylin,Yes,No,No,Yes
+1,Druid,Yes,Yes,Yes,Yes
+2,Apache Pinot (Incubating),Yes,Yes,Yes,Yes
+3,Essbase,Yes,No,No,
+4,IBM Cognos BI,Yes,Yes,Yes,
+5,IBM Cognos TM1,Yes,No,No,Cognos Insight Distributed mode
+6,icCube,Yes,No,No,Offline Cubes
+7,Infor BI OLAP Server,Yes,No,No,Local cubes
+8,Jedox OLAP Server,Yes,No,No,No
+9,Kyligence,Yes,Yes,Yes,Yes
+10,Kyvos,Yes,Yes,Yes,Yes
+11,Microsoft Analysis Services,Yes,Yes,Yes,"Local cubes, PowerPivot for Excel,Power BI Desktop"
+12,MicroStrategy Intelligence Server,Yes,Yes,Yes,"MicroStrategy Office, Dynamic Dashboards"
+13,Mondrian OLAP server,No,Yes,No,
+14,Oracle Database OLAP Option,No,Yes,No,
+15,SAP NetWeaver BW,Yes,Yes,No,
+16,SAS OLAP Server,Yes,Yes,Yes,

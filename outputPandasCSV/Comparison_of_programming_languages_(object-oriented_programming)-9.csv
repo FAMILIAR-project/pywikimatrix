@@ -1,0 +1,20 @@
+,Unnamed: 0,read-write,read-only,write-only
+0,ABAP Objects,,,
+1,C++ (STL),type& operator[](type index) { instructions },type operator[](type index) { instructions },
+2,C#,type this[type index] { get{ instructions } set{ instructions } },type this[type index] { get{ instructions } },type this[type index] { set{ instructions } }
+3,D,"type opIndex(type index) { instructions } type opIndexAssign(type value, type index) { instructions }",type opIndex(type index) { instructions },"type opIndexAssign(type value, type index) { instructions }"
+4,Java,,,
+5,Objective-C (recent Clang compiler),,- (id)objectAtIndexedSubscript:(NSUInteger)index { instructions return value; } or- (id)objectForKeyedSubscript:(id)index { instructions return value; },- (void)setObject:(id)value atIndexedSubscript:(NSUInteger)index { instructions } or- (void)setObject:(id)value forKeyedSubscript:(id)index { instructions }
+6,Swift,subscript (index : type) -> returntype { get { instructions } set«(newIndex)» { instructions } },subscript (index : type) -> returntype { instructions },
+7,Eiffel[35],"bracket_name alias ""[]"" (index: TYPE): TYPE assign set_item do instructions end set_item (value: TYPE; index: TYPE): do instructions end","bracket_name alias ""[]"" (index: TYPE): TYPE do instructions end",
+8,Python,"def __getitem__(self, index): Tab ↹ instructions Tab ↹ return value def __setitem__(self, index, value): Tab ↹ instructions","def __getitem__(self, index): Tab ↹ instructions Tab ↹ return value","def __setitem__(self, index, value): Tab ↹ instructions"
+9,Visual Basic .NET,Default Property Item(Index As type) As type Get instructions End Get Set(ByVal Value As type) instructions End Set End Property,Default ReadOnly Property Item(Index As type) As type Get instructions End Get End Property,Default WriteOnly Property Item(Index As type) As type Set(ByVal Value As type) instructions End Set End Property
+10,PHP,[37],[37],[37]
+11,Perl,[38],[38],[38]
+12,Raku,«our «type »»«multi »method postcircumfix:<[ ]> is rw («$self: » type $index) { instructions ... return value; } or «our «type »»«multi »method postcircumfix:<{ }> is rw («$self: » type $key) { instructions ... return value; },«our «type »»«multi »method postcircumfix:<[ ]>(«$self: » type $index) { instructions ... return value; } or «our «type »»«multi »method postcircumfix:<{ }> («$self: » type $key) { instructions ... return value; },
+13,Ruby,"def [](index) instructions expression resulting in return value end def []=(index, value) instructions end",def [](index) instructions expression resulting in return value end,"def []=(index, value) instructions end"
+14,Windows PowerShell,,,
+15,OCaml,,,
+16,F#,member this.Item with get(index) = expression and set index value = expression,member this.Item with get(index) = expression,member this.Item with set index value = expression
+17,COBOL,,,
+18,Cobra,pro[index «as type»] as typeTab ↹ getTab ↹Tab ↹ instructionsTab ↹Tab ↹ return valueTab ↹ setTab ↹Tab ↹ instructions,get[index «as type»] as typeTab ↹ instructionsTab ↹ return value,set[index «as type»] as typeTab ↹ instructions

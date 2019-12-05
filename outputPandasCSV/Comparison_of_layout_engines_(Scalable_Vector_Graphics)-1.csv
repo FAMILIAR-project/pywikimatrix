@@ -1,0 +1,9 @@
+,Value,Meaning
+0,Yes,Fully supported
+1,No,Has never been supported
+2,Partial,Only some values are supported
+3,Incorrect,Not implemented correctly in all cases
+4,Experimental,May be incomplete or buggy
+5,Nightly build,Currently in development; full support is expected
+6,Depends,Only supported for the specified conditions
+7,Dropped,No longer supported

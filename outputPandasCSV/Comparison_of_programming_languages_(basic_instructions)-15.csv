@@ -1,0 +1,32 @@
+,Unnamed: 0,Argument values,Argument counts,Program name / Script name
+0,Ada[1],Argument (n),Argument_Count,Command_Name
+1,C (C99),argv[n],argc,first argument
+2,Objective-C,argv[n],argc,first argument
+3,C++,argv[n],argc,first argument
+4,C#,args[n],args.Length,Assembly.GetEntryAssembly().Location;
+5,Java,args[n],args.length,
+6,D,args[n],args.length,first argument
+7,JavaScript Windows Script Host implementation,WScript.Arguments(n),WScript.Arguments.length,WScript.ScriptName or WScript.ScriptFullName
+8,Go,os.Args[n],len(os.Args),first argument
+9,Swift,Process.arguments[n] or Process.unsafeArgv[n],Process.arguments.count or Process.argc,first argument
+10,Common Lisp,?,?,?
+11,Scheme (R6RS),(list-ref (command-line) n),(length (command-line)),first argument
+12,ISLISP,,,
+13,Pascal,ParamStr(n),ParamCount,first argument
+14,Visual Basic,Command[a],,App.Path
+15,Visual Basic .NET,CmdArgs(n),CmdArgs.Length,[Assembly].GetEntryAssembly().Location
+16,Xojo,System.CommandLine,(string parsing),Application.ExecutableFile.Name
+17,Python,sys.argv[n],len(sys.argv),first argument
+18,S-Lang,__argv[n],__argc,first argument
+19,Fortran,"DO i = 1,argc CALL GET_COMMAND_ARGUMENT (i,argv(i)) ENDDO",argc = COMMAND_ARGUMENT_COUNT (),"CALL GET_COMMAND_ARGUMENT (0,progname)"
+20,PHP,$argv[n],$argc,first argument
+21,Bash shell,"$n ($1, $2, $3, ...)$@ (all arguments)",$#,$0
+22,Perl,$ARGV[n],scalar(@ARGV),$0
+23,Raku,@*ARGS[n],@*ARGS.elems,$PROGRAM_NAME
+24,Ruby,ARGV[n],ARGV.size,$0
+25,Windows PowerShell,$args[n],$args.Length,$MyInvocation.MyCommand.Name
+26,OCaml,Sys.argv.(n),Array.length Sys.argv,first argument
+27,F#,args.[n],args.Length,Assembly.GetEntryAssembly().Location
+28,Standard ML,"List.nth (CommandLine.arguments (), n)",length (CommandLine.arguments ()),CommandLine.name ()
+29,Haskell (GHC),do { args <- System.getArgs; return length args !! n},do { args <- System.getArgs; return length args},System.getProgName
+30,COBOL,[b],[b],

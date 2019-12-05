@@ -1,0 +1,7 @@
+,Unnamed: 0,Trident,edgeHTML,Gecko,WebKit,Presto
+0,Ogg Vorbis,Manual install[note 12],,1.9.1[g 101],Depends[note 13],2.5
+1,WAV PCM,Manual install[note 12],,1.9.1[g 101],525[note 13],2.0
+2,MP3,5.0[t 47],,No[g 105],525[note 13],Depends[note 14]
+3,AAC,5.0[t 47],,No,525[note 13],Depends[note 14]
+4,Speex,Manual install[note 12],,No[g 106],Depends[note 13],No
+5,Opus,No,Yes[50],15.0[g 107],Depends[note 13],No

@@ -1,0 +1,37 @@
+,Brand,Model,Introduced,Discontinued,Speeds(external),Gear width(with external),Ebike Max Power,Max Torque,Direct Drive,Weight (excludingauxiliary components),Intendedpurpose
+0,Brompton,BSR (fork from Sturmey Archer),,,3,178%,,,,? g,City
+1,Brompton,BWR[1][2],2009.0,,3(x2),246% (302%),,,,940 g,City
+2,Enviolo,City,2019.0,,continuous,310%,250 w,50 Nm,,?,City
+3,Enviolo,Trekking,2019.0,,continuous,380%,250 w,75 Nm,,?,City/Trekking
+4,Enviolo,Sportive,2019.0,,continuous,380%,500 w,120 Nm,,?,City/Trekking/Sport
+5,Enviolo,Cargo,2019.0,,continuous,380%,500 w,80 Nm,,?,City/Cargo
+6,Enviolo,Commercial,2019.0,,continuous,310%,250 w,50 Nm,,?,City
+7,Fallbrook (Enviolo),NuVinci N380,2015.0,2018,continuous,380%,,,,2450 g[3],City
+8,Fallbrook (Enviolo),NuVinci N360,2010.0,2014,continuous,360%,,,,2450 g[4],City
+9,Fallbrook (Enviolo),Nuvinci N330,2015.0,2018,continuous,330%,,,,2450 g[4],City
+10,Fallbrook (Enviolo),NuVinci N171,2007.0,2010,continuous,350%,,,,3850–3950 g,City
+11,Kindernay,XIV,2016.0,,14,543%[5],,100 Nm[6],,1400g[5],Sport
+12,Rohloff AG,Speedhub 500/14,1998.0,,14,526%,,,11th gear,1700-1825 g[7],"Sport, Touring"
+13,Shimano,Alfine SG-700,2010.0,,11,409%,,,,1600-1744 g[8][9][10],"City, Sport"
+14,Shimano,Alfine SG-500,2006.0,,8,307%,,,,1600 g,City
+15,Shimano,Nexus Inter-8,,,8,307%,,,5th gear,1550-2040 g,City
+16,Shimano,Nexus Inter-7,1995.0,,7,244%,,,,1465-1860 g,City
+17,Shimano,Nexus 4 Speed,,,4,184%,,,1st gear,,City
+18,Shimano,Nexus Inter-3,,,3,187%,,,2nd gear,1220 g,City
+19,SRAM (Sachs),Spectro E12 (Elan),1995.0,1999,12,339%,,,,3500-4000 g,City
+20,SRAM,i-Motion 9,2005.0,2012,9,340%,,,,2000g (wo brake)-2400g (with coaster brake),City
+21,SRAM,G8,2012.0,2015,8,260%,,,,2180 [11],City
+22,SRAM,G9,2014.0,2015,9,292%,,,,,"City, Sport"
+23,SRAM (Sachs),Spectro S7 (Super 7),1993.0,2010,7,303% (Super 7: 284%),,,,1645-1826 g,City
+24,SRAM (Sachs),"Spectro P5 (Pentasport),[12] P5 Cargo",1987.0,2010? [13],5,224-251%,,,,,City
+25,SRAM (Sachs),Spectro T3/i-Motion 3/Torpedo Dreigang[12],1987.0,,3,187%,,,2nd gear,,City
+26,SRAM (Sachs),Neos/Spectro 3x7,1994.0,2000[14],3(x7),186% (434%) [15],,,,,City
+27,SRAM (Sachs),Torpedo Duomatic/Automatic,,,2,136%,,,,,City
+28,Sturmey Archer,"XRF-8 (W), XRK-8 (W), XRD-8 (W)",2014.0,,8,325%,,,1st Gear,1770-2170 g,City/Folding
+29,Sturmey Archer,"XRF-8, X-R[F/D/K]8",2007.0,2013,8,305%,,,1st Gear,1480-1600 g,City
+30,Sturmey Archer,"RX-RF5, RX-RD5, RX-RK5, RX-RC5, RXL-RD5, TS-RF5",2017.0,,5,243%,,,3rd Gear,1905-2412 g,City
+31,Sturmey Archer,"S5,AT5,SAB,Sprinter-5,[S/X/XL]-R[C/D/F/K]5",1966.0,,5,225-256%,,,,1200-1760 g,City
+32,Sturmey Archer,"X-RF4, X-RK4, X-RD4",2018.0,,4,210%,,,1st Gear,1160-1630 g,City/Folding
+33,Sturmey Archer,F[C/M/G/W],1935.0,1970,4,134-160%,,,,? g,City
+34,Sturmey Archer,"A[BC/T3],AW[C],S[C3/SAB],[S/X/XL]-R[F/S/F]3,SEARS 503.21",1933.0,,3,178%,,,,1000-1380 g,City
+35,Sturmey Archer,[S/B]2[C] Duomatic[16],2010.0,,2,138%,,,,930-1400 g,City

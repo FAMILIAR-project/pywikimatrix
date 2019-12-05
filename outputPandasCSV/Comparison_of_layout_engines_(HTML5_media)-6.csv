@@ -1,0 +1,14 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Basic table elements,Basic table elements,Basic table elements,Basic table elements,Basic table elements,Basic table elements
+1,table,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+2,caption,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+3,tr,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+4,th,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+5,td,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+6,Row groups,Row groups,Row groups,Row groups,Row groups,Row groups
+7,thead,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+8,tbody,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+9,tfoot,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+10,Column groups,Column groups,Column groups,Column groups,Column groups,Column groups
+11,colgroup,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+12,col,<3.1[IE 4.0],1.0,Yes,Yes,1.0

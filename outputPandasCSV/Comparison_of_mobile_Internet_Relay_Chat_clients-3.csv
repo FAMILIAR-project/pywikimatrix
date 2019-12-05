@@ -1,0 +1,13 @@
+,Client,CTCP,DCC,IPv6,SSL,TLS,OCSP,CRL
+0,AndroidChat,No,No,No,No,No,No,No
+1,Mobile Colloquy,Yes[citation needed],No[citation needed],Yes[citation needed],Yes[citation needed],Yes[citation needed],No[citation needed],No[citation needed]
+2,fIRC,?,?,?,?,?,?,?
+3,jmIrc,Yes,No,No,No,No,No,No
+4,k-IRC,Yes,No,No,No,No,No,No
+5,Virca,?,?,?,?,?,?,?
+6,wIRC,Yes,Yes,No,Yes,Yes,?,?
+7,WLIrc,Yes,Yes,?,No,No,No,?
+8,Yaaic,No[5],?,?,Yes,Yes,?,?
+9,Simple IRC,Yes,Yes,?,Yes,Yes,?,?
+10,zsIRC,Yes,No,No,Yes,Yes,No,No
+11,Client,CTCP,DCC,IPv6,SSL,TLS,OCSP,CRL

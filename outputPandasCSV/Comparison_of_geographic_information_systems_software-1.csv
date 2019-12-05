@@ -1,0 +1,42 @@
+,GIS software,Free software,Open source,Windows,Mac OS X,Linux,BSD,Unix,Web,Other
+0,ArcGIS,Viewer(s),No,Yes,Yes,Yes,Yes,Yes,Yes,"Google Earth Plugin, KML, WMS"
+1,Autodesk,Viewer(s),No,Yes,No,Yes,No,No,Yes,No
+2,Cadcorp,Viewer(s),No,Yes,No,No,No,No,Yes,No
+3,CAPAWARE,Yes,Yes,Yes,No,No,No,No,No,No
+4,Chameleon,Yes,Yes,Yes,Yes,Yes,Yes,Yes,AMP,No
+5,Deegree,Yes,Yes,Java,Java,Java,Java,Java,Yes,No
+6,Erdas Imagine,Viewers & Plug-ins,No,Yes,No,No,No,No,Yes,No
+7,GeoBase - Telogis,Trial,No,Yes,No,Yes,Yes,No,Yes,"Traffic, WMS, ADAS, Routing"
+8,GeoNetwork,Yes,Yes,Java,Java,Java,Java,Java,Yes,No
+9,GeoServer,Yes,Yes,Java,Java,Java,Java,Java,Java,No
+10,GeoTools,Yes,Yes,Java,Java,Java,Java,Java,No,No
+11,GRASS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,via pyWPS[1],No
+12,gvSIG,Yes,Yes,Java,Java,Java,Java,Java,No,No
+13,IDRISI,No,No,Yes,No,No,No,No,No,No
+14,"JViews Maps (By Rogue Wave, formerly ILOG)",Viewer(s),No,Java,Java,Java,Java,Java,Java & DHTML/Ajax,Live/active symbol overlays
+15,ILWIS,Yes,Yes,Yes,No,No,No,No,No,No
+16,GeoMedia,Viewer(s),No,Yes,No,No,No,CLIX,Yes,KML
+17,JUMP GIS,Yes,Yes,Java,Java,Java,Java,Java,No,No
+18,Kosmo,Yes,Yes,Java,Java,Java,Java,Java,No,No
+19,LandSerf,No,No,Java,Java,Java,Java,Java,No,No
+20,MapDotNet,No,No,Yes,No,No,No,No,Yes,
+21,Manifold System,No,No,Yes,No,No,No,No,Yes,No
+22,Microsoft MapPoint,Discontinued,No,Yes,No,No,No,No,Yes,No
+23,Pitney Bowes MapInfo Pro,Viewer(s),No,Yes,No,No,No,Yes,Yes,No
+24,MapServer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,AMP,No
+25,Maptitude Caliper software,No,No,Yes,No,No,No,No,Yes,No
+26,MapWindow GIS,Yes,Yes,Yes,No,No,No,No,No,No
+27,Oracle Spatial,No,No,Yes,Yes,Yes,No,Yes,Yes,No
+28,PostGIS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+29,QGIS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Google Earth Plugin, KML, WMS"
+30,RegioGraph,No,No,Yes,No,No,No,No,No,No
+31,RemoteView,No,No,Yes,No,No,No,No,No,No
+32,SAGA GIS,Yes,Yes,Yes,Yes,Yes,Yes,No,No,KLM
+33,SAP HANA,Free Trial,No,No,No,Yes,No,No,Yes,No
+34,Smallworld,No,Yes,Yes,No,Yes,No,Yes,Read-only,"OLE, XML, Multiuser, Utility Data Model, Data Translator export/import"
+35,SPRING,Yes,Yes,Yes,No,Yes,No,Solaris,No,No
+36,TerraLib TerraView,Yes,Yes,Yes,No,Yes,No,No,No,No
+37,TNTmips,Viewer(s),No,Yes,Yes,Yes,No,Yes,No,No
+38,TransModeler Caliper Software,No,No,Yes,No,No,No,No,No,No
+39,uDIG,Yes,Yes,Java,Java,Java,Java,Java,No,No
+40,GIS software,Free software,Open source,Windows,Mac OS X,Linux,BSD,Unix,Web,Other

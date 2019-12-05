@@ -1,0 +1,21 @@
+,Format,Languages,If not found
+0,"char in string(char, pos, string[startpos:])",ALGOL 68,"returns BOOL: TRUE or FALSE, and position in REF INT pos."
+1,"instr(string, any char«,startpos») (char, can contain more them one char, in which case the position of the first appearance of any of them is returned.)",FreeBASIC,returns 0
+2,"strchr(string,char)","C, C++ (char * only, returns pointer to character)",returns NULL
+3,"std.string.find(string, dchar)",D,returns −1
+4,"string.find(char«,startpos»)",C++ (STL),returns std::string::npos
+5,"pos(string, char«, startpos»)",Seed7,returns 0
+6,"strings.IndexRune(string,char)",Go,returns −1
+7,"string.indexOf(char«,startpos»)","Java, JavaScript",returns −1
+8,"string.IndexOf(char«,startpos«, charcount»»)","VB .NET, C#, Windows PowerShell, F#",returns −1
+9,(position char string),Common Lisp,returns NIL
+10,(char-index char string),ISLISP,returns nil
+11,List.elemIndex char string,Haskell (returns Just index),returns Nothing
+12,String.index string char,OCaml,raises Not_found
+13,"position = SCAN (string, set «, back» «, kind») or position = VERIFY (string, set «, back» «, kind»)[a]",Fortran,returns zero
+14,string indexOf: char ifAbsent: aBlock string indexOf: char string includes: char,Smalltalk,evaluate aBlock which is a BlockClosure (or any object understanding value) returns 0 returns true or false
+15,"index(string, char, startpos )",PL/I[10],returns 0 (positions start at 1)
+16,string.index(?char),Ruby,returns nil
+17,"strpos(string,char,startpos)",PHP,returns false
+18,"string.indexOf(char«,startpos«, charcount»»)",Cobra,returns −1
+19,string⍳char,APL,returns 1 + the last position in string

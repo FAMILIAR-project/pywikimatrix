@@ -1,0 +1,15 @@
+,Unnamed: 0,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+0,One-way street,,,,,,NOTUSED,,[note 1],,,,,,,,,,,,,,,,,,,,
+1,One-way street,,NOTUSED,,,,,NOTUSED,,,,,NOTUSED,,,,,NOTUSED,,,,,,,,NOTUSED,,,
+2,Pedestrian crossing,,,,,,,,,,,,,,,,,,,,,,,,or,[note 14],,,NOTUSED
+3,Advisory speed limit,NOTUSED,NOTUSED,,,,,,[note 1],,,NOTUSED,NOTUSED,,,,,NOTUSED,,,,,,,,NOTUSED,,,or (temporary)
+4,Lane ends,,,,,or [note 15],,,,,,,,,,,,,,,,,,,,,,,
+5,Road bump,,,,,,,,NOTUSED,,,,,NOTUSED,,,,,,,,,,,,NOTUSED,,,
+6,Residential area/Living street,,,,,,,,,,,,,,,,,,NOTUSED,,,,,,,or,,,
+7,Pedestrian zone,,,,,,,,,,,,,,,,,,NOTUSED,,(Russia) (Belarus),or,,,,or,,,
+8,Bus lane,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Limited-access road,,,,,NOTUSED,,,,,,NOTUSED,NOTUSED,,,,,,,,,,,,,,,,NOTUSED
+10,End of limited-access road,,,,,NOTUSED,,,,,,NOTUSED,NOTUSED,,,,,,,,,,,,,,,,NOTUSED
+11,Motorway,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,
+12,End of motorway,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,
+13,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom

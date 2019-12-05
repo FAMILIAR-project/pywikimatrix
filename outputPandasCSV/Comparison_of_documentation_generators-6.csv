@@ -1,0 +1,25 @@
+,Unnamed: 0,Text,Binary
+0,Ddoc,Yes,No
+1,Document! X,Yes,Yes
+2,Doxygen,Yes,No
+3,Epydoc,Yes,No
+4,Haddock,Yes,No
+5,HeaderDoc,Yes,No
+6,Imagix 4D,Yes,No
+7,Javadoc,Yes,No
+8,JSDoc,Yes,No
+9,JsDoc Toolkit,Yes,No
+10,mkd,Yes,No
+11,Natural Docs,Yes,No
+12,NDoc,No,Yes
+13,pdoc,Yes,No
+14,perldoc,Yes,No
+15,phpDocumentor,Yes,No
+16,pydoc,Yes,No
+17,RDoc,Yes,No
+18,ROBODoc,Yes,No
+19,Sphinx,Yes,No
+20,Visual Expert,Yes,Yes
+21,VSdocman,Yes,No
+22,YARD,Yes,No
+23,,Text,Binary

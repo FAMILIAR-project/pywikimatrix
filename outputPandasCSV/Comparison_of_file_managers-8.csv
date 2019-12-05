@@ -1,0 +1,34 @@
+,File manager,Filesystem support,Attribute columns,File previews,Metadata indexing,Unicode support,Visual Themes
+0,Altap Salamander,Yes,Yes,Yes,?,Partial,No
+1,Commander One,Yes,Yes,Yes,?,Yes,Yes
+2,CRAX Commander,Yes,Yes,Yes,?,Yes,Partial
+3,Directory Opus,Yes,Yes,Yes,Partial,Yes,Yes
+4,Dired,Yes,Yes,Yes,No,Yes,Yes
+5,Documents by Readdle,,,,,,
+6,Dolphin,Yes,No,Yes,Yes,Yes,?
+7,Double Commander,Yes,Yes,Yes,No,Yes[e 1],Partial[e 2]
+8,emelFM2,?,?,?,?,,?
+9,Far Manager,Yes,Yes,Yes,Partial,Yes[e 3],No
+10,Files (Apple),,,Yes,,Yes,
+11,Files by Google,,,,,,
+12,Finder,Yes,No,Yes,Yes,Yes[e 4],Partial[e 5]
+13,ForkLift,Yes,Yes,Yes,No,Yes,Yes
+14,Konqueror,Yes,No,Yes,Yes,Yes,Yes
+15,Krusader,Yes,No,Yes,Partial,,?
+16,Midnight Commander,Yes,No,No,No,Yes,No
+17,GNOME Files (Nautilus),Yes,?,Yes,?,Yes,?
+18,Nemo,?,?,?,?,?,?
+19,Nomad.NET,Yes,Yes,Yes,?,Yes,Yes
+20,Path Finder,?,?,?,?,,?
+21,PCManFM,Yes,Yes,Yes,No,Yes,No
+22,ROX-Filer,,No,Yes,No,,?
+23,Total Commander,Yes,Yes,Yes,Yes In search tool,Yes[e 1],Partial[e 2]
+24,Windows Explorer,Yes,Yes,Yes,Yes[105],Yes,Partial[e 5]
+25,Xandros File Manager,?,?,?,?,?,?
+26,Xfe,No,Partial,No,No,Partial,Partial[e 6]
+27,Xfile,?,?,?,?,?,?
+28,Xfm,?,?,?,?,?,?
+29,xplorer²,Yes,Yes,Yes,?,Yes,Yes
+30,XYplorer,Yes,Yes,Yes,?,Yes,Yes
+31,ZTreeWin,Yes,Yes,Yes,?,Yes,No
+32,File manager,Filesystem support,Attribute columns,File previews,Metadata indexing,Unicode support,Visual Themes

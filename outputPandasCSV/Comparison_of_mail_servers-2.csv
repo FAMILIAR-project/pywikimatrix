@@ -1,0 +1,35 @@
+,Mail server,SMTP AUTH,POP before SMTP,APOP,Filesystem,Database,LDAP,Other
+0,agorum core,Yes,No,No,No,Yes,Yes,"PLAIN, LOGIN, CRAM-MD5[23], NTLM"
+1,Apache James,Yes,?,?,?,Yes,Yes,"PLAIN, LOGIN"
+2,Axigen,Yes,No,Yes,No,No,Yes,"GSSAPI, CRAM-MD5[23], DIGEST-MD5[24], APOP, CLRTXT, LOGIN, PLAIN, LDAP, Internal"
+3,CommuniGate Pro,Yes,Yes,Yes,Yes,Yes,Yes,"Active Directory (LDAP), CLRTXT, CRAM-MD5[23], DIGEST-MD5[24], APOP, GSSAPI, NTLM, MSN, SESSIONID, External Authentication Plug-in. Also supports X.509 PKI auth via STARTTLS/SSL"
+4,Courier Mail Server,Yes,Yes,Yes,Yes,Yes,Yes,"Managed by Courier authentication library which can use PAM, Userdb, PostgreSQL(beta), MySQL, LDAP, and EXTERNAL."
+5,Cyrus IMAP,No,Yes,Yes,Yes,Yes,Yes,"Supports X.509 PKI auth via STARTTLS and EXTERNAL. Uses Cyrus SASL authentication library for support for other mechanisms: Berkeley DB, GDBM, or NDBM (sasldb), PAM, MySQL, PostgreSQL, SQLite, LDAP, Active Directory(LDAP), DCE, Kerberos 4 and 5, proxied IMAP auth, getpwent, shadow, SIA, Courier Authdaemon, httpform, APOP and SASL mechanisms: ANONYMOUS, CRAM-MD5[23], DIGEST-MD5[24], SCRAM-SHA-1(-PLUS), SCRAM-SHA-224(-PLUS), SCRAM-SHA-256(-PLUS), SCRAM-SHA-384(-PLUS), SCRAM-SHA-512(-PLUS), EXTERNAL, GSSAPI, LOGIN, NTLM, OTP, PASSDSS, PLAIN, SRP"
+6,Dovecot,Yes,Yes,Yes,Yes,Yes,Yes,"Submission service supports SMTP AUTH[5]. Offers SASL to MTAs.[25][26] POP-before-SMTP via DRAC plugin. PAM, MySQL, PostgreSQL, SQLite, LDAP, Active Directory(LDAP), Kerberos 5, proxied IMAP auth, getpwent, shadow, SIA, BSDauth, Vpopmail. APOP and SASL mechanisms: ANONYMOUS, PLAIN, LOGIN, CRAM-MD5[23], DIGEST-MD5[24], SCRAM-SHA-1, EXTERNAL, GSSAPI, NTLM, OTP, SKEY, RPA."
+7,Eudora Internet Mail Server,Yes,No,Yes,Yes,No,No,"CRAM-MD5[23], DIGEST-MD5[24], PLAIN, LOGIN"
+8,Exim,Yes,Yes,Yes,Yes,Yes,Yes,"Cyrus SASL, Dovecot SASL, GNU SASL, CRAM-MD5[23], Heimdal GSSAPI, PLAIN, LOGIN, SPA"
+9,FirstClass,Yes,?,?,Yes,Yes,Yes,
+10,Gordano Messaging Suite,Yes,Yes,Yes,No,Yes,Yes,"PLAIN, LOGIN, CRAM-MD5[23], DIGEST-MD5[24], APOP, ODBC, Active Directory, NT Domain"
+11,GroupWise,Yes,Yes,Yes,Yes,Yes,Yes,"eDirectory, Any LDAPv3-compliant source"
+12,Halon,Yes,No,No,Yes,Yes,Yes,"Many mechanism (SMTP callout, Dovecot SASL, REST, etc.) via script.[27]"
+13,Haraka,Yes,No,No,Yes,Yes,Yes,"Proxy to other server, any other mechanism via AUTH plugins."
+14,IceWarp Mail Server,Yes,Yes,Yes,Yes,Yes,Yes,"PLAIN, LOGIN, CRAM-MD5[23], NTLM"
+15,Ipswitch IMail Server,Yes,No,Yes,Yes,Yes,Yes,"Active Directory, Windows authentication, CRAM-MD5[23], PLAIN, LOGIN"
+16,Kolab,Yes,Yes,Yes,Yes,Yes,Yes,Kolab employs Cyrus and Postfix and thus supports all Cyrus SASL authentication methods and X.509 PKI auth via STARTTLS and EXTERNAL.
+17,Mailsite,Yes,No,Yes,Yes,Yes,Yes,"NT Domain, Active Directory, PLAIN, LOGIN, NTLM, SCRAM-MD5, CRAM-MD5[23]"
+18,Mailtraq,Yes,Yes,Yes,Yes,Yes,Yes,"NT Domain, Active Directory, Local Directory"
+19,Mercury Mail Transport System,Yes,Yes,Yes,Yes,No,?,"Internal, LOGIN, PLAIN, CRAM-MD5[23], Netware, LDAP?, partial NT Domain"
+20,Microsoft Exchange Server,Yes,?,Yes,No,No,Yes,"Active Directory, LOGIN,[28] NTLM"
+21,NetMail,Yes,Yes,Yes,Yes,Yes,Yes,"eDirectory, LDAP"
+22,Oracle Communications Messaging Server,Yes,Yes,Yes,Yes,Yes,Yes,"Plain, Login, CRAM-MD5[23], DIGEST-MD5[24], Certificate"
+23,OpenSMTPD,Yes,No,No,Yes,Yes,Yes,"By default PLAIN and LOGIN over SSL only, Certificates, bsd_auth and PAM. Supports adding new authentication mechanisms through custom backends."
+24,Postfix,Yes,No,No,Yes,Yes,Yes,Supports all Cyrus SASL authentication methods except for APOP.
+25,Qpopper,No,Yes,Yes,Yes,Yes,Yes,"Pluggable Authentication Modules, GSSAPI, CRAM-MD5[23], DIGEST-MD5[24], APOP, PLAIN, LDAP, CMU SASL library, Kerberos"
+26,qmail,with patch,with vpopmail,Yes,Yes,Yes,Yes,"Works with any checkpassword utility. The original supports only LOGIN and PLAIN. Alternate checkpassword utilities support authentication against PAM, LDAP, and databases."
+27,Scalix,Yes,?,Yes,Yes,Yes,Yes,"Internal, LOGIN, PLAIN, X.500 (DAP), LDAP, OpenLDAP, Active Directory, eDirectory, Kerberos, etc."
+28,Sendmail,Yes,Yes,No,Yes,Yes,Yes,Supports all Cyrus SASL authentication methods except for APOP. Also supports X.509 PKI auth via STARTTLS and EXTERNAL.
+29,WinGate,Yes,Yes,Yes,Yes,Yes,No,"NT Domain, Active Directory, CRAM-MD5[23], SASL PLAIN, SASL LOGIN"
+30,Zarafa,Yes,No,No,Yes,Yes,Yes,"PLAIN, LOGIN using internal backends: Internal, Active Directory, any LDAP-compatible source, Unix"
+31,Zentyal,Yes,Yes,Yes,Yes,Yes,Yes,Active Directory using Dovecot SASL mechanisms
+32,Zimbra,Yes,No,Yes,Yes,Yes,Yes,"Internal, LDAP, Open LDAP, Active Directory"
+33,Mail server,SMTP AUTH,POP before SMTP,APOP,Filesystem,Database,LDAP,Other

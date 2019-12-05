@@ -1,0 +1,49 @@
+,Client,POP3 fetch all messages,POP3 selected by filter,POP3 selected by user,IMAP4,SMTP,NNTP,LDAP v2,LDAP v3,EWS,IPv6,MAPI
+0,Alpine,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+1,Apple Mail,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,?
+2,Becky! Internet Mail,Yes,Yes,Yes,Yes,Yes,Yes [Note 1],Yes,?,?,?,?
+3,Citadel,Yes,?,?,Yes,Yes,?,?,?,?,?,?
+4,Claws Mail,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+5,Cone,Yes,No,No [Note 2],Yes,Yes,Yes,Yes,Yes,?,?,?
+6,Courier,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,?,?,?
+7,Elm,No,No,No,?,?,?,?,?,?,?,?
+8,eM Client,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No
+9,EmailTray,Yes,No,No,Yes,Yes,No,No,No,No,No,No
+10,Eureka Email,?,?,?,?,?,?,?,?,?,?,?
+11,Evolution,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,plug-in,?,plug-in
+12,Gnus,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,?,?,?
+13,GroupWise,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+14,Hiri,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No
+15,i.Scribe / InScribe,Yes,No,Yes,Yes,Yes,No,Yes [Note 3],Yes [Note 3],No,No,Yes
+16,IBM Notes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+17,KMail,Yes,Yes,Yes,Yes,Yes,No [Note 4],Yes,?,?,?,?
+18,Mailbird,Yes,?,?,Yes,Yes,?,Yes,Yes,?,Yes,?
+19,Mailpile,Yes,No,No,Yes,Yes,?,?,?,?,?,?
+20,Microsoft Entourage,Yes,?,?,Yes,Yes,Yes,No,Yes,Partial,?,?
+21,"Microsoft Entourage 2008, Web Services Edition",Yes,?,?,Yes,Yes,?,?,Yes,Yes,?,?
+22,Microsoft Office Outlook,Yes,No,No,Yes,Yes,No,Yes,?,Yes,Yes,Yes
+23,Mozilla Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?,?
+24,Mozilla Thunderbird,Yes,No,No,Yes,Yes,Yes,Partial,Partial[29],extensible[30],Yes,?
+25,Mulberry,Yes,No,No,Yes,Yes,No,Yes,?,?,Yes,Yes
+26,Mutt,Yes,No (possible with POP3 browser),No (possible with POP3 browser),Yes,Yes,No (slrn looks alike),Partial (resolve real names through NSS),?,?,Yes,?
+27,Netscape Messenger,Yes,?,?,Yes,?,Yes,?,?,?,?,?
+28,Netscape Messenger 9,Yes,?,?,Yes,?,Yes,?,?,?,?,?
+29,nmh / MH,Yes,?,?,No,Yes,?,?,?,No,?,No
+30,Opera Mail,Yes,No,Yes,Yes,Yes,Yes,No,No,?,Yes,Yes
+31,Outlook Express,Yes,No,No,Yes,Yes,Yes,Yes,?,No,?,No
+32,Pegasus Mail,Yes,Yes,Yes,Yes,Yes,Yes [Note 5],Yes,?,?,?,?
+33,Pine,Yes,No,No,Yes,Yes,Yes,Yes,No,?,?,?
+34,Pocomail,Yes,Yes,Yes,Yes,Yes,No,No,No,?,?,?
+35,RoundCube,Yes,No,No,Yes,Yes,No,Yes,Yes,?,?,?
+36,SeaMonkey Mail & Newsgroups,Yes,No,No,Yes,Yes,Yes,Partial,?,?,Yes,?
+37,Spicebird,Yes,No,No,Yes,Yes,Yes,Partial,?,?,?,?
+38,SquirrelMail,Yes,No,No,Yes,Yes,No,Yes,Yes,?,?,?
+39,Sylpheed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+40,The Bat!,Yes,Yes [Note 6],Yes [Note 7],Yes,Yes,Yes [Note 8],Yes,No,Yes,Yes,Yes
+41,Trojitá,No,No,No,Yes,Yes,No,No,No,No,Yes,No
+42,Turnpike,Yes,?,?,?,Yes,Yes,?,?,?,?,?
+43,Windows Live Mail,Yes,No,No,Yes,Yes,Yes,Yes,?,No,Yes,No
+44,Windows Mail,Yes,No,No,Yes,Yes,?,?,?,No,Yes,No
+45,YAM,Yes,Yes,Yes,No,Yes,No,No,No,?,?,?
+46,Zimbra,Yes,No,No,Yes,Yes,No,Yes,Yes,?,?,?
+47,Client,POP3 fetch all messages,POP3 selected by filter,POP3 selected by user,IMAP4,SMTP,NNTP,LDAP v2,LDAP v3,EWS,IPv6,MAPI

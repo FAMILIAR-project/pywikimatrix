@@ -1,0 +1,4 @@
+,Model(Codename),Launch,Architecture(Fab),TransistorsDie Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](TFLOPS),Processing power[a][d](TFLOPS).1,Processing power[a][d](TFLOPS).2,Memory,Memory.1,Memory.2,Memory.3,TBP (W),Bus interface,Graphic output Port,Release Price (USD)
+0,Model(Codename),Launch,Architecture(Fab),TransistorsDie Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Half,Single,Double[f],Bus type &width (bit),Size (GiB),Clock (MT/s),Band-width (GB/s),TBP (W),Bus interface,Graphic output Port,Release Price (USD)
+1,Radeon ProWX 3200(Polaris)[251],July 2019,GCN 4th gen(14 nm),,,,,,SP,3.3,0.104,GDDR5128,4,6000,96,50,PCIe 3.0 ×16,4x mini-DP 1.4,$200
+2,Radeon ProWX 8200(Vega) [252],August 2018,GCN 5th gen(14 nm),12500×106484mm2,3584:224:64 (56),1200 1530,342.7,97.92,2x SP,10.967,1/16 SP,HBM22048,8,2000,512,<230,PCIe 3.0 ×16,4x mini-DP 1.4,$999

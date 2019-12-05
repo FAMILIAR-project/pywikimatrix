@@ -1,0 +1,23 @@
+,Unnamed: 0,Imports,Exports
+0,3ds Max,"BMP, Cineon, TGA, JPG, PNG, OpenEXR, Cineon, Radiance HDR, SGI, RLA, RPF, AVI, MPEG and QuickTime, GIF, TIFF, PSD, MOV, YUV, DDS",?
+1,Art of Illusion,"GIF, JPG, PNG, BMP, HDR, SVG","JPG, PNG, BMP, TIFF, HDR, QuickTime"
+2,AC3D,"GIF, JPG, PNG, BMP, DDS, PPM, Targa, TIFF","GIF, JPG, PNG, BMP, DDS, PPM, Targa, TIFF"
+3,Blender,"TGA, JPG, PNG, OpenEXR, DPX, Cineon, Radiance HDR, Iris, SGI Movie, IFF, AVI and QuickTime, GIF, TIFF, PSD, MOV","TGA, JPG, PNG, OpenEXR, DPX, Cineon, Radiance HDR, Iris, SGI Movie, IFF, AVI and QuickTime, GIF, TIFF, PSD, MOV"
+4,Electric Image Animation System,"TGA, JPG, PNG, BMP, Radiance HDR, AVI and QuickTime, TIFF, PSD, MOV","PNG, BMP, AVI and QuickTime GIF, TIFF, MOV"
+5,Cinema 4D,?,?
+6,Clara.io,"PNG, JPG",?
+7,Cobalt,"BMP, GIF, JPEG, PICT, PNG, PPM, XBM, XPM","BMP, GIF, JPEG, PICT, PNG, PPM, XBM, XPM"
+8,Houdini,?,?
+9,IClone,"JPG, BMP, GIF, TGA, PNG, AVI, WMV, MP3, WAV, popVideo","JPG, BMP, GIF, TGA, PNG, WMV, AVI, MP4, popVideo, FLV, iWidget"
+10,Lightwave 3D,"TGA, JPG, PNG, AI, EPS, BMP, IFF, Radiance HDR, AVI and QuickTime, GIF, TIFF, PSD, MOV, OpenEXR","TGA, JPG, PNG, BMP, Radiance HDR, IFF, AVI and QuickTime, GIF, TIFF, PSD, MOV, OpenEXR"
+11,MakeHuman,?,?
+12,Maya,"Ai, Aiff, Pix, AVI, Cineon, EPS, GIF, Jpeg, Swf, Maya IFF, Maya16 IFF, MacPaint, PSD, PNG, Quantel, Quickdraw, MOV, RLA, SVG, SGI, SGI16, SGI Movie, TGA, TIF, BMP, HDR","Maya IFF, AVI, QT, GIF, Softimage, RLA, BMP, TIF, SGI RGB, Alias PIX, Jpeg, EPS, Cineon, Quantel, TGA, Macpaint, PSD, PNG, Quickdraw, DDS"
+13,Metasequoia,?,?
+14,Modo,"TGA, BMP, FLX, GIF, HDR, HDR, JP2, JPG, JPEG, PNG, SGI, openEXR, EPS, AI, PSD","TGA, BMP, FLX, GIF, HDR, JP2, JPG, JPEG, PNG, TIF, openEXR, MOV, MWV, PSD"
+15,Remo 3D,"BMP, DDS, GIF, JPG, PNG, PNM, SGI (RGB), TGA, TIF","JPG, PNG, SGI (RGB), TIF, XPM"
+16,Shade,?,"QuickTime VR, Piranesi EPix"
+17,Softimage,?,?
+18,Solid Edge,?,?
+19,SketchUp Make,"JPG, PNG, TIF, TGA, BMP","JPG, PNG, TIF, BMP"
+20,SketchUp Pro,"JPG, PNG, TIF, TGA, BMP","JPG, PNG, TIF, BMP, MOV(on Mac), AVI (on Windows)[9]"
+21,Wings3D,?,?

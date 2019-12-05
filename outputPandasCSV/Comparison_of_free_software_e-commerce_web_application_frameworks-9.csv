@@ -1,0 +1,19 @@
+,Unnamed: 0,Access control list,Form CAPTCHA,Staff action logging,PA/DSS certified
+0,Apache OFBiz,Yes,Yes,Yes,No
+1,Batavi,Yes,No,Yes,No
+2,Bigcommerce,Yes,Yes,Yes,Yes
+3,Drupal Commerce,Yes,free add-on,Yes,No
+4,KonaKart,Yes,No,Yes,No
+5,LemonStand,Yes,Yes,Yes,No
+6,Magento,Yes,Yes,enterprise,Yes / Magento Payment Bridge
+7,Miva Merchant,,,,Yes
+8,nopCommerce,Yes,Yes,Yes,No
+9,osCommerce,Yes,No,No,No
+10,pimcore,Yes,No,No,No
+11,PrestaShop,Yes,Yes,No,No
+12,Sana Commerce,Yes,No,Yes,Yes
+13,Shopify,Yes,Yes,Yes,No
+14,SupaDupa,Yes,No,No,No
+15,WooCommerce,?,?,?,?
+16,Zen Cart,Yes,free add-on,Yes,Yes
+17,,Access control list,Form CAPTCHA,Staff action logging,PA/DSS certified

@@ -1,0 +1,9 @@
+,Distribution,Approximate number of packages,Package format/tools,Default installer,Graphical installation procedure
+0,BeleniX,?,RPM,?,?
+1,Nexenta OS,?,APT,?,?
+2,NexentaStor,?,?,?,?
+3,OmniOS,1032[12],IPS,Kayak,No
+4,OpenIndiana,?,IPS,?,Yes
+5,SmartOS,?,pkgsrc/pkgin,N/A (live system),
+6,v9os,?,IPS,?,No
+7,Distribution,Approximate number of packages,Package format/tools,Default installer,Graphical installation procedure

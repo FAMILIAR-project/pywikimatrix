@@ -1,0 +1,14 @@
+,Unnamed: 0,Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS
+0,Apache OFBiz,No,No,No,No,No,No,No
+1,Batavi,No,No,No,No,No,No,No
+2,Bigcommerce,Yes,Yes,No,Yes,No,Yes,Yes
+3,KonaKart,No,No,No,Yes*,No,Yes*,Yes
+4,Magento,No,No,No,No,No,No,No
+5,nopCommerce,No,No,No,No,No,No,No
+6,osCommerce,No,No,No,No,No,No,No
+7,PrestaShop,via webservice,No,No,No,No,No,No
+8,Sana Commerce,No,No,No,No,No,No,No
+9,Shopify,No,No,No,No,No,No,No
+10,WooCommerce,Yes,Yes,No,No,No,Yes,No
+11,Zen Cart,No,No,No,Yes,Yes,yes with Stamps,Yes
+12,,Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS

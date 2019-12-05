@@ -1,0 +1,18 @@
+,Symbol,Languages
+0,C,Fortran I to Fortran 77 (C in column 1)
+1,REM,"BASIC, Batch files"
+2,::,"Batch files, COMMAND.COM, cmd.exe"
+3,NB.,"J; from the (historically) common abbreviation Nota bene, the Latin for ""note well""."
+4,⍝,"APL; the mnemonic is the glyph (jot overstruck with shoe-down) resembles a desk lamp, and hence ""illuminates"" the foregoing."
+5,#,"Bourne shell and other UNIX shells, Cobra, Perl, Python, Ruby, Seed7, Windows PowerShell, PHP, R, Make, Maple, Elixir, Nim[10]"
+6,%,"TeX, Prolog, MATLAB,[11] Erlang, S-Lang, Visual Prolog"
+7,//,"ActionScript, C (C99), C++, C#, D, F#, Go, Java, JavaScript, Kotlin, Object Pascal (Delphi), Objective-C, PHP, Rust, Scala, SASS, Swift, Xojo"
+8,',"Monkey, Visual Basic, VBScript Small Basic, Gambas, Xojo"
+9,!,"Fortran, Basic Plus, Inform, Pick Basic"
+10,;,"Assembly x86, AutoHotkey, AutoIt, Lisp, Common Lisp, Clojure, Rebol, Scheme,"
+11,--,"Euphoria, Haskell, SQL, Ada, AppleScript, Eiffel, Lua, VHDL, SGML, PureScript"
+12,*,"Assembler S/360 (* in column 1), COBOL I to COBOL 85, PAW, Fortran IV to Fortran 77 (* in column 1), Pick Basic"
+13,||,Curl
+14,"""","Vimscript, ABAP"
+15,\,Forth
+16,*>,COBOL 90

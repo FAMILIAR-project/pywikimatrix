@@ -1,0 +1,25 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto
+0,<audio> attributes,<audio> attributes,<audio> attributes,<audio> attributes,<audio> attributes
+1,src,5.0[t 1],1.9.1,525,2.5
+2,preload,5.0[t 1],2.0[note 11][g 90],525,Experimental[note 11]
+3,autoplay,5.0[t 1],1.9.1,525,2.5
+4,loop,5.0[t 1],11.0[g 91],525,2.5
+5,controls,5.0[t 1],1.9.1,525,2.5
+6,<video> attributes,<video> attributes,<video> attributes,<video> attributes,<video> attributes
+7,src,5.0[t 1],1.9.1,525,2.5
+8,preload,5.0[t 1],2.0[note 11][g 90],525,Experimental[note 11]
+9,autoplay,5.0[t 1],1.9.1,525,2.5
+10,loop,5.0[t 1],11.0[g 91],525,2.5
+11,controls,5.0[t 1],1.9.1,525,2.5
+12,poster,5.0[t 1],1.9.2[g 92],525,2.5
+13,width,5.0[t 1],1.9.1,525,2.5
+14,height,5.0[t 1],1.9.1,525,2.5
+15,<source> attributes,<source> attributes,<source> attributes,<source> attributes,<source> attributes
+16,src,5.0[t 1],1.9.1,525[w 70],2.5
+17,type,5.0[t 1],1.9.1,525[w 70],2.5
+18,media,5.0[t 1],15.0[g 93],525[w 70],2.5
+19,<track> attributes,<track> attributes,<track> attributes,<track> attributes,<track> attributes
+20,kind,6.0[t 42],24.0[g 94],Yes[w 71],No
+21,label,6.0[t 42],24.0[g 94],Yes[w 71],No
+22,src,6.0[t 42],24.0[g 94],Yes[w 71],No
+23,srclang,6.0[t 42],24.0[g 94],Yes[w 71],No

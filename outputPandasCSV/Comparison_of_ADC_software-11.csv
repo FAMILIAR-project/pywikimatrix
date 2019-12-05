@@ -1,0 +1,11 @@
+,Other software,GUI,CLI,Other,Programming language,Based on
+0,ADCCore,No,No,No,C#,CoreDC
+1,DCBouncer,No,Yes,No,C++,
+2,DC-Hublink,Yes,No,No,Visual Basic,
+3,DCWatch,No,Yes,No,"Java, Lua",Embla
+4,Embla,No,No,No,Java,
+5,FlowLib,No,No,No,C#,
+6,NetChatLink,Yes,No,No,Object Pascal (Delphi),
+7,Announcer Bot,No,No,No,Lua,
+8,Certmanager,Yes,No,No,wxLua,
+9,ADC hub,GUI,CLI,Other,Programming language,Based on

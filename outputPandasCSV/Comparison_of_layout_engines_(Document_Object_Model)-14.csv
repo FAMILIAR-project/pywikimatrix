@@ -1,0 +1,41 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL,Exception ExceptionVAL
+1,DOM3,code,No,No,No,No,No,No
+2,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL,Interface DocumentEditVAL
+3,DOM3,continuousValidityChecking,No,No,No,No,No,No
+4,DOM3,domConfig,No,No,No,No,No,No
+5,DOM3,getDefinedElements(),No,No,No,No,No,No
+6,DOM3,validateDocument(),No,No,No,No,No,No
+7,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL,Interface NodeEditVAL
+8,DOM3,defaultValue,No,No,No,No,No,No
+9,DOM3,enumeratedValues,No,No,No,No,No,No
+10,DOM3,canInsertBefore(),No,No,No,No,No,No
+11,DOM3,canRemoveChild(),No,No,No,No,No,No
+12,DOM3,canReplaceChild(),No,No,No,No,No,No
+13,DOM3,canAppendChild(),No,No,No,No,No,No
+14,DOM3,nodeValidity(),No,No,No,No,No,No
+15,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL,Interface ElementEditVAL
+16,DOM3,allowedChildren,No,No,No,No,No,No
+17,DOM3,allowedFirstChildren,No,No,No,No,No,No
+18,DOM3,allowedParents,No,No,No,No,No,No
+19,DOM3,allowedNextSiblings,No,No,No,No,No,No
+20,DOM3,allowedPreviousSiblings,No,No,No,No,No,No
+21,DOM3,allowedAttributes,No,No,No,No,No,No
+22,DOM3,requiredAttributes,No,No,No,No,No,No
+23,DOM3,contentType,No,No,No,No,No,No
+24,DOM3,canSetTextContent,No,No,No,No,No,No
+25,DOM3,canSetAttribute,No,No,No,No,No,No
+26,DOM3,canSetAttributeNode,No,No,No,No,No,No
+27,DOM3,canSetAttributeNS,No,No,No,No,No,No
+28,DOM3,canRemoveAttribute,No,No,No,No,No,No
+29,DOM3,canRemoveAttributeNS,No,No,No,No,No,No
+30,DOM3,canRemoveAttributeNode,No,No,No,No,No,No
+31,DOM3,isElementDefined,No,No,No,No,No,No
+32,DOM3,isElementDefinedNS,No,No,No,No,No,No
+33,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL,Interface CharacterDataEditVAL
+34,DOM3,isWhitespaceOnly(),No,No,No,No,No,No
+35,DOM3,canSetData(),No,No,No,No,No,No
+36,DOM3,canAppendData(),No,No,No,No,No,No
+37,DOM3,canReplaceData(),No,No,No,No,No,No
+38,DOM3,canInsertData(),No,No,No,No,No,No
+39,DOM3,canDeleteData(),No,No,No,No,No,No

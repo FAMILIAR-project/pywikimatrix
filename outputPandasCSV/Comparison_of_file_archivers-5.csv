@@ -1,0 +1,30 @@
+,Unnamed: 0,ZIP,TAR,gzip,bzip2,7z,xz,RAR,LHA/LZH,ACE,StuffIt,StuffIt X,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+0,7-Zip,Yes,Yes,Yes[14],Yes[14],Yes,Yes[14],No,No,No,No,No,No,No,No,No,No,No,No,No
+1,ALZip[6],Yes,Yes,Yes,Yes,No,Unknown,No,No,No,No,No,No,No,No,No,Yes,Yes,Unknown,No
+2,Archive Manager,Yes,Yes,Yes,Yes,Yes,Yes,No[12],Yes,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,No,No
+3,Archive Utility,Yes,No,No,No,No,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No
+4,Ark,Yes,Yes,Yes,Yes,Yes,Yes,No[10],Yes,No,No,No,No,No,No,No,No,No,No,No
+5,B1 Free Archiver,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+6,BetterZip,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+7,bsdtar/libarchive,Yes,Yes,Yes[15],Yes[15],Yes,Yes[15],No,No,No,No,No,No,No,No,No,No,No,Yes,No
+8,Commander One,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+9,CRAX Commander,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+10,Disk ARchiver,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+11,Filzip,Yes,Yes,Yes,No,No,Unknown,No,Yes,No,No,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,No
+12,FreeArc,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No
+13,GNU tar,No,Yes,Yes[1],Yes[1],No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+14,iArchiver,Yes,Yes,Yes,Yes,Yes,Unknown,No,No,No,No,No,No,No,No,No,No,No,No,No
+15,Info-ZIP,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+16,KGB Archiver,Yes,No,No,No,No,Unknown,No,No,No,No,No,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,No
+17,PeaZip,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+18,PKZIP,Yes,Yes,Yes,Yes,No,Unknown,No,No,No,No,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,No
+19,PowerArchiver,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes
+20,Star,No,Yes,Yes[1],Yes[1],Yes[1],Yes[1],No,No,No,No,No,No,No,No,No,No,No,No,No
+21,StuffIt[4],Yes,Yes,Yes,Yes,No,Unknown,No[9],Yes,No,Yes,Yes,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,No
+22,TUGZip,Yes,Yes,Yes,Yes,Yes,Unknown,No[2],Yes,No[4],No,No,No,No,No,No,Yes,No,Unknown,No
+23,WinAce,Yes,Yes,Yes,Yes,No,Unknown,No,Yes,Yes,No,No,No,No,Unknown,Unknown,Yes,Unknown,Yes,No
+24,WinRAR,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+25,WinZip,Yes,No,No,No,No,Unknown,No,Yes,No,No,No,No[3],No,Unknown,Yes,No,No,No,No
+26,Xarchiver,Yes,Yes,Yes,Yes,Yes,Unknown,No[11],Yes,No,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
+27,ZipGenius,Yes,Yes[7],Yes[7],Yes[7],Yes,Unknown,No,Yes[8],No,No,No,No,No,No,Unknown,Yes[7],No,No,No
+28,,ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ

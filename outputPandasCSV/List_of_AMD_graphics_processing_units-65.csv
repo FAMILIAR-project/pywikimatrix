@@ -1,0 +1,5 @@
+,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TDP,Bus interface
+0,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TDP,Bus interface
+1,Radeon Pro Vega II(Vega 20)[253],November 2019,GCN 5th gen7FF,0.0×109? mm2,4096:256:6464 CU,1700,435,109,14200,1/? SP,HBM24096-bit,32,2000,1000,? W,PCIe 3.0 ×16
+2,GCN 5th gen7FF,0.0×109? mm2,,,,,,,,,,,,,,
+3,GCN 5th gen7FF,0.0×109? mm2,,,,,,,,,,,,,,

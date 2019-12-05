@@ -1,0 +1,46 @@
+,Unnamed: 0,Union,Intersect,Except,Inner joins,Outer joins,Inner selects,Merge joins,Blobs and Clobs,Common Table Expressions,Windowing Functions,Parallel Query,System-versioned Tables
+0,4th Dimension,Yes,Yes,Yes,Yes,Yes,No,No,Yes,?,?,?,?
+1,ADABAS,Yes,?,?,?,?,?,?,?,?,?,?,?
+2,Adaptive Server Enterprise,Yes,?,?,Yes,Yes,Yes,Yes,Yes,?,?,Yes,?
+3,Advantage Database Server,Yes,No,No,Yes,Yes,Yes,Yes,Yes,?,No,?,?
+4,Altibase,Yes,Yes,"Yes, via MINUS",Yes,Yes,Yes,Yes,Yes,No,No,No,?
+5,Apache Derby,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No,No,?,?
+6,ClustrixDB,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,?
+7,CUBRID,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[78],?,?
+8,DB2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[115],Yes[116]
+9,Empress Embedded Database,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,?
+10,EXASolution,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,?
+11,Firebird,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,?
+12,HSQLDB,Yes,Yes,Yes,Yes,Yes,Yes,Yes[117],Yes,Yes,No,Yes[117],?
+13,H2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,experimental[118],Yes[119],?,?
+14,Informix Dynamic Server,Yes,Yes,"Yes, via MINUS",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[120],?
+15,Ingres,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,?,?
+16,InterBase,Yes,?,?,Yes,Yes,?,?,Yes,?,?,?,?
+17,Linter SQL RDBMS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+18,LucidDB,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,?,?,?,?
+19,MariaDB,Yes,10.3+[121],10.3+[122],Yes,Yes,Yes,No,Yes,Yes[123],Yes[124],No[125],Yes[116]
+20,MaxDB,Yes,?,?,Yes,Yes,Yes,No,Yes,?,?,?,?
+21,Microsoft Access (JET),Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,?,?
+22,Microsoft Visual Foxpro,Yes,?,?,Yes,Yes,Yes,?,Yes,?,?,?,?
+23,Microsoft SQL Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[126],Yes[127],Yes[116]
+24,Microsoft SQL Server Compact (Embedded Database),Yes,No,No,Yes,Yes,?,No,Yes,No,No,?,?
+25,Mimer SQL,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,No,No,?
+26,MonetDB,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+27,MySQL,Yes,No,No,Yes,Yes,Yes,No,Yes,8+[128],No,No[125],No[116]
+28,OpenBase SQL,No,No,No,Yes,Yes,Yes,Yes,Yes,?,?,?,?
+29,OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,Yes,?
+30,Oracle,Yes,Yes,"Yes, via MINUS",Yes,Yes,Yes,Yes,Yes,Yes 1,Yes,Yes[129],No[116]
+31,Oracle Rdb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,?
+32,Pervasive PSQL,Yes,No,No,Yes,Yes,?,?,Yes,No,No,No,?
+33,Polyhedra DBMS,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,?
+34,PostgreSQL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8.4+[130],Yes,Yes[131],No[116]
+35,Raima Database Manager,No,No,No,Yes,Yes,No,No,Yes,No,No,No,?
+36,RDM Server,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,?
+37,SAP HANA,?,?,?,?,?,?,?,?,?,?,?,?
+38,solidDB,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,?
+39,SQL Anywhere,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+40,SQLite,Yes,Yes,Yes,Yes,LEFT only,Yes,No,Yes,3.8.3+[132],3.25+[133],No,No[116]
+41,SQream DB,ALL only,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,?
+42,Teradata,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+43,UniVerse,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,?,?
+44,,Union,Intersect,Except,Inner joins,Outer joins,Inner selects,Merge joins,Blobs and Clobs,Common Table Expressions,Windowing Functions,Parallel Query,System-versioned Tables

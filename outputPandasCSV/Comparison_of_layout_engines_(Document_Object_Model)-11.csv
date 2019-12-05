@@ -1,0 +1,27 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator,Interface NodeIterator
+1,DOM2,root,No,?,1.9.1,?,?,1.0
+2,DOM2,whatToShow,No,?,1.9.1,?,?,1.0
+3,DOM2,filter,No,?,1.9.1,?,?,1.0
+4,DOM2,expandEntityReferences,No,?,1.9.1,?,?,1.0
+5,DOM2,nextNode(),Yes,?,1.9.1,?,?,2.0
+6,DOM2,previousNode(),Yes,?,1.9.1,?,?,2.0
+7,DOM2,detach(),No,?,1.9.1,?,?,1.0
+8,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter,Interface NodeFilter
+9,DOM2,acceptNode(),No,?,1.0,?,?,1.0
+10,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker,Interface TreeWalker
+11,DOM2,root,No,?,1.0,?,?,1.0
+12,DOM2,whatToShow,No,?,1.0,?,?,1.0
+13,DOM2,filter,No,?,1.0,?,?,1.0
+14,DOM2,expandEntityReferences,No,?,1.0,?,?,1.0
+15,DOM2,currentNode,No,?,1.0,?,?,1.0
+16,DOM2,parentNode(),No,?,1.0,?,?,1.0
+17,DOM2,firstChild(),No,?,1.0,?,?,1.0
+18,DOM2,lastChild(),No,?,1.0,?,?,1.0
+19,DOM2,previousSibling(),No,?,1.0,?,?,1.0
+20,DOM2,nextSibling(),No,?,1.0,?,?,1.0
+21,DOM2,previousNode(),No,?,1.0,?,?,1.0
+22,DOM2,nextNode(),No,?,1.0,?,?,1.0
+23,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal,Interface DocumentTraversal
+24,DOM2,createNodeIterator(),No,?,1.9.1,?,?,1.0
+25,DOM2,createTreeWalker(),No,?,1.0,?,?,1.0

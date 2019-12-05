@@ -1,0 +1,29 @@
+,Camera model,Reflex?,Design,Location,Adjustment,Angles
+0,Eyemo 71K,"No, but many conversions",Half-moon,Beside gate,fixed,160°; many conversions for different angles
+1,Arriflex 35-2C,Yes,Butterfly,Underneath gate,fixed,"180°, although the V/B variant is adjustable from 0° to 165°"
+2,Arriflex 35BL-1,Yes,Butterfly,Underneath gate,fixed,180°
+3,Panaflex-X,Yes,Butterfly,Beside gate,manually while running or in standby,"between 50° and 200°, continuously adjustable"
+4,Arriflex 35BL-2,Yes,Butterfly,Underneath gate,fixed,180°
+5,Panaflex Gold II,Yes,Butterfly,Beside gate,manually while running or in standby,"between 50° and 200°, continuously adjustable"
+6,Arriflex 35BL-3,Yes,Half-moon,Underneath gate,manual,"stops at 144°, 172.8°, and 180°"
+7,Arriflex 35-3C,Yes,Butterfly,Underneath gate,manual,0° to 165° with stops every 15°
+8,Moviecam SuperAmerica,Yes,Half-moon,Underneath gate,manual,"stops at 45°, 90°, 120°, 144°, 172.8°, and 180°."
+9,Arriflex 35BL-4,Yes,Half-moon,Underneath gate,manual,"stops at 144°, 172.8°, and 180°"
+10,Panaflex Platinum,Yes,Butterfly,Beside gate,electronic or manually while running or in standby,"between 50° and 200°, in 0.1° stops"
+11,Panaflex Panastar II,Yes,Butterfly,Beside gate,electronic or manually while running or in standby,"between 45° and 180°, in 0.1° stops"
+12,Arriflex 35BL-4s,Yes,Half-moon,Underneath gate,manual,"stops at 144°, 172.8°, and 180°"
+13,Arriflex 535,Yes,Half-moon,Underneath gate,electronic,"between 11° to 180°, in 0.01° stops"
+14,Moviecam Compact,Yes,Half-moon,Underneath gate,manual,"stops at 45°, 90°, 120°, 144°, 172.8°, and 180°. 22.5° available on newer models."
+15,Arriflex 535B,Yes,Half-moon,Underneath gate,manual,"stops every 15° between 15° and 180°, also stops at 144° and 172.8°"
+16,Arriflex 435,Yes,Half-moon,Underneath gate,manual,"stops every 15° between 30° and 135°, also stops at 11.2°, 22.5°, 144°, 172.8°, and 180°"
+17,Arriflex 435ES,Yes,Half-moon,Underneath gate,electronic,"between 11.2° to 180°, in 0.1° stops"
+18,Moviecam SL,Yes,Half-moon,Underneath gate,manual,"stops at 22.5°, 45°, 90°, 120°, 144°, 172.8°, and 180°."
+19,Aaton 35-III,Yes,Half-moon,Underneath gate,manual,"stops at 144°, 150°, 172.8°, and 180°"
+20,Panaflex Millennium,Yes,Butterfly,Beside gate,electronic or manually while running or in standby,"between 11.2° and 180°, in 0.1° stops"
+21,Panaflex Millennium XL,Yes,Butterfly,Beside gate,electronic or manually while running or in standby,"between 11.2° and 180°, in 0.1° stops"
+22,Arricam LT,Yes,Half-moon,Underneath gate,electronic,"between 0° and 180°, in 0.1° stops"
+23,Arricam ST,Yes,Half-moon,Underneath gate,electronic,"between 0° and 180°, in 0.1° stops"
+24,Arriflex 435 Advanced,Yes,Half-moon,Underneath gate,electronic,"between 11.2° and 180°, in 0.1° stops"
+25,Aaton 35-3P,Yes,Half-moon,Underneath gate,manual,"stops at 144°, 150°, 172.8°, and 180°"
+26,Arriflex 235,Yes,Half-moon,Underneath gate,manual,"stops every 15° between 45° and 150°, also stops at 144°, 172.8°, and 180°"
+27,Arriflex 435 Xtreme,Yes,Half-moon,Underneath gate,electronic,"between 11.2° and 180°, in 0.1° stops"

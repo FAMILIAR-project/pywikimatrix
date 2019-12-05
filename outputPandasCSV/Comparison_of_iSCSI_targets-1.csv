@@ -1,0 +1,25 @@
+,Function,FalconStor,FreeNAS,Microsoft Windows Storage Server[1],Open-E [2],Openfiler
+0,Continuous Data Protection (CDP),Yes,No,Yes,Yes,Yes
+1,Snapshot,Yes,Yes,Yes,Yes,Yes
+2,Mirroring and Replication,Yes,Yes,Yes,Yes,Yes
+3,Thin Provisioning,Yes,No,Yes,No,No
+4,I/O caching,Yes,No,Yes,No,Yes
+5,Challenge Handshake Authentication Protocol (CHAP),Yes,Yes,Yes,Yes,Yes
+6,Multi-user mutual CHAP authorization,No,No,No,No,No
+7,IPsec tunnelling,No,No,Yes,Yes,No
+8,Software RAID,No,Yes,Yes,Yes,Yes
+9,Virtual Optical Drive,No,Yes,Yes,Yes,Yes
+10,Virtual tape library,Yes,No,No,Yes,No
+11,Microsoft Management Console support,No,Yes,No,No,No
+12,PerfMon support,No,No,Yes,No,No
+13,High availability support,Yes,No,Yes,"Yes, but unstable [3]",No
+14,VHD support,Yes,Yes-CHAP,Yes,Yes,No
+15,Dynamically expanding file support,Yes,No,No,No,No
+16,Virtual Burner support,No,No,No,No,No
+17,EventViewer support,No,No,Yes,No,No
+18,MPIO,Yes,No,Yes,Yes,Yes
+19,Windows Volume Snapshot Service,No,No,Yes,No,No
+20,VMware integration toolkit,No,No,No,No,No
+21,Remote management,Yes,Yes,Yes,Yes,Yes
+22,Unlimited Network Interface Controller Support,Yes,Yes,Yes,Yes,Yes (Old v:1)
+23,Storage unlimited,No 64 TB,Yes,Yes,No 4/8/16 (more need additional license),Yes

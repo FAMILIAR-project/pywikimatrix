@@ -1,0 +1,34 @@
+,Atom (ULV),Atom (ULV).1,Unnamed: 2,Feature size,Unnamed: 4,x86,x86.1,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+0,Microarchi.,Step,,Feature size,,Microarchi.,Step,,,,,,
+1,,,,600 nm,,P6,Pentium Pro(133 MHz),,,,,,
+2,,,,500 nm,,P6,Pentium Pro(150 MHz),,,,,,
+3,,,,350 nm,,P6,Pentium Pro(166–200 MHz),,,,,,
+4,,,,350 nm,,P6,Klamath,,,,,,
+5,,,,250 nm,,P6,Deschutes,,,,,,
+6,,,,250 nm,,P6,Katmai,,NetBurst,,,,
+7,,,,180 nm,,P6,Coppermine,,Willamette,,,,
+8,,,,130 nm,,P6,Tualatin,,Northwood,,,,
+9,,,,130 nm,,P6,Banias,,Northwood,,NetBurst(HT),,NetBurst(×2)
+10,,,,90 nm,,P6,Dothan,,Prescott,⇨,Prescott‑2M,⇨,Smithfield
+11,,,,90 nm,,P6,Dothan,,Tejas,→,⇩,→,Cedarmill (Tejas)
+12,,,,65 nm,,P6,Yonah,,Nehalem (NetBurst),,Cedar Mill,⇨,Presler
+13,,,,65 nm,,Core,Merom,"(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop","(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop","(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop","(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop","(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop","(x86-64) DDR2 + DDR3, 4 cores on mainstream desktop"
+14,Bonnell,Bonnell,,45 nm,,Core,Penryn,,,,,,
+15,Bonnell,Bonnell,,45 nm,,Nehalem,Nehalem,"HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3","HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3","HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3","HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3","HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3","HT reintroduced, integrated MC, PCH,L3-cache introduced, 256KiB L2-cache/core, DDR3"
+16,Bonnell,Saltwell,,32 nm,,Nehalem,Westmere,"GPU on same package in 45nm, AES-NI introduced","GPU on same package in 45nm, AES-NI introduced","GPU on same package in 45nm, AES-NI introduced","GPU on same package in 45nm, AES-NI introduced","GPU on same package in 45nm, AES-NI introduced","GPU on same package in 45nm, AES-NI introduced"
+17,Bonnell,Saltwell,,32 nm,,Sandy Bridge,Sandy Bridge,"on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3","on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3","on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3","on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3","on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3","on-die ring bus, GPU on die, no more non-UEFI motherboards, DDR3"
+18,Silvermont,Silvermont,,22 nm,,Sandy Bridge,Ivy Bridge,,,,,,
+19,Silvermont,Silvermont,,22 nm,,Haswell,Haswell,"FIVR, DDR3 + DDR3L","FIVR, DDR3 + DDR3L","FIVR, DDR3 + DDR3L","FIVR, DDR3 + DDR3L","FIVR, DDR3 + DDR3L","FIVR, DDR3 + DDR3L"
+20,Silvermont,Airmont,,14 nm,,Haswell,Broadwell,,,,,,
+21,Silvermont,Airmont,,14 nm,,Skylake,Skylake,DDR3L + DDR4,DDR3L + DDR4,DDR3L + DDR4,DDR3L + DDR4,DDR3L + DDR4,DDR3L + DDR4
+22,Goldmont,Goldmont,,14 nm,,Skylake,Kaby Lake,,,,,,
+23,Goldmont,Goldmont,,14 nm,,Skylake,Coffee Lake,"DDR4, 6 cores on mainstream desktop","DDR4, 6 cores on mainstream desktop","DDR4, 6 cores on mainstream desktop","DDR4, 6 cores on mainstream desktop","DDR4, 6 cores on mainstream desktop","DDR4, 6 cores on mainstream desktop"
+24,Goldmont,Goldmont,,14 nm,,Skylake,Amber Lake,,,,,,
+25,Goldmont,Goldmont Plus,,14 nm,,Skylake,Whiskey Lake,,,,,,
+26,Goldmont,Goldmont Plus,,14 nm,,Skylake,Coffee Lake Refresh,8 cores on mainstream desktop,8 cores on mainstream desktop,8 cores on mainstream desktop,8 cores on mainstream desktop,8 cores on mainstream desktop,8 cores on mainstream desktop
+27,Goldmont,Goldmont Plus,,14 nm,,Skylake,Comet Lake,10 cores on mainstream desktop,10 cores on mainstream desktop,10 cores on mainstream desktop,10 cores on mainstream desktop,10 cores on mainstream desktop,10 cores on mainstream desktop
+28,Goldmont,Goldmont Plus,,14 nm,,Skylake,Rocket Lake,,,,,,
+29,Tremont,Tremont,,10 nm,,Skylake,Cannon Lake,,,,Hybrid,,
+30,Tremont,Tremont,,10 nm,,Sunny Cove,Ice Lake,512KiB L2-cache/core,512KiB L2-cache/core,512KiB L2-cache/core,Lakefield,,
+31,Tremont,Gracemont,,10 nm,,Willow Cove,Tiger Lake,Xe graphics engine,Xe graphics engine,Xe graphics engine,,,
+32,Tremont,Gracemont,,10 nm,,Golden Cove,?,,,,,,

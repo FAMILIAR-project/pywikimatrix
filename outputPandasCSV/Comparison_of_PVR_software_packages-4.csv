@@ -1,0 +1,12 @@
+,DVR,Tuner Sharing,Hard Disk Pooling,Shared Media Database,Home Automation,Media Extenders,Placeshifting/Spaceshifting,Two-way Remote Control,Second Screen
+0,Beyond TV,Yes,Yes,No,No,Yes,Yes,No,Unknown
+1,EyeTV,Unknown,Unknown,Yes,Unknown,Unknown,Yes,Unknown,Unknown
+2,NextPVR,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3,Kodi (formerly XBMC),Yes,Yes,Yes,Yes4,Yes,Unknown,Yes3,Unknown
+4,MediaPortal,Yes,Yes,Yes,Yes,Yes,Yes,Yes4,Unknown
+5,MediaPhoenix/ShowShifter,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6,MythTV,Yes,Yes,Yes,Yes3,Yes,Yes,Yes,Unknown
+7,SageTV,Yes,Yes,Unknown,Unknown,Yes,Yes,Unknown,Unknown
+8,Arcsoft TotalMedia Theatre,Yes,Yes,Yes,No,Yes,Yes,No,Unknown
+9,Windows Media Center,Yes6,Yes7,Yes,Yes2,Yes,Yes5,Yes2,Unknown
+10,VBox@TV,Yes,Unknown,Yes,Unknown,Unknown,Yes,Yes,Unknown

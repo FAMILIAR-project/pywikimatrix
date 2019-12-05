@@ -1,0 +1,21 @@
+,Desktop publishing software,Windows,Mac OS (X),Linux,BSD,UNIX,Other
+0,CorelDRAW,Yes,supported versions<11,No,No,No,No
+1,Fatpaint,Yes,Yes,Yes,No,No,No
+2,Flare,Yes,No,No,No,No,No
+3,FrameMaker,Yes,supported versions<7,No,No,supported versions<8,No
+4,InDesign,Yes,Yes,No,No,No,No
+5,InPage,Yes,No,No,No,No,No
+6,iStudio Publisher,No,Yes,No,No,No,No
+7,LyX,Yes,Yes,Yes,Yes,Yes,OS/2
+8,Microsoft Publisher,Yes,No,No,No,No,No
+9,OpenOffice.org,Yes,Yes,Yes,Yes,Yes,No
+10,PageMaker*,Yes,Yes,No,No,No,No
+11,PagePlus,Yes,No,No,No,No,No
+12,Pages,No,Yes,No,No,No,No
+13,PageStream,Yes,Yes,Yes,No,No,"AmigaOS, MorphOS"
+14,QuarkXPress,Yes,Yes,No,No,No,No
+15,"Ready,Set,Go!",Yes,Yes,No,No,No,No
+16,Scribus,Yes,Yes,Yes,Yes,Yes,"OS/2 Warp 4, eComStation, OpenIndiana, Solaris, Haiku"
+17,The Print Shop,Yes,Yes,No,No,No,No
+18,Ventura*,Yes,No,No,No,No,No
+19,Desktop publishing software,Windows,Mac OS (X),Linux,BSD,UNIX,Other

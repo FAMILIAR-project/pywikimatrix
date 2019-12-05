@@ -1,0 +1,18 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto
+0,Called as function,Called as function,Called as function,Called as function,Called as function
+1,"RegExp (pattern, flags)",?,?,?,?
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,"new RegExp (pattern, flags)",4.0,1.0,Yes,1.0
+4,Properties,Properties,Properties,Properties,Properties
+5,prototype,4.0,1.0,Yes,1.0
+6,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+7,constructor,4.0,1.0,Yes,1.0
+8,exec(string),4.0,1.0,Yes,1.0
+9,test(string),4.0,1.0,Yes,1.0
+10,toString(),4.0,1.0,Yes,1.0
+11,Properties of instances,Properties of instances,Properties of instances,Properties of instances,Properties of instances
+12,source,4.0,1.0,Yes,1.0
+13,global,4.0,1.0,Yes,1.0
+14,ignoreCase,5.5,1.0,Yes,1.0
+15,multiline,5.5,1.0,Yes,1.0
+16,lastIndex,4.0,1.0,Yes,1.0

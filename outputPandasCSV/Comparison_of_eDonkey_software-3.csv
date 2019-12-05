@@ -1,0 +1,25 @@
+,Client,Client.1,IP to Country,Protocol Obfuscation[N 7],Handles files >4GB,Chat[N 8],Buddy list,Send FILERATING tags to servers,EndGame,AICH,L2HAC [N 9],Secure User ID,Global Searches,UPnP port mapping[N 10],Intelligent Chunk Selection,Lancast,HideOS / SotN
+0,aMule,aMule,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes[N 11],No,No,No
+1,eMule,Official,No,Yes,Yes,Yes,Yes,Yes,zz's Version,Yes,No,Yes,Yes,Yes,No,No,No
+2,eMule,Osp,No,Yes,Yes,Yes,Yes,Yes,zz's Version,Yes,No,Yes,Yes,Yes,No,No,No
+3,eMule,AnalyZZUL,No,Yes,Yes,Yes,Yes,Yes,zz's Version,Yes,No,Yes,Yes,Yes,No,No,No
+4,eMule,beba,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Version 1,No,No
+5,eMule,Magic Angel,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,both
+6,eMule,Mephisto,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,No,No,both
+7,eMule,MorphXT,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,both
+8,eMule,NeoMule,Yes,Yes,Yes,Yes,Yes,Yes,own simplified implementation,Yes,Yes,Yes,Yes,Yes,Version 2,Version 2,own implementation
+9,eMule,ScarAngel,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,No,No,both
+10,eMule,SharkX,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,No
+11,eMule,Sivka,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Version 1,HideOS
+12,eMule,Spike2,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,No
+13,eMule,StulleMule,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,both
+14,eMule,Xtreme,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,No,No,own implementation
+15,eMule,X-Ray,Yes,Yes,Yes,Yes,Yes,Yes,DBR,Yes,Yes,Yes,Yes,Yes,Version 1,No,No
+16,eMule,ZZUL,No,Yes,Yes,Yes,Yes,Yes,zz's Version,Yes,No,Yes,Yes,Yes,No,No,No
+17,eMule,ZZUL BastarD,No,Yes,Yes,Yes,Yes,Yes,zz's Version,Yes,No,Yes,Yes,Yes,No,No,No
+18,eMule Plus,eMule Plus,Yes,No,up to 512GB,Yes,Yes,Yes,?,No,Yes,Yes,Yes,No,Yes,Version 1,manual hiding
+19,Lphant,Lphant,No,Yes,Yes,Yes,Yes,Yes,Yes,CCH (similar to ICH),No,Yes,No,Yes,No,Version 1,No
+20,MLDonkey,MLDonkey,Yes,No,Yes,Yes,Yes,?,No,Yes,No,Yes,Yes,Yes,No,No,No
+21,Shareaza,Shareaza,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No
+22,xMule,xMule,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No
+23,Client,Client,IP to Country,Protocol Obfuscation[N 7],Handles files >4GB,Chat[N 8],Buddy list,Send FILERATING tags to servers,EndGame,AICH,L2HAC [N 9],Secure User ID,Global Searches,UPnP port mapping[N 10],Intelligent Chunk Selection,Lancast,HideOS / SotN

@@ -1,0 +1,19 @@
+,Codec,Windows,macOS,Linux,BSD,Unix,Palm OS,Symbian OS,Rockbox,iOS,Android[43],Chromium[44]
+0,AAC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,AC-3,Yes,?,Yes,?,?,?,?,?,Yes,?,?
+2,ALAC,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No
+3,ALS,?,?,?,?,?,?,?,?,?,?,?
+4,aptX,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No
+5,CELT,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+6,E-AC3,Yes,?,?,?,?,?,?,?,Yes,?,?
+7,FLAC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,Monkey's Audio,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+9,MP3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,Musepack,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+11,Opus,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+12,RealAudio[45],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+13,Speex,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+14,Vorbis,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes
+15,True Audio (TTA),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes
+16,WavPack,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,No
+17,WMA[45],Yes,Yes[46],Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No

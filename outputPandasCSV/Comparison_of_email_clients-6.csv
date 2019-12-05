@@ -1,0 +1,49 @@
+,Client,Regular,Regular.1,MSN (NTLM) browser login,Compuserve (RPA),MD5 APOP [Note 1],CRAM-HMAC [Note 2],CRAM-HMAC [Note 2].1,CRAM-HMAC [Note 2].2,DIGEST-MD5,with hardware token PKCS#11,Biometric,SMTP Auth [Note 3],X.509 Client certificate,OAUTH
+0,Client,LOGIN,PLAIN,MSN (NTLM) browser login,Compuserve (RPA),MD5 APOP [Note 1],MD5,SHA1,RIPEMD,DIGEST-MD5,with hardware token PKCS#11,Biometric,SMTP Auth [Note 3],X.509 Client certificate,OAUTH
+1,Alpine,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,?
+2,Apple Mail,Yes,Yes,No,No,?,?,?,?,?,?,Yes,Yes,Yes,?
+3,Becky! Internet Mail,Yes,Yes,Yes,?,Yes,Yes,?,?,?,?,?,Yes,Yes,?
+4,Citadel,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+5,Claws Mail,Yes,Yes,?,?,Yes,Yes,?,?,Yes,No,?,Yes,No,?
+6,Cone,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,?
+7,Courier,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,?
+8,Elm,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+9,eM Client,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+10,EmailTray,Yes,Yes,?,?,Yes,Yes,Yes,No,?,No,No,Yes,No,?
+11,Eudora,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?,?
+12,Eureka Email,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+13,Evolution,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,?
+14,Gnus,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,?,?,Yes,?,?
+15,GroupWise,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+16,Hiri,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes
+17,i.Scribe / InScribe,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,?
+18,IBM Lotus Notes,Yes,?,Yes,No,No,No,?,?,?,Yes,No,Yes,?,?
+19,KMail,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,?
+20,Mailpile,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+21,Microsoft Entourage,Yes,No,Yes,?,?,Yes,?,?,?,Yes,?,Yes,Yes,?
+22,Microsoft Office Outlook,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,?
+23,Mozilla Mail & Newsgroups,Yes,?,?,Yes,?,Yes,?,?,?,?,?,?,?,?
+24,Mozilla Thunderbird,Yes,Yes,Yes,No,Yes,Yes,No,No,No[51],Yes,No,Yes,Yes,Yes
+25,Mulberry,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,?
+26,Mutt,Yes,Yes,Yes,?,Yes,Yes,No,No,Yes,No,No,1.5.15,Yes,1.10.1
+27,Netscape Messenger,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+28,Netscape Messenger 9,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+29,nmh / MH,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+30,Opera Mail,Yes,Yes,No,No,Yes,Yes,No,?,?,No,No,Yes,Yes,?
+31,Outlook Express,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,?
+32,Pegasus Mail,Yes,?,No,No,Yes,No,No,No,No,No,No,Yes,Yes,?
+33,Pine,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,?
+34,Pocomail,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+35,RoundCube,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,Yes,?,Yes,?,?
+36,SeaMonkey Mail & Newsgroups,Yes,Yes,Yes,No,Yes,Yes,No,No,No[51],Yes,No,Yes,Yes,?
+37,SquirrelMail,Yes,Yes,?,?,Yes,Yes,Yes,?,Yes,Yes,?,Yes,?,?
+38,Sylpheed,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+39,The Bat!,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes [Note 4],Yes [Note 4],Yes,No,Yes
+40,Trojitá,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,?
+41,Turnpike,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+42,Windows Live Mail,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,?
+43,Windows Mail,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+44,YAM,Yes,Yes,?,?,Yes,Yes,?,?,?,?,?,Yes,AmiSSL,?
+45,Zimbra,Yes,Yes,?,?,Yes,Yes,?,?,?,Yes,?,Yes [Note 5],?,?
+46,Client,Regular,Regular,MSN (NTLM) browser login,Compuserve (RPA),MD5 APOP [Note 1],CRAM-HMAC [Note 2],CRAM-HMAC [Note 2],CRAM-HMAC [Note 2],DIGEST-MD5,with hardware token PKCS#11,Biometric,SMTP Auth [Note 3],SSL/TLS Client Certificate,OAUTH
+47,Client,LOGIN,PLAIN,MSN (NTLM) browser login,Compuserve (RPA),MD5 APOP [Note 1],MD5,SHA1,RIPEMD,DIGEST-MD5,with hardware token PKCS#11,Biometric,SMTP Auth [Note 3],SSL/TLS Client Certificate,OAUTH

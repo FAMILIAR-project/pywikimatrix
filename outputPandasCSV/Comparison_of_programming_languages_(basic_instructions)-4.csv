@@ -1,0 +1,39 @@
+,Unnamed: 0,Text,Text.1,Boolean,Enumeration,Object/Universal
+0,,Character,String[a],Boolean,Enumeration,Object/Universal
+1,Ada[1],Character,String & Bounded_String & Unbounded_String,Boolean,"(item1, item2, ... )",tagged null record
+2,ALGOL 68,char,string & bytes,bool & bits,N/A - User defined,
+3,C (C99),charwchar_t,,bool[b],"enum «name» {item1, item2, ... };",void *
+4,C++ (STL),charwchar_t,«std::»string,bool[b],"enum «name» {item1, item2, ... };",void *
+5,Objective-C,unichar,NSString *,BOOL,"enum «name» {item1, item2, ... };",id
+6,C#,char,string,bool,"enum name { item1« = value», item2« = value», ... }",object
+7,Java,char,String,boolean,"enum name {item1, item2, ... }",Object
+8,Go,byterune,string,bool,const (item1 = iotaitem2 ... ),interface{}
+9,Rust,char,String,bool,"enum name {item1,item2,...}",
+10,Swift,Character,String,Bool,"enum name { case item1, item2, ... }",Any
+11,D,char,string,bool,"enum name {item1, item2, ... }",std.variant.Variant
+12,Common Lisp,,,,,
+13,Scheme,,,,,
+14,ISLISP,,,,,
+15,Pascal (ISO),char,,boolean,"(item1, item2, ...)",
+16,Object Pascal (Delphi),char,string,boolean,"(item1, item2, ...)",variant
+17,Visual Basic,,String,Boolean,Enum nameitem1«= value»item2« = value»...End Enum,Variant
+18,Visual Basic .NET,Char,String,Boolean,Enum nameitem1«= value»item2« = value»...End Enum,Object
+19,Xojo,,String,Boolean,Enum nameitem1«= value»item2« = value»...End Enum,Object or Variant
+20,Python,N/A[d],str,bool,,object
+21,JavaScript,N/A[d],String,Boolean,,Object
+22,S-Lang,,,,,
+23,Fortran,CHARACTER(LEN = *),"CHARACTER(LEN = :), allocatable",LOGICAL(KIND = n)[f],,CLASS(*)
+24,PHP,N/A[d],string,bool,,(type declaration omitted)
+25,Perl,N/A[d],,,,UNIVERSAL
+26,Raku,Char,Str,Bool,enum name<item1 item2 ...>enum name <<:item1(value) :item2(value) ..>>,Mu
+27,Ruby,N/A[d],String,Object[c],,Object
+28,Scala,Char,String,Boolean,"object name extends Enumeration {val item1, item2, ... = Value}",Any
+29,Seed7,char,string,boolean,"const type: name is new enum item1, item2, ... end enum;",
+30,Windows PowerShell,,,,,
+31,OCaml,char,string,bool,N/A[e],
+32,F#,char,string,bool,type name = item1 = value |item2 = value | ...,obj
+33,Standard ML,char,string,bool,N/A[e],
+34,Haskell (GHC),Char,String,Bool,N/A[e],
+35,Eiffel,CHARACTER,STRING,BOOLEAN,,ANY
+36,COBOL,PIC X,PIC X(string length) or PIC X«X...»,PIC 1«(number of digits)» or PIC 1«1...»,,OBJECT REFERENCE
+37,Mathematica,N/A[d],String,,,

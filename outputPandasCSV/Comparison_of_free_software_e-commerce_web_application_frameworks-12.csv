@@ -1,0 +1,16 @@
+,Unnamed: 0,Skrill,Stripe,PayPal Pro,PayPal Payflow Link,PayPal Payflow Pro,Sage Pay Form,Sage Pay Direct,USAePay,WorldPay,Offline processing,Offline methods
+0,Apache OFBiz,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+1,Batavi,No,No,No,No,No,No,No,No,No,Yes,Yes
+2,Bigcommerce,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,Drupal Commerce,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+4,KonaKart,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes
+5,Magento,Yes,Yes,Yes,Yes,Yes,Yes,Yes,add-on ($175.00),Yes,Yes,Yes
+6,nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,add-on ($175.00),Yes,Yes,Yes
+7,osCommerce,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+8,pimcore,No,No,No,No,No,No,No,No,No,No,No
+9,PrestaShop,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
+10,Sana Commerce,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes
+11,Shopify,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+12,WooCommerce,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+13,Zen Cart,Yes,Yes,Yes,No,free add-on,No,Yes,Yes,Yes,"free add-on, removed from core for PCI compliance",Yes
+14,,Skrill,Stripe,PayPal Pro,PayPal Payflow Link,PayPal Payflow Pro,Sage Pay Form,Sage Pay Direct,USAePay,WorldPay,Offline processing,Offline methods

@@ -1,0 +1,22 @@
+,Format,Filename extension,DRM support,Image support,Table support,Sound support,Interactivity support,Word wrap support,Open standard,Embedded annotation support,Book- marking,Video support
+0,Comic Book Archive,".cbr, .cbz, .cb7, .cbt, .cba",?,Yes,No,No,No,No,Yes,No,No,No
+1,DjVu,.djvu,?,Yes,Yes,No,No,No,Yes,Yes,Yes,No
+2,DOC,.doc,?,Yes,Yes,Yes,?,Yes,No,?,?,Yes
+3,DOCX,.docx,?,Yes,Yes,Yes,?,Yes,Yes,Yes,?,Yes
+4,EPUB (IDPF),.epub,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes/No[f 1],Yes/No[f 1],Yes[f 2]
+5,FictionBook,.fb2,No,Yes,Yes/No[f 3],No,No,Yes,Yes,Yes,?,?
+6,HTML,.html,No,Yes,Yes,Yes[f 4],No,Yes,Yes,No,No,Yes[f 4]
+7,iBooks,.ibook,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+8,INF,.inf,No,Yes,Yes,No,?,Yes,Yes,Yes/No[f 1],Yes/No[f 1],No
+9,Kindle,.azw,Yes,Yes,Yes[f 5][33],Yes[f 6][34],Yes,Yes,No,Yes,Yes,Yes[f 6][34]
+10,Microsoft Reader,.lit,Yes,Yes,?,No,No,Yes,No,?,Yes,?
+11,Mobipocket,".prc, .mobi",Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,?
+12,Multimedia EBook,.exe,Yes,Yes,?,Yes,Yes,No,Yes,Yes,Yes,?
+13,Newton Book,.pkg,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+14,eReader,.pdb,Yes,Yes,?,No,No,Yes,No,Yes,Yes,?
+15,Plain text,.txt,No,No,No,No,No,Yes,Yes,No,No,No
+16,Plucker,.pdb,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,?
+17,Portable Document Format,.pdf,Yes,Yes,Yes,Yes,Yes,Yes/No[f 7][35],Yes,Yes,Yes,Yes[f 8]
+18,PostScript,.ps,No,Yes,?,No,No,No,Yes,?,?,?
+19,Tome Raider,".tr2, .tr3",Yes,Yes,?,No,No,Yes,No,?,?,?
+20,OpenXPS,".oxps, .xps",?,Yes,Yes,?,No,No,Yes,?,?,?

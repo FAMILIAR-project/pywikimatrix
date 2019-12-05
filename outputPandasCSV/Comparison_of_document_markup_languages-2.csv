@@ -1,0 +1,31 @@
+,Language,Major purpose,Based on,Markup type,Structural markup,Presentational markup[4]
+0,AsciiDoc,Multi-purpose,,Tag,Yes,Yes
+1,Computable Document Format,"Interactive technical documents, infographics, blogs[5]",Wolfram Language,Tag,Yes,Yes
+2,Darwin Information Typing Architecture (DITA),Technical documents,XML,Tag,Yes,Yes[6]
+3,DocBook,Technical documents,SGML / XML,Tag,Yes,Yes[7]
+4,Encoded Archival Description (EAD),Finding aids,XML,Tag,Yes,No
+5,Extensible HyperText Markup Language (XHTML),Hypertext documents,XML,Tag,Yes,Yes[8]
+6,FictionBook,Multi-purpose,XML,Tag,Yes,Yes
+7,HyperText Markup Language (HTML),Hypertext documents,SGML,Tag,Yes,Yes[9]
+8,Lilypond,Music notation,,Control code,Yes,Yes
+9,Maker Interchange Format (MIF),Technical documents,,Tag,Yes,Yes
+10,Markdown,"Formatted Technical documents, Hypertext documents, E-mail",Text E-mail conventions,Tag,Yes,Yes
+11,Math Markup Language (MathML),Mathematical documents,XML,Tag,Yes,Yes[10]
+12,The Music Encoding Initiative (MEI),Music notation,XML,Tag,Yes,Yes
+13,Music Extensible Markup Language (MusicXML),Music notation,XML,Tag,Yes,Yes
+14,Office Open XML (OOXML),Multi-purpose,XML / ZIP,Tag,Yes,Yes
+15,OpenDocument Format (ODF),Multi-purpose,XML / ZIP,Tag,Yes,Yes
+16,Open Mathematical Document (OMDoc),Mathematical documents,XML,Tag,Yes[11],Yes[12]
+17,Org-mode,"Multi-purpose (notes, project management, publishing, literate programming)",Text outliner,Tag,Yes,Yes
+18,reStructuredText,Technical and Multi-purpose documents[13],Structured Text and Setext,Tag,Yes,Yes[14]
+19,Rich Text Format (RTF),Formatted documents,TeX,Pattern parsing,Yes,Yes
+20,Scalable Vector Graphics (SVG),2D Vector graphics,XML,Tag,Yes,Yes
+21,Script,Multi-purpose,RUNOFF,Control code,Yes,Yes
+22,TeX,Academic documents,,Control code,Yes,Yes
+23,Texinfo,Technical documents,"TeX, Scribe",Control code,Yes,Yes
+24,TeXmacs format,Academic documents,tree,Tag,Yes,Yes
+25,Textile,Hypertext documents,AsciiDoc (based on some similarities and dates of release),Tag,Yes,Yes
+26,Text Encoding Initiative (TEI),"Academic, linguistic, literary and technical documents",SGML / XML,Tag,Yes,No
+27,"troff (typesetter runoff), groff (GNU runoff)",Technical documents,RUNOFF,Control code,Yes,Yes
+28,Wireless Markup Language (WML),Hypertext documents,XML,Tag,Yes,Yes
+29,Language,Major purpose,Based on,Markup type,Structural markup,Presentational markup

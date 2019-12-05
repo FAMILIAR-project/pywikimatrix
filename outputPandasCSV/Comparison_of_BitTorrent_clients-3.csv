@@ -1,0 +1,37 @@
+,BitTorrent client,GUI,Remote,CLI,Other,Programming language,Based on,IPv6,μTP
+0,ABC,Yes,Yes,No,No,Python,BitTornado,buggy[Note 2],No
+1,Acquisition,Yes,No,No,No,"Objective-C, Cocoa",Limewire,No,No
+2,BitComet,Yes,Yes,Partial[42],No,C++,-,Yes,No
+3,BitLet,No,No,No,Webapp,Java Applet,-,No,No
+4,BitLord,Yes,No,No,No,"Python, C++",libtorrent (Rasterbar),Yes,No
+5,BitTornado,Yes,No,Partial,No,Python,BitTorrent,Yes,No
+6,"BitTorrent 5, Mainline",Yes,No,Partial,No,Python,-,No,No
+7,BitTorrent 6,Yes,Yes,Partial,No,C++,μTorrent,Yes,Yes
+8,BitTyrant,Yes,Yes,Partial,"Telnet, XML over HTTP remote control API","Java, SWT",Azureus,Yes,No
+9,Blog Torrent,Yes,No,No,No,?,?,No,No
+10,Deluge,Yes,Yes,Yes,Daemon,"Python, C++",libtorrent (Rasterbar),Yes,Yes[43]
+11,FlashGet,Yes,No,No,No,?,?,No,No
+12,Free Download Manager,Yes,Yes,Partial,No,C++,libtorrent (Rasterbar),No,No
+13,Frostwire,Yes,No,No,No,Java,libtorrent (Rasterbar),No,Yes[44]
+14,KGet,Yes,Yes,Partial[Note 3],No,C++,-,Yes,No
+15,KTorrent,Yes,Yes,Partial,No,C++,-,Yes,Yes[45]
+16,LimeWire,Yes,No,No,No,Java,libtorrent (Rasterbar),No,No
+17,Meerkat Bittorrent Client,Yes,No,No,No,C++,-,No,No
+18,Miro,Yes,No,No,No,C++,libtorrent (Rasterbar),No,No
+19,MLDonkey,No,Third Party[46],Partial,Telnet,OCaml,-,No,No
+20,μTorrent,Yes,Yes,No[47],RESTful Web API[48],C++[49],-,Yes[50],Yes[51]
+21,OneSwarm,Partial,Yes,No-partial,No,Java,Azureus,Yes,No
+22,Opera 12,Yes,No,No,No,C++,-,Yes,No
+23,qBittorrent,Yes,Yes,Partial,No,"Python, C++",libtorrent (Rasterbar),Yes,Yes[52]
+24,rTorrent,No,Third Party,Yes,SCGI,C++,libTorrent (Rakshasa),No[53],No
+25,Shareaza,Yes,Yes,Partial,No,C++,-,No,No
+26,SymTorrent,Yes,No,No,No,?,?,No,No
+27,Tixati,Yes,Yes,No,No,C++,-,Yes,Yes[54]
+28,Tomato Torrent,Yes,No,No,No,Cocoa,BitTorrent,No,No
+29,Tonido,No,Yes,No,No,C++,libtorrent (Rasterbar),No,No
+30,TorrentFlux,No,Yes,No,No,PHP,BitTornado,No,No
+31,Transmission,Yes,Yes,Yes,"Daemon, JSON-RPC over HTTP remote control API","C, Objective-C",libtransmission,Yes,Yes[55]
+32,Tribler,Yes,Partial,Partial,No,"Python, C++",libtorrent (Rasterbar),No,Yes
+33,Vuze (formerly Azureus),Yes,Yes,Partial,"Telnet, XML over HTTP remote control API","Java, SWT",-,Yes,Yes[56]
+34,Xunlei,Yes,No,No,remote control over internet[57],C++,-,No,No
+35,BitTorrent client,GUI,Web,CLI,Other,Programming language,Based on,IPv6,μTP

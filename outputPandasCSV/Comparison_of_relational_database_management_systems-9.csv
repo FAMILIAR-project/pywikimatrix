@@ -1,0 +1,46 @@
+,Unnamed: 0,Data Domain,Cursor,Trigger,Function 1,Procedure 1,External routine 1
+0,4th Dimension,Yes,No,Yes,Yes,Yes,Yes
+1,ADABAS,?,Yes,?,Yes?,Yes?,Yes
+2,Adaptive Server Enterprise,Yes,Yes,Yes,Yes,Yes,Yes
+3,Advantage Database Server,Yes,Yes,Yes,Yes,Yes,Yes
+4,Altibase,Yes,Yes,Yes,Yes,Yes,Yes
+5,Apache Derby,No,Yes,Yes,Yes 2,Yes 2,Yes 2
+6,ClustrixDB,No,Yes,No,Yes,Yes,Yes
+7,CUBRID,Yes,Yes,Yes,Yes,Yes 2,Yes
+8,Empress Embedded Database,Yes via RANGE CHECK,Yes,Yes,Yes,Yes,Yes
+9,EXASolution,Yes,No,No,Yes,Yes,Yes
+10,DB2,Yes via CHECK CONSTRAINT,Yes,Yes,Yes,Yes,Yes
+11,Firebird,Yes,Yes,Yes,Yes,Yes,Yes
+12,HSQLDB,Yes,No,Yes,Yes,Yes,Yes
+13,H2,Yes,No,Yes 2,Yes 2,Yes 2,Yes
+14,Informix Dynamic Server,Yes via CHECK,Yes,Yes,Yes,Yes,Yes 5
+15,Ingres,Yes,Yes,Yes,Yes,Yes,Yes
+16,InterBase,Yes,Yes,Yes,Yes,Yes,Yes
+17,Linter SQL RDBMS,No,Yes,Yes,Yes,Yes,No
+18,LucidDB,No,Yes,No,Yes 2,Yes 2,Yes 2
+19,MariaDB,Yes[154],Yes,Yes,Yes,Yes,Yes
+20,MaxDB,Yes,Yes,Yes,Yes,Yes,?
+21,Microsoft Access (JET),Yes,No,No,No,"Yes, But single DML/DDL Operation",Yes
+22,Microsoft Visual Foxpro,No,Yes,Yes,Yes,Yes,Yes
+23,Microsoft SQL Server,Yes,Yes,Yes,Yes,Yes,Yes
+24,Microsoft SQL Server Compact (Embedded Database),No,Yes,No,No,No,No
+25,Mimer SQL,Yes,Yes,Yes,Yes,Yes,No
+26,MonetDB,No,No,Yes,Yes,Yes,Yes
+27,MySQL,No 3,Yes,Yes,Yes,Yes,Yes
+28,OpenBase SQL,Yes,Yes,Yes,Yes,Yes,Yes
+29,Oracle,Yes,Yes,Yes,Yes,Yes,Yes
+30,Oracle Rdb,Yes,Yes,Yes,Yes,Yes,Yes
+31,OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes,Yes
+32,Pervasive PSQL,Yes,Yes,Yes,Yes,Yes,No
+33,Polyhedra DBMS,No,No,Yes,Yes,Yes,Yes
+34,PostgreSQL,Yes,Yes,Yes,Yes,Yes,Yes
+35,Raima Database Manager,No,Yes,No,No,Yes,Yes
+36,RDM Server,No,Yes,Yes,No,Yes,Yes
+37,SAP HANA,?,?,?,?,?,?
+38,solidDB,Yes,Yes,Yes,Yes,Yes,Yes
+39,SQL Anywhere,Yes,Yes,Yes,Yes,Yes,Yes
+40,SQLite,No,No,Yes,No,No,Yes
+41,Teradata,No,Yes,Yes,Yes,Yes,Yes
+42,UniData,No,No,Yes,Yes,Yes,Yes
+43,UniVerse,No,No,Yes,Yes,Yes,Yes
+44,,Data Domain,Cursor,Trigger,Function 1,Procedure 1,External routine 1

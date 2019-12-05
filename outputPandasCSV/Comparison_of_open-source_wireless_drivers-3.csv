@@ -1,0 +1,13 @@
+,Driver name,Chipset,Integration,Non-free firmware required,License,Original/Primary developer,Development
+0,acx,Texas InstrumentsACX100/ACX111,Integrated since 1.5,Yes,BSD,,Reverse engineering
+1,an,Aironet4500/4800,Integrated,On Device,BSD,Bill Paul(FreeBSD),
+2,ath,Atheros AR5210/AR5211/AR5212/AR5416,Integrated,On Device,BSD,,
+3,bwi,BroadcomBCM430x/4318,Integrated,Yes,BSD,SepherosaZiehau,Reverse engineering
+4,iwi,Intel PRO/Wireless2200BG/2915ABG,Integrated,Yes,BSD,Damien Bergamini(OpenBSD),Reverse engineering
+5,iwl,Intel PRO/Wireless2100,Integrated,Yes,BSD,Damien Bergamini(OpenBSD),Reverse engineering
+6,iwn,Intel 4965/1000/5000/5150/5300/6000/6050,Integrated,Yes,BSD,Damien Bergamini(OpenBSD),Reverse engineering
+7,ral,Ralink RT2500/RT2501/RT2600,Integrated,On Device,BSD,Damien Bergamini,Ported fromFreeBSD
+8,rtw,RealtekRTL8180L,Integrated,On Device,BSD,,Ported from NetBSD
+9,rum,RalinkRT2501USB/RT2601USB,Integrated,On Device,BSD,Damien Bergamini,Ported fromFreeBSD
+10,wi,"Lucent Hermes(WaveLAN / ORiNOCO);Intersil PRISM-II, -2.5; Symbol Spectrum24 802.11b",Integrated,On Device,BSD,Bill Paul (FreeBSD),Documentation based
+11,wpi,Intel3945ABG,Integrated,On Device,BSD,Damien Bergamini,Ported from OpenBSD

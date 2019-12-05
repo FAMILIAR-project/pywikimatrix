@@ -1,0 +1,7 @@
+,Features:,"Configuration: GUI, text or both modes?","Remote Access: Web (HTTP), Telnet, SSH, RDP, Serial COM RS232, ...",Change rules without requiring restart?,Ability to centrally manage all firewalls together
+0,Untangle,both,"SSH (Not enabled by default), Web GUI,",Yes,Yes
+1,WinGate,GUI,Proprietary user interface,Yes,
+2,ClearOS,both,"RS232, SSH, WebConfig,",Yes,Yes with ClearDNS
+3,Zeroshell,GUI,"SSH, Web (HTTPS), RS232",Yes,No
+4,pfSense,both,"SSH, Web (HTTP/HTTPS), RS232",Yes,No
+5,IPFire,both,"SSH, Web (HTTPS), RS232",Yes,No

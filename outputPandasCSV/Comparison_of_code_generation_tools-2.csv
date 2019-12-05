@@ -1,0 +1,60 @@
+,Name,Implementation Language,Active; Passive [12],Model[12],Typical input,Other input,Typical output
+0,Xomega.Net for Visual Studio,"C#, XSL, XSD",Active,Mixed,"User-defined models, XML","Templates, Import from DB","Complete Application - User Interface (HTML5, ASP.NET, WPF, SPA), Service Layer (REST, WCF), Business Layer (EF), DAL, DB scripts, Config files, VS project files"
+1,Acceleo,Java,Active,Tier,"User-defined EMF based models (UML, Ecore, user defined metamodels)","Any EMF based input (Xtext DSLs, GMF graphical models, etc.)",Any textual language.
+2,Accelerator,C#,Active,Tier,Database schema,"XML Schema, Templates and configuration tables","C#, WPF, ASP.NET, MVC, ASP.NET, WCF, WebServices(complete application)"
+3,actifsource,Java,Active,Tier,User-defined Models,"Import from UML, Ecore.",Any textual language.
+4,any<code/>,Java,Active,Tier,User-defined models,Custom templates (Groovy),"Any textual language, depends on your template code. Built-in directives in Java, JPA, Objective-C added since v1.2.0"
+5,Appsroller Web Form Generator,JavaScript,Active,Web Tier,Any code,JavaScript,
+6,Apeel PHP Code Generator Pro,Delphi,Passive,Tier,Database schema,"PHP, HTML, CSS","Full Application – PHP, CSS, Apeel Open Source Framework."
+7,AtomWeaver,"C++, Lua",Active,Tier,"Tree models built using a cooperative template system, based on the ABSE modeling approach",Code in any language,Any textual language
+8,Catapult,"C#, JavaScript, HTML",Active,Web Tier,Tree models built using Catapult UI,Templates,"C#, JavaScript, HTML, CSS"
+9,Celerio,Java,Active,Tier,Database schema Convention over Configuration and Configuration,Custom templates (velocity),"Any textual language, but traditionally Java, HTML, XML, etc."
+10,Click2Code for windows,Visual Basic 6.0,Active,Mixed,User-defined Templates,Templates,User Interface
+11,Code4Green,"C#, VB.NET, ASP.NET, SharePoint, SQL, JAVA, classical ASP, HTML, XML",Active,Tier,"Code4Green - an online ultimate code generation tool with a green cause of plantation of trees on each 10,000 LOC","Code in C#, VB.NET, ASP.NET, SharePoint, SQL, JAVA, classical ASP, HTML, XML",Output determined by the selected language type. It is a plain text.
+12,CodeFluent Entities,C#,Active,Mixed,"User-defined models, Database schema",Templates,".NET classes, Persistence layers (Microsoft SQL Server, Oracle, PostgreSQL, MySQL), WCF Services, ASP.NET websites..."
+13,CodeSmith Generator,"C#, VB.NET, JavaScript",Active,Mixed,"Database schema (ADOX, DB2 zOS, ISeries, MySQL, Oracle, Postgre, SQL Anywhere, SQL Compact, SQL Server, SQLite, VistaDB), C# or VB.NET source code, Any meta data source.. E.G., Web Services, SharePoint, UML, XSD, XML, DBML, EDMX, JSON, HBM, HTML and more...",Templates,"Any textual output such as C#, VB.NET, C/C++, XML, SQL, JSON, JavaScript, HTML, or any other plain text format."
+14,CodeGenerator360,C#,Active,Tier,Database Schema,XML Schema,"Stored procedures, .NET DAL, C# ASP.NET pages, Visual Studio 2010 solution and project files"
+15,CodeOnTime,C#,Active,,Database Tables,Templates and Various XML configuration tables,C# ASP.NET
+16,Cog,Python,Active[13],Mixed,Any code,Java C# C++ C Perl Python Ruby TCL JavaScript Fortran Lisp Scheme Cobol XSLT JSP PHP Yacc SQL XML System Configuration Files,
+17,C++ Middleware Writer,C++,Active,,DSL instance / Middle file,Include files,C++ marshalling code
+18,DMS Software Reengineering Toolkit,"Several code generation DSLs (attribute grammars, tree patterns, source-to-source rewrites)",Active,DSLs represented as abstract syntax trees,DSL instance,Well-formed output language code fragments,"Any programming language (proven for C, C++, Java, C#, PHP, COBOL)"
+19,DRAKON,Tcl/Tk,Active,Tier,User-defined flowchart model drawn in the editor,Flowchart in SQLite database in documented structure,"Java, Go, D, C#, C/C++ (with Qt support), Python, Tcl, JavaScript, Lua, Erlang, AutoHotkey, Verilog. Extensible."
+20,EazyCode,"C#, VB.NET",Active,Tier,Database schema,Templates,"Application and code in ASP.NET, ASP.NET MVC, C#, VB.NET, WPF, WCF Services, SQL Query, SQL stored procedure, BAL, DAL, POCO"
+21,GenerateXY,Java,Active,Tier,User-defined Models,"XML, CSV, Java, ... (extensible)","Any textual language, predefined modules for Java, HTML, XML"
+22,generjee,Java,Passive,Tier,"Online-editor, user-defined models",,Full Java EE Application
+23,Genexus,Multiple languages,Active,Compenium,"Complete application generator including desktop, mobile (iOS, Android, Windows) cloud, etc.","KB, Libraries, iOS, Android and other library.","From simple to complex applications, with business objects, rules, screen, knowledge base, with db and code choices (e.g. C#, Java, Ruby, etc. plus management/generation. Also reverse engineering for legacy upgrades."
+24,GNU AutoGen,C,Active,Tier,"Autogen definitions (lists of key-value pairs or hierarchical data arranged like C structs), Autogen templates (fixed output plus inline macros for conditional or repetitive emission of code blocks or evaluation of Bourne shell or Scheme expressions)","XML, CGI data","Output determined by template (any language or even plain text); additional support for emitting header guards, certain licenses, option parsers, and finite state machines in C"
+25,GSL Universal Code Generator,C,Active,Tier,"gsl script, XML models",,Any textual language
+26,gSOAP,C / C++,,,WSDL specifications,,C / C++ code that can be used to communicate with WebServices. XML with the definitions obtained.
+27,Iron Speed Designer,C# / VB.NET,Active,Tier,Database schema,CSS,"ASP.NET (Full application, including C# code, VB code, XML, stored procedures, etc.)"
+28,Isis,Java pojos,Active [14],Mixed,Isis Java code: Domain Design,optionally JSON (for layout hints),Java code: Apache Wicket JAX-RS DataNucleus Apache Shiro
+29,J To Go,Java,Passive,Tier,"Online-editor, user-defined models",,Java with Spring backend and Angular JavaScript frontend
+30,Jigy Generator,Java,Active,MVC,Just fill out a SIMPLE form,,A Spring MVC Java web application compatible with either Eclipse or NetBeans based on the user's preferences
+31,Jostraca,Java,Active [15],Tier,Any code,Java,"Any code; Java, JSP"
+32,JCodeBox,Java,,Tier,Java,,Java (Full Web Application)
+33,kiss!,"C#, VB.NET, SQL",Active,Mixed,Database as Data Model,Templates,"C#, VB.NET classes, SQL, Schema Information as comma separated values (*.cs, *.vb, *.sql, *.csv)"
+34,Linx,C#,Active,Tier,Process Design from Linx designer,-,.NET Process (dll) and Windows Service
+35,Microsoft Visual Studio LightSwitch,C# / VB.NET,Active,Tier,Database schema,,Complete Silverlight application (Desktop or Web)
+36,MinuteProject,Java code,Active; Passive,Mixed,Database WSDL,"config, velocity files","Java code: ORM entities, DAO, Webservices, Full application with proven framework stack: JPA"
+37,NoORM,Java,Active,Mixed,Database schema,Templates,"Java classes (Persistence layer with proxy classes for database tables and views, DML code and services for stored procedures and declared queries with support for Oracle)"
+38,OMS.Ice – T4 Text Template Generator,C#,Active,Mixed,"T4 text template, C# or VB",C# partial classes,"Any textual output such as C#, VB, C/C++, XML, or any other plain text format"
+39,OutSystems Platform,.NET,Active,Tier,User defined models based on the OutSystems visual modelling language,"Java, C#, JavaScript, HTML5, CSS",ASP.NET and JEE
+40,PHPRunner,PHP/ASP/C#/VB.NET,Active,Tier,Database schema,"PHP, ASPX, HTML, CSS,","PHP, ASP, ASP.NET (Full Web application, including C#, VB.NET, PHP, ASP code, HTML, JavaScript, CSS, etc.)"
+41,Pro*C,,,Inline,SQL in C,,C
+42,Radarc Online,C#/Angular.js/Node.js,Active,Mixed,WYSIWYG UI/Data Layer Editor,Templates,"User Interface Layer, Services Layer, Business Logic Layer, Data Access Layer, Database, IoC, Test... (Android, iOS, Windows Phone, Windows)"
+43,Reegenerator,"C#, VB.NET, XSD",Active,Mixed,User-defined Templates,"Database, XSD, XML, C# or VB.NET Code","C#, VB.NET, SQL, Any other textual language"
+44,ribosome,"Ruby, JavaScript or Python",Active,Mixed,"Any format that can be read by Ruby, JavaScript or Python","Code generation script in Ruby, JavaScript or Python",any text document(s)
+45,Scalagen,Scala,Passive,Tier,Database,,Scala ORM code
+46,Scriptcase,"PHP, JavaScript",Active,Tier,Complete application (Web/Mobile) and build or use the database schema,"PHP, HTML,JavaScript, Ajax,","Full Web application ready to use (PHP and Javascript) with Interface layer, service layer, PHP, CSS. etc. and Database scripts to apply."
+47,Spring Roo,Java,Active,Tier,Java and automatically-introspected project metadata,Shell commands,"Java (Full Web Application including Java source, AspectJ source, XML, JSP, Spring application contexts, build tools, property files, etc.)"
+48,Stadium,C#,Passive&Active,Mixed,Web Application design using Stadium designer,Databases & SQL scripts,".NET solution with C# sources, Bootstrap CSS, jQuery"
+49,T4,,Passive,,T4 Template/Text File,,"Any text format such as XML, XAML, C# files or just plain text files."
+50,Telosys,Java,Active,Mixed,User-defined Models (DSL based on text files) and Database-Model created automatically from database schema,,"Any textual language : Java (Spring, JAX-RS, JPA, JUnit, etc), Python, C#, SQL, JavaScript (NodeJS), PHP, etc"
+51,TLGen,Java,Active,Mixed,"Database schema (Oracle, MySQL, PostgreSQL), XML (domain model UML exported XML)","Import from UML domain model (XML), Import from DB","Java source classes (EJB3 persistence layer, data classes with interfaces. Session Beans, Entity Managers and Entity Bean source classes. Message Beans. Web Services (SOAP, REST). JUnit Test classes.). DB SQLs"
+52,Umple,Java,Active,Tier,"Java, C++, PHP, Ruby with embedded Umple code","Pure Umple code describing associations, patterns, state machines, etc.","Java, C++, PHP, Ruby, ECcore, Umlet, Yuml, Textuml, JSON, Papyrus XMI"
+53,Velocity apache,Java,Passive [16],Tier,Any code,Java,Java
+54,X2X,C++,Active,Mixed,Any textual format,CSV export from Excel-Sheet,Any textual language
+55,XACT X4MR,C,Passive,,"Language_A Source, Language_A-to-Language_B Transform Rules","CHILL, CMS2, FORTRAN, COBOL, JOVIAL, PASCAL, PL/1, PLM86",Compilable Language_B Source; Application_A Documentation; Application_B Documentation
+56,XDocLet,,Active,Munger,JavaDoc,,EJB support beans
+57,Yii2 Gii,PHP,Active,Tier,"Database schema, user input, source code",,"Skeleton application, CRUD applications"
+58,ZumCoder/MDA,PHP,Passive,Mixed,"XSD, DBML, Database Schema(Mysql,SqlServer,PostegreSQL,SQLite),HTML forms,PHP class and (ZML ""ZumCoder Model Language"", a XML define structure",Templates,"Any textual language, depends upon your template code, you can write your own template to outputs the language of your preference"

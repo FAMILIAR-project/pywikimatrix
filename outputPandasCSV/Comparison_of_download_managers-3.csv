@@ -1,0 +1,22 @@
+,Manager,Web browser integration,Resuming,Download acceleration,URLs per file,Mirror search,Auto dial/hangup,Categorized downloads,Cookies import,Speed limit,File browser,ZIP preview,Add-on support,Scheduler,Checksum verification,Remote Access/Control,Modified Time-stamp preserved
+0,4K Video Downloader,No,Yes,Yes,?,No,No,No,No,No,Yes,No,No,No,No,No,?
+1,BitComet,Yes,Yes,Yes,?,Yes,?,Yes,?,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes
+2,Download Accelerator Plus,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?,?,?,?,?
+3,DownloadStudio,Yes,Yes,Yes,1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,?,?
+4,DownThemAll!,Requires Firefox,Yes,Yes,10,Beta,No,Yes,No,Beta,No,No,No,No,Yes,No,Yes
+5,FlashGet,Yes,Yes,Yes,unknown limit,Yes,Yes,Yes,Yes,All downloads,Yes,No,Yes,,No,No,?
+6,Folx,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+7,Free Download Manager,Yes,Yes,Yes,10,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,Free Studio,Yes,Yes,Yes,unlimited,No,No,No,No,No,No,No,No,No,No,No,?
+9,Freemake Video Downloader,No,Yes,Yes,unlimited,No,No,No,No,Yes,Yes,No,No,No,No,No,?
+10,GetRight,Yes,Yes,"10 streams, needs mirrors for >4 streams",unlimited,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Scripting,Yes,Yes,Yes,Yes
+11,Go!Zilla,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+12,Internet Download Accelerator,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+13,Internet Download Manager,Yes,Yes,Yes,1 refreshable,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes
+14,JDownloader,Yes,Yes,Yes,1,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,?
+15,Jigdo,No,Yes,?,unlimited,?,No,No,No,No,No,No,?,No,Yes,No,No
+16,KGet,"Konqueror, Fx (via Flashgot plugin)",Yes,Yes,unlimited,Yes,Yes,Yes,Yes,BitTorrent Only[18],Yes,No,Yes,?,Yes,Yes,?
+17,MiniDM,Yes,Yes,Yes,unlimited,No,No,No,No,No,Yes,No,Yes,?,Yes,Yes,?
+18,MLDonkey,Partial,Yes,No,unlimited,No,No,Yes,No,Yes,No,No,Yes,?,Yes,Yes,?
+19,Shareaza,IE; Fx and similar: ext. plugin[19],Yes,Yes,unlimited,Yes,via Scheduler,Yes,No,Yes,Yes,Yes,Yes,?,Yes,Yes,?
+20,Manager,Web browser integration,Resuming,Download acceleration,URLs per file,Mirror search,Auto dial/hangup,Categorized downloads,Cookies import,Speed limit,File browser,ZIP preview,Add-on support,Scheduler,Checksum verification,Remote Access/Control,Modified Time-stamp preserved

@@ -1,0 +1,15 @@
+,Format,Languages
+0,string1 == string2,"Python, C++ (STL), C#, Cobra, Go, JavaScript (similarity), PHP (similarity), Ruby, Erlang, Haskell, Lua, D, Mathematica, Swift, Ya"
+1,string1 === string2,"JavaScript, PHP"
+2,string1 == string2 or string1 .EQ. string2,Fortran
+3,"strcmp(string1, string2) == 0",C
+4,(string=? string1 string2),Scheme
+5,(string= string1 string2),"Common Lisp, ISLISP"
+6,string1 = string2,"ALGOL 68, Ada, Object Pascal (Delphi), OCaml, Pascal, Rexx, Seed7, Standard ML, BASIC, VB, VB .NET, F#, Smalltalk, PL/I, COBOL"
+7,"test string1 = string2, or [ string1 = string2 ]",Bourne Shell
+8,string1 eq string2,"Perl, Raku"
+9,string1.equals(string2),"Cobra, Java"
+10,string1.Equals(string2),C#
+11,"string1 -eq string2, or [string]::Equals(string1, string2)",Windows PowerShell
+12,"[string1 isEqualToString:string2], or [string1 isEqual:string2]",Objective-C (NSString * only)
+13,string1 ≡ string2,APL

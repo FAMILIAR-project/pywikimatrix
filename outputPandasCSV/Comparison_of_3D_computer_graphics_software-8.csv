@@ -1,0 +1,7 @@
+,Application,Hard surface Modeling,Hard surface Modeling.1,Sculpt Modeling,Sculpt Modeling.1,Sculpt Modeling.2,Sculpt Modeling.3,Non-destructive Modeling,Non-destructive Modeling.1,Non-destructive Modeling.2
+0,Application,Polygon Modeling,Subdivision Modeling,Base-mesh Creation,Sculpting,Hand Retopology,Automatic Retopology,Boolean,Bevel,Procedural
+1,Maya,Yes,Yes,(SOuP BMesh),Yes,Yes,polyRetopo command,Yes,Yes,Yes
+2,3ds Max,Yes,Yes,(Form),Paint Deform,Yes,No,Yes,Yes,Yes
+3,Blender,Yes,Yes,Skin Modifier,Yes,Yes,2.81 and later,Yes,Yes,stack only
+4,ZBrush,ZModeler,ZModeler,ZSphere and ZSketch,Yes,Yes,ZRemesher,4R8 and later,?,No
+5,Curvy 3D,No,No,sketch-based,Yes,?,?,?,?,No

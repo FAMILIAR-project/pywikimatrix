@@ -1,0 +1,21 @@
+,Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing list,Forum,Personal repository,Private repository,Announce,Build system,Team,Release binaries,Self-hosting
+0,Assembla,Yes[18],Yes,Yes,Yes,Yes,No,No,No,Yes,Yes[19],Yes,Yes,Yes,Unknown,No
+1,Azure DevOps Services,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commercially (Azure DevOps Server)
+2,Bitbucket,Yes[20],Yes[a],Yes[21],Yes,No,No,No,No,Yes,Yes[b],No,Yes[22],Yes,No[23],Commercially (Bitbucket Server formerly Stash)[c]
+3,Buddy,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes[d],Yes,Yes,Yes
+4,CloudForge,Unknown,Yes,Yes,Yes,No,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
+5,GForge,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,Gitea,Yes,Yes,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,Yes,Unknown,"3rd-party (e.g. Travis CI, Appveyor and others)[24]",Yes,Unknown,Yes
+7,GitHub,Yes[25],Yes[26][e],Yes[27],Yes,No,No,No,No,Yes,Yes[f],Yes,"3rd-party (e.g. Travis CI, Appveyor and others)[28]",Yes,Yes,Commercially (GitHub Enterprise)
+8,GitLab,Yes[29],Yes,Yes[30],Yes,No,No,No,No,Yes,Yes,Yes,Yes[31],Yes,Yes[32],Yes[g]
+9,GNU Savannah,Yes[33],Yes,Yes,No,No,Yes,Yes,No[34],No,No,Yes,No,Yes,Unknown,Yes
+10,Helix TeamHub,Yes[35],Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,"Yes, with hooks. Jenkins, TeamCity, etc.",No,Yes,Yes
+11,java.net/Project Kenai,Unknown,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No
+12,Kallithea,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+13,Launchpad,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes[h],Yes,Yes[i],Yes,Unknown,Yes
+14,OSDN,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No
+15,Ourproject.org,Unknown,Yes,Yes,Yes,No,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+16,Phabricator,Yes,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+17,RhodeCode,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+18,SourceForge,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes[j],Yes,No,Yes,Yes,Yes
+19,Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing list,Forum,Personal repository,Private repository,Announce,Build system,Team,Release binaries,Self-hosting

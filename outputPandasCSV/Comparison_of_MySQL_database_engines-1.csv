@@ -1,0 +1,24 @@
+,Name,Vendor,License,Transactional,Under active development
+0,Archive,Oracle,GPL,No,Yes
+1,Aria,MariaDB,GPL,No,Yes
+2,Berkeley DB,Oracle,AGPLv3,?,No
+3,BlitzDB,?,GPL,No,Yes
+4,CONNECT,MariaDB,GPL,?,Yes
+5,CSV,Oracle,GPL,No,Yes
+6,DeepSQL,Deep Information Sciences,Custom Proprietary,Yes,Yes
+7,Falcon,Oracle,GPL,Yes,No
+8,InfiniDB,Calpont,GPL,Yes,Yes
+9,InnoDB,Oracle,GPL,Yes,Yes
+10,MyISAM,Oracle,GPL,No,No
+11,NDB,Oracle,GPLv2,Yes,Yes
+12,TokuDB,TokuTek,Modified GPL,Yes,Yes
+13,WiredTiger,WiredTiger,GPL,Yes,Yes
+14,XtraDB,Percona,GPL,Yes,Yes
+15,Federated,Oracle,GPL,?,No
+16,FederatedX,MariaDB,GPL,?,Yes
+17,CassandraSE,MariaDB,GPL,No,No
+18,sequence,MariaDB,GPL,Yes,Yes
+19,mroonga,MariaDB,GPL,?,Yes
+20,SphinxSE,Sphinx Technologies,GPL,No,Yes
+21,MyRocks,Facebook,GPLv2,Yes,Yes
+22,MyMax,CEICOM Solutions,Custom Proprietary,Yes,Yes

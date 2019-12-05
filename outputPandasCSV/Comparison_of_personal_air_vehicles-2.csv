@@ -1,0 +1,31 @@
+,Model,Type,Capacity,Speed,Range,Door-to-doorcapable,Price
+0,A³ Vahana [2][3][4],?,?,?,? km,?,? €
+1,Aeris Naviter AeroQuad [5],?,?,unflown,? km,?,? €
+2,Milner Motors Aircar,Roadable aircraft,4,unflown,?,?,"$450,000 US"
+3,Attila Melkuti AMV 211 [6],?,?,unflown,? km,?,? €
+4,Carter PAV[7],Autogyro,4,unflown,200 mph (320 km/h),?,? €
+5,Cartivator Skydrive [8],?,?,?,? km,?,? €
+6,DARPA TX,Roadable aircraft,4,unflown,,?,? €
+7,DM AeroSafe Eagle Aero-Cart,VTOL aircraft,1,unflown,? km,?,? €
+8,Peebles Fanwing [9],?,?,unflown,? km,?,? €
+9,GEN H-4 [10][11][12],Ultralight helicopter,1,124 mph (200 km/h),37 mi (60 km),Yes,7 500 000 JPY
+10,Gress Aerospace PAV [13],?,?,? km/h,? km,?,? €
+11,BLI Helodyne,VTOL aircraft,4,140 mph (230 km/h),"1,210 mi (1,950 km)",Yes,"$67,500 US"
+12,Entecho Hoverpod[14],?,?,? km/h,? km,?,? €
+13,AVCEN Jetpod,STOL aircraft,?,unflown,? km,?,
+14,Kitty Hawk Flyer,VTOL aircraft,?,?,?,?,?
+15,TAM Libelula,Backpack helicopter,?,? km/h,? km,?,? €
+16,PAV-X[15],Ultralight Semi-Autonomous Drone,1,70 mph (110 km/h),40 mi (64 km),?,"€50,000"
+17,Lilium Jet,VTOL,1,300 km/h (190 mph),300 km (190 mi),?,?
+18,Mosquito XE/XEL[16],ultralight helicopter,1,80 mph (130 km/h),150 mi (240 km),?,"€43,000"
+19,PAL-V gyrocopter,autogyro,2,110 mph (180 km/h),220–310 mi (350–500 km),Yes,"€200,000"
+20,Kestel PAV,?,?,unflown,? km,?,? €
+21,Samson Skybike,Paramotor,1,? km/h,50 mi (80 km),?,"$6,000 US"
+22,Moller Skycar,VTOL aircraft,?,unflown,? km,?,?
+23,Parajet Skycar,Paramotor,2,100 mph (160 km/h),200 mi (320 km),Yes,"£50,000"
+24,Macro SkyRider X2R,?,?,unflown,? km,?,? €
+25,Butterfly Super Sky Cycle,Autogyro,1,80 mph (130 km/h),? km,?,?
+26,Samson Switchblade,Roadable aircraft,2,unflown,345 mi (555 km),Yes,"$60,000 US (kit)"
+27,Terrafugia Transition,Roadable aircraft,2,115 mph (185 km/h),489 mi (787 km),?,"$194,000 US"
+28,VerdeGo Aero PAT200[17][18][19],hybrid electric VTOL,2 pax/500 lb (227 kg),> 150 mph (240 km/h),20-40 mi (30–60 km),urban vertiports,for operators
+29,Xplorair PX200,VTOL aircraft,1,unflown,310 mi (500 km),Yes,"$80,000 US"

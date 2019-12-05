@@ -1,0 +1,17 @@
+,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Processing power[a][d](GFLOPS).2,Memory,Memory.1,Memory.2,Memory.3,TBP (W),Bus interface,Graphic outputports
+0,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture(GT/s),Pixel(GP/s),Half,Single,Double[f],Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TBP (W),Bus interface,Graphic outputports
+1,Radeon Pro WX 2100(Lexa)[221][222][223],June 2017$149 USD,GCN 4th genTSMC 14 nm,2200×106103 mm2,512:32:168 CU,1219,39.0,19.5,SP,1250,78,GDDR564-bit,2,6000,48,<35,PCIe 3.0 ×16,1× DP 1.4 2× mini-DP 1.4
+2,Radeon Pro WX 3100[221][224],June 2017$200 USD,GCN 4th genTSMC 14 nm,2200×106103 mm2,512:32:16 8 CU,1219,39.0,19.5,SP,1250,78,GDDR5128-bit,4,6000,96,<50,PCIe 3.0 ×16,1× DP 1.4 2× mini-DP 1.4
+3,Radeon Pro WX 4100(Polaris 11)[225][226][227][228][229][230],November 2016$399 USD,GCN 4th genTSMC 14 nm,3000×106123 mm2,1024:64:1616 CU,9251170,59.274.9,14.818.7,SP,18902400,118150,GDDR5128-bit,4,7000,112,50,PCIe 3.0 ×16,4× mini-DP 1.4
+4,Radeon Pro WX 5100(Polaris 10)[226][227][228][231][230],November 2016$499 USD,GCN 4th genTSMC 14 nm,5700×106232 mm2,1792:112:3228 CU,9261090,103.7122.1,29.634.9,SP,33203910,208244,GDDR5256-bit,8,6600,211.2,75,PCIe 3.0 ×16,4× DisplayPort 1.4
+5,Radeon Pro WX 7100(Polaris 10)[226][227][228][232][233][230],November 2016$799 USD,GCN 4th genTSMC 14 nm,5700×106232 mm2,2304:144:3236 CU,9001240,115.2158.7,28.839.7,SP,41505710,259357,GDDR5256-bit,8,8000,256,130,PCIe 3.0 ×16,4× DisplayPort 1.4
+6,Radeon Pro WX 9100(Vega)[234][235][236][237][238][239][240],"September 2017$2,199 USD",GCN 5th gen14 nm,12500×106484mm2,4096:256:64[241]64 CU,1500,384.0,96.0,"24,576(2× SP)",12288,768(​1⁄16× SP),HBM22048-bit,16,1890,483.84,<250,PCIe 3.0 ×16,6× mini-DP 1.4
+7,Radeon Pro SSG(Fiji)[242],July 2016prototype only,GCN 3rd gen28 nm,8900×106596 mm2,4096:256:6464 CU,1000?,256?,64.0?,"8,192?","8,192?",512?,HBM + SSG4096-bit,4+ 1 TB SSD,1000,512,200?,PCIe 3.0 ×16,Unknown
+8,Radeon Pro SSG(Vega)[243][236][238][239],"September 2017$6,999 USD",GCN 5th gen14 nm,12500×106484 mm2,4096:256:64[241]64 CU,1500,384.0,96.0,24600,12290,768,HBM2 + SSG2048-bit,16+ 2 TB SSD,1890,483.84,<300,PCIe 3.0 ×16,6× mini-DP 1.4
+9,Radeon Pro Duo(Polaris 10)[226][227][228][232][233][230][244],April 2017$999 USD,GCN 4th genTSMC 14 nm,2× 5700×106232 mm2,2× 2304:128:3236 CU,1243,2× 179.0,2× 39.78,SP,"2× 5,728",(​1⁄16× SP),GDDR5256-bit,2×16,7000,224,<250,PCIe 3.0 ×16,3× DP 1.41× HDMI 2.0
+10,2×,5700×106232 mm2,,,,,,,,,,,,,,,,
+11,2×,2304:128:3236 CU,,,,,,,,,,,,,,,,
+12,Radeon Pro V340(Vega)[245],Q4 2018TBA,GCN 5th gen14 nm,12500×106484 mm2,3584:224:6456 CU,852 1000,224,64,"14,336(2× SP)",7168,448(​1⁄16× SP),HBM22048-bit,16,2000,512,230,PCIe 3.0 ×16,nooutputs
+13,Radeon Pro V340 MxGPU(Vega)[246][247][248],Q4 2018TBA,GCN 5th gen14 nm,2× 12500×106484 mm2,2× 3584:224:6456 CU,8521000,2× 224,2× 64,"2× 14,336(2× SP)","2× 7,168",2× 448(​1⁄16× SP),HBM22048-bit,2× 16,2000,512,300,PCIe 3.0 ×16,nooutputs
+14,2×,12500×106484 mm2,,,,,,,,,,,,,,,,
+15,2×,3584:224:6456 CU,,,,,,,,,,,,,,,,

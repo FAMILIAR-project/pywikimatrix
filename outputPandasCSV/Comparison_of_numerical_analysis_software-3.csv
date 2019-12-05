@@ -1,0 +1,40 @@
+,Unnamed: 0,Standalone executables creation support,Symbolic computation support,OOP support,GUI creation support,Multi-dimensional arrays as primitive data type,Centralized extension library website,Can call code in other languages,Can be called from other languages
+0,Analytica,No,No,Yes,Yes,Yes,Yes,"COM, Excel","Excel, COM, .NET"
+1,Dyalog APL,Yes[12],Yes,Yes[13],"Win32, .NET, WPF, HTML/JS",Yes,Yes,"COM, .NET, WebServices, Shared Libraries, DLLs, NAG, R, JavaScript[14]","COM, .NET, WebServices[14]"
+2,GNU Data Language,No,No,Yes,GUI Widgets since v.0.9 but still incomplete,Yes,No,"C, Python",Python
+3,GNU MCSim,Yes,No,No,XMCSim with TCL/TK and wish,No,No,C,R
+4,GNU Octave,Yes with mkoctfile,only with GiNaC extension,Yes[15],Yes,Yes,Yes[16],"C++, Fortran,[17] Perl,[18] Tcl[19]","Java,[20] Perl,[18] C++[21]"
+5,J,No,Yes,Yes,Yes,Yes,Yes,JavaScript,JavaScript
+6,Julia,Yes,"Wrappers to SymPy, SymEngine and others",Yes,Yes,Yes,Yes,"C, Fortran Python, C++, Java, MATLAB, R","C, C++, Python, R"
+7,"C, Fortran",,,,,,,,
+8,"Python, C++, Java, MATLAB, R",,,,,,,,
+9,LabVIEW,Professional System version With add-on[22],No,Yes[23] GOOP[24] G#[25],Yes,Yes,Yes[26],"C/C++,[27] DLLs, Python,[28] Perl, Tcl,[29] MATLAB, ActiveX, C#/.NET With add-ons. I.e.[30]",Yes[31]
+10,Professional System version,,,,,,,,
+11,With add-on[22],,,,,,,,
+12,Yes[23],,,,,,,,
+13,GOOP[24],,,,,,,,
+14,G#[25],,,,,,,,
+15,"C/C++,[27] DLLs, Python,[28] Perl, Tcl,[29] MATLAB, ActiveX, C#/.NET",,,,,,,,
+16,With add-ons. I.e.[30],,,,,,,,
+17,Maple,No,Yes,Yes[32],Yes,Yes,Yes[33],"C, C#, Fortran","MATLAB,[34] Excel,[35] VisualBasic, Java, and C[36]"
+18,Mathematica,Yes[37],Yes,Yes,Yes,Yes,Yes[38],"Java, .NET, C++, Fortran, CUDA, OpenCL, R, Python, SQL, SPARQL, NodeJS","Java, .NET, C++, Python Excel,[39] LabVIEW[40] Haskell,[41] AppleScript,[42] Racket,[43] Visual Basic,[44] Clojure[45] MATLAB[46]"
+19,"Java, .NET, C++, Python",,,,,,,,
+20,"Excel,[39] LabVIEW[40]",,,,,,,,
+21,"Haskell,[41] AppleScript,[42] Racket,[43] Visual Basic,[44] Clojure[45] MATLAB[46]",,,,,,,,
+22,MATLAB,with extension[47],with extension library[48],Yes[49],Yes,Yes,Yes[50],"Through MEX[51] files: C, C++, Fortran. Also compiled Java and ActiveX components. Mathematica[46]",".NET,[52] Java,[53] Excel[54]"
+23,"Through MEX[51] files: C, C++, Fortran. Also compiled Java and ActiveX components.",,,,,,,,
+24,Mathematica[46],,,,,,,,
+25,MLAB,No,Yes,No,Yes,Yes,No,No,No
+26,PDL,Yes[55],No,Yes[56],Yes[57],Yes,Yes[58],"C via perlXS; C, Python, F77, etc. via Inline","Perl, C[59]"
+27,R,No,Yes and extended via Ryacas package,Yes[60],Via the tcltk library,Yes,Yes[61],"C, C++, Fortran[62] MATLAB[63] Python[64]",Excel[65] Python[66] SAS[67]
+28,"C, C++, Fortran[62]",,,,,,,,
+29,MATLAB[63],,,,,,,,
+30,Python[64],,,,,,,,
+31,Excel[65],,,,,,,,
+32,Python[66],,,,,,,,
+33,SAS[67],,,,,,,,
+34,SageMath,No,Yes,Yes,No,Yes,Yes[68],Many languages[69][70][71],Yes (any language that can call Python)
+35,SAS,No,No,DS2 and SCL,Yes,No,No,"C, Java R (requires IML)",No
+36,"C, Java",,,,,,,,
+37,R (requires IML),,,,,,,,
+38,TK Solver,with extension,No,Yes,with extension,Yes,Yes,.NET Excel,Unknown

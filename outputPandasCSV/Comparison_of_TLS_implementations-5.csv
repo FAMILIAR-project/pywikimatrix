@@ -1,0 +1,22 @@
+,Implementation,RSA[35],RSA-EXPORT (insecure)[35],DHE-RSA (forward secrecy)[35],DHE-DSS (forward secrecy)[35],ECDH-ECDSA[83],ECDHE-ECDSA (forward secrecy)[83],ECDH-RSA[83],ECDHE-RSA (forward secrecy)[83],"GOST R 34.10-94, 34.10-2001[84]"
+0,Botan,Disabled by default,No,Yes,Disabled by default,No,Yes,No,Yes,No
+1,cryptlib,Yes,No,Yes,Yes,No,Yes,No,No,No
+2,GnuTLS,Yes,No,Yes,Disabled by default[38],No,Yes,No,Yes,No
+3,JSSE,Yes,Disabled by default,Yes,Yes,Yes,Yes,Yes,Yes,No[85]
+4,LibreSSL,Yes,No[42],Yes,Yes,Yes,Yes,Yes,Yes,Yes[86]
+5,MatrixSSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No
+6,mbed TLS,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No
+7,NSS,Yes,Disabled by default,Yes[87],Yes,Yes,Yes,Yes,Yes,No[88][89]
+8,OpenSSL,Yes,No[52],Yes,Disabled by default[52],Yes,Yes,Yes,Yes,Yes[90]
+9,RSA BSAFE,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+10,SChannel XP/2003,Yes,Yes,No,XP: Max 1024 bits2003: 1024 bits only,No,No,No,No,No[91]
+11,SChannel Vista/2008,Yes,Disabled by default,No,1024 bits by default[92],No,Yes,No,except AES_GCM,No[91]
+12,SChannel 8/2012,Yes,Disabled by default,AES_GCM only[93][94][95],1024 bits by default[92],No,Yes,No,except AES_GCM,No[91]
+13,"SChannel 7/2008R2, 8.1/2012R2",Yes,Disabled by default,Yes,2048 bits by default[92],No,Yes,No,except AES_GCM,No[91]
+14,SChannel 10,Yes,Disabled by default,Yes,2048 bits by default[92],No,Yes,No,Yes,No[91]
+15,Secure Transport OS X 10.6,Yes,Yes,except AES_GCM,Yes,Yes,except AES_GCM,Yes,except AES_GCM,No
+16,Secure Transport OS X 10.8-10.10,Yes,No,except AES_GCM,No,Yes,except AES_GCM,Yes,except AES_GCM,No
+17,Secure Transport OS X 10.11,Yes,No,Yes,No,No,Yes,No,Yes,No
+18,wolfSSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No
+19,Erlang/OTP SSL application,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+20,Implementation,RSA[35],RSA-EXPORT (insecure)[35],DHE-RSA (forward secrecy)[35],DHE-DSS (forward secrecy)[35],ECDH-ECDSA[83],ECDHE-ECDSA (forward secrecy)[83],ECDH-RSA[83],ECDHE-RSA (forward secrecy)[83],"GOST R 34.10-94, 34.10-2001[84]"

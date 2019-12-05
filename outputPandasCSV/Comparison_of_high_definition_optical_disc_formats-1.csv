@@ -1,0 +1,26 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Ultra HD Blu-ray,Blu-ray Disc,HD DVD,CBHD (CH-DVD),AVCHD,AVCREC,DVD
+0,Laser wavelength,Laser wavelength,Laser wavelength,,405 nm (blue-violet laser),405 nm (blue-violet laser),405 nm (blue-violet laser),405 or 650 nm,650 nm (red laser),650 nm (red laser)
+1,Numerical aperture,Numerical aperture,Numerical aperture,,0.85,0.65,0.65,0.85 or 0.6,0.6,0.6
+2,Storage capacity(single side),Storage capacity(single side),per layer/maximum,100 GB,25(50)/128 GB[a],15/30 GB[a],15/30 GB[a],"1.4/2.6 GB (8 cm DVD), 4.7/8.5 GB (12 cm DVD), 25/50 GB (12 cm BD)",4.7/8.5 GB,4.7/8.5 GB
+3,Maximumbitrate,Raw data transfer,Raw data transfer,128 Mbit/s,53.95 Mbit/s,36.55 Mbit/s,36.55 Mbit/s,Unknown,Unknown,11.08 Mbit/s
+4,Maximumbitrate,Audio+Video+Subtitles,Audio+Video+Subtitles,,48.0 Mbit/s,30.24 Mbit/s,30.24 Mbit/s,27 Mbit/s,27 Mbit/s,10.08 Mbit/s
+5,Maximumbitrate,Video,Video,,40.0 Mbit/s,29.4 Mbit/s,29.4 Mbit/s,Unknown,Unknown,9.8 Mbit/s
+6,Mandatory video codecs,Mandatory video codecs,Mandatory video codecs,H.265/MPEG-H Part 2,H.264/MPEG-4 AVC / VC-1 / MPEG-2,H.264/MPEG-4 AVC / VC-1 / MPEG-2,China's AVS / H.264/MPEG-4 AVC / VC-1 / MPEG-2,H.264/MPEG-4 AVC,H.264/MPEG-4 AVCMPEG-2,MPEG-1 / MPEG-2
+7,Audio codecs(maximum data rates shown),lossy,Dolby Digital,TBD,Mandatory640 kbit/s,Mandatory504 kbit/s [1],Mandatory504 kbit/s [1],Mandatory64-640 kbit/s,Mandatory64-640 kbit/s,Mandatory448 kbit/s
+8,Audio codecs(maximum data rates shown),lossy,DTS,TBD,Mandatory1.5 Mbit/s,Mandatory1.5 Mbit/s,Unknown,,,Optional1.5 Mbit/s
+9,Audio codecs(maximum data rates shown),lossy,Dolby Digital Plus[d],TBD,Optional1.7 Mbit/s,Mandatory3.0 Mbit/s,Mandatory3.0 Mbit/s,,,
+10,Audio codecs(maximum data rates shown),lossy,DTS-HD High Resolution,TBD,Optional6.0 Mbit/s,Optional3.0 Mbit/s,Unknown,,,
+11,Audio codecs(maximum data rates shown),lossless,Linear PCM[h],TBD,Mandatory,Mandatory,Mandatory,Optional,Optional,Optional
+12,Audio codecs(maximum data rates shown),lossless,Dolby TrueHD[h],TBD,Optional18 Mbit/s,Mandatory18 Mbit/s,Mandatory18 Mbit/s,,,
+13,Audio codecs(maximum data rates shown),lossless,DTS-HD Master Audio[h],TBD,Optional24.5 Mbit/s,Optional18 Mbit/s,Unknown,,,
+14,Secondary video decoder (PiP),Secondary video decoder (PiP),Secondary video decoder (PiP),TBD,Mandatory for Bonus View players[c],Mandatory,Unknown,Unknown,Unknown,
+15,Secondary audio decoder,Secondary audio decoder,Secondary audio decoder,TBD,Mandatory for Bonus View players[c],Mandatory,Unknown,Unknown,Unknown,Optional
+16,Interactivity,Interactivity,Interactivity,TBD,BDMV and Blu-ray Disc Java,Standard Content and Advanced Content,CETC,Rudimentary,Rudimentary,Rudimentary
+17,Internet support,Internet support,Internet support,TBD,Mandatory for BD-Live players,Mandatory,Unknown,,,
+18,Video resolution(maximum),Video resolution(maximum),Video resolution(maximum),4K UHD 3840×2160,1920×1080p,1920×1080p,1920×1080p,1920×1080p,1920×1080p,720×480 (NTSC)720×576 (PAL)
+19,Frame rates at maximum resolution,Frame rates at maximum resolution,Frame rates at maximum resolution,HFR 60p,"24/25/30p, 50/60i[2][g]","24/25/30p, 50/60i","24/25/30p, 50/60i","24/25/30p, 50/60i",Unknown,24/25/30p[g] 50/60i
+20,Dynamic range video,Dynamic range video,Dynamic range video,HDR10 / HDR10+ / SL-HDR2,SDR,,,,,
+21,Color space,Color space,Color space,Rec. 2020,,,,,,
+22,Digital Rights Management,Digital Rights Management,Digital Rights Management,,AACS-128bit / BD+ / ROM-Mark,AACS-128bit,AACS-128bit / DKAA,None (Not intended for prerecorded content),None (Not intended for prerecorded content),CSS 40-bit
+23,Region codes,Region codes,Region codes,,Three region codes[f],None,Unknown,None,None,8 regions (6 commercial)
+24,Hardcoating of disc,Hardcoating of disc,Hardcoating of disc,TBD,Mandatory,Optional,Optional,Optional,Optional,Optional

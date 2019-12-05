@@ -1,0 +1,10 @@
+,Generics,Java,C#
+0,Implementation,Type erasure,Reification
+1,Runtime realization,No,Yes
+2,Type variance,Use-site,Declaration-site (only on interfaces)
+3,Reference type constraint,Yes; implicit,Yes
+4,Value/primitive type constraint,No,Yes
+5,Constructor constraint,No,Yes (only for parameterless constructor)
+6,Subtype constraint,Yes,Yes
+7,Supertype constraint,Yes,No
+8,Migration compatibility,Yes,No

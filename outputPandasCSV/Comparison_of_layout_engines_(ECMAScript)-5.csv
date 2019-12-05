@@ -1,0 +1,17 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto,Blink
+0,Called as function,Called as function,Called as function,Called as function,Called as function,Called as function
+1,"Function([[p1 [, p2 [, ...]],] body])",?,Yes,Yes,?,Yes
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,"new Function([[p1 [, p2 [, ...]],] body])",4.0,1.0,Yes,1.0,Yes
+4,Properties,Properties,Properties,Properties,Properties,Properties
+5,length,?,1.0,Yes,Yes,Yes
+6,prototype,4.0,1.0,Yes,1.0,Yes
+7,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+8,length,?,1.0,Yes,?,Yes
+9,constructor,4.0,1.0,Yes,1.0,Yes
+10,toString(),4.0,1.0,Yes,1.0,Yes
+11,"apply(thisArg, argArray)",4.0,1.0,Yes,1.0,Yes
+12,"call(thisArg [, arg1 [, arg2 [, ...]]])",4.0,1.0,Yes,1.0,Yes
+13,Properties of instances,Properties of instances,Properties of instances,Properties of instances,Properties of instances,Properties of instances
+14,length,4.0,1.0,Yes,1.0,Yes
+15,prototype,4.0,1.0,Yes,1.0,Yes

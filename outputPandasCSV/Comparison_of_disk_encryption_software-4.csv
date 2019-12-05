@@ -1,0 +1,61 @@
+,Name,Whole disk,Partition,File,Swap space,Hibernation file,RAID
+0,Aloaha Secure Stick,No,No,Yes,No,No,?
+1,ArchiCrypt Live,Yes(except for the boot volume),Yes,Yes,No,No,?
+2,BestCrypt,Yes,Yes,Yes,Yes,Yes[114],?
+3,BitArmor DataControl,No,Yes,No,Yes,Yes,?
+4,BitLocker,Yes(except for the boot volume),Yes,Yes[115],Yes(parent volume is encrypted),Yes(parent volume is encrypted),?
+5,Bloombase Keyparc,Yes,Yes,Yes,Yes,No,?
+6,CenterTools DriveLock,Yes,Yes,Yes,Yes,Yes,?
+7,CGD,Yes,Yes,Yes[70],Yes,No,?
+8,Check Point Full Disk Encryption,Yes,Yes,Yes,Yes,Yes,?
+9,CipherShed,Yes,Yes,Yes,Yes,only on Windows,?
+10,CrossCrypt,No,No,Yes,No,No,?
+11,CryFS,No,No,No,No,No,?
+12,CryptArchiver,No,No,Yes,No,No,?
+13,Cryptic Disk,No,Yes,Yes,No,No,?
+14,Cryhod,No,Yes,No,Yes,Yes(parent volume is encrypted),?
+15,Cryptoloop,Yes,Yes,Yes,Yes,No,?
+16,Cryptomill,Yes,,Yes,,,?
+17,CryptoPro Secure Disk Enterprise,Yes,Yes,Yes(add-on Secure Device),Yes,Yes,?
+18,CryptoPro Secure Disk for BitLocker,Yes,Yes,Yes,Yes,Yes,?
+19,DiskCryptor,Yes,Yes,No,Yes,Yes,?
+20,Disk Protect,Yes,No,No,Yes,Yes,?
+21,Dm-crypt / LUKS,Yes,Yes,Yes[116],Yes,Yes[117],?
+22,DriveCrypt,Yes,Yes[82],Yes[82],Yes,Yes,?
+23,DriveSentry GoAnywhere 2,No,Yes,Yes,No,No,?
+24,E4M,No,Yes,Yes,No,No,?
+25,e-Capsule Private Safe,No,No,Yes[118],No,No,?
+26,eCryptfs,No,No,Yes,No,No,?
+27,EgoSecure HDD Encryption,Yes,Yes,Yes,Yes,Yes,?
+28,FileVault,No,No,Yes[86],Yes[119][86],Yes[119][120],
+29,FileVault 2,Yes[121],Yes[87],No,Yes,Yes,?
+30,FREE CompuSec,Yes,No,Yes,Yes,Yes,?
+31,FreeOTFE,Yes(except for the boot volume),Yes,Yes,No,No,?
+32,GBDE,Yes,Yes,Yes[122],Yes,No,?
+33,GELI,Yes,Yes,Yes[122],Yes,No,?
+34,Loop-AES,Yes,Yes[93],Yes[93],Yes[93],Yes[93],?
+35,McAfee Drive Encryption (SafeBoot),Yes,Yes,Yes,Yes,Yes[123],?
+36,n-Crypt Pro,Yes,Yes,Yes,No,No,?
+37,PGPDisk,Yes,Yes,Yes,Yes,only on Windows,?
+38,Private Disk,No,No,Yes,No,No,?
+39,ProxyCrypt,Yes,Yes,Yes,No,No,?
+40,R-Crypto,No,No,Yes,No,No,?
+41,SafeGuard Easy,Yes,Yes,extra module,Yes,Each sector on disk is encrypted,?
+42,SafeGuard Enterprise,Yes,Yes,Yes,Yes,Each sector on disk is encrypted,?
+43,SafeGuard PrivateDisk,No,No,Yes,No,No,?
+44,SafeHouse Professional,No,No,Yes,No,No,?
+45,Scramdisk,No,Yes,Yes,No,No,?
+46,Scramdisk 4 Linux,Yes,Yes,Yes,Yes,No,?
+47,SecuBox,No,No,Yes,,No,?
+48,SecureDoc,Yes[102],Yes,Yes,Yes,Yes,?
+49,Sentry 2020,No,No,Yes,No,No,?
+50,Seqrite Encryption Manager,Yes,Yes,Yes,Yes,Yes,RAID-5
+51,Softraid / RAID C,Yes,Yes,No,Yes (encrypted by default in OpenBSD)[124],No,?
+52,Svnd / Vnconfig,?,Yes,Yes,Yes (encrypted by default in OpenBSD),?,?
+53,SpyProof!,No,Yes,Yes,No,No,?
+54,Symantec Endpoint Encryption,Yes,Yes,Yes,Yes,Yes,?
+55,Trend Micro Endpoint Encryption,Yes,Yes,Yes,Yes,Yes,?
+56,TrueCrypt,Yes[125],Yes,Yes,Yes,only on Windows[107],?
+57,VeraCrypt,Yes,Yes,Yes,Yes,only on Windows[107],?
+58,CyberSafe Top Secret,No,Yes,Yes,No,No,?
+59,Name,Whole disk,Partition,File,Swap space,Hibernation file,RAID

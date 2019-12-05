@@ -1,0 +1,18 @@
+,OLAP server,Real Time,Write-back,Partitioning,Usage Based Optimizations,Load Balancing and Clustering
+0,Apache Kylin,Developing,No,Yes,Yes,Yes
+1,Druid,Yes,?,Yes,Yes,Yes
+2,Apache Pinot (Incubating),Yes,?,Yes,Yes,Yes
+3,Essbase,Yes,Yes,Yes,Yes,Yes
+4,IBM Cognos BI,Yes,No,Yes,Yes,?
+5,IBM Cognos TM1,Yes,Yes,Yes,?,?
+6,icCube,Yes[28],Yes[29],Yes[30],?,?
+7,Infor BI OLAP Server,Yes,Yes,Yes,?,?
+8,Jedox OLAP Server,Yes,Yes,Yes,?,?
+9,Kyligence,No,No,Yes,Yes,Yes
+10,Kyvos,Yes,Yes,Yes,Yes,Yes
+11,Microsoft Analysis Services,Yes,Yes,Yes,Yes,Yes
+12,MicroStrategy Intelligence Server,?,Yes[31],Yes,Yes,Yes
+13,Mondrian OLAP server,Yes,Planned,Yes,?,?
+14,Oracle Database OLAP Option,?,Yes,Yes,No,?
+15,SAP NetWeaver BW,?,Yes,Yes,?,?
+16,SAS OLAP Server,?,Yes,Yes,?,?

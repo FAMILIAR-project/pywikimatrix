@@ -1,0 +1,5 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface AbstractView,Interface AbstractView,Interface AbstractView,Interface AbstractView,Interface AbstractView,Interface AbstractView,Interface AbstractView,Interface AbstractView
+1,DOM2,document,6.0,?,1.0,?,?,1.0
+2,Interface DocumentView,Interface DocumentView,Interface DocumentView,Interface DocumentView,Interface DocumentView,Interface DocumentView,Interface DocumentView,Interface DocumentView
+3,DOM2,defaultView,No,?,1.0,?,?,1.0

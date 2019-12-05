@@ -1,0 +1,28 @@
+,Format,Type,"3GP, 3G2",ASF[27],AVI[a],DMF,EVO,FLV[I],F4V,MKV,"PS, TS[II]",M2TS,MP4[34],MXF,Ogg[b],QTFF[37],RMVB,VOB,WebM[24]
+0,DV,Intra-frame,No,Yes,Yes,No,No,No,No,VCM[c],No,No,DVCPRO HD,Yes[39][III],No,DV 25,No,No,No
+1,M-JPEG,Intra-frame,No,Yes,Yes,No,No,No,No,VCM[c],No,No,Yes,No,No,Yes,No,No,No
+2,MJ2,Intra-frame,No,No,Not standard,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+3,MPEG-1 Video,Lossy,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+4,MPEG-2 Video,Lossy,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Needs VLC[IV],Yes,No,Yes,No
+5,MPEG-4 Visual,Lossy,Yes,Yes,Yes,MPEG-4 ASP with DivX profiles,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Needs VLC[IV],Yes,No,No,No
+6,Microsoft MPEG4 V2,Lossy,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes[42],No,No,No,No,No,No
+7,VC-1,Lossy,No,Yes,Yes,No,Yes,No,No,VCM[c],No,Yes,Yes,Yes,Needs VLC[IV],Yes,No,No,No
+8,Sorenson,Lossy,No,No,Version 1,No,No,Spark,No,Yes,No,No,Yes,No,No,Versions 1 and 3,No,No,No
+9,H.263,Lossy,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No
+10,VP6,Lossy,No,No,Needs VP6[43][44],No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+11,RealVideo,Lossy,No,No,Not standard,No,No,No,No,"RV10, RV20, RV30, RV40",No,No,RV60,No,No,No,"RV30, RV40, RV60",No,No
+12,Cinepak,Lossy,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No
+13,Indeo,Lossy,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+14,Theora,Lossy,No,No,Needs ffdshow,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No
+15,MPEG-4 AVC,Lossy or lossless,Yes,Yes,Yes[V],No,Yes,Not standard,Yes,Yes,Yes[45],Yes,Yes,Yes,No,Yes,No,No,No
+16,MPEG-H HEVC,Lossy or lossless,Yes,Yes,Yes,No,No,No,No,Beta[VI],Yes,No,Yes,Pending[48],No,Yes[49],No,No,No
+17,Dirac,Lossy or lossless,No,No,Needs Dirac[50],No,No,No,No,VCM[c],Private,No,Yes,No,Yes[51][52],Not standard,No,No,No
+18,VP8,Lossy or lossless,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Needs Firefox[53],No,No,No,Yes
+19,VP9,Lossy or lossless,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Needs Firefox[53],No,No,No,Yes
+20,AV1,Lossy or lossless,No,No,No,No,No,No,No,Beta,Planned,No,Yes,No,No,No,No,No,Beta
+21,MVC,Stereoscopic,Yes,No,No,No,No,No,No,Yes[12],No,No,Yes,No[VII][VIII],No,No,No,No,No
+22,HuffYUV,Lossless,No,No,Needs HuffYUV[55],No,No,No,No,VCM[c],No,No,No,No,No,No,No,No,No
+23,YCbCr[IX],Not compressed,No,Yes,Yes,No,No,No,No,Yes,No,No,SheerVideo,Yes[56],Beta[57],Yes,No,No,No
+24,Other,Other,—,—,—,—,—,Screen Video,—,—,"JPEG 2000, TICO",—,—,—,"MNG, JNG, PNG[58]","DVC Pro 50, Photo JPEG, Graphics, Quicktime Animation",—,—,—
+25,Obsolete,Other,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—
+26,Format,Type,"3GP, 3G2",ASF[27],AVI[a],DMF,EVO,FLV[I],F4V,MKV,"PS, TS[II]",M2TS,MP4[34],MXF,Ogg[b],QTFF[37],RMVB,VOB,WebM[24]

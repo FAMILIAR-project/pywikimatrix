@@ -1,0 +1,33 @@
+,Unnamed: 0,Simple composite types,Simple composite types.1,Algebraic data types,Unions
+0,,Records,Tuple expression,Algebraic data types,Unions
+1,Ada[1],type identifier is «abstract» «tagged» «limited» [recordfieldname1 : type;fieldname2 : type;...end record |null record],,"Any combination of records, unions and enumerations (as well as references to those, enabling recursive types).",type identifier (variation : discrete_type) is recordcase variation iswhen choice_list1 =>fieldname1 : type;...when choice_list2 =>fieldname2 : type;......end case;end record
+2,ALGOL 68,"struct (modename «fieldname», ...);",Required types and operators can be user defined,Required types and operators can be user defined,"union (modename, ...);"
+3,C (C99),struct «name» {type name;...};,,,union {type name;...};
+4,Objective-C,struct «name» {type name;...};,,,union {type name;...};
+5,C++,struct «name» {type name;...};[b],«std::»tuple<type1..typen>,,union {type name;...};
+6,C#,struct name {type name;...},"(val1, val2, ... )",,
+7,Java,N/A[a],,,
+8,JavaScript,,,,
+9,D,struct name {type name;...},,"std.variant.Algebraic!(type,...)",union {type name;...}
+10,Go,struct {«name» type...},,,
+11,Swift,struct name {var name «: type»...},"(«name1:» val1, «name2:» val2, «name3:» val3, ... )",enum name { case Foo«(types)» case Bar «(types)» ... },
+12,Common Lisp,,(cons val1 val2)[c],,
+13,Scheme,,(cons val1 val2)[c],,
+14,ISLISP,,(cons val1 val2)[c],,
+15,Pascal,recordname: type;...end,,,recordcase type of value: (types);...end
+16,Visual Basic,,,,
+17,Visual Basic .NET,Structure name Dim name As type ... End Structure,"(val1, val2, ... )",,
+18,Python,N/A[a],"«(»val1, val2, val3, ... «)»",,
+19,S-Lang,"struct {name [=value], ...}",,,
+20,Fortran,TYPE name type :: name ... END TYPE,,,
+21,PHP,N/A[a],,,
+22,Perl,N/A[d],,,
+23,Raku,N/A[a],,,
+24,Ruby,OpenStruct.new({:name => value}),,,
+25,Scala,"case class name(«var» name: type, ...)","(val1, val2, val3, ... )",abstract class namecase class Foo(«parameters») extends namecase class Bar(«parameters») extends name... or abstract class namecase object Foo extends namecase object Bar extends name... or combination of case classes and case objects,
+26,Windows PowerShell,,,,
+27,OCaml,type name = {«mutable» name : type;...},"«(»val1, val2, val3, ... «)»",type name = Foo «of type» | Bar «of type» | ...,
+28,F#,type name = {«mutable» name : type;...},"«(»val1, val2, val3, ... «)»",type name = Foo «of type» | Bar «of type» | ...,
+29,Standard ML,"type name = {name : type,...}","(val1, val2, val3, ... )",datatype name = Foo «of type» | Bar «of type» | ...,
+30,Haskell,"data Name = Constr {name :: type,...}","(val1, val2, val3, ... )",data Name = Foo «types» | Bar «types» | ...,
+31,COBOL,level-number name type clauses. level-number+n name type clauses. ...,,,name REDEFINES variable type.

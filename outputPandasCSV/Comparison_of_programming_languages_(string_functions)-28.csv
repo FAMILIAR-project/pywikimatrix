@@ -1,0 +1,5 @@
+,Format,Languages,Comments
+0,string.partition(separator),"Python, Ruby(1.9+)",
+1,"lists:partition(pred, string)",Erlang,
+2,"split /(separator)/, string, 2",Perl 5,
+3,"split separator, string, 2 string.split( separator, 2 )",Raku,Separator does not have to be a regular expression

@@ -1,0 +1,171 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Exception DOMException,Exception DOMException,Exception DOMException,Exception DOMException,Exception DOMException,Exception DOMException,Exception DOMException,Exception DOMException
+1,DOM1,code,5.0[t 1],?,1.0,?,?,1.0
+2,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList,Interface DOMStringList
+3,DOM3,length,6.0[t 2],No,1.6,No,?,2.0
+4,DOM3,contains(),6.0[t 2],No,1.6,No,?,2.0
+5,DOM3,item(),6.0[t 2],No,1.6,No,?,2.0
+6,Interface NameList,Interface NameList,Interface NameList,Interface NameList,Interface NameList,Interface NameList,Interface NameList,Interface NameList
+7,DOM3,length,No,No,1.6,No,No,No
+8,DOM3,getName(),No,No,1.6,No,No,No
+9,DOM3,getNamespaceURI(),No,No,1.6,No,No,No
+10,DOM3,contains(),No,No,1.6,No,No,No
+11,DOM3,containsNS(),No,No,1.6,No,No,No
+12,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList,Interface DOMImplementationList
+13,DOM3,length,No,No,No,No,No,No
+14,DOM3,item(),No,No,No,No,No,No
+15,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource,Interface DOMImplementationSource
+16,DOM3,getDOMImplementation(),No,No,No,No,No,No
+17,DOM3,getDOMImplementationList(),No,No,No,No,No,No
+18,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation,Interface DOMImplementation
+19,DOM1,hasFeature(),6.0,?,1.0,Yes,?,1.0
+20,DOM2,createDocumentType(),9.0[t 3],No,1.0,Yes,?,1.0
+21,DOM2,createDocument(),9.0[t 3],No,1.0,Yes,?,1.0
+22,DOM3,getFeature(),No,No,No,No,?,1.0
+23,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment,Interface DocumentFragment
+24,DOM1,(no properties),6.0,No,1.0,?,?,1.0
+25,Interface Document,Interface Document,Interface Document,Interface Document,Interface Document,Interface Document,Interface Document,Interface Document
+26,DOM1,doctype,9.0,Yes,Partial,Yes,?,1.0
+27,DOM1,createElement(),4.0,Yes,1.0,Yes,?,1.0
+28,DOM1,createTextNode(),5.0,Yes,1.0,Yes,?,1.0
+29,DOM1,createAttribute(),6.0,Yes,1.0,Yes,?,1.0
+30,DOM1,documentElement,5.0,Yes,1.0,Yes,?,1.0
+31,DOM1,getElementsByTagName(),5.0,Yes,1.0,Yes,?,1.0
+32,DOM1,implementation,6.0,Yes,1.0,Yes,?,1.0
+33,DOM1,createDocumentFragment(),6.0,No,1.0,Yes,?,1.0
+34,DOM1,createComment(),6.0,No,1.0,Yes,?,1.0
+35,DOM1,createCDATASection(),9.0[t 3],No,1.0,Yes,?,1.0
+36,DOM1,createProcessingInstruction(),9.0[t 3],?,1.7,Yes,?,1.0
+37,DOM1,createEntityReference(),No,?,No [1],Yes,?,No
+38,DOM2,importNode(),9.0[t 3],No,1.0,Yes,?,1.0
+39,DOM2,createElementNS(),9.0[t 3],No,1.0,Yes,?,1.0
+40,DOM2,createAttributeNS(),9.0[t 3],No,1.0,Yes,?,1.0
+41,DOM2,getElementsByTagNameNS(),9.0[t 3],No,1.0,Yes,?,1.0
+42,DOM2,getElementById(),8.0,Yes,1.0,Yes,?,2.1
+43,DOM3,adoptNode(),9.0[t 3],No,1.7,Yes,?,2.0
+44,DOM3,inputEncoding,9.0[t 3],No,1.7,No,?,No
+45,DOM3,xmlEncoding,9.0[t 3],No,1.7,No,?,No
+46,DOM3,xmlStandalone,9.0[t 3],No,1.7,No,?,No
+47,DOM3,xmlVersion,9.0[t 3],No,1.7,No,?,No
+48,DOM3,domConfig,No,No,No,No,?,No
+49,DOM3,strictErrorChecking,No,No,1.7,No,?,No
+50,DOM3,documentURI,No,No,1.7,No,?,No
+51,DOM3,normalizeDocument(),No,No,1.7,No,?,No
+52,DOM3,renameNode(),No,No,1.7,No,?,No
+53,Interface Node,Interface Node,Interface Node,Interface Node,Interface Node,Interface Node,Interface Node,Interface Node
+54,DOM1,nodeName,5.0,Yes,1.0,Yes,?,1.0
+55,DOM1,nodeValue,5.0,Yes,1.0,Yes,?,1.0
+56,DOM1,nodeType,5.0,Yes,1.0,Yes,?,1.0
+57,DOM1,parentNode,5.0,Yes,1.0,Yes,?,1.0
+58,DOM1,childNodes,5.0,Yes,1.0,Yes,?,1.0
+59,DOM1,firstChild,5.0,Yes,1.0,Yes,?,1.0
+60,DOM1,lastChild,5.0,Yes,1.0,Yes,?,1.0
+61,DOM1,previousSibling,5.0,Yes,1.0,Yes,?,1.0
+62,DOM1,nextSibling,5.0,Yes,1.0,Yes,?,1.0
+63,DOM1,attributes,5.0,Yes,1.0,Yes,?,1.0
+64,DOM1,cloneNode(),5.0,Yes,1.0,Yes,?,1.0
+65,DOM1,insertBefore(),5.0,Yes,Partial,Yes,?,1.0
+66,DOM1,replaceChild(),5.0,Yes,Partial,Yes,?,1.0
+67,DOM1,removeChild(),5.0,Yes,Partial,Yes,?,1.0
+68,DOM1,appendChild(),5.0,Yes,Partial,Yes,?,1.0
+69,DOM1,ownerDocument,6.0,Yes,1.9,Yes,?,1.0
+70,DOM1,hasChildNodes(),6.0,Yes,1.0,Yes,?,1.0
+71,DOM2,namespaceURI,5.0,Yes,1.0,Yes,?,1.0
+72,DOM2,prefix,5.0,Yes,1.0,Yes,?,1.0
+73,DOM2,localName,5.0,Yes,1.0,Yes,?,1.0
+74,DOM2,isSupported(),9.0[t 3],Yes,1.0,Yes,?,1.0
+75,DOM2,hasAttributes(),9.0[t 3],Yes,1.0,Yes,?,1.0
+76,DOM3,isSameNode(),9.0,No,1.8,Yes,?,2.1
+77,DOM3,compareDocumentPosition(),9.0[t 3],No,1.7,Yes,4.2.4,2.1
+78,DOM3,baseURI,No,No,1.7,Yes,?,Yes
+79,DOM3,textContent,9.0[t 3],No,1.7,Yes,?,2.0
+80,DOM3,lookupPrefix(),9.0[t 3],No,1.7,Yes,?,2.0
+81,DOM3,isDefaultNamespace(),9.0[t 3],No,1.7,Yes,?,2.0
+82,DOM3,lookupNamespaceURI(),9.0[t 3],No,1.7,Yes,?,2.0
+83,DOM3,getFeature(),No,No,1.7,Yes,?,2.0
+84,DOM3,setUserData(),No,No,1.7,Yes,?,No
+85,DOM3,getUserData(),No,No,1.7,Yes,?,No
+86,DOM3,isEqualNode(),9.0[t 3],No,1.9,Yes,?,2.7
+87,Interface NodeList,Interface NodeList,Interface NodeList,Interface NodeList,Interface NodeList,Interface NodeList,Interface NodeList,Interface NodeList
+88,DOM1,length,5.0,Yes,1.0,Yes,?,1.0
+89,DOM1,item(),5.0,Yes,1.0,Yes,?,1.0
+90,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap,Interface NamedNodeMap
+91,DOM1,length,5.0,Yes,1.0,Yes,?,1.0
+92,DOM1,getNamedItem(),5.0,Yes,1.0,Yes,?,1.0
+93,DOM1,setNamedItem(),5.0,Yes,1.0,Yes,?,1.0
+94,DOM1,removeNamedItem(),5.0,Yes,1.0,Yes,?,1.0
+95,DOM1,item(),5.0,Yes,1.0,Yes,?,1.0
+96,DOM2,getNamedItemNS(),9.0[t 3],No,1.0,Yes,?,1.0
+97,DOM2,setNamedItemNS(),9.0[t 3],No,1.0,Yes,?,1.0
+98,DOM2,removeNamedItemNS(),9.0[t 3],No,1.0,Yes,?,1.0
+99,Interface CharacterData,Interface CharacterData,Interface CharacterData,Interface CharacterData,Interface CharacterData,Interface CharacterData,Interface CharacterData,Interface CharacterData
+100,DOM1,data,4.0,Yes,1.0,Yes,?,1.0
+101,DOM1,length,4.0,Yes,1.0,Yes,?,1.0
+102,DOM1,substringData(),4.0,Yes,1.0,Yes,?,1.0
+103,DOM1,appendData(),4.0,Yes,1.0,Yes,?,1.0
+104,DOM1,insertData(),4.0,Yes,1.0,Yes,?,1.0
+105,DOM1,deleteData(),4.0,Yes,1.0,Yes,?,1.0
+106,DOM1,replaceData(),4.0,Yes,1.0,Yes,?,1.0
+107,Interface Attr,Interface Attr,Interface Attr,Interface Attr,Interface Attr,Interface Attr,Interface Attr,Interface Attr
+108,DOM1,name,6.0,?,1.0,Yes,Yes,1.0
+109,DOM1,value,6.0,?,1.0,Yes,Yes,1.0
+110,DOM1,specified,Incorrect,Incorrect,1.9.1,Yes,Yes,1.0
+111,DOM2,ownerElement,9.0[t 3],?,1.0,Yes,Yes,1.0
+112,DOM3,schemaTypeInfo,No,No,No,No,?,No
+113,DOM3,isId,No,No,1.9,No,No,No
+114,Interface Element,Interface Element,Interface Element,Interface Element,Interface Element,Interface Element,Interface Element,Interface Element
+115,DOM1,tagName,4.0,Yes,1.0,Yes,Yes,1.0
+116,DOM1,getElementsByTagName(),4.0,Yes,1.0,Yes,Yes,1.0
+117,DOM1,getAttribute(),8.0,Yes,1.0,Yes,Yes,1.0
+118,DOM1,setAttribute(),8.0,Yes,1.0,Yes,Yes,1.0
+119,DOM1,removeAttribute(),8.0,Yes,1.0,Yes,Yes,1.0
+120,DOM1,getAttributeNode(),6.0,Yes,1.0,Yes,Yes,1.0
+121,DOM1,setAttributeNode(),9.0[t 3],Yes,1.0,Yes,Yes,1.0
+122,DOM1,removeAttributeNode(),9.0[t 3],Yes,1.0,Yes,Yes,1.0
+123,DOM1,normalize(),9.0[t 3],Yes,1.0,No,?,1.0
+124,DOM2,getAttributeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+125,DOM2,setAttributeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+126,DOM2,removeAttributeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+127,DOM2,getAttributeNodeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+128,DOM2,setAttributeNodeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+129,DOM2,getElementsByTagNameNS(),9.0[t 3],No,1.0,Yes,?,1.0
+130,DOM2,hasAttribute(),9.0[t 3],Yes,1.0,Yes,?,1.0
+131,DOM2,hasAttributeNS(),9.0[t 3],Yes,1.0,Yes,?,1.0
+132,DOM3,schemaTypeInfo,No,No,No,No,?,No
+133,DOM3,setIdAttribute(),No,No,No,No,?,No
+134,DOM3,setIdAttributeNS(),No,No,No,No,?,No
+135,DOM3,setIdAttributeNode(),No,No,No,No,?,No
+136,Interface Text,Interface Text,Interface Text,Interface Text,Interface Text,Interface Text,Interface Text,Interface Text
+137,DOM1,splitText(),9.0[t 3],Yes,1.0,Yes,?,1.0
+138,DOM3,isElementContentWhitespace,No,No,1.9.1,No,?,Yes
+139,DOM3,wholeText,9.0[t 3],No,1.9.1,No,?,2.1
+140,DOM3,replaceWholeText(),9.0[t 3],No,1.9.1,No,?,2.1
+141,Interface Comment,Interface Comment,Interface Comment,Interface Comment,Interface Comment,Interface Comment,Interface Comment,Interface Comment
+142,DOM1,(no properties),6.0,No,1.0,Yes,?,1.0
+143,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo,Interface TypeInfo
+144,DOM3,typeName,No,No,No,No,No,No
+145,DOM3,typeNamespace,No,No,No,No,No,No
+146,DOM3,isDerivedFrom(),No,No,No,No,No,No
+147,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler,Interface UserDataHandler
+148,DOM3,handle(),No,No,No,No,No,No
+149,Interface DOMError,Interface DOMError,Interface DOMError,Interface DOMError,Interface DOMError,Interface DOMError,Interface DOMError,Interface DOMError
+150,DOM3,severity,No,No,No,No,No,2.0
+151,DOM3,message,No,No,No,No,No,2.0
+152,DOM3,type,No,No,No,No,No,2.0
+153,DOM3,location,No,No,No,No,No,2.0
+154,DOM3,relatedData,No,No,No,No,No,2.0
+155,DOM3,relatedException,No,No,No,No,No,No
+156,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler,Interface DOMErrorHandler
+157,DOM3,handleError(),No,No,No,No,No,2.0
+158,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator,Interface DOMLocator
+159,DOM3,lineNumber,No,No,No,No,No,2.0
+160,DOM3,columnNumber,No,No,No,No,No,2.0
+161,DOM3,byteOffset,No,No,No,No,No,2.0
+162,DOM3,utf16Offset,No,No,No,No,No,2.0
+163,DOM3,relatedNode,No,No,No,No,No,2.0
+164,DOM3,uri,No,No,No,No,No,2.0
+165,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration,Interface DOMConfiguration
+166,DOM3,parameterNames,No,No,No,No,?,2.0
+167,DOM3,setParameter(),No,No,No,No,?,2.0
+168,DOM3,getParameter(),No,No,No,No,?,2.0
+169,DOM3,canSetParameter(),No,No,No,No,?,2.0

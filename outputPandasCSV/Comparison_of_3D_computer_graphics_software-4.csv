@@ -1,0 +1,23 @@
+,Unnamed: 0,Modeling,3D Painting,Animation,Rendering,3D Tracking,Compositing
+0,3ds Max,Yes,Yes,Yes,Yes,No,Some
+1,AC3D,Yes,?,?,No,No,No
+2,Blender,Yes,Yes,Yes,Yes,Yes,Yes
+3,Electric Image Animation System,dropped[6],?,Yes,Yes,No,?
+4,Cinema 4D,Yes,Yes,Yes,Yes,R16 or later,No
+5,Clara.io,Yes,?,Yes,Yes,No,?
+6,Cobalt,Yes,?,Yes,Yes,No,?
+7,HiCAD,Yes,Yes,Yes,Yes,No,No
+8,Houdini,Yes,No,Yes,Yes,No,Yes
+9,IClone,Yes,?,Yes,Yes,?,?
+10,Lightwave 3D,Yes,No,Yes,Yes,No,Yes
+11,MakeHuman,parameter-based,No,No,No,No,No
+12,Maya,Yes,Yes,Yes,Yes,dropped (Maya Live),"dropped (Maya Composer, Maya Fusion, and Maya Composite)"
+13,Metasequoia,Yes,No,No,Yes,No,No
+14,Modo,Yes,Yes,Yes,Yes,No,No
+15,Remo 3D,Yes,No,Yes,Yes,No,No
+16,Shade,Yes,No,Yes,Yes,No,No
+17,Softimage,Yes,3.7 or later,Yes,Yes,No,Yes
+18,Solid Edge,Yes,?,Yes,Yes,No,?
+19,SketchUp Make,Yes[7][8],?,Yes[7],Yes[7],No,No
+20,SketchUp Pro,Yes[7][8],?,Yes[7],Yes[7],No,No
+21,Wings3D,Yes,?,No,Yes,No,?

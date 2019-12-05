@@ -1,0 +1,25 @@
+,Unnamed: 0,Trident,Tasman,Gecko,WebKit,KHTML,Presto,iCab
+0,abbr,Yes[citation needed],Yes,Yes,Yes,Yes,Yes,Yes
+1,acronym,<3.1[IE 4.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+2,address,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+3,blockquote,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+4,br,<3.1[IE 1.0] [5],Yes,Yes,Yes,Yes,Yes,Yes
+5,cite,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+6,code,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+7,dfn,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+8,div,<3.1[IE 3.0] [6],Yes,Yes,Yes,Yes,Yes,Yes
+9,em,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+10,h1,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+11,h2,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+12,h3,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+13,h4,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+14,h5,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+15,h6,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+16,kbd,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+17,p,<3.1[IE 1.0] [5],Yes,Yes,Yes,Yes,Yes,Yes
+18,pre,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+19,q,<3.1[IE 4.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+20,samp,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+21,span,<3.1[IE 3.0] [6],Yes,Yes,Yes,Yes,Yes,Yes
+22,strong,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes
+23,var,<3.1[IE 1.0] [4],Yes,Yes,Yes,Yes,Yes,Yes

@@ -1,0 +1,19 @@
+,Intent,ALGOL 68,C++
+0,Define a constant,int x=888;,const int x = 888;
+1,Initialise a variable,int x:=888;,int x = 888;
+2,Assign a value 888 to a variable x,x:=888;,x = 888;
+3,Compare two values,if x = 888 then ... fi,if (x == 888) { ... }
+4,Allocate a variable from the heap,ref int x = heap int;or simply:heap int x;,int* x = new int;
+5,Compare address of two pointers,"ref int x, y; if x :=: y then ... fi",int* x; int* y; if (x == y) { ... }
+6,Compare value referenced by two pointers,"ref int x, y; if x = y then ... fi",int* x; int* y; if (*x == *y) { ... }
+7,Name a new type,mode longreal = long real;,typedef double longreal;or (as of C++11):using longreal = double;
+8,Name a new record type,"mode cust = struct(string name, address);","struct cust { std::string name, address; };"
+9,Name a new union type,"mode taggedu = union(string s, real r);",union u { std::string s; float f; };
+10,Name a procedure or function,proc f = (real x) real: ( code; result );,float f(float x) { code; return result; }
+11,Procedure default parameters,"proc p = (union (real, void) in x)void:  ( real x = (in x|(real x):x|888); code );",void p(float x=888) { code; }
+12,Name a new operator,"op ↑ = (real x,y) real: x**y;",
+13,Set priority on a new operator,prio ↑ = 9;,
+14,Chain variables assignment,a:=b:=c:=d;,a = b = c = d;
+15,Displacement operator - ALGOL 68C only,a:=:=b:=:=c:=:=d;,a = b; b = c; c = d;
+16,"Append ""substr"" to a variable str","str +:= ""substr"";","str += ""substr"";"
+17,"Prefix ""substr"" to a variable str","""substr"" +=: str;","str = ""substr"" + str;"

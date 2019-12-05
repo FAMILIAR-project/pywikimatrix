@@ -1,0 +1,33 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto,Blink
+0,Called as function,Called as function,Called as function,Called as function,Called as function,Called as function
+1,"Array([item1 [, item2 [, ...]]])",Yes,Yes,Yes,Yes,Yes
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,"new Array([item1, item2 [, ...]])",4.0,1.0,Yes,1.0,Yes
+4,new Array(len),4.0,1.0,Yes,1.0,Yes
+5,Properties,Properties,Properties,Properties,Properties,Properties
+6,prototype,4.0,1.0,Yes,1.0,Yes
+7,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+8,constructor,4.0,1.0,Yes,1.0,Yes
+9,toString(),4.0,1.0,Yes,1.0,Yes
+10,toLocaleString(),5.5,1.0,Yes,1.0,Yes
+11,"concat([item1 [, item2 [,...]]])",4.0,1.0,Yes,1.0,Yes
+12,join(separator),4.0,1.0,Yes,1.0,Yes
+13,pop(),5.5,1.0,Yes,1.0,Yes
+14,"push([item1 [, item2 [,...]]])",5.5,1.0,Yes,1.0,Yes
+15,reverse(),4.0,1.0,Yes,1.0,Yes
+16,shift(),5.5,1.0,Yes,1.0,Yes
+17,"slice(start, end)",4.0,1.0,Yes,1.0,Yes
+18,sort(comparefn),4.0,1.0,Yes,1.0,Yes
+19,"splice(start, deleteCount [, item1 [, item2 [, ...]]])",5.5,1.0,Yes,1.0,Yes
+20,"unshift([item1 [, item2 [, ...]]])",5.5,1.0,Yes,1.0,Yes
+21,"indexOf(searchElement[, fromIndex])",9.0[2],1.8,522,2.1,Yes
+22,"lastIndexOf(searchElement[, fromIndex])",9.0[2],1.8,522,2.1,Yes
+23,"filter(callback[, thisObject])",9.0[2],1.8,522,2.1,Yes
+24,"forEach(callback[, thisObject])",9.0[2],1.8,522,2.1,Yes
+25,"every(callback[, thisObject])",9.0[2],1.8,522,2.1,Yes
+26,"map(callback[, thisObject])",9.0[2],1.8,522,2.1,Yes
+27,"some(callback[, thisObject])",9.0[2],1.8,522,2.1,Yes
+28,"reduce(callback[, initialValue])",9.0[2],1.9,528,2.5.22,Yes
+29,"reduceRight(callback[, initialValue])",9.0[2],1.9,528,2.5.22,Yes
+30,Properties of instances,Properties of instances,Properties of instances,Properties of instances,Properties of instances,Properties of instances
+31,length,4.0,1.0,Yes,1.0,Yes

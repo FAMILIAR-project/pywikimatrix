@@ -1,0 +1,27 @@
+,Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware
+0,Beyond Compare,Yes,Yes,Yes,SVN,Yes,Yes,Yes,Yes,
+1,Compare++,,,,"SVN, CVS, Git, Microsoft TFS, Perforce, VSS using command line",,,,Yes,
+2,diff,No,No,,No,Yes,Yes with patch,Yes with patch,No,No
+3,diff3,No,No,,,,,,,No
+4,Eclipse (compare),,,,"Yes CVS, Subversion, Git, Mercurial, Baazar",,,,Yes,
+5,Ediff,Yes,Yes,,"RCS, CVS, SVN, Mercurial, git (anything supported by Emacs' VC-mode)[31]",Yes,Yes,Yes,,
+6,ExamDiff Pro,Yes[32],Yes[33],,,normal diff only,,,Yes,
+7,Far Manager (compare),No,No,,No,No,No,No,Yes,No
+8,fc,No,No,,,No,,,,
+9,FileMerge (aka opendiff),No,supported by OS,,,No,,,No,No
+10,Guiffy SureMerge,Yes,,,,Yes,Yes,Yes,Yes[34],
+11,IntelliJ IDEA (compare),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+12,jEdit JDiff plugin,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,
+13,Kompare,,,,,Yes,,,,
+14,Lazarus Diff,,,,,,,,,
+15,Meld,,,,"CVS, Subversion, Git, Mercurial, Baazar",Yes,,,Yes,
+16,Notepad++ (compare),No,Yes[35],,"Git, Subversion (compare against base)",No,No,No,Yes,No
+17,Perforce P4Merge,,,,No,,,,Yes,
+18,Pretty Diff,No,No,No,No,No,No,No,Yes,Yes
+19,Tkdiff,No,No,,"CVS, RCS, Subversion",No,No,No,No,No
+20,Total Commander (compare),Yes,Yes,Yes,No,No,No,No,Yes,No
+21,vimdiff,Yes,Yes,,,Yes,,,Yes,
+22,WinDiff,No,No,,,No,,,No,
+23,WinMerge,Yes,No,,"Mercurial,[36] Subversion,[37] Visual Source Safe, Rational ClearCase[38]",Yes,,,Yes,
+24,UCC,Yes,No,,,,,,Yes,
+25,Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware

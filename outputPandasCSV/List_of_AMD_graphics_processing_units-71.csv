@@ -1,0 +1,4 @@
+,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](TFLOPS),Processing power[a][d](TFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TDP,Bus interface
+0,Model(Codename),Release Date,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TDP,Bus interface
+1,Radeon Pro5300M(Navi 14)[311][312],November 2019,RDNA 1.07 nm,6.4×109155 mm2,1280:80:3220 CU,10001250,100,40,3.2,1/16 SP,GDDR6128-bit,4,12000,192.0,85 W,PCIe 4.0 ×16
+2,Radeon Pro5500M(Navi 14)[311][313],November 2019,RDNA 1.07 nm,6.4×109155 mm2,1536:96:3224 CU,10001300,124.8,41.6,4.0,1/16 SP,GDDR6128-bit,4 or 8,12000,192.0,85 W,PCIe 4.0 ×16

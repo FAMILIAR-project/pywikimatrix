@@ -1,0 +1,22 @@
+,Asian interplanetary exploration probes,Asian interplanetary exploration probes.1,Asian interplanetary exploration probes.2,Asian interplanetary exploration probes.3,Asian interplanetary exploration probes.4,Asian interplanetary exploration probes.5
+0,Mission name,Destination,Type,Year,Vehicle,Outcome
+1,Nozomi,Mars,Orbiter,2003,M-V,Failure
+2,Hayabusa,Asteroid: 25143 Itokawa,Sample return,2005-7,M-V,Success
+3,Akatsuki(PLANET-C),Venus,Orbiter,2010,H-IIA 202,Failure(Failed orbiter insertion)
+4,Akatsuki(PLANET-C),Venus,Orbiter,2015,H-IIA 202,Success
+5,IKAROS,Venus,Flyby,2010,H-IIA 202,Success
+6,Shin'en,Venus,Flyby,2010,H-IIA 202,Failure
+7,Yinghuo-1,Mars,Orbiter,2011,Zenit-2M,Failure
+8,Chang'e 2,Asteroid: 4179 Toutatis,Flyby,2012,Long March 3C,Success
+9,Mars Orbiter Mission,Mars,Orbiter,2013-14,PSLV-XL,Success
+10,Hayabusa2,Asteroid: 162173 Ryugu,Sample return,2014-20,H-IIA 202,en-route
+11,PROCYON,Asteroid: 2000 DP107,Flyby,2016,H-IIA 202,Failure
+12,Mio,Mercury,Orbiter,2018-24,Ariane 5 ECA,en-route
+13,Aditya-L1,Sun,Orbiter,2020,PSLV-XL,Planned
+14,Mars Global Remote Sensing Orbiter and Small Rover,Mars,Orbiter/Rover,mid-2020,Long March 5,Planned
+15,Hope Mars Mission,Mars,Orbiter,2020-21,H-IIA,Planned
+16,DESTINY+,Asteroid: 3200 Phaethon,Flyby,2022-26,Epsilon,Planned
+17,Shukrayaan-1,Venus,Orbiter and aerobots,2023,GSLV MkIII,Planned
+18,MMX,Mars,Orbiter,2024-2025,TBD,Planned
+19,MMX,Phobos,Sample return,2024-2025,TBD,Planned
+20,Mars Orbiter Mission 2,Mars,OrbiterLanderRover,TBD,GSLV MkII or GSLV MkIII,Planned

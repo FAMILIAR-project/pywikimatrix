@@ -1,0 +1,13 @@
+,Expressions and operators,Java,C#
+0,Arithmetic operators,Yes,Yes
+1,Logical operators,Yes,Yes
+2,Bitwise logic operators,Yes,Yes
+3,Conditional,Yes,Yes
+4,String concatenation,Yes,Yes
+5,Casts,Yes,Yes
+6,Boxing,Yes; implicit,Yes; implicit
+7,Unboxing,Yes; implicit,Yes; explicit
+8,Lifted operators,"No, but see java.util.Optional",Yes
+9,Overflow control,No,Yes
+10,Strict floating point evaluation,Yes; opt-in/out,Yes; opt-in[39]
+11,Verbatim (here-)strings,No,Yes[40]

@@ -1,0 +1,27 @@
+,Office suite,Windows,Mac OS,GNU/Linux,BSD,Unix,Android,iOS
+0,Ability Office,Yes,No,No,No,No,,
+1,Apache OpenOffice,Yes,Yes,Yes,Yes,Yes,,
+2,Breadbox Office,"DOS, Windows",No,No,No,No,,
+3,Calligra Suite,Yes,Yes,Yes,Yes,Yes,,
+4,Feng Office Community Edition,Fully online,Fully online,Fully online,Fully online,Fully online,,
+5,Gobe Productive,Yes,No,No,No,No,,
+6,Google Apps for Work,Fully online,Fully online,Fully online,Fully online,Fully online,Fully online,Fully online
+7,iWork,Fully online (iCloud version),Yes,Fully online (iCloud version),Fully online (iCloud version),Fully online (iCloud version),No,Yes
+8,LibreOffice,Yes,Yes,Yes,Yes,Yes,Beta,No
+9,Lotus SmartSuite,Yes,No,Some (with Wine),No,No,,
+10,MarinerPak,No,Yes,No,No,No,No,Calc only
+11,Microsoft Office,Yes,"Partial (not all features available, e.g. Project, Visio, Access)",Some (with Wine),No,No,Yes,Yes
+12,Microsoft Works,Yes,Dropped (4.0; Classic only),Some (with Wine),No,No,No,No
+13,MobiSystems OfficeSuite,Yes,No,No,No,No,,
+14,NeoOffice,No,Mac OS X v10.3 or above,No,No,No,No,No
+15,ONLYOFFICE,Yes,Yes,Yes,Online version,Online version,Yes,Yes
+16,SoftMaker Office,Yes,Yes,Yes,Dropped (2006),No,Yes,No
+17,StarOffice,Yes,Yes (Intel only),Yes,Yes,Yes,No,No
+18,TeXmacs,Yes,Yes,Yes,Yes,Yes,,
+19,TeamLab,Fully online,Fully online,Fully online,Fully online,Fully online,,
+20,ThinkFree Office,Fully online,Fully online,Fully online,Fully online,Fully online,,
+21,Tiki Wiki CMS Groupware,Fully online,Fully online,Fully online,Fully online,Fully online,,
+22,WordPerfect Office,Yes,No,Some (Ver. 2000),No,No,,
+23,WPS Office (Kingsoft Office),Yes,Yes,Yes,No,No,Yes,Yes
+24,Zoho Office Suite,Fully online,Fully online,Fully online,Fully online,Fully online,,
+25,Office suite,Windows,Mac OS,GNU/Linux,BSD,Unix,Android,iOS

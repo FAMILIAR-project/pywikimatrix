@@ -1,0 +1,133 @@
+,Software,Web-based,Hosted On-Premises,SaaS,License,Programming language
+0,2-plan,Yes[1],Yes,Yes,"Proprietary, Open source[2]",Java and PHP
+1,24SevenOffice,Yes,No,Yes,Proprietary,
+2,Actionspace,Yes,No,Yes,Proprietary,
+3,Apache Allura,Yes,Yes,,Apache License,Python
+4,Apache OFBiz,Yes,Yes,Yes,Apache License,"Java, XML, FreeMarker, Groovy, JavaScript"
+5,Apache Bloodhound,Yes,Yes,Yes,Apache License,Python
+6,Asana,Yes,No,Yes,Proprietary,
+7,Assembla,Yes,Yes,Yes,Proprietary,
+8,Axosoft,Yes,Yes,Yes,Proprietary,
+9,Basecamp,Yes[3],No[4],Yes,Proprietary,Ruby
+10,Calligra Plan,No,File-based,No,GPL,C++ and Java
+11,CEITON,Yes,Yes,Yes,Proprietary,"ASP.NET, JavaScript"
+12,Clarizen,Yes[5],No,Yes[5],Proprietary,
+13,Collabtive,Yes,Yes,Yes,Open source (core only),PHP
+14,Compuware Changepoint,Yes,Yes,Yes,Proprietary,
+15,ConceptDraw Project,No,Yes,No,Proprietary,
+16,ConceptDraw PLAN,Yes,No,Yes,Proprietary,PHP and Java
+17,Concerto Project Management,Yes,Yes,Yes,Proprietary,
+18,Copper Project,Yes,Yes,Yes,Proprietary,
+19,dotProject,Yes,Yes,Yes,GPL,PHP
+20,DynaRoad,No,Unknown,Unknown,Proprietary,
+21,Easy projects,Yes[6],Yes[6],Yes[6],Proprietary,ASP.NET
+22,Eclipse PPM software,Yes,No,Yes,Proprietary,
+23,Endeavour Software Project Management,Yes,Unknown,Unknown,GPL,Java
+24,eGroupWare,Yes,Unknown,Unknown,GPL,PHP
+25,enQuire,Yes,Unknown,Yes,Proprietary,Java
+26,FastTrack Schedule,No,Yes,No,Proprietary,
+27,Feng Office Community Edition,Yes,Yes,Yes,AGPLv3,PHP
+28,FinancialForce.com,Yes,Unknown,Yes,Proprietary,
+29,FogBugz,Yes,Yes,Yes,Proprietary,ASP.NET
+30,Fossil-scm,Yes[7],Yes[8],Yes[9],2-clause BSD license,SQLite and C
+31,Freedcamp,Yes,No,Yes,Proprietary,
+32,FusionForge,Yes,Yes,Unknown,GPL,PHP
+33,GanttProject,No,Yes,Unknown,GPL,Java
+34,Genius Project,Yes,Yes,Yes,Proprietary,
+35,Group-Office,Yes,Yes,Yes,Proprietary,
+36,GroveSite,Yes,Unknown,Yes,Unknown,
+37,Hall.com,Yes,Unknown,Yes,Unknown,
+38,Helix ALM,Yes,Yes,Yes,Proprietary,C++
+39,HeySpace,Yes,No,Yes,Proprietary,JavaScript
+40,HP Project & Portfolio Software,Yes,Yes,Proprietary,,
+41,Huddle,Yes,Unknown,Unknown,Proprietary,
+42,Hyperoffice,Yes,Unknown,Unknown,Proprietary,
+43,iManageProject,Yes,Unknown,Yes,Unknown,
+44,InLoox,Yes,Yes,Yes,Proprietary,
+45,in-Step BLUE,Yes,Yes,No,Proprietary,
+46,IRise,Yes,Yes,Yes,Proprietary,Java
+47,Jira,Yes,Yes,Yes,Proprietary,Java
+48,Launchpad,Yes,No,Yes,AGPL,Python
+49,LibrePlan,Yes,Yes,Yes,AGPL,Java
+50,LiquidPlanner,Yes,No,Yes,Proprietary,Ruby
+51,LisaProject,No,Unknown,Unknown,Proprietary,
+52,MacProject,No,Unknown,Unknown,Proprietary,
+53,MantisBT,Yes,Yes,No,GPL,PHP
+54,MeisterTask,Yes,No,Yes,Proprietary,"Ruby on Rails, React, Redux"
+55,Métier,Yes,Yes,Yes,Proprietary,
+56,Microsoft Dynamics AX,No,Yes,No,Proprietary,X++
+57,Microsoft Office Project Server,Yes,Yes,Yes,Proprietary,
+58,Microsoft Project,Yes,Yes,Yes,Proprietary,
+59,Microsoft SharePoint Server,Yes,Yes,Yes,Proprietary,
+60,Microsoft Team Foundation Server,Yes,Yes,Yes,Proprietary,
+61,Milestones Professional,No,Yes,No,Proprietary,C++
+62,Mingle,Yes,Yes,Yes,Proprietary,Ruby on Rails
+63,MyWorkPLAN,No,Unknown,Unknown,Proprietary,
+64,NetPoint,No,Unknown,Unknown,Proprietary,
+65,NetSuite,Yes,Unknown,Yes,Unknown,
+66,O3Spaces,No,Unknown,Unknown,Proprietary,
+67,OmniPlan,No,Yes,No,Proprietary,
+68,Onepager pro,No,Yes,No,Proprietary,ASP.NET
+69,Open Workbench,No,Unknown,Unknown,Open source,
+70,OpenProj,No,Unknown,Yes,CPAL,Java
+71,OpenProject,Yes,Yes,Yes,GPL,Ruby on Rails and AngularJS
+72,OnlyOffice,Yes,Yes,Yes,GPL,ASP.NET
+73,Oracle Primavera EPPM (Primavera P6),Yes,Yes,Yes,Proprietary,
+74,phpGroupWare,Yes,Unknown,Unknown,GPL,PHP
+75,PHProjekt,Yes,Unknown,Unknown,LGPL,PHP
+76,Pivotal Tracker,Yes,No,Yes,Unknown,Ruby
+77,Plandora,Yes,Yes,Unknown,LGPL,Java
+78,Planisware,Yes,Yes,Yes,Proprietary,
+79,PLANTA Project,Yes,Yes,No,Proprietary,
+80,Project Builder,Yes,Yes,Yes,Proprietary,
+81,Project KickStart,No,Yes,Unknown,Proprietary,
+82,Project Team Builder,Yes,Yes,Yes,Proprietary,
+83,Projector PSA,Yes,Yes,Yes,Proprietary,
+84,ProjectLibre,No (Cloud based version under development)[10],Yes,No (Included in future plans)[11],CPAL,Java
+85,ProjectManager.com,Yes[12],No,Yes,Proprietary,
+86,Project.net,Yes,Yes,Yes,GPL,Java
+87,Projectplace,Yes,No,Yes,Proprietary,
+88,Projektron BCS,Yes,Yes,Yes,Proprietary,Java
+89,ProjeQtOr,Yes,Yes,Yes,AGPL,PHP
+90,Proliance,Yes,Yes,Yes,Proprietary,
+91,ProjectLink,Yes,Yes,Yes,Proprietary,
+92,Prolog,Yes,Yes,Yes,Proprietary,
+93,Priority Matrix,Yes,No,Yes,Proprietary,
+94,Pyrus,Yes,Yes,Yes,Proprietary,
+95,RationalPlan,Yes,Yes,Yes,Proprietary,
+96,Realisor,No,Yes,No,Proprietary,
+97,Redbooth,Yes[13],Yes,Yes[13],AGPL;[14] Proprietary (version 4),Ruby on Rails
+98,Redmine,Yes,Yes,Yes [15][16][17],GPL,Ruby
+99,Rillsoft Project & Integration Server,Yes,Yes,Yes,Proprietary,C++ and PHP
+100,RiskyProject,Yes,Yes,Yes,Proprietary,
+101,SAP Business ByDesign,Yes,Unknown,Yes,Proprietary,
+102,Sciforma,Yes,Yes,Yes,Proprietary,
+103,Scoro,Yes,No,Yes,Proprietary,PHP[18]
+104,Seavus Project Viewer (software),Yes,Yes,Yes,Proprietary,C++
+105,Severa,Yes,Unknown,Yes,Unknown,
+106,Smartsheet,Yes,Unknown,Yes,Proprietary,PHP
+107,Spider Project,No,No,No,Proprietary,
+108,Streamtime Software,Yes,No,Yes,Proprietary,PHP
+109,TACTIC,Yes,Yes,Yes,Eclipse Public License,Python
+110,Talygen,Yes,No,Yes,Proprietary,ASP.NET
+111,TaskJuggler,No,Yes,No,GPL,Ruby
+112,Teamcenter,Yes,Yes,Yes,Proprietary,
+113,TeamDynamixHE,Yes,Yes,Yes,Proprietary,
+114,Teamwork.com,Yes,No,Yes,Proprietary,
+115,Tom's Planner,Yes,Unknown,Unknown,Proprietary,
+116,Trac,Yes,Yes,Yes,(modified) BSD license,Python
+117,TrackerSuite.Net,Yes,Yes,Yes,Proprietary,
+118,Traction TeamPage,Yes,Yes,Yes,Proprietary,Java
+119,Trello,Yes,No,Yes,Proprietary,"CoffeeScript, Backbone.js, HTML5, Mustache templating language, MongoDB, Node.js, Socket.io"
+120,Triskell,Yes,No,Yes,Proprietary,Java
+121,Tuleap,Yes,Yes,Yes,GPL,
+122,Twproject,Yes,Yes,Yes,Proprietary,
+123,UniPhi,Yes,Yes,Yes,Proprietary,ASP.NET
+124,Vpmi,Yes,Unknown,Unknown,Proprietary,
+125,web2project,Yes,Unknown,Unknown,GPL,PHP
+126,Workamajig,Yes,Yes,Yes,Proprietary,
+127,Workfront,Yes[19],No,Yes,Proprietary,
+128,WorkPLAN Enterprise,No,Unknown,Unknown,Proprietary,
+129,workspace.com,Yes,Unknown,Yes,Proprietary,
+130,Wrike,Yes,Unknown,Yes,Proprietary,
+131,Zoho Projects,Yes,No,Yes,Proprietary,PHP

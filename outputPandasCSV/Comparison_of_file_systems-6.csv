@@ -1,0 +1,52 @@
+,File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block size[ci],Allocate-on-flush,Copy on write,Trim support
+0,DECtape,No,No,No,No,No,No,No,No,No
+1,BeeGFS,Yes,Yes,No,No,Yes,Yes,Yes,Yes,?
+2,Level-D,No,No,No,No,Yes,No,No,No,?
+3,APFS,Yes,No,?,?,Yes,?,Yes,Yes,Yes[67][68]
+4,Version 6 Unix file system (V6FS),Yes,No,No,No,No,No,No,?,No
+5,Version 7 Unix file system (V7FS),Yes,No,No,No,No,No,No,?,No
+6,exFAT,No,No,No,No,No,No,No,No,Yes
+7,FAT12,Partial (only inside of compressed volumes)[69],Partial[cj],Partial (only inside of Stacker 3/4 and DriveSpace 3 compressed volumes[70]),No,Partial (only inside of compressed volumes)[71],No,No,No,Yes (Linux)
+8,FAT16 / FAT16B / FAT16X,Partial (only inside of compressed volumes)[69],Partial[cj],Partial (only inside of Stacker 3/4 and DriveSpace 3 compressed volumes[70]),No,Partial (only inside of compressed volumes)[71],No,No,No,Yes (Linux)
+9,FAT32 / FAT32X,No,No,No,No,No,No,No,No,Yes (Linux)
+10,GFS,Yes,No,No,Partial[ck],No,No,No,?,Yes
+11,HPFS,No,No,No,No,Yes,No,No,?,No
+12,NTFS,Yes,Yes,Partial,No,Yes,No,No,?,Yes (NT 6.1 + newer)
+13,HFS Plus,No,No,No,No,Yes,No,No,?,Yes (macOS)
+14,FFS,Yes,No,8:1[cl],No,No,No,No,?,No
+15,UFS1,Yes,No,8:1[cl],No,No,No,No,?,No
+16,UFS2,Yes,No,8:1[cl],No,No,Yes,No,?,Yes[72][73]
+17,LFS,Yes,No,8:1[cl],No,No,No,No,Yes,?
+18,ext,Yes,No,No,No,No,No,No,No,No
+19,Xiafs,Yes,No,No,No,No,No,No,?,?
+20,ext2,Yes,No[cm],No[cn],No,No,No,No,No,Yes
+21,ext3,Yes,No,No[cn],No,No,No,No,No,Yes
+22,ext4,Yes,No,No[cn],No,Yes,No,Yes,No,Yes
+23,NOVA,Yes,No,No,No,Yes,No,No,Yes,?
+24,F2FS,Yes,No,No,No,Partial[co],No,Yes,Yes,Yes[74]
+25,Lustre,Yes,No,No,No,Yes,No,Yes,?,?
+26,NILFS,Yes,No,No,No,No,No,Yes,Yes,?
+27,ReiserFS,Yes,No,Yes[cp],Yes,No,No,No,?,?
+28,Reiser4,Yes,Yes[bx],Yes[cp],Yes,Yes[cq],No,Yes,?,?
+29,OCFS,?,No,No,No,Yes,No,No,?,?
+30,OCFS2,Yes,No,No,No,Yes,No,No,?,?
+31,XFS,Yes,No,No,No,Yes,No,Yes,"Yes, on request[75]",Yes (Linux)
+32,JFS,Yes,only in JFS1 on AIX[76],Yes,No,Yes,No,No,?,Yes (Linux)
+33,QFS,?,No,Yes,No,No,No,No,?,?
+34,BFS,?,No,No,No,Yes,No,No,?,Yes (Haiku)
+35,NSS,?,Yes,No,No,Yes,No,No,?,?
+36,NWFS,?,Yes,Yes[cr],No,No,No,No,?,?
+37,ODS-5,?,No,No,No,Yes,No,No,?,?
+38,VxFS,Yes,No,?,No,Yes,No,No,?,?
+39,UDF,No,No,No,No,Yes,No,?[cs],?,No
+40,Fossil,?,Yes,No,No,No,No,No,?,?
+41,ZFS,Yes,Yes,Yes,No,No,Yes,Yes,Yes,"Yes (FreeBSD, illumos)"
+42,Btrfs,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+43,VMFS2,Yes,No,Yes,No,No,No,No,?,?
+44,VMFS3,Yes,No,Yes,No,No,No,No,?,?
+45,ReFS,Yes,No,?,?,?,No,?,Yes,?
+46,ISO 9660,No,No[ct],No,No,Yes[cu],No,No,No,No
+47,Rock Ridge,No,No[ct],No,No,Yes[cu],No,No,No,No
+48,"Joliet (""CDFS"")",No,No[ct],No,No,Yes[cu],No,No,No,No
+49,SquashFS,Yes,Yes,No,No,No,No,No,No,No
+50,File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block size[ci],Allocate-on-flush,Copy on write,Trim support

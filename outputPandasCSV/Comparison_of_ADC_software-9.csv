@@ -1,0 +1,12 @@
+,Other software,Software type,FOSS,Software license,Active,Last Update
+0,ADCCore,General library,Yes,GNU GPL,Yes,
+1,DCBouncer,Relay,Yes,GNU GPL,Yes,
+2,DC-Hublink,Hub linker,Yes,GNU GPL,No,
+3,DCWatch,Hub operator helper,Yes,GNU GPL,No,
+4,Embla,General library,Yes,GNU GPL,?,
+5,FlowLib,General library,Yes,GNU GPL,Yes,
+6,NetChatLink,Hub linker,Yes,GNU GPL,Yes,
+7,Announcer Bot,Announce new Releases,Yes,GNU GPLv2,Yes,
+8,Certmanager,Manage SSL Certificates,Yes,GNU GPLv2,Yes,
+9,SerieBot,SerieBot,Yes,GNU GPL,Yes,
+10,Other software,Software type,FOSS,Software license,Active,

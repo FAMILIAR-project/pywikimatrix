@@ -1,0 +1,30 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface Range,Interface Range,Interface Range,Interface Range,Interface Range,Interface Range,Interface Range,Interface Range
+1,DOM2,startContainer,No,?,1.0,Yes,?,1.0
+2,DOM2,startOffset,No,?,1.0,Yes,?,1.0
+3,DOM2,endContainer,No,?,1.0,Yes,?,1.0
+4,DOM2,endOffset,No,?,1.0,Yes,?,1.0
+5,DOM2,collapsed,No,?,1.0,Yes,?,1.0
+6,DOM2,commonAncestorContainer,No,?,1.0,Yes,?,1.0
+7,DOM2,setStart(),No,?,1.0,Yes,?,1.0
+8,DOM2,setEnd(),No,?,1.0,Yes,?,1.0
+9,DOM2,setStartBefore(),No,?,1.0,Yes,?,1.0
+10,DOM2,setStartAfter(),No,?,1.0,Yes,?,1.0
+11,DOM2,setEndBefore(),No,?,1.0,Yes,?,1.0
+12,DOM2,setEndAfter(),No,?,1.0,Yes,?,1.0
+13,DOM2,collapse(),No,?,1.0,Yes,?,1.0
+14,DOM2,selectNode(),No,?,1.0,Yes,?,1.0
+15,DOM2,selectNodeContents(),No,?,1.0,Yes,?,1.0
+16,DOM2,compareBoundaryPoints(),No,?,1.0,Yes,?,1.0
+17,DOM2,deleteContents(),No,?,1.0,Yes,?,1.0
+18,DOM2,extractContents(),No,?,1.0,Yes,?,1.0
+19,DOM2,cloneContents(),No,?,1.0,Yes,?,1.0
+20,DOM2,insertNode(),No,?,1.0,Yes,?,1.0
+21,DOM2,surroundContents(),No,?,1.0,Yes,?,1.0
+22,DOM2,cloneRange(),No,?,1.0,Yes,?,1.0
+23,DOM2,toString(),No,?,1.0,Yes,?,1.0
+24,DOM2,detach(),No,?,1.0,Yes,?,1.0
+25,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange,Interface DocumentRange
+26,DOM2,createRange(),No,?,1.0,No,?,1.0
+27,Exception RangeException,Exception RangeException,Exception RangeException,Exception RangeException,Exception RangeException,Exception RangeException,Exception RangeException,Exception RangeException
+28,DOM2,code,No,?,1.0,Yes,?,1.0

@@ -1,0 +1,14 @@
+,Model,Codename,Released,Fab (nm),USB2.0 + 1.1,Audio,Parallel ATA1,Features / Notes
+0,AMD 640 chipset,AMD-645,1997.0,,,,2 × ATA/33,
+1,AMD 750 chipset,AMD-756,1999.0,,0 + 4,,2 × ATA/66,
+2,AMD 760 chipset,AMD-766,2001.0,,0 + 4,,2 × ATA/100,
+3,AMD 760MPX chipset,AMD-768,2001.0,,0 + 4,AC'97,2 × ATA/100,
+4,,,,,,,,
+5,Geode GX1,Geode CS5530,,,,AC'97,2 × ATA/33,National Semiconductor release
+6,Geode GXmGeode GXLV,Geode CS5530A,,,,AC'97,2 × ATA/33,National Semiconductor release
+7,Geode GX,Geode CS5535,,,0 + 4,AC'97,2 × ATA/66,
+8,Geode LX,Geode CS5536,,,4 + 0,AC'97,2 × ATA/100,
+9,,,,,,,,
+10,AMD-8111nForce ProfessionalULi-1563,AMD-8131,2004.0,,4 + 2,AC'97,2 × ATA/133,PCI-X
+11,AMD-8111nForce ProfessionalULi-1563,AMD-8132,2004.0,,4 + 2,AC'97,2 × ATA/133,PCI-X 2.0
+12,AMD-8151,AMD-8151,2004.0,,4 + 2,AC'97,2 × ATA/133,AGP 8X

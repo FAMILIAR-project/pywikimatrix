@@ -1,0 +1,7 @@
+,Model,Code name[169],Fab (nm),Bus interface,Core clock (MHz),Boost clock (MHz),Memory clock (MHz),Core config1,Fillrate,Fillrate.1,Memory,Memory.1,Memory.2,Memory.3,Processing power (GFLOPS),Processing power (GFLOPS).1,Supported API version,Supported API version.1,Supported API version.2,Supported API version.3,Supported API version.4,TBP (Watts),Notes
+0,Model,Code name[169],Fab (nm),Bus interface,Core clock (MHz),Boost clock (MHz),Memory clock (MHz),Core config1,Pixel (GP/s),Texture (GT/s),Size (GB),Bandwidth (GB/s),Bus type,Bus width (bit),Single precision,Double precision,Direct3D,OpenGL,Vulkan,OpenCL,CUDA,TBP (Watts),Notes
+1,Quadro T1000[213],TU117,12,PCIe 3.0,,,2001,768:??:??:??:0,,,4,128,GDDR5,128,2600,,12.1,4.6,1.1,1.2,7.5,40-50,
+2,Quadro T2000[213],TU117,12,PCIe 3.0,1575,1785,2001,1024:64:32:??:0,57.1,114.2,4,128,GDDR5,128,3500,,12.1,4.6,1.1,1.2,7.5,40-60,
+3,Quadro RTX 3000[213],TU106,12,PCIe 3.0,,,,2304:??:??:36:288,,,6,336,GDDR6,192,6400,,12.1,4.6,1.1,1.2,7.5,60-80,
+4,Quadro RTX 4000[213],TU104,12,PCIe 3.0,,,,2560:??:??:40:320,,,8,448,GDDR6,256,8000,,12.1,4.6,1.1,1.2,7.5,80-110,
+5,Quadro RTX 5000[213],TU102,12,PCIe 3.0,,,,3072:??:??:48:384,,,16,448,GDDR6,256,9400,,12.1,4.6,1.1,1.2,7.5,80-110,

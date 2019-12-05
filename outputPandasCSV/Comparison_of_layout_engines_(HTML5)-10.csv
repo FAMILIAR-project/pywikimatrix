@@ -1,0 +1,14 @@
+,Unnamed: 0,Trident,Gecko,WebKit,KHTML,Presto
+0,Basic structure,Basic structure,Basic structure,Basic structure,Basic structure,Basic structure
+1,form,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+2,fieldset,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+3,legend,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+4,Form controls and labels,Form controls and labels,Form controls and labels,Form controls and labels,Form controls and labels,Form controls and labels
+5,button,<3.1[IE 4.0] [note 3],1.0,Yes,Yes,1.0
+6,textarea,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+7,input,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+8,label,<3.1[IE 4.0],1.0,Yes,3.4.2[note 4],1.0
+9,List boxes (combo boxes),List boxes (combo boxes),List boxes (combo boxes),List boxes (combo boxes),List boxes (combo boxes),List boxes (combo boxes)
+10,select,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+11,optgroup,<3.1[IE 4.0],1.0,Yes,Yes,1.0
+12,option,<3.1[IE 4.0],1.0,Yes,Yes,1.0

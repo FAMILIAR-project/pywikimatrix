@@ -1,0 +1,10 @@
+,Unnamed: 0,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+0,No through road,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Hospital,,,,,NOTUSED,,(Clinic) or,,,,,,,,,,,,,,,,,,[note 16] [note 17],,,(With A&E)or(With no A&E)
+2,First aid,,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,NOTUSED
+3,Pharmacy,,NOTUSED,NOTUSED,,NOTUSED,,,,,,,,,,,,,,,,,,,,,,,
+4,Bus stop,,NOTUSED,Front:orRear:,,,or [note 18],Fare network-specificor,,,,,,,,or [note 19],,,,,,,,,,Fare network-specificand:,,,
+5,Escape lane,NOTUSED,,,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,,,NOTUSED,NOTUSED,NOTUSED,,,,,,,,,,,NOTUSED,,,,
+6,Tunnel,,,,,,,,,,,,NOTUSED,or[note 20],,,,,,,NOTUSED,,,,,[note 21][8],,,NOTUSED
+7,Parking place,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom

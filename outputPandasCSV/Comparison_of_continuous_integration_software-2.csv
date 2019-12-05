@@ -1,0 +1,16 @@
+,Name,AccuRev,BitKeeper,CA Harvest,ClearCase,CVS,Darcs,Git,GNU Bazaar,Integrity,Mercurial,Perforce,Plastic,PVCS,StarTeam,Subversion,Surround,Synergy,Team Concert,Team Foundation Server,Vault,Visual SourceSafe
+0,Apache Gump,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+1,AppVeyor,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes[19],No,No,No,No,No,No
+2,Bamboo,Yes[20],No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes[21],No,No
+3,Buddy,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+4,BuildBot,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No
+5,BuildMaster,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes
+6,CruiseControl,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+7,CruiseControl.NET,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+8,Distelli,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+9,Jenkins,Yes,Yes,Yes,Yes,Yes,Yes[22],Yes,Yes,Yes[23],Yes,Yes,Yes[24],Yes,Yes,Yes,Yes[25],Yes[26],Yes[27],Yes,Yes[28],Yes
+10,OpenMake Software Meister,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+11,Semaphore (software),No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+12,TeamCity,Yes,No,No,Yes,Yes,No,Yes,Yes[29],No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes
+13,Team Foundation Server,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No
+14,Vexor,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No

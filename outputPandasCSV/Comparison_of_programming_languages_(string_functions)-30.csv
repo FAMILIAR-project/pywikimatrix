@@ -1,0 +1,27 @@
+,Format,Languages
+0,"changestr(find, string, replace)",Rexx
+1,"std.string.replace(string, find, replace)",D
+2,"Replace(string, find, replace)",VB
+3,"replace(string, find, replace)",Seed7
+4,"change(string, find, replace)",Pick Basic
+5,"string.Replace(find, replace)","VB .NET, C#, F#"
+6,"str_replace(find, replace, string)",PHP
+7,"re:replace(string, find, replace, «{return, list}»)",Erlang
+8,"string.replace(find, replace)","Cobra, Python, Java (1.5+)"
+9,"string.replaceAll(find_regex, replace)[23]",Java
+10,"string.gsub(find, replace)",Ruby
+11,string =~ s/find_regex/replace/g[23],Perl 5
+12,"string.subst(find, replace, :g)",Raku
+13,"string.replace(find, replace, ""g"") [24] or string.replace(/find_regex/g, replace)[23]",JavaScript
+14,"echo ""string"" | sed 's/find_regex/replace/g'[23]",Unix
+15,"string.replace(find, replace), orstring -replace find_regex, replace[23]",Windows PowerShell
+16,Str.global_replace (Str.regexp_string find) replace string,OCaml
+17,[string stringByReplacingOccurrencesOfString:find withString:replace],Objective-C (NSString * only)
+18,"string.stringByReplacingOccurrencesOfString(find, withString:replace)",Swift (Foundation)
+19,"string.gsub(string, find, replace) (string):gsub(find, replace)",Lua
+20,string copyReplaceAll: find with: replace,"Smalltalk (Squeak, Pharo)"
+21,string map {find replace} string,Tcl
+22,"StringReplace[string, find -> replace]",Mathematica
+23,"strings.Replace(string, find, replace, -1)",Go
+24,INSPECT string REPLACING ALL/LEADING/FIRST find BY replace,COBOL
+25,find_regex ⎕R replace_regex ⊢ string,APL

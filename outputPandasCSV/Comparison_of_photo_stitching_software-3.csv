@@ -1,0 +1,40 @@
+,Name,Panorama leveling,Vignetting correction,Lens distortion correcting,White balance correction,Exposure correction,Viewpoint adjustment,Notes
+0,Panoweaver Standard / Professional[8],Yes,Yes,Yes,Yes,Yes,Yes,
+1,Dermandar,Yes,No,Yes,No,Yes,No,
+2,i2Align Quickage Express / Pro[9],Yes,?,Yes,?,Yes,No,
+3,Pixtra PanoStitcher[10],Yes,Yes,Yes,No,Yes,No,Also chromatic aberration correction if correction parameters provided
+4,Pixtra OmniStitcher,Yes,Yes,Yes,No,Yes,No,Also chromatic aberration correction if correction parameters provided
+5,QuickPHOTO,No,Yes,No,Yes,Yes,No,
+6,PhotoFit Harmony / Premium[11],Yes,?,Yes,Yes,?,No,
+7,PanoramaPlus X4[12],Yes,?,?,?,?,No,
+8,PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,?,?,?,?,?,No,
+9,360 Panorama Professional,?,?,?,?,?,No,
+10,VRstitcher Fisheye Pro[13],Yes,?,Yes,?,?,No,
+11,COOL 360,?,?,?,?,?,No,
+12,PanaVue ImageAssembler Std. / Pro. / Ent.[14],Yes,?,Yes,Yes,?,No,
+13,The Panorama Factory v5[15],?,Yes,Yes,?,?,No,
+14,PixMaker Lite / Home / Business,?,?,?,?,?,No,
+15,PTAssembler[16],Yes,Yes,Yes,Yes,Yes,No,
+16,PTgui / PTgui Pro,Yes,Yes,Yes,Yes,Yes,Yes[17],
+17,Autopano Pro / Giga / Server,Yes,Yes,Yes,Yes,Yes,Yes*[18],(*) Giga only.
+18,Autostitch,Yes,No,No,No,No,No,
+19,Calico Panorama,Yes,?,?,?,?,No,
+20,Hugin,Yes,Yes,Yes,Yes,Yes,Yes[19],
+21,3DVista Stitcher 3.0,?,?,?,?,?,No,
+22,D Joiner[20],No,No,No,No,No,No,
+23,Panorama Maker 6,?,?,?,?,?,No,
+24,Photovista Panorama[21],No,No,No,No,No,No,
+25,PanoramaStudio / Pro [22],Yes,Yes,Yes,?,Yes,No,
+26,Stitcher Unlimited 2009,?,?,?,Yes,?,No,
+27,ADG Panorama Tools / Pro,Yes,?,?,Yes,?,No,
+28,Panorama Composer 3[23],Yes,?,?,?,?,No,
+29,Image Composite Editor,Yes,Yes,Yes,No,Yes,No,
+30,Panorama Perfect[24],Yes,Yes,?,Yes,Yes,No,
+31,Photoshop,Yes,Yes,Yes,Yes,Yes,No,
+32,AIPR Lite 1,No,Yes*,Yes,No,No,No,(*) color mapping about the seams greatly mitigates the effects of vignetting
+33,Gigapan Stitch 1.0,No,No,Yes,No,No,No,
+34,PanoramaMaker,Yes,?,Yes,?,Yes,No,
+35,Panorama Stitcher,Yes,Yes,Yes*,No,Yes,Yes,(*) Only for rectilinear lenses
+36,SharpStitch,Yes,Yes,No,Yes,Yes,Yes,
+37,Pano2VR / Pano2VR pro[25],Yes,No,No,No,No,Yes,
+38,Name,Panorama leveling,Vignetting correction,Lens distortion correcting,White balance correction,Exposure correction,Viewpoint adjustment,Notes

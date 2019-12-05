@@ -1,0 +1,14 @@
+,Application,CD-R/W,DVD-R/RW/RAM,DVD+R/RW,DVD+R/RW DL,DVD-R/RW DL,BD-R/RE,BD-R/RE DL
+0,Alcohol 120%,Yes,Yes,Yes,Yes,Yes,No,No
+1,CDBurnerXP,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,cdrtools,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,DeepBurner,Yes,Yes,Yes,?,?,No,No
+4,ExpressBurn,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5,ImgBurn,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,InfraRecorder,Yes,Yes,Yes,Yes,Yes,No,No
+7,K3b,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,Libburnia,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Nero Burning ROM,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,UltraISO,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11,X-CD-Roast,Yes,Yes,Yes,?,?,No,No
+12,Application,CD-R/W 737MB=702MiB,DVD-R/RW/RAM 4.707GB=4.384GiB,DVD+R/RW 4.700GB=4.378GiB,DVD+R/RW DL 8.548GB=7.961GiB,DVD-R/RW DL 8.544GB=7.957GiB,BD-R/RE 25GB=23.31GiB,BD-R/RE DL 50GB=46.61GiB

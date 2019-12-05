@@ -1,0 +1,33 @@
+,Format,Languages
+0,LCase(string),VB
+1,lcase(string),FreeBASIC
+2,lc(string),"Perl, Raku"
+3,string.lc,Raku
+4,tolower(char),C[19]
+5,std.string.toLower(string),D
+6,"transform(string.begin(), string.end(), result.begin(), ::tolower)[20]",C++[21]
+7,lowercase(string),Object Pascal (Delphi)
+8,strtolower(string),PHP
+9,lower(string),Seed7
+10,"echo ""string"" | tr 'A-Z' 'a-z'",Unix
+11,string.lower(),Python
+12,downcase(string),Pick Basic
+13,string.downcase,Ruby[22]
+14,strings.ToLower(string),Go
+15,(string-downcase string),"Scheme (R6RS), Common Lisp"
+16,(lower-case string),Clojure
+17,String.lowercase string,OCaml
+18,String.map Char.toLower string,Standard ML
+19,map Char.toLower string,Haskell
+20,string.toLowerCase(),"Java, JavaScript"
+21,to_lower(string),Erlang
+22,string.ToLower(),"VB .NET, C#, Windows PowerShell, F#"
+23,string.lowercaseString,"Objective-C (NSString * only), Swift (Foundation)"
+24,string.lower(string) (string):lower(),Lua
+25,string asLowercase,Smalltalk
+26,LOWER(string),SQL
+27,lowercase(string),PL/I[6]
+28,ToLowerCase[string],Mathematica
+29,«FUNCTION» LOWER-CASE(string),COBOL
+30,string.toLower,Cobra
+31,string tolower string,Tcl

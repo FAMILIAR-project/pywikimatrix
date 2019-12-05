@@ -1,0 +1,33 @@
+,Unnamed: 0,Integer,Single precision,Double precision,Half and Quadruple precision etc.
+0,Ada[1],,Complex[b],Complex[b],Complex[b]
+1,ALGOL 68,,compl,long compl etc.,short compl etc. & long long compl etc.
+2,C (C99) [9],,float complex,double complex,
+3,C++ (STL),,std::complex<float>,std::complex<double>,
+4,C#,,,System.Numerics.Complex (.NET 4.0),
+5,Java,,,,
+6,Go,,complex64,complex128,
+7,D,,cfloat,cdouble,
+8,Objective-C,,,,
+9,Common Lisp,(complex integer),(complex single-float),(complex double-float),complex
+10,Scheme,,,,
+11,Pascal,,,,
+12,Visual Basic,,,,
+13,Visual Basic .NET,,,System.Numerics.Complex (.NET 4.0),
+14,Perl,,,Math::Complex,
+15,Raku,,complex64,complex128,Complex
+16,Python,,,complex,
+17,JavaScript,,,,
+18,S-Lang,,,,
+19,Fortran,,COMPLEX(KIND = n)[a],COMPLEX(KIND = n)[a],
+20,Ruby,Complex,,Complex,
+21,Scala,,,,
+22,Seed7,,,complex,
+23,Smalltalk,Complex,Complex,Complex,
+24,Windows PowerShell,,,,
+25,OCaml,,,Complex.t,
+26,F#,,,System.Numerics.Complex (.NET 4.0),
+27,Standard ML,,,,
+28,Haskell (GHC),,Complex.Complex Float,Complex.Complex Double,
+29,Eiffel,,,,
+30,COBOL,,,,
+31,Mathematica,Complex,,,Complex

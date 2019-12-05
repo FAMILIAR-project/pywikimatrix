@@ -1,0 +1,10 @@
+,NAME,Export universal DXF,inside AutoCAD application available,Curve recognition,Circle recognition,Arc recognition,Orthogonal line detection,Corner detection,Line connection
+0,Easy Trace,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+1,FreeHand,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2,Graphic Tracer Professional,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+3,Illustrator,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+4,Potrace,Yes,No,No,?,?,?,Yes,?
+5,ImageTracer,No,No,Yes,No,Yes,Yes,Yes,Yes
+6,Scan2CAD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,WinTopo Pro,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+8,,Export universal DXF,inside AutoCAD application available,Curve recognition,Circle recognition,Arc recognition,Orthogonal line detection,Corner detection,Line connection

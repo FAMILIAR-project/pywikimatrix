@@ -1,0 +1,19 @@
+,Unnamed: 0,Import namespace,Import namespace.1,Import item
+0,,qualified,unqualified,Import item
+1,ABAP Objects,,,
+2,C++ (STL),,using namespace ns;,using ns::item ;
+3,C#,,using ns;,using item = ns.item;
+4,D,,import ns;,import ns : item;
+5,Java,,import ns.*;,import ns.item;
+6,Objective-C,,,
+7,Visual Basic .NET,,Imports ns,
+8,Eiffel,,,
+9,Python,import ns,from ns import *,from ns import item
+10,PHP,,use ns;,use ns\item;
+11,Perl,use ns;,,use ns qw(item);
+12,Raku,use ns;,,
+13,Ruby,,,
+14,Windows PowerShell,,,
+15,OCaml,,open ns,
+16,F#,,open ns,
+17,COBOL,,,

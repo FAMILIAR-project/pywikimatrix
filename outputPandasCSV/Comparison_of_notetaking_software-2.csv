@@ -1,0 +1,32 @@
+,Name,Organizing principle(s),Outline bulleting with indent,Tabbed sections,Sync,PDF annotate and save[unclear],White­board,Ink-pen input,Handwriting recognition,Spell check,Search,Replace,Printing,File save/export/import formats
+0,AllMyNotes Organizer,Tree,Yes,No,Yes,No,No,No,No,Yes,Yes,?,Yes,"Proprietary, encrypted; import: plain text, RTF, CSV, images, HTML; exports: plain text, HTML, RTF, images"
+1,BasKet Note Pads,"Tree, tags",?,No,No,No,Yes,No,No,Yes,Yes,?,No,Rich text; export as HTML; import text files
+2,CintaNotes,"Notebooks, sections, tags",Yes,Yes,Yes,No,No,No,No,No,Yes,?,Yes,"Proprietary; export to Unicode text, XML and HTML"
+3,ConnectedText,"Wiki, Tree and Categories",Yes,Yes,No,No,No,No,No,Yes,Yes,?,Yes,"Proprietary (SQL); Export to text, XML, CHM and HTML. Import from text, HTML, XML and RTF"
+4,Day One,"Chronological, tags",Yes,No,Yes[Notes 3],No,No,No,No,Yes,Yes,?,Yes[Notes 4],"Markdown (in GUI), XML (data file); Export as: pdf, txt, md"
+5,Org-mode (Emacs),"tree, tags",Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,?,Yes,"LaTeX, HTML, DocBook, Taskjuggler, PDF, Freemind, XOXO, iCalendar"
+6,Evernote,"tags, Notebooks, Stacks",Yes,No,Yes,Yes,No,Partial[Notes 5],Yes,Yes,Yes,?,Yes,Notes stored as XML; both free and paid versions allow notes of any file type
+7,Gnote,Notebooks,?,No,Yes,Yes,No,?,?,Yes,Yes,?,Yes,"NoteXmlFormat, HTML, PDF"
+8,Google Keep,"tags, colors",No,No,Yes,No,Yes,No,?,Partial[Notes 6],Yes,?,No,"Proprietary; export to Google Doc and thence to PDF, Word, ODT etc."
+9,KeyNote NF,"Notebooks, notes and tree",Yes,Yes,No,No,No,No,No,Yes,Yes,?,Yes,"Internal: combination of TXT and RTF; import/export: TXT, RTF, HTML, Treepad"
+10,Memonic,?,?,No,Yes,Yes,No,No,?,?,?,?,Yes,Notes stored as XML; can attach any filetype
+11,Microsoft OneNote,"Notebooks, sections, pages",Yes,Yes,Yes[Notes 7],Yes[Notes 8],Yes,Yes,Yes,Yes,Yes,No,Yes,"Open, XML,[2] import from web pages and other applications[clarification needed]"
+12,MyInfo,?,Yes,Yes,No,Yes,No,No,No,Yes,Yes,?,Yes,"Proprietary, encrypted; import: plain text, RTF, CSV, MS Word, images, web pages; exports: plain text, HTML, RTF, CSV, MS Word"
+13,MyNotex,?,?,?,Yes,No,No,No,No,?,Yes,?,Yes,"Sqlite based, zipped attachments; export to HTML; copying as LaTeX; import text files, OpenOffice.org documents"
+14,Notizen .NET,tree,?,No,No,No,No,No,No,?,Yes,?,No,"TXT (ANSI/Unicode), RTF, ALX"
+15,Okular,?,?,?,No,Yes[Notes 9],No,No,No,?,?,?,Yes,"PDF, PS, TIFF, CHM, DjVu, DVI, XPS, ODF, others; export PDF+notes for sending to other Okular users"
+16,Open-Sankoré,"tree, notebooks",No,No,No,Yes,Yes,Yes,No,No,No,?,Yes,"Save/export: PDF, IWB, UBZ; Import: PDF, IWB, UBZ, images, image directories"
+17,Outline,"Tree-structured notebooks, sections, pages",Yes,Yes,Yes[Notes 10],Yes,No,Yes,No,Yes,Yes,?,Yes,"MS OneNote format, export/import as PDF"
+18,PDF Studio,?,?,?,?,Yes,No,?,?,?,?,?,Yes,PDF
+19,Personal Knowbase,tags,?,?,?,No,No,?,?,?,?,?,Yes,"Export to RTF, HTML, TXT, CSV"
+20,Qiqqa,"tags, brainstorm",No,No,Yes,Yes,No,Yes,No,No,Yes,?,Yes,"Proprietary, PDF, Brainstorm; export to RTF and Word"
+21,Simplenote,tags,Yes,No,Yes,No,No,No,No,Yes,Yes,?,Yes,Export to XML
+22,TagSpaces,"tags, files, directories",Yes,No,No,No,No,No,No,No,Yes,?,Yes,"PNG, JPG, GIF, BMP, ICO, WEBP, SVG, PDF, HTML, MHT, MHTML, MARKDOWN, TXT, XML, JSON, OGG, OGV, WEBM, ODT, ODS, ODP, ODG, EPUB, ZIP"
+23,TiddlyWiki,tags (wikiwords),Yes,Yes,Yes,Via plugin,No,?,No,Yes(via browser),Yes,?,Yes,"HTML, json, txt,csv"
+24,Tomboy,?,Yes,?,Yes,No,No,No,No,Yes,Yes,?,Yes,"NoteXmlFormat, HTML, PDF, wiki-formats"
+25,TreeDBNotes,tree,Yes,Yes,?,?,?,No,No,Yes,Yes,?,Yes,"RTF, HTML, txt"
+26,Ulysses,"Notebooks, sections, tags",Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Rich text; export as HTML; import text files; markdown editing.
+27,WikidPad,tags (wikiwords),?,No,No,No,No,No,No,?,?,?,Yes,HTML
+28,Microsoft Windows Journal,?,?,No,?,No,?,Yes,Yes[Notes 11],?,?,?,Yes,Proprietary
+29,Zim,tags (wikiwords),Yes,No,No,No,No,No,No,Yes,Yes,Yes,"Yes, using installed web browser","Stored in modified DokuWiki Markdown; export: HTML, LaTeX, Pandoc Markdown, Sphinx RST (reStructuredText)"
+30,Name,Organizing principle(s),Outline bulleting with indent,Tabbed sections,Sync,PDF annotate and save,White­board,Ink-pen input,Handwriting recognition,Spell check,Search,Replace,Printing,File save/export/import formats

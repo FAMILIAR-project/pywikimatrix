@@ -1,0 +1,14 @@
+,Application,Red (CD-DA),Yellow (CD-ROM),Orange (CD-R/CD-RW),White (VCD/SVCD),Blue (E-CD),Beige (PCD),Green (CD-I),Purple (DDCD),Scarlet (SACD)
+0,Alcohol 120%,No,Yes,Yes,No,No,No,No,No,No
+1,CDBurnerXP,Yes,Yes,Yes,No,No,No,No,No,No
+2,cdrtools,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?
+3,DeepBurner,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,ExpressBurn,Yes,Yes,Yes,No,No,No,No,No,No
+5,ImgBurn,Yes,Yes,Yes,No[2],?,?,Yes,No,?
+6,InfraRecorder,?,?,Yes,?,?,?,?,?,?
+7,K3b,Yes,?,Yes,Yes,Yes,No,Yes,No,?
+8,Libburnia,Yes,Yes,Yes,No,No,No,No,No,No
+9,Nero Burning ROM,Yes,Yes,Yes,Yes,No,No,No,No,No
+10,UltraISO,Yes,Yes,Yes,?,?,?,?,?,?
+11,X-CD-Roast,Yes,Yes,Yes,No,No,No,No,No,No
+12,Application,Red (CD-DA),Yellow (CD-ROM),Orange (CD-R/CD-RW),White (VCD/SVCD),Blue (E-CD),Beige (PCD),Green (CD-I),Purple (DDCD),Scarlet (SACD)

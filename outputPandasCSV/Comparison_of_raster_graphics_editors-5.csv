@@ -1,0 +1,74 @@
+,Unnamed: 0,Selection editing,Layers,Alpha Channel,Histogram,Scripting,HDR,Retouching,Resizing,Noise removal,Lens correction,Sized Printing,Sharpening,Color correction,Image library,Plug-in support[17],Non-destructive editing
+0,Ability Photopaint,Yes,Yes,?,Yes,Yes,No,?,Yes,?,?,?,?,?,?,?,?
+1,ACD Canvas,Yes,Yes,?,Yes,Yes,No,Yes,Yes,Yes,Yes,?,Yes,?,Yes,No,?
+2,ACDSee (Win),Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,No,Partial
+3,Acorn Image Editor,Yes,Yes,?,Yes,Yes,No,Yes,Yes,Yes,No,?,Yes,Yes,No,Yes,Yes
+4,Adobe Fireworks*,Yes,Yes,?,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,?
+5,Adobe Photoshop,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes (Through Mini Bridge),Yes,Partial
+6,Adobe Photoshop Lightroom,Yes,No,?,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,Affinity Photo,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+8,Aperture,Yes,Partial,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Autodesk SketchBook Pro,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes
+10,Artipic,Yes,Yes,?,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+11,ArtRage,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,?,?,?
+12,Artweaver,Yes,Yes,?,No,Via plug-in[18],No,Yes,Yes,Yes,?,?,Yes,Yes,No,Yes,?
+13,Bibble*,Partial,Partial,?,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+14,Bloom Image Editor,Yes,Yes,?,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+15,Brush Strokes Image Editor,Yes,No,?,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+16,Capture One,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+17,Chasys Draw IES,Yes,Yes,?,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+18,CinePaint,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,?
+19,CodedColor PhotoStudio Pro,Yes,Yes,?,Yes,No,?,?,?,?,?,?,?,?,?,?,?
+20,Corel PaintShop Pro,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+21,Corel Painter,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,?,?,Yes,Yes,?,Yes,?
+22,Corel Photo-Paint,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+23,darktable,No,No,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+24,Deluxe Paint*,No,Partial[19],?,Partial,Yes,No,Yes,Yes,No,No,?,No,No,?,No,?
+25,DigiKam,No,No,?,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+26,Erdas Imagine,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,?
+27,Fatpaint,Yes,Yes,?,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,?
+28,Fotografix,Yes,Yes,?,No,Partial,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,?
+29,GIMP,Yes,Yes,Yes,Yes,Yes,Via plug-in[20],Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+30,GIMPshop,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,?
+31,GraphicConverter,Yes,Partial,?,Yes,Yes,No,Yes,Yes,Yes,Via plug-in,Yes,Yes,Yes,Yes,Yes,?
+32,HDR PhotoStudio,No,No,?,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,?
+33,Helicon Filter,Partial,No[21],?,Yes,No[22],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,?
+34,iPhoto*,No,No,?,Yes,Partial[23],No,Yes,Partial,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes
+35,IrfanView,Yes,No,?,Yes,No,No,Via plug-in[24],Yes,No,No,?,Yes,Yes,?,Yes,?
+36,Iridient Developer,?,Yes,?,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+37,Kolourpaint,Yes,No,?,No,No,No,?,?,?,?,?,?,?,?,?,?
+38,Krita,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+39,LiveQuartz,Yes,Yes,?,No,No,No,Yes,Yes,Yes,No,?,Yes,Yes,No,No,Partial
+40,MacPaint*,Yes,No,?,No,No,No,?,?,?,?,?,?,?,?,?,?
+41,Microsoft Office Picture Manager*,Partial,No,?,No,No,No,No,Yes,No,No,Yes,No,?,No,No,?
+42,Microsoft Paint,No,No,?,No,No,No,Partial,Yes,No,No,No,No,No,No,No,No
+43,Microsoft Photo Editor*,Yes,No,?,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,?
+44,mtPaint,Yes,Yes,Yes,No,Yes,No,?,Yes,No,No,No,Yes,Yes,No,No,Yes
+45,OpenCanvas,Yes,Yes,?,Yes,No,?,Yes,Yes,No,No,Yes,Yes,Yes,No,?,?
+46,Paint.NET,Yes,Yes,?,Yes,Partial,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+47,Paint Tool SAI,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+48,PC Paintbrush*,Yes,No,?,No,No,No,?,?,?,?,?,?,?,?,?,?
+49,Photogenics,Yes,Yes,?,Yes,?,Yes,?,?,?,?,?,?,?,?,?,?
+50,PhotoLine,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51,PhotoPerfect*,Yes,No,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+52,Photos,No,No,?,Yes,Partial[25],No,Yes,Partial,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes
+53,Photo Raster,Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,?
+54,Picasa*,No,No,?,Yes,No,Partial[26],Partial,Partial,No,No,Yes,Yes,Yes,Yes,No,Yes
+55,PicMaster,Yes,No,?,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,?
+56,PixBuilder Photo Editor,Yes,Yes,?,Yes,No,No,?,?,?,?,?,?,?,?,?,?
+57,Pixelmator,Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+58,Pixia,Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,?,?,Yes,?
+59,Project Dogwaffle,?,Commercial version,?,Yes,Partial,No,Yes,Yes,?,?,?,Yes,Yes,?,Yes,?
+60,QFX,Yes,Yes,?,Yes,Yes,?,?,?,?,?,?,?,?,?,Yes,?
+61,RawTherapee,No,No,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+62,Serif PhotoPlus,Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,?
+63,Side Effects Houdini,Yes,Yes,?,Yes,Yes,No,Yes,Yes,Yes,No,?,Yes,Yes,No,Yes,?
+64,Tux Paint,No,No,?,No,No,No,No,No,No,No,No,Yes,No,No,Yes,?
+65,TVPaint,Yes,Yes,?,Yes,Yes,No,Yes,Yes,?,?,?,?,Yes,?,Yes,?
+66,Ulead PhotoImpact*,Yes,Yes,?,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+67,Ultimate Paint*,Yes,No,?,Yes,No,No,?,?,?,?,?,?,?,?,?,?
+68,WinImages,Yes,Yes,?,?,Yes,?,?,?,?,?,?,?,?,?,?,?
+69,Xara Photo & Graphic Designer,Yes,Yes,?,Yes,No,No,Yes,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes
+70,XnView,No,Partial,?,Partial,Yes,No,No,Yes,Yes,?,?,Yes,Yes,Yes,Yes,No
+71,XPaint,Yes,Partial,?,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Partial,Yes,No
+72,Zoner Photo Studio,Yes,Partial[27],?,Yes,No[28],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?

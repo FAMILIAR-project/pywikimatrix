@@ -1,0 +1,20 @@
+,Distribution,Compile time buffer checks,Mandatory access control,Software executable space protection,grsecurity,RSBAC
+0,Alpine Linux,Yes[211],Unknown,PaX,Discontinued in 3.8.0,Unknown
+1,BLAG,Unknown,Unknown,Unknown,Unknown,Unknown
+2,Debian/Ubuntu,Yes,"SELinux, AppArmor",PaX optional,Optional,Optional
+3,Dragora GNU/Linux-Libre,Unknown,Unknown,Unknown,Unknown,Unknown
+4,dyne:bolic,Unknown,Unknown,Unknown,Unknown,Unknown
+5,Fedora,Yes,SELinux[212],Exec Shield[213],No,No
+6,Gentoo,Optional,"SELinux, AppArmor",PaX optional,Optional,Optional
+7,gNewSense,Unknown,"SELinux, AppArmor[f]",Unknown,Unknown,Unknown
+8,Guix System Distribution,Unknown,Unknown,Unknown,Unknown,Unknown
+9,LibreCMC,Unknown,Unknown,Unknown,Unknown,Unknown
+10,Mandriva,Unknown,AppArmor,Unknown,Unknown,Yes
+11,Musix GNU+Linux,Unknown,Unknown,Unknown,Unknown,Unknown
+12,Parabola GNU/Linux-libre,Unknown,Optional[214],Unknown,Optional[214],Unknown
+13,Slackware,Unknown,"AppArmor, tomoyo",Unknown,Unknown,Optional
+14,SUSE Linux,Yes,AppArmor[215],Hardware NX and other methods in mainline kernel and toolchain[216],No,No
+15,Solus,Yes,AppArmor,Unknown,No,Unknown
+16,Tor-ramdisk,Unknown,Unknown,PaX,Yes,No
+17,Trisquel,Unknown,"SELinux, AppArmor[g]",Unknown,Unknown,Unknown
+18,Ututo,Unknown,Unknown,Unknown,Unknown,Unknown

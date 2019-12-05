@@ -1,0 +1,9 @@
+,Name,Type checker,Determinacy checker,Call-pattern checker
+0,Ciao,Yes,Yes,Yes
+1,GNU Prolog,,,
+2,Jekejeke Prolog,,,
+3,SICStus Prolog,,Yes,
+4,SWI-Prolog,,Yes,
+5,Visual Prolog,Yes,Yes,Yes
+6,XSB,,,
+7,YAP-Prolog,,,

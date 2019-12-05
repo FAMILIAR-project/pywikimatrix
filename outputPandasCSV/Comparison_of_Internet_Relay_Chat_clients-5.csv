@@ -1,0 +1,38 @@
+,Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
+0,Bersirc,?,Partial,No,No,?,?,?,?,?,No
+1,BitchX,Yes,Yes,Yes,Yes,Yes,?,?,?,?,No
+2,ChatZilla,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,script,No
+3,Colloquy,Yes,Yes,Yes,Yes,?,?,?,?,Yes,No[54]
+4,degesch,Yes,Yes,Yes,No,Yes,?,?,?,?,No
+5,DMDirc,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+6,ERC,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes[Note 1],No
+7,HexChat,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes[Note 2]
+8,HydraIRC,Yes,Yes,?,No,No,?,No,No,?,No
+9,IceChat,Yes,Yes,Yes,Yes,?,?,?,?,Yes,No
+10,IRCCloud,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No
+11,ircII,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+12,IRCjr,Yes,No,No,No,No,?,No,No,No,No
+13,Ircle,Yes,Yes,?,Yes,?,?,?,?,?,No
+14,Irssi,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Yes,Yes[55][56][Note 2]
+15,jIRCii,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+16,KiwiIRC,Yes,No,Yes,Yes,Yes,?,No,No,Yes,No
+17,Konversation,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,No
+18,KVIrc,Yes,Yes,Yes,Yes,Yes,?,No,No,Yes,No
+19,LimeChat,?,Yes,Yes,Yes,?,?,?,?,Yes,No
+20,Linkinus,Yes,Yes,No,Yes,?,?,?,?,No,No
+21,Mibbit,?,Partial[Note 3][Note 4],No,Yes,?,?,?,?,Yes,No
+22,mIRC,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,No
+23,Nettalk,Yes,Yes,No,No,?,?,?,?,?,No
+24,Opera,Yes[57],Yes,Yes,Yes,Yes,?,?,?,?,No
+25,PIRCH,Yes,Yes,No,No,?,?,?,?,?,No
+26,PJIRC,?,Yes,No,No,?,?,?,?,?,No
+27,Quassel,Yes,No,Yes,Yes,Yes,?,No,No,Yes,No[58]
+28,qwebirc,Yes,No,No,Yes,No,?,No,No,No,No
+29,rcirc,Partial,No,No,Yes,Yes,?,?,?,?,No
+30,Scrollback,Partial,No,Yes,Yes,?,?,?,?,No,No
+31,Smuxi,Yes,No,Yes,Yes,?,?,?,?,No,No[59]
+32,Snak,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+33,Visual IRC,Yes,Yes,No,No,?,?,?,?,?,No
+34,WeeChat,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,Yes[55][60][Note 2]
+35,XChat,Yes,Yes,Partial[Note 4],Yes,?,No,?,?,script,Yes[55][56][Note 2]
+36,Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR

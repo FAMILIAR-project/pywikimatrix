@@ -1,0 +1,56 @@
+,Software,Compare multiple files,Hash single file,Hash several files,Hash directories & sub-directories,exclude filter,Binary output,Bubble Babble output,Base64 output,Hexadecimal output
+0,7-Zip,No,Yes,Yes,Yes,No,?,?,?,?
+1,AccuHash,?,?,?,?,?,?,?,?,?
+2,BeaverSFV,?,?,?,?,?,?,?,?,?
+3,CDCheck,Yes,Yes,?,Yes,?,?,?,?,Yes
+4,cfv,?,?,?,?,?,?,?,?,?
+5,Checksum Compare,Yes,Yes,Yes,Yes,?,No,No,No,Yes
+6,Checksums,No,Yes,No,No,No,No,No,No,Yes
+7,CHK,Yes,Yes,Yes,Yes,?,No,No,Yes,Yes
+8,cksum,?,Yes,Yes,No,?,No,No,No,No
+9,CyoHash,No,Yes,Yes,Yes,No,No,No,No,Yes
+10,Data Digester,Yes,Yes,Yes,Yes,?,Yes,No,Yes,Yes
+11,DeepDigest,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+12,DySFV,Yes,Yes,?,Yes,?,No,No,No,No
+13,ExactFile,Yes,Yes,Yes,Yes,?,No,No,No,No
+14,eXpress CheckSum Calculator,?,?,?,?,?,?,?,?,?
+15,FastSum,Yes,Yes,Yes,Yes,?,No,No,No,Yes
+16,FCIV,Yes,Yes,Yes,Yes,?,No,No,Yes,Yes
+17,Febooti Hash & CRC,?,Yes,Yes,?,?,?,?,No,Yes
+18,FileVerifier++,Yes,Yes,Yes,Yes,?,No,No,Yes,Yes
+19,FlashSFV,?,?,?,?,?,?,?,?,?
+20,FSUM,?,?,?,?,?,?,?,?,?
+21,FSUM Frontend,Yes,Yes,Yes,Yes,?,No,Yes,Yes,Yes
+22,PowerShell'sGet-FileHash,?,Yes,?,?,?,?,?,?,Yes
+23,Hashcalc,?,?,?,?,?,?,?,?,?
+24,HashCheck Shell Extension,?,Yes,Yes,Yes,?,?,?,?,?
+25,HashForm,?,Yes,Yes,Yes,?,No,No,No,Yes
+26,HashShell,Yes,Yes,Yes,Yes,?,No,No,No,Yes
+27,ilSFV,Yes,Yes,?,Yes,?,No,No,No,No
+28,Jacksum,?,?,?,?,?,?,?,?,?
+29,jdigest,?,?,?,?,?,?,?,?,?
+30,jHashCalc,?,?,?,?,?,?,?,?,?
+31,MD5 File Hasher,Yes,Yes,Yes,Yes,?,No,No,No,Yes
+32,MD5 & SHA Checksum Utility,No,Yes,Yes,Yes,?,No,No,No,No
+33,md5deep,Yes,Yes,?,Yes,?,No,No,No,Yes
+34,md5sum,Yes,Yes,Yes,No,?,No,No,No,Yes
+35,MD5summer,Yes,Yes,?,Yes,?,?,?,?,Yes
+36,MD5 Win Verifier,Yes,Yes,No,No,?,No,No,No,?
+37,QuickSFV,?,?,?,?,?,?,?,?,?
+38,PeaZip,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+39,RapidCRC,Yes,Yes,?,Yes,?,No,No,No,Yes
+40,RekSFV,Yes,Yes,Yes,Yes,?,No,No,No,Yes
+41,RHash,?,Yes,Yes,No,?,No,No,No,No
+42,SafeFileManager,Yes,Yes,Yes,Yes,?,?,?,?,?
+43,Sigcheck,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+44,SFV Checker,?,?,?,?,?,?,?,?,?
+45,sha1sum,Yes,Yes,Yes,No,?,No,No,No,Yes
+46,sha3sum,Yes,Yes,Yes,No,?,No,No,No,Yes
+47,SuperSFV,?,?,?,?,?,?,?,?,?
+48,TeraCopy,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+49,Tom's Hash Explorer,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+50,Toolsley Hash & Validate,?,Yes,?,No,?,No,No,No,Yes
+51,Total Commander,?,Yes,Yes,Yes,?,?,?,?,?
+52,WinHasher,Yes,Yes,?,No,?,No,Yes,Yes,Yes
+53,wxChecksums,Yes,Yes,?,Yes,Yes,No,No,No,Yes
+54,Software,Compare multiple files,Hash single file,Hash several files,Hash directories & sub-directories,exclude filter,Binary output,Bubble Babble output,Base64 output,Hexadecimal output

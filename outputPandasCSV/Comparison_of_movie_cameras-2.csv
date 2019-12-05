@@ -1,0 +1,29 @@
+,Camera model,Lens mount,Super 35?,Aperture size,Aperture plate,Lens interface,Ground glass,Frameline glow?
+0,Eyemo 71K,"Eyemo mount, many conversions","No, but conversions exist",Full frame,fixed,none,interchangeable,No
+1,Arriflex 35-2C,Arri standard and Arri bayonet,"No, but conversions exist",Academy ratio,fixed,none,interchangeable,No
+2,Arriflex 35BL-1,Arri bayonet,No,"Academy ratio, custom sizes exist",removable,none,interchangeable,No
+3,Panaflex-X,PV mount;,Yes,Full frame,removable; interchangeable format masks,none,interchangeable,Yes
+4,Arriflex 35BL-2,Arri bayonet,No,"Academy ratio, custom sizes exist",removable,none,interchangeable,No
+5,Panaflex Gold II,PV mount,Yes,Full frame,removable; interchangeable format masks,none,interchangeable,Yes
+6,Arriflex 35BL-3,Arri PL or BNCR mount,No,"Academy ratio, custom sizes exist",removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,No
+7,Arriflex 35-3C,Arri PL,No,Academy ratio,removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,No
+8,Moviecam SuperAmerica,Arri PL and BNCR mount,Yes,full range available,removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+9,Arriflex 35BL-4,Arri PL,Yes,"Academy ratio, custom sizes exist",removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+10,Panaflex Platinum,PV mount,Yes,Full frame,removable; interchangeable format masks,none,interchangeable,Yes
+11,Panaflex Panastar II,PV mount,Yes,Full frame,removable; interchangeable format masks,none,interchangeable,Yes
+12,Arriflex 35BL-4s,Arri PL,Yes,"Academy ratio, custom sizes exist",removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+13,Arriflex 535,Arri PL,Yes,full range available,removable; interchangeable format masks and filter holders,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+14,Moviecam Compact,Arri PL and BNCR mount,Yes,full range available,removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+15,Arriflex 535B,Arri PL,Yes,full range available,removable; interchangeable format masks and filter holders,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+16,Arriflex 435,"Arri PL, PV mount",Yes,full range available,removable; interchangeable format masks and filter holders,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+17,Arriflex 435ES,"Arri PL, PV mount",Yes,full range available,removable; interchangeable format masks and filter holders,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+18,Moviecam SL,Arri PL,Yes,full range available,removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+19,Aaton 35-III,"Arri PL, PV mount, or Nikon",Yes,full frame,fixed,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+20,Panaflex Millennium,PV mount,Yes,full frame,removable; interchangeable format masks,none,interchangeable,Yes
+21,Panaflex Millennium XL,PV mount,Yes,full frame,removable; interchangeable format masks,none,interchangeable,Yes
+22,Arricam LT,Arri PL,Yes,full frame,removable; interchangeable format masks and filter holders,Lens Data System (LDS) contacts; integrated Lens Data Box (LDB),interchangeable,Yes
+23,Arricam ST,Arri PL,Yes,full frame,removable; interchangeable format masks and filter holders,Lens Data System (LDS) contacts; integrated Lens Data Box (LDB),interchangeable,Yes
+24,Arriflex 435 Advanced,"Arri PL, PV mount",Yes,full frame,removable; interchangeable format masks and filter holders,Lens Data System (LDS) contacts; usable with FEM-2 unit,interchangeable,Yes
+25,Aaton 35-3P,"Arri PL, PV mount, or Nikon",Yes,full frame,fixed,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+26,Arriflex 235,Arri PL,Yes,full frame,removable,"none, but Lens Data Archive (LDA) can be used",interchangeable,Yes
+27,Arriflex 435 Xtreme,"Arri PL, PV mount",Yes,full range available,removable; interchangeable format masks and filter holders,Lens Data System (LDS) contacts and integrated electronics,interchangeable,Yes

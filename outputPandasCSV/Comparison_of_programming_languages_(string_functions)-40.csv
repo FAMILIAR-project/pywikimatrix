@@ -1,0 +1,21 @@
+,Format,Languages
+0,"split(/separator/, string«, limit»)",Perl 5
+1,"split(separator, string«, limit») string.split(separator, «limit»)",Raku
+2,"explode(separator, string«, limit»)",PHP
+3,"string.split(separator«, limit-1»)",Python
+4,"string.split(separator«, limit»)","JavaScript, Java, Ruby"
+5,"string:tokens(string, sepchars)",Erlang
+6,"strings.Split(string, separator)strings.SplitN(string, separator, limit)",Go
+7,(string-tokenize string« charset« start« end»»»),Scheme (SRFI 13)
+8,"Split(string, sepchars«, limit»)",VB
+9,"string.Split(sepchars«, limit«, options»»)","VB .NET, C#, F#"
+10,"string -split separator«, limit«, options»»",Windows PowerShell
+11,Str.split (Str.regexp_string separator) string,OCaml
+12,"std.string.split(string, separator)",D
+13,[string componentsSeparatedByString:separator],Objective-C (NSString * only)
+14,string.componentsSeparatedByString(separator),Swift (Foundation)
+15,"TStringList.Delimiter, TStringList.DelimitedText",Object Pascal
+16,"StringSplit[string, separator«, limit»]",Mathematica
+17,"string.split«(sepchars«, limit«, options»»)»",Cobra
+18,split string separator,Tcl
+19,(separator≠string)⊂string or separator(≠⊆⊢)string in APL2 and Dyalog APL 16.0 respectively,APL

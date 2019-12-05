@@ -1,0 +1,7 @@
+,Unnamed: 0,Type,Method,Type inheritance,Table inheritance
+0,CUBRID,Yes,Yes,Yes,Yes
+1,Oracle,Yes,Yes[Note 1],Yes,Yes
+2,OpenLink Virtuoso,Yes,Yes,Yes,Yes
+3,PostgreSQL,Yes,Yes,Yes,Yes
+4,Informix,Yes,Yes,Yes,Yes
+5,WakandaDB,Yes,Yes,Yes,Yes

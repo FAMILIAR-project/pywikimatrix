@@ -1,0 +1,6 @@
+,Name,Architecture,Integrated firewall,SMP support,USB support,UDMA support,LFN support,Update management,APIs,Safe Mode
+0,Windows 1.0,x86 16-bit,No,No,No,No,No,No,Win16,No
+1,Windows 2.0,x86 16-bit,No,No,No,No,No,No,Win16,No
+2,Windows 2.1x,x86 16-bit,No,No,No,No,No,No,Win16,No
+3,Windows 3.0,x86 16-bit,No,No,No,No,No,No,Win16,No
+4,Windows 3.1x,x86 16-bit (partial 32-bit compatibility through Win32s),No,No,No,No,No,No,"Win16, Win32s",No

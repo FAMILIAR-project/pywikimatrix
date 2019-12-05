@@ -1,0 +1,37 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto,Blink
+0,Value properties,Value properties,Value properties,Value properties,Value properties,Value properties
+1,,4.0,0.6,Yes,Yes,Yes
+2,Infinity,4.0,0.6,Yes,Yes,Yes
+3,undefined,5.5,0.6,Yes,Yes,Yes
+4,Function properties,Function properties,Function properties,Function properties,Function properties,Function properties
+5,eval(x),3.0,0.6,Yes,Yes,Yes
+6,"parseInt(string [, radix])",3.0,0.6,Yes,Yes,Yes
+7,parseFloat(string),3.0,0.6,Yes,Yes,Yes
+8,isNaN(number),4.0,0.6,Yes,Yes,Yes
+9,isFinite(number),4.0,0.6,Yes,Yes,Yes
+10,URI handling functions,URI handling functions,URI handling functions,URI handling functions,URI handling functions,URI handling functions
+11,decodeURI(encodedURI),5.5,0.6,Yes,Yes,Yes
+12,decodeURIComponent(encodedURIComponent),5.5,0.6,Yes,Yes,Yes
+13,encodeURI(uri),5.5,0.6,Yes,Yes,Yes
+14,encodeURIComponent(uriComponent),5.5,0.6,Yes,Yes,Yes
+15,Constructor properties,Constructor properties,Constructor properties,Constructor properties,Constructor properties,Constructor properties
+16,Object,4.0,Yes,Yes,Yes,Yes
+17,Function,4.0,Yes,Yes,Yes,Yes
+18,Array,4.0,Yes,Yes,Yes,Yes
+19,String,3.0,Yes,Yes,Yes,Yes
+20,Boolean,3.0,Yes,Yes,Yes,Yes
+21,Number,3.0,Yes,Yes,Yes,Yes
+22,Date,3.0,Yes,Yes,Yes,Yes
+23,RegExp,4.0,Yes,Yes,Yes,Yes
+24,Error,5.0,Yes,Yes,Yes,Yes
+25,EvalError,5.0,Yes,Yes,Yes,Yes
+26,RangeError,5.0,Yes,Yes,Yes,Yes
+27,ReferenceError,5.0,Yes,Yes,Yes,Yes
+28,SyntaxError,5.0,Yes,Yes,Yes,Yes
+29,TypeError,5.0,Yes,Yes,Yes,Yes
+30,URIError,5.0,Yes,Yes,Yes,Yes
+31,Other properties,Other properties,Other properties,Other properties,Other properties,Other properties
+32,Math,3.0,Yes,Yes,Yes,Yes
+33,Additional properties,Additional properties,Additional properties,Additional properties,Additional properties,Additional properties
+34,escape(string),3.0,Yes,Yes,Yes,Yes
+35,unescape(string),3.0,Yes,Yes,Yes,Yes

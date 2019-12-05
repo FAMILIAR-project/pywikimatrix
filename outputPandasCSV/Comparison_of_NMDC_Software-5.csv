@@ -1,0 +1,10 @@
+,Other software,Windows,Linux,Mac OS X,Other
+0,jDCBot,Yes,Yes,Yes,Any Java compatible platform
+1,Net::DirectConnect,Yes,Yes,Yes,Any Perl compatible platform
+2,FlowLib,Yes,Yes,Yes,Any C# compatible platform
+3,DC-hublink,Yes,No,No,No
+4,Hub-Link,Yes,No,No,No
+5,MyIrcDcLinks,Yes,No,No,No
+6,NetChatLink,Yes,No,No,Runs under WINE
+7,Kitty,Yes,No,No,No
+8,Other software,Windows,Linux,Mac OS X,Other

@@ -1,0 +1,57 @@
+,License and version,FSF approval[31],GPL (v3) compatibility[32][33][34][35][36],OSI approval[37],Debian approval[38][39],Fedora approval[40]
+0,Academic Free License,Yes,No,Yes,No,Yes
+1,Affero General Public License 3.0,Yes,Yes,Yes,Yes,Yes
+2,Apache License 1.x,Yes,No,Yes,Yes,Yes
+3,Apache License 2.0,Yes,GPLv3 only[41],Yes,Yes,Yes
+4,Apple Public Source License 1.x,No[42],No,Yes,No,No
+5,Apple Public Source License 2.0,Yes,No,Yes,No,Yes
+6,Artistic License 1.0,No[note 1],No,Yes,Yes,No
+7,Artistic License 2.0,Yes,Yes,Yes,Yes,Yes
+8,Beerware License,"see ""informal license"" section[43]","see ""informal license"" section[43]",No,No,Yes[44]
+9,Original BSD license,Yes,No,No[45],Yes,Yes
+10,Modified BSD license,Yes,Yes,Yes,Yes,Yes
+11,Zero-Clause BSD License,?,?,Yes[46],?,?
+12,Boost Software License,Yes,Yes,Yes,Yes,Yes
+13,CeCILL,Yes,Yes,Yes,Yes,Yes
+14,Common Development and Distribution License,Yes,GPLv3 (GPLv2 disputed)[47][48][49][50][51][52],Yes,Yes,Yes
+15,Common Public License,Yes,No,Yes,Yes,Yes
+16,Creative Commons Zero,Yes[53],Yes[53],not approved and not rejected[54],Partial[55][56],Yes[57]
+17,Creative Commons BY-SA 4.0,Yes,GPLv3[58],?,Yes,?
+18,Cryptix General License,Yes,Yes,Yes,Yes,Yes
+19,Eclipse Public License,Yes,No,Yes,Yes,Yes
+20,Educational Community License,Yes,Yes[59],Yes,No,Yes
+21,Eiffel Forum License 2,Yes,Yes,Yes,Yes,Yes
+22,European Union Public Licence,Yes,Yes[19],Yes,Yes,?
+23,GNU Affero General Public License,Yes,Yes[21][60],Yes,Yes,Yes
+24,GNU General Public License v2,Yes,No[note 2][61],Yes,Yes,Yes
+25,GNU General Public License v3,Yes,Yes[note 3][61],Yes,Yes,Yes
+26,GNU Lesser General Public License,Yes,Yes,Yes,Yes,Yes
+27,GNU Free Documentation License,Yes,No[62],Yes[63],No[64],No
+28,IBM Public License,Yes,No,Yes,Yes,Yes
+29,Intel Open Source License,Yes,Yes,Yes,No,No
+30,ISC license,Yes[65],Yes,Yes,Yes,Yes
+31,LaTeX Project Public License,Yes,No,Yes,Yes,Yes
+32,Microsoft Public License,Yes,No,Yes,No,Yes
+33,Microsoft Reciprocal License,Yes,No,Yes,No,Yes
+34,MIT license / X11 license,Yes,Yes,Yes,Yes,Yes
+35,Mozilla Public License 1.1,Yes,No,Yes,Yes,Yes
+36,Mozilla Public License 2.0,Yes,Yes[note 4][66],Yes,Yes,Yes
+37,NASA Open Source Agreement,No,No,Yes,?,No
+38,Netscape Public License,Yes,No,No,No,Yes
+39,Open Software License,Yes,No,Yes,No,Yes
+40,OpenSSL license,Yes,No,No,Yes,Yes
+41,PHP License,Yes,No,Yes,Yes,Yes
+42,Python Software Foundation License 2.0.1; 2.1.1 and newer,Yes,Yes,Yes,Yes,Yes
+43,Q Public License,Yes,No,Yes,No,Yes
+44,Reciprocal Public License 1.5,No,No,Yes,No,No
+45,Sleepycat License,Yes,Yes,Yes,Yes,Yes
+46,Sun Industry Standards Source License,Yes,No,Yes,No,Yes
+47,Sun Public License,Yes,No,Yes,No,Yes
+48,Sybase Open Watcom Public License,No,No,Yes,No,No
+49,Unlicense,Yes[67],Yes[53],while considered free not recommended[68],?,Yes[57]
+50,W3C Software Notice and License,Yes,Yes,Yes,Yes,Yes
+51,Do What The Fuck You Want To Public License (WTFPL),Yes[note 5],Yes,No[69],Yes,Yes
+52,XFree86 1.1 License,Yes,Yes[70],No,No,No
+53,zlib/libpng license,Yes,Yes,Yes,Yes,Yes
+54,Zope Public License 1.0,Yes,No,No,No,Yes
+55,Zope Public License 2.0,Yes,Yes,Yes,No,Yes

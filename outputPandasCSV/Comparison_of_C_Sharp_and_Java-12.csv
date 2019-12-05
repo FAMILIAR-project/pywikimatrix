@@ -1,0 +1,17 @@
+,Methods and properties,Java,C#
+0,Static imports,Yes,Yes[52]
+1,Virtual methods,Virtual by default,Non-Virtual by default
+2,Abstract,Yes,Yes
+3,Sealing,Yes,Yes
+4,Explicit interface implementation,Default methods,Yes[53]
+5,Value (input) parameters,Yes,Yes
+6,Reference (input/output) parameters,No,Yes
+7,Output (output) parameters,No,Yes
+8,Constant (immutable) parameters,Yes; final parameters,Yes[54]
+9,Variadic methods,Yes,Yes
+10,Optional arguments,No;[55] Instead method overloading or varargs,Yes
+11,Named arguments,No,Yes
+12,Generator methods,No,Yes
+13,Extension/default methods,Yes,Yes
+14,Conditional methods,No,Yes
+15,Partial methods,No,Yes

@@ -1,0 +1,93 @@
+,Unnamed: 0,Windows,macOS,Linux,iOS,BSD,Unix,AmigaOS,Other
+0,Ability Photopaint,Yes,No,No,,No,No,No,No
+1,ACD Canvas,Yes,Dropped[8],No,,No,No,No,No
+2,ACDSee,Yes,Yes,No,,No,No,No,No
+3,Acorn Image Editor,No,Yes,No,,No,No,No,No
+4,Adobe Fireworks*,Yes,Yes,No,,No,No,No,No
+5,Adobe Photoshop,Yes,Yes,No,Yes (iPad),No,No,No,No
+6,Adobe Photoshop Lightroom,Yes,Yes,No,,No,No,No,No
+7,Affinity Photo,Yes,Yes,No,Yes (iPad),No,No,No,No
+8,Aperture,No,Yes,No,,No,No,No,No
+9,Autodesk SketchBook Pro,Yes,Yes,No,Yes,No,No,No,Android
+10,Artipic,Yes,Yes,No,,No,No,No,No
+11,ArtRage,Yes,Yes,No,Yes,No,No,No,Android
+12,Artweaver,Yes,No,No,,No,No,No,No
+13,Bibble*,Yes,Yes,Yes,,No,No,No,No
+14,Bloom Image Editor,Yes,Yes,Yes,,No,No,No,No
+15,Brush Strokes Image Editor,Yes,No,No,,No,No,No,No
+16,Capture One,Yes,Yes,No,,No,No,No,No
+17,Chasys Draw IES,Yes,No,No,,No,No,No,No
+18,CinePaint,Version 0.17 only,Yes,Yes,,Yes,Yes,No,No
+19,CodedColor PhotoStudio Pro,Yes,No,No,,No,No,No,No
+20,Corel PaintShop Pro,Yes,No,No,,No,No,No,No
+21,Corel Painter,Yes,Yes,No,,No,No,No,No
+22,Corel Photo-Paint,Yes,No,No,,No,No,No,No
+23,darktable,Yes,Yes,Yes,,Yes,No,No,Solaris
+24,Deluxe Paint*,No,No,No,,No,No,Yes,"Atari ST, DOS[9]"
+25,DigiKam,Yes,Yes,Yes,,Yes,Yes,No,No
+26,Erdas Imagine,Yes,No,No,,No,Yes,No,No
+27,Fatpaint,Yes,Yes,Yes,,No,No,No,No
+28,Fotografix,Yes,No,No,,No,No,No,No
+29,F-Spot,No,No,Yes,,Yes,No,No,No
+30,G'MIC,Yes,Yes,Yes,,Yes,Yes,No,No
+31,GIMP,Yes,Yes,Yes,No[10],Yes,Yes,Needs X11 Cygnix,SkyOS
+32,GimPhoto,Yes,Yes,Yes,,No,No,No,No
+33,GIMPshop,Yes,Yes,Yes,,Yes,Yes,No,No
+34,GNU Paint,No,No,Yes,,Yes,No,No,No
+35,GrafX2,Yes,Yes,Yes,,Yes,Yes,Yes,"Haiku, MiNT, DOS"
+36,GraphicConverter,No,Yes,No,,No,No,No,No
+37,GraphicsMagick,Yes,Yes,Yes,,Yes,No,No,No
+38,gThumb,No,No,Yes,,Yes,No,No,No
+39,HDR PhotoStudio,Yes,Yes,No,,No,No,No,No
+40,Helicon Filter,Yes,No,No,,No,No,No,No
+41,ImageJ,Yes,Yes,Yes,,Yes,No,No,No
+42,ImageMagick,Yes,Yes,Yes,,Yes,No,No,No
+43,iPhoto*,No,Yes,No,,No,No,No,No
+44,IrfanView,Yes,No,No,,No,No,No,No
+45,Iridient Developer,No,Yes,No,,No,No,No,No
+46,Kolourpaint,Yes,No,Yes,,Yes,Yes,No,No
+47,Krita,Yes,Yes,Yes,,Yes,Yes,No,No
+48,LazPaint,Yes,Partial[11],Yes,,No,No,No,No
+49,LiveQuartz,No,Yes,No,,No,No,No,No
+50,MacPaint*,No,No,No,,No,No,No,Mac OS[12]
+51,Microsoft Office Picture Manager*,Yes,Yes,No,,No,No,No,No
+52,Microsoft Paint,Yes,No,No,,No,No,No,No
+53,Microsoft Photo Editor*,Yes,No,No,,No,No,No,No
+54,mtPaint,Yes,No,Yes,No,No,No,No,No
+55,MyPaint,Yes,Yes,Yes,,Yes,Yes,No,No
+56,OpenCanvas,Yes,No,No,,No,No,No,No
+57,Paint.NET,Yes,No,Partial[13],,No,No,No,No
+58,Paint Tool SAI,Yes,No,No,No,No,No,No,No
+59,PC Paintbrush*,No,No,No,,No,No,No,DOS[14]
+60,Pencil2D,Yes,Yes,Yes,,Yes,No,No,No
+61,Phatch,Yes,Yes,Yes,,Yes,No,No,No
+62,Photogenics,Yes,No,Yes,,No,No,Up to version 5,Pocket PC
+63,PhotoLine,Yes,Yes,No,,No,No,No,ATARI ST
+64,PhotoPerfect*,Yes,No,No,,No,No,No,No
+65,Photos,No,Yes,No,,No,No,No,No
+66,Photo Raster,Yes,Yes,Yes,,Yes,Yes,No,No
+67,Picasa*,Yes,Yes,Up to version 3.0,,No,No,No,No
+68,PicMaster,Yes,No,No,,No,No,No,No
+69,Pinta,Yes,Yes,Yes,,Yes,Yes,No,No
+70,PixBuilder Photo Editor,Yes,No,No,,No,No,No,No
+71,Pixelmator,No,Yes,No,,No,No,No,No
+72,Pixen,No,Yes,No,,No,No,No,No
+73,Pixia,Yes,No,No,,No,No,No,No
+74,PMview,Yes,No,No,,No,No,No,OS/2
+75,Project Dogwaffle,Yes,No,No,,No,No,No,No
+76,QFX,Yes,No,No,,No,No,No,DOS 3.3 and up
+77,Rawstudio,No,Yes,Yes,,Yes,No,No,No
+78,RawTherapee,Yes,Yes,Yes,,No,No,No,No
+79,Seashore,No,Yes,No,,No,No,No,No
+80,Serif PhotoPlus,Yes,No,No,,No,No,No,No
+81,Shotwell,No,No,Yes,,Yes,No,No,No
+82,Tux Paint,Yes,Yes,Yes,,Yes,Yes,No,No
+83,TVPaint,Yes,Yes,Yes,,No,No,Up to version 3.59[15],No
+84,UFRaw,Yes,Yes,Yes,,Yes,No,No,No
+85,Ulead PhotoImpact*,Yes,No,No,,No,No,No,No
+86,Ultimate Paint*,Yes,No,No,,No,No,No,No
+87,WinImages,Yes,No,No,,No,No,No,No
+88,Xara Photo & Graphic Designer,Yes,No,No,,No,No,No,No
+89,XnView,Yes,Yes,Yes,,No,No,No,varying[16]
+90,XPaint,No,Yes,Yes,,Yes,Yes,No,IBM AIX
+91,Zoner Photo Studio,Yes,No,No,,No,No,No,No

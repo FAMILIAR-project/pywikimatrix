@@ -1,0 +1,104 @@
+,Profile,Element,Trident,Gecko,WebKit[w 3],Blink,Presto,KSVG,Prince XML,Amaya,Adobe SVG Viewer,Batik,Renesis,LeonLabs
+0,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,Structure Module,,
+1,Tiny,svg,5.0[t 2],1.8,522,?,1.0,Yes,Yes,Yes,1.0,Yes,Yes,1.0
+2,Tiny,g,5.0[t 2],1.8,522,?,2.0,Yes,Yes,Yes,1.0,Yes,1.0,1.0
+3,Tiny,defs,5.0[t 2],1.8,522,?,2.0,Yes,6.0,?,1.0,Yes,1.0,1.0
+4,Tiny,desc,5.0[t 2],1.8,522,?,2.0,No,No,?,1.0,Yes,1.0,1.0
+5,Tiny,title,5.0[t 2],1.8,522,?,2.0,No,No,?,3.0,Yes,1.0,1.0
+6,Tiny,metadata,5.0[t 2],1.8,522,?,2.0,?,No,?,2.0,Yes,1.0,1.0
+7,Tiny,use,5.0[t 2],1.8,Yes[w 4],?,2.0,No,6.0,Yes,1.0,Yes,0.6,1.0
+8,Basic,symbol,5.0[t 2],1.8,522,?,2.0,No,6.0,?,1.0,Yes,0.6,1.0
+9,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,Conditional Processing Module,,
+10,Tiny,switch,Yes,1.8,522,?,2.0,?,No,?,2.0,Yes,No,1.0
+11,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,Image Module,,
+12,Tiny,image,5.0[t 2],2.0[g 5],522,?,2.0,No,5.1,4.0,1.0,Yes,0.5,1.0
+13,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,Style Module,,
+14,Tiny,style,5.0[t 1],1.8,522,?,2.0,?,Yes,Yes,1.0,Yes,0.6,1.0
+15,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,Shape Module,,
+16,Tiny,circle,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+17,Tiny,ellipse,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+18,Tiny,line,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+19,Tiny,path,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+20,Tiny,polygon,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+21,Tiny,polyline,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,1.0,1.0
+22,Tiny,rect,5.0[t 2],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,0.6,1.0
+23,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,Text Module,,
+24,Tiny,text,5.0[t 1],1.8,522,?,2.0,Yes,5.1,4.0,1.0,Yes,0.7,1.0
+25,Basic,tspan,5.0[t 1],1.8,522,?,2.0,Yes,Yes,4.0,1.0,Yes,0.7,1.0
+26,Basic,tref,5.0[t 1],No[g 6],522,?,2.0,Yes,No,6.3,1.0,Yes,0.6,1.0
+27,Basic,textPath,5.0[t 1],1.8.1,522,?,2.0,Yes,No,4.0,1.0,Yes,No,1.0
+28,Full,altGlyph,5.0[t 1],Partial[g 7][g 8],Partial,?,2.2,?,No,4.0,2.0,Yes,No,1.0
+29,Full,altGlyphDef,5.0[t 1],No,No,?,2.2,?,No,4.0,2.0,Yes,No,1.0
+30,Full,altGlyphItem,5.0[t 1],No,No,?,?,?,No,4.0,No,Yes,No,1.0
+31,Full,glyphRef,5.0[t 1],No,No,?,2.2,?,No,4.0,2.0,Yes,No,1.0
+32,Profile,Element,Trident,Gecko,WebKit,Blink,Presto,KSVG,Prince XML,Amaya,Adobe SVG Viewer,Batik,Renesis,LeonLabs
+33,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,Marker Module,,
+34,Full,marker,5.0[t 1],1.8,522,?,2.0,?,6.0,?,3.0,Yes,1.0,1.0
+35,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,Color Profile Module,,
+36,Full,color-profile,No,No[g 9],No[w 5],?,No,No,No,?,3.0,Yes,No,1.0
+37,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,Gradient Module,,
+38,Basic,linearGradient,5.0[t 1],1.8,522,?,1.0,Yes,6.0,?,1.0,Yes,0.5,1.0
+39,Basic,radialGradient,5.0[t 1],1.8,522,?,2.0,Yes,6.0,?,1.0,Yes,0.5,1.0
+40,Basic,stop,5.0[t 1],1.8,522,?,1.0,Yes,?,?,1.0,Yes,0.5,1.0
+41,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,Pattern Module,,
+42,Basic,pattern,5.0[t 1],1.9,522,?,2.0,Yes,?,?,2.0,Yes,0.5,1.0ttt
+43,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,Clip Module,,
+44,Basic,clipPath,5.0[t 1],1.8,Mostly[w 6],?,2.0,?,?,?,1.0,Yes,0.6,1.0
+45,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,Mask Module,,
+46,Basic,mask,5.0[t 1],1.9,522,?,2.0,?,?,?,1.0,Yes,No,1.0
+47,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,Filter Module,,
+48,Basic,feBlend,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+49,Basic,feColorMatrix,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,1.0
+50,Basic,feComponentTransfer,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+51,Basic,feComposite,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+52,Basic,feFlood,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+53,Basic,feGaussianBlur,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,1.0
+54,Basic,feImage,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,1.0
+55,Basic,feMerge,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+56,Basic,feOffset,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,1.0
+57,Basic,feTile,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+58,Full,filter,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+59,Full,feConvolveMatrix,6.0[t 3],1.9,Nightly build[w 8],?,2.0,?,No,?,1.0,Yes,No,
+60,Full,feDiffuseLighting,6.0[t 3],1.9,Nightly build[w 9],?,2.0,?,No,?,1.0,Yes,No,
+61,Full,feDisplacementMap,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+62,Full,feMergeNode,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+63,Full,feMorphology,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+64,Full,feSpecularLighting,6.0[t 3],1.9,Nightly build[w 10],?,2.0,?,No,?,1.0,Yes,No,
+65,Full,feTurbulence,6.0[t 3],1.9,Nightly build[w 11],?,2.0,?,No,?,1.0,Yes,No,
+66,Full,feDistantLight,6.0[t 3],1.9,No,?,2.0,?,No,?,1.0,Yes,No,
+67,Full,fePointLight,6.0[t 3],1.9,No,?,2.0,?,No,?,1.0,Yes,No,
+68,Full,feSpotLight,6.0[t 3],1.9,No,?,2.0,?,No,?,1.0,Yes,No,
+69,Full,feFuncR,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+70,Full,feFuncG,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+71,Full,feFuncB,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+72,Full,feFuncA,6.0[t 3],1.9,Nightly build[w 7],?,2.0,?,No,?,1.0,Yes,No,
+73,Profile,Element,Trident,Gecko,WebKit,Blink,Presto,KSVG,Prince XML,Amaya,Adobe SVG Viewer,Batik,Renesis,LeonLabs
+74,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,Cursor Module,,
+75,Full,cursor,No[t 4],No[g 10],Partial,?,No,?,?,?,No,Yes,0.6,
+76,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,Hyperlinking Module,,
+77,Tiny,a,Yes,1.8,522,?,1.0,Yes,5.1,8.2,1.0,Yes,0.6,1.0
+78,View Module,View Module,View Module,View Module,View Module,View Module,View Module,View Module,View Module,View Module,View Module,View Module,,
+79,Basic,view,No,15.0[g 11],Partial,?,2.0,?,?,?,3.0,Yes,No,1.0
+80,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,Scripting Module,,
+81,Tiny,script,Yes,1.8,522,?,2.0,?,?,?,1.0,Yes,0.5,
+82,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,Animation Module,,
+83,Tiny,animate,No,2.0[g 12],No,?,2.0,Yes,No,Yes,1.0,Yes,No,1.0
+84,Tiny,set,No,2.0[g 12],Partial,?,2.0,Yes,No,Yes,1.0,Yes,No,
+85,Tiny,animateMotion,No,2.0[g 13],Partial,?,2.0,No,No,Yes,1.0,Yes,No,1.0
+86,Tiny,animateTransform,No,2.0[g 12],Partial,?,2.0,No,No,Yes,1.0,Yes,No,1.0
+87,Tiny,animateColor (deprecated),No,No[g 14],Partial,?,2.0,Yes,No,Yes,1.0,Yes,No,
+88,Tiny,mpath,No,2.0[g 13],522,?,2.0,?,No,?,2.0,Yes,No,
+89,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,Font Module,,
+90,Tiny,font,No,No[g 15],Yes,?,2.0,?,?,?,2.0,Yes,1.0,1.0
+91,Tiny,font-face,No,No[g 15],Yes,?,1.0,?,?,?,2.0,Yes,Dropped[note 5],1.0
+92,Tiny,glyph,No,No[g 15],Yes,?,1.0,?,?,?,2.0,Yes,1.0,1.0
+93,Tiny,missing-glyph,No,No[g 15],Yes,?,1.0,?,?,?,2.0,Yes,1.0,1.0
+94,Full,hkern,No,No[g 15],Nightly build[w 12],?,2.0,?,?,?,2.0,Yes,No,1.0
+95,Full,vkern,No,No[g 15],Nightly build[w 13],?,2.0,?,?,?,2.0,Yes,No,1.0
+96,Full,font-face-src,No,No[g 15],Yes,?,No,?,?,?,No,Yes,No,1.0
+97,Full,font-face-uri,No,No[g 15],Yes,?,2.0,?,?,?,No,Yes,No,1.0
+98,Full,font-face-format,No,No[g 15],Yes,?,No,?,?,?,No,No,No,1.0
+99,Full,font-face-name,No,No[g 15],Yes,?,No,?,?,?,No,Yes,No,1.0
+100,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,Extensibility Module,,
+101,Full,foreignObject,No,1.9,522,?,2.0,?,No,7.2,No,No,No,No
+102,Profile,Element,Trident,Gecko,WebKit,Blink,Presto,KSVG,Prince XML,Amaya,Adobe SVG Viewer,Batik,Renesis,LeonLabs

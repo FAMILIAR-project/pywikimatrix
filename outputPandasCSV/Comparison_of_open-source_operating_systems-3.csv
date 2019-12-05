@@ -1,0 +1,29 @@
+,Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,"TV tuner, video editing, or webcam"
+0,Linux,Yes,Yes,Yes,Yes 2.6.31+[16],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Yes,nv(2d only), nouveau(3d with mesa)","OSS, ALSA","V4L,V4L2"
+1,FreeBSD,Yes,Yes,Yes,Yes 8.2+,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2,OpenBSD,Yes,Yes,Yes,Yes 5.7+,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes[17],2d only[17],2d only[18],Yes,Yes
+3,NetBSD,Yes,Yes,Yes,No 7.1[19],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,,,,Yes,Yes
+4,DragonFly BSD,Yes,Yes,Yes,Yes[20],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,,,,Yes,
+5,"OpenSolaris, illumos",Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,,,,Yes,V4L2
+6,AuroraUX,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,,,,Yes,
+7,"Darwin, OpenDarwin",Yes,Yes,Yes,Yes,,Yes,,,,No,No,No,No,No,,,,,
+8,MINIX,,,,,,,,,,No,No,No,No,No,,,,,
+9,FreeDOS,Yes,Yes,Yes,No,No[21],No[21],No,,Yes,No,No,No,No,No,No,No,No,Yes,No
+10,Genode,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+11,Haiku,Yes,Yes,Yes,,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+12,KolibriOS,Yes,Yes,No,,Yes,Yes,,No,No,No,No,No,No,No,,,,Yes,No
+13,MenuetOS,Yes,No,No,,Yes,Yes,,No,No,No,No,No,No,No,,,,Yes,Yes
+14,GNU,Yes,Yes[Note 1],Yes[Note 1],,Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes,No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 3],No[Note 3],Yes[Note 1],Yes[Note 1],Yes[Note 1]
+15,ReactOS,Yes,Yes,Yes,,Yes[22],Yes[22],No,No,Yes,No,No,No,No,No,,,,Yes,
+16,RISC OS,?,Yes,Yes,?,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,TV tuner[23]
+17,"L4, Fiasco, Pistachio",,,,,,,,,,No,No,No,No,No,,,,,
+18,Plan 9,Yes,Yes,Yes,,Yes,Yes,,Yes,Yes,No,No,No,No,No,,,,Yes,Yes
+19,AROS,Yes,,,,,,,,Yes,No,No,No,own,No,,,2D only,,
+20,Syllable,Yes,Yes,,,Yes,Yes,,,Yes,No,No,No,No,No,,,,Yes,
+21,Inferno,Yes,No,Yes,,No,No,No,Yes,Yes,No,No,No,No,No,,,,Yes,
+22,FreeRTOS,,,,,,,,,,No,No,No,No,No,,,,,
+23,eCos,Yes,Yes,,,Yes,Yes,,,,No,No,No,No,No,,,,,
+24,RTEMS,Yes,,,,,,,Yes,,No,No,No,No,No,,,,,
+25,HelenOS,Yes,Yes,No,,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+26,E/OS,Yes,Yes,Yes,,No[5],Yes,Yes,Yes,No,No,No,No,No,No,,,,Yes,Yes
+27,Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,"TV tuner, video editing, or webcam"

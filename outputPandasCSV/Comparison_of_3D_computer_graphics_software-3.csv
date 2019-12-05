@@ -1,0 +1,38 @@
+,Name,Windows,Mac OS X,Linux,Unix,BSD,Other
+0,3ds Max,Yes,No,No,No,No,No
+1,AC3D,Yes,Yes,Yes,No,No,No
+2,Art of Illusion,Yes,Yes,Yes,Yes,No,Anything with Java support
+3,AutoCAD,Yes,No,No,No,No,No
+4,Blender,Yes,Yes,Yes,Yes,Yes,"Solaris, AmigaOS 4, MorphOS"
+5,Carrara,Yes,Yes,No,No,No,No
+6,Cheetah 3D,No,Yes,No,No,No,No
+7,Cinema 4D,Yes,Yes,No,No,No,Amiga OS
+8,Clara.io,Yes,Yes,Yes,Yes,Yes,"Chrome OS, Android"
+9,DesignSpark Mechanical,Yes,No,No,No,No,No
+10,Electric Image Animation System,Yes,Yes,No,No,No,No
+11,form-Z,Yes,Yes,No,No,No,No
+12,HiCAD,Yes,No,No,No,No,No
+13,Houdini,Yes,Yes,Yes,No,No,No
+14,IClone,Yes,No,No,No,No,No
+15,LightWave 3D,Yes,Yes,No,No,No,AmigaOS
+16,MakeHuman,Yes,Yes,Yes,No,No,No
+17,Massive,Yes,No,Yes,No,No,No
+18,Maya,Yes,Yes,Yes,No,No,No
+19,Metasequoia,Yes,No,No,No,No,No
+20,Modo,Yes,Yes,Yes,No,No,No
+21,POV-Ray,Yes,Yes,Yes,No,No,"Amiga OS, Atari TOS"
+22,Remo 3D,Yes,No,Yes,No,No,No
+23,Shade,Yes,Yes,No,No,No,No
+24,Silo,Yes,Yes,Yes,No,No,No
+25,SketchUp Make,Yes,Yes,No,No,No,No
+26,SketchUp Pro,Yes,Yes,No,No,No,No
+27,Softimage,Yes,No,Yes,No,No,No
+28,Solid Edge,Yes,No,No,No,No,No
+29,solidThinking,Yes,Yes,No,No,No,No
+30,solidWorks,Yes,No,No,No,No,No
+31,SpaceClaim,Yes,No,No,No,No,No
+32,trueSpace,Yes,No,No,No,No,Amiga OS
+33,Verto Studio 3D,No,Yes,No,No,No,iOS
+34,E-on Vue,Yes,Yes,No,No,No,No
+35,Wings 3D,Yes,Yes,Yes,No,No,No
+36,ZBrush,Yes,Yes,No,No,No,No

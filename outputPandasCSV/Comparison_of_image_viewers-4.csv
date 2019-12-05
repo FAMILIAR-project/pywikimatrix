@@ -1,0 +1,37 @@
+,Name,Windows,macOS,Linux,BSD
+0,ACDSee,Yes,Yes,No,No
+1,Adobe Bridge,Yes,Yes,No,No
+2,Adobe Photoshop Lightroom,Yes,Yes,No,No
+3,Aperture,No,Yes,No,No
+4,CDisplay,Yes,No,No,No
+5,Comix,No,No,Yes,No
+6,digiKam,Partial,Yes,Yes,Yes
+7,Eye of GNOME (aka Image Viewer),No,No,Yes,Yes
+8,FastPictureViewer,Yes,No,No,No
+9,FastStone Image Viewer,Yes,No,No,No
+10,F-Spot,No,No,Yes,No
+11,Geeqie,No,Yes,Yes,Yes
+12,Gonvisor,Yes,Yes,No,No
+13,GraphicConverter,No,Yes,No,No
+14,gThumb,No,No,Yes,Yes
+15,Gwenview,No,No,Yes,Yes
+16,iPhoto,No,Yes,No,No
+17,IrfanView,Yes,No,No,No
+18,KSquirrel,No,No,Yes,No
+19,KPhotoAlbum,No,No,Yes,Yes
+20,Lphoto,No,No,Yes,Yes
+21,Microsoft Photos,Yes,No,No,No
+22,Phase One Media Pro,Yes,Yes,No,No
+23,Paint.NET,Yes,No,No,No
+24,Apple Photos,No,Yes,No,No
+25,Picasa,Yes,Yes,No,No
+26,Preview,No,Yes,No,No
+27,Shotwell,No,No,Yes,Yes
+28,Simple Comic,No,Yes,No,No
+29,STDU Viewer,Yes,No,No,No
+30,Windows Photo Gallery,Yes,No,No,No
+31,Windows Photo Viewer,Yes,No,No,No
+32,XnView,Yes,No,No,No
+33,XnViewMP,Yes,Yes,Yes,No
+34,Xv,No,No,Yes,Yes
+35,Zoner Photo Studio,Yes,No,No,No

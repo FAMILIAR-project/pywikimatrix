@@ -1,0 +1,26 @@
+,Format,Languages
+0,name[first:last],"ALGOL 68,[7] Julia"
+1,name[first+(⍳len)-⎕IO],APL
+2,name[first:end:step],"Python,[8][9] Go"
+3,name[first..last],"Pascal, Object Pascal, Delphi, Nim"
+4,$name[first..last],Windows PowerShell
+5,@name[first..last],Perl[10]
+6,"name[first..last] name[first...end] name[first, len]",Ruby[9]
+7,name(first..last),Ada[7]
+8,name(first:last),"Fortran,[7][8] GNU Octave, MATLAB[7][10]"
+9,name[[first;;last;;step]],"Mathematica,[7][8][9] Wolfram Language"
+10,name[[first:last]],S-Lang[7][8][10]
+11,name.[first..last],F#
+12,"name.slice(first, end)","Haxe, JavaScript, Scala"
+13,"name.slice(first, len)",CFML
+14,"array_slice(name, first, len)",PHP[9]
+15,(subseq name first end),Common Lisp
+16,(subseq name first end),ISLISP
+17,Array.sub name first len,OCaml
+18,"[name subarrayWithRange:NSMakeRange(first, len)]",Objective-C (NSArray * only)
+19,(first([+i.@(-~)end){name,J
+20,name[first..<end] name[first...last],Swift
+21,name copyFrom: first to:last name copyFrom: first count:len,Smalltalk
+22,name[first..end],"D, C#[11][12]"
+23,name[first..end] name[first..=last],Rust
+24,name[first:end],Cobra

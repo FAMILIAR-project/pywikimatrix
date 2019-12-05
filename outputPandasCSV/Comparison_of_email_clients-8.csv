@@ -1,0 +1,51 @@
+,Client,HTML email,UTF-8 support,Image blocking,Junk filtering,Junk filtering.1,Phishing filtering,Thread view,Conversation view,PGP support,PGP support.1,S/MIME support,S/MIME support.1,S/MIME support.2,S/MIME support.3
+0,Client,HTML email,UTF-8 support,Image blocking,local,server- side,Phishing filtering,Thread view,Conversation view,inline,PGP/MIME or OpenPGP,protocol,OCSP,CRL,"certificates on tokens, smartcards support"
+1,Alpine,Read only,Yes,Yes,?,?,?,Yes,?,Yes,?,Yes,?,?,?
+2,Apple Mail,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,No,No,Yes,Yes,Yes,No
+3,Becky! Internet Mail,Yes,Yes,Yes,No,No,No,Yes,No,Yes,?,Yes,?,?,?
+4,Citadel,Yes,Yes,No,Yes [Note 1],?,?,No,?,?,?,?,?,?,
+5,Claws Mail,Read-only,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,?,Yes,Yes
+6,Cone,Read only,Yes,Yes,Yes,No,No,Yes,?,No,Yes,No,No,No,No
+7,Courier,Yes,No,No,Yes,Yes,?,No,?,?,?,?,?,?,?
+8,Elm,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+9,eM Client,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+10,EmailTray,Yes,Yes,Yes,No,Yes,?,No,No,No,No,No,No,No,No
+11,Eudora,Yes,No,Yes,Pro only,Pro only,?,Yes,No,Yes [Note 2],Yes [Note 2],Yes,?,?,?
+12,Eureka Email,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+13,Evolution,Yes,Yes,Yes,Yes,?,No,Yes,No,Yes,Yes,Yes,?,?,?
+14,Gnus,Yes,Yes,Yes,Yes,Yes,?,Yes,?,Yes,Yes,Yes,?,?,Yes
+15,GroupWise,Yes,Yes,Yes,Yes,?,?,Yes,?,?,?,?,?,?,?
+16,Hiri,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,No,No,No,No,No
+17,i.Scribe / InScribe,Read-only,Yes,Yes,Yes,No,?,Yes,?,Yes,No,No,No,No,No
+18,IBM Notes,Yes,Yes,Yes,Yes,Yes,Yes,Yes [Note 3],?,Yes,Yes (4.1.2+),Yes,Yes[63],Yes,Yes
+19,KMail,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes (with GPG),"Yes (1.5+, with GPGME)",Yes,Yes,Yes,?
+20,Mailbird,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,No,No,No,No
+21,Mailpile,?,Yes,?,?,?,?,?,Yes,?,Yes,?,?,?,?
+22,Microsoft Entourage,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,Yes,?,?,Yes
+23,Microsoft Office Outlook,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes (2010+)[64],No,No,Yes,?,Yes,Yes
+24,Mozilla Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+25,Mozilla Thunderbird,Yes,Yes [Note 4],Yes,Yes,Yes,Yes [Note 5],Yes,Yes,Yes [Note 6],Yes,Yes,Yes,?,Yes
+26,Mulberry,Yes,Yes,Yes,No,Yes,?,Yes,?,Yes [Note 7],Yes [Note 7],Yes [Note 7],?,?,?
+27,Mutt,Read-only,Yes,Yes(no support for images),Yes,?,?,Yes,Yes,Yes,Yes,Yes,?,Yes (with GPGME),?
+28,Netscape Messenger,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+29,Netscape Messenger 9,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+30,nmh / MH,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+31,Opera Mail,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+32,Outlook Express,Yes,Yes,Yes,No,?,?,Yes,?,Yes [Note 8],No [Note 9],Yes,?,?,?
+33,Pegasus Mail,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes(sending is broken),?,No,No,No
+34,Pine,Read-only,Yes,Yes,No,?,?,Yes,?,Yes (with Pine Privacy Guard),No,Yes,?,?,?
+35,Pocomail,Yes,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?
+36,RoundCube,Yes,Yes,Yes,Yes,Yes,Yes (depends on antivirus),Yes,?,?,Yes,Yes,?,?,?
+37,SeaMonkey Mail & Newsgroups,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes [Note 6],Yes [Note 6],Yes,Yes,?,Yes
+38,Spicebird,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,Yes,Yes,?,Yes
+39,SquirrelMail,Yes,Yes,Yes,Yes,Yes,Yes (depends on antivirus),Yes,?,?,Yes,Yes,?,?,?
+40,Sylpheed,No [Note 10],Yes,Yes,Yes,?,?,Yes,?,No,Yes,?,?,?,?
+41,The Bat!,Yes,Yes,Yes [Note 11],Yes,Yes,?,Yes,?,Yes,Yes,Yes,Partial [Note 12],Partial [Note 12],Yes [Note 12]
+42,Trojitá,Read only,Yes,Yes,No,Yes,No,Yes,Yes,No,Read only,Read only,Read only,Read only,Read only
+43,Turnpike,Read-only,?,?,?,?,?,?,?,?,?,?,?,?,?
+44,Windows Live Mail,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,?
+45,Windows Mail,Yes,Yes,?,Yes,?,?,?,?,?,?,?,?,?,?
+46,YAM,?,Yes,?,Yes,?,?,No,No,Yes,?,?,?,?,?
+47,Zimbra,Yes,Yes,Yes,Yes,Yes,Yes (depends on antivirus),Yes,?,?,No,?,?,?,
+48,Client,HTML email,UTF-8 support,Image blocking,Junk filtering,Junk filtering,Phishing filtering,Thread view,Conversation view,PGP support,PGP support,S/MIME support,S/MIME support,S/MIME support,S/MIME support
+49,Client,HTML email,UTF-8 support,Image blocking,local,server- side,Phishing filtering,Thread view,Conversation view,inline,PGP/MIME or OpenPGP,protocol,OCSP,CRL,"certificates on tokens, smartcards support"

@@ -1,0 +1,14 @@
+,Pump type,Cyclic/continuous ?,Maximum lift height,Production cost,Efficiency,Output,Size of device,Fabrication requirements,Difficulty of production,Durability,Difficulty of repair,Suction lift ?
+0,Continuous bucket pump,continuous,5m-50m,low-medium,medium,low-medium,?,?,traditional,?,?,no
+1,Counterpoise lift or Shadoof,cyclic,1m-4m,low-medium,low-medium,low-medium,?,?,traditional,?,?,no
+2,Mohte,cyclic,3m-8m,low-medium,low,medium,?,?,traditional,?,?,no
+3,"Persian wheel ""Tablia""",continuous,3m-10m,low-medium,medium,medium,?,?,traditional,?,?,no
+4,"Persian wheel ""Zawaffa""",continuous,3m-15m,medium,medium-high,medium-high,?,?,traditional,?,?,no
+5,"Pivoting gutters and ""dhones""",cyclic,"1m-1,5m",low-medium,low-medium,low-medium,?,?,traditional,?,?,no
+6,Reciprocating bucket hoist,cyclic,100m-500m,medium-high,medium,medium-high,?,?,industrial,?,?,no
+7,Rope & bucket and windlass,cyclic,5m-50m,very low,very low,very low,?,?,basic,?,?,no
+8,Scoops and bailers,cyclic,>1m,very low,very low,low-medium,?,?,basic,?,?,no
+9,"Scoop wheel ""Sakia""",continuous,>2m,medium-high,medium-high,medium-high,?,?,traditional,?,?,no
+10,Swing basket,cyclic,>1m,very low,very low,low-medium,?,?,basic,?,?,no
+11,Waterwheels or noria,continuous,>5m,low-medium,low-medium,low-medium,?,?,traditional,?,?,no
+12,Watering car,cyclic,>3m,very low,very low,very low,?,?,basic,?,?,no

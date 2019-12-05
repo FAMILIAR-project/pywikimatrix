@@ -1,0 +1,4 @@
+,Unnamed: 0,FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,UDF
+0,Windows 95,Yes,Yes,Yes (OSR2 or above),Network Drive,Yes,Network Drive,No
+1,Windows 98,Yes,Yes,Yes,Network Drive,Yes,Network Drive,"Yes (1.5, read)"
+2,Windows Me,Yes,Yes,Yes,Network Drive,Yes,Network Drive,"Yes (1.5, read)"

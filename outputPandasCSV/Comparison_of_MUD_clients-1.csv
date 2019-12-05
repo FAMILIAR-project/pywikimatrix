@@ -1,0 +1,33 @@
+,Name,Windows,Mac OS X,Linux,BSD,Unix,Android,iOS,Updated
+0,Atlantis,No,Yes,No,No,No,No,No,2006
+1,Axmud,Yes,No,Yes,Yes,Yes,No,No,2019
+2,BeipMU,Yes,No,No,No,No,No,No,2019
+3,BioMUD,Yes,No,No,No,No,No,No,2016
+4,BlowTorch,No,No,No,No,No,Yes,No,2018
+5,CMUD,Yes,No,No,No,No,No,No,2010
+6,GGMUD,Yes,Yes,Yes,Yes,Yes,No,No,2007
+7,GMUD,Yes,No,No,No,No,No,No,1998
+8,Gnome-Mud,No,No,Yes,No,No,No,No,2018
+9,JamochaMUD,CPI,CPI,CPI,CPI,CPI,No,No,2014
+10,KBtin,No,Yes,Yes,Yes,Yes,No,No,2018
+11,KildClient,Yes,Yes,Yes,Yes,Yes,No,No,2017
+12,KMuddy,No,Yes,Yes,Yes,No,No,No,2009
+13,Lyntin,CPI,CPI,CPI,CPI,CPI,No,No,2008
+14,mcl,No,No,Yes,No,No,No,No,2003
+15,muby,No,CPI,CPI,CPI,CPI,No,No,2009
+16,Mudlet,Yes,Yes,Yes,Yes,Yes,No,No,2019
+17,MudMagic,Yes,Yes,Yes,Yes,Yes,No,No,2006
+18,MUDRammer,No,No,No,No,No,No,Yes,2015
+19,MUSHclient,Yes,No,No,No,No,No,No,2019
+20,Portal,Yes,No,No,No,No,No,No,2013
+21,Potato,CPI,CPI,CPI,CPI,CPI,No,No,2017
+22,Powwow,Yes,Yes,Yes,Yes,Yes,No,No,2002
+23,Pueblo/UE,Yes,No,No,No,No,No,No,2004
+24,SimpleMU,Yes,No,No,No,No,No,No,2001
+25,Soiled,CPI,CPI,CPI,CPI,CPI,No,No,2012
+26,TinTin++,Cygwin[os 2],Yes,Yes,Yes,Yes,Termux,iSH,2019
+27,TinyFugue,Yes,Yes,Yes,Yes,Yes,No,No,2007
+28,Tortilla,Yes,No,No,No,No,No,No,2018
+29,Trebuchet,CPI,CPI,CPI,CPI,CPI,No,No,2015
+30,Wintin.Net,Yes,No,No,No,No,No,No,2007
+31,zMUD,Yes,No,No,No,No,No,No,2008

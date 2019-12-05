@@ -1,0 +1,25 @@
+,Model(Codename),Release Date& Price,Architecture(Fab),TransistorsDie Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TBP (W),Bus interface
+0,Model(Codename),Release Date& Price,Architecture(Fab),TransistorsDie Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (MiB),Clock (MT/s),Band-width (GB/s),TBP (W),Bus interface
+1,RadeonR5 330(Oland Pro),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,320:20:8,Unknown855,17.1,6.84,547.2,34.2,DDR3128-bit,10242048,1800,28.8,30,PCIe 3.0 ×16
+2,RadeonR5 340(Oland XT),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,384:24:8,Unknown825,19.8,6.6,633.6,39.6,DDR3GDDR5128-bit,10242048,18004500,72,75,PCIe 3.0 ×16
+3,RadeonR7 340(Oland XT),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,384:24:8,730780,17.518.7,5.86.2,560.6599,32.735,DDR3GDDR5128-bit,102420484096,18004500,72,75,PCIe 3.0 ×16
+4,RadeonR5 340X[46](Oland XT),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,384:24:8,1050,25.2,8.4,806,50.4,DDR3128-bit,2048,2000,32,30,PCIe 3.0 ×16
+5,RadeonR7 350(Oland XT),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,384:24:8,10001050,2425.2,88.4,768806.4,4850.4,DDR3GDDR5128-bit,10242048,18004500,72,75,PCIe 3.0 ×16
+6,RadeonR7 350 [47](Cape Verde XTL),February 2016$89 USD,GCN 1st gen(28 nm),1500×106123 mm2,512:32:16,925,29.6,14.8,947.2,59.2,GDDR5128-bit,2048,4500,72,75,PCIe 3.0 ×16
+7,RadeonR7 350X[48](Oland XT),May 2015OEM,GCN 1st gen(28 nm),1040×10690 mm2,384:24:8,1050,25.2,8.4,806,50.4,DDR3128-bit,4096,2000,32,30,PCIe 3.0 ×16
+8,RadeonR7 360[49][50](Bonaire Pro),June 2015$109 USD,GCN 2nd gen(28 nm),2080×106160 mm2,768:48:16,1050,50.4,16.8,1612.8,100.8,GDDR5128-bit,2048,6500,104,100,PCIe 3.0 ×16
+9,RadeonR9 360(Bonaire Pro),May 2015OEM,GCN 2nd gen(28 nm),2080×106160 mm2,768:48:16,10001050,4850.4,1616.8,15361612.8,96100.8,GDDR5128-bit,2048,6500,104,85,PCIe 3.0 ×16
+10,RadeonR7 370[49](Pitcairn Pro),June 2015$149 USD,GCN 1st gen(28 nm),2800×106212 mm2,1024:64:32,975,62.4,31.2,1996.8,124.8,GDDR5256-bit,20484096,5600,179.2,110,PCIe 3.0 ×16
+11,RadeonR9 370(Pitcairn Pro),May 2015OEM,GCN 1st gen(28 nm),2800×106212 mm2,1024:64:32,950975,60.862.4,30.431.2,1945.61996.8,121.6124.8,GDDR5256-bit,20484096,5600,179.2,150,PCIe 3.0 ×16
+12,RadeonR9 370X(Pitcairn XT),August 2015$179 USD,GCN 1st gen(28 nm),2800×106212 mm2,1280:80:32,1000,80,32,2560,160,GDDR5256-bit,20484096,5600,179.2,185,PCIe 3.0 ×16
+13,RadeonR9 380(Tonga Pro),May 2015OEM,GCN 3rd gen(28 nm),5000×106359 mm2,1792:112:32,918,102.8,29.4,3290,206.6,GDDR5256-bit,4096,5500,176,190,PCIe 3.0 ×16
+14,RadeonR9 380[51](Tonga Pro),June 2015$199 USD,GCN 3rd gen(28 nm),5000×106359 mm2,1792:112:32,970,108.6,31.0,3476.5,217.3,GDDR5256-bit,20484096,5700,182.4[f],190,PCIe 3.0 ×16
+15,RadeonR9 380X[51](Tonga XT),November 2015$229 USD,GCN 3rd gen(28 nm),5000×106359 mm2,2048:128:32,970,124.2,31.0,3973.1,248.3,GDDR5256-bit,4096,5700,182.4,190,PCIe 3.0 ×16
+16,RadeonR9 390[51](Hawaii Pro),June 2015$329 USD,GCN 2nd gen(28 nm),6200×106438 mm2,2560:160:64,1000,160,64,5120,640,GDDR5512-bit,8192,6000,384,275,PCIe 3.0 ×16
+17,RadeonR9 390X[51](Hawaii XT),June 2015$429 USD,GCN 2nd gen(28 nm),6200×106438 mm2,2816:176:64,1050,184.8,67.2,5913.6,739.2,GDDR5512-bit,8192,6000,384,275,PCIe 3.0 ×16
+18,RadeonR9 Fury[52](Fiji Pro),July 2015$549 USD,GCN 3rd gen(28 nm),8900×106596 mm2,3584:224:64,1000,224,64,7168,448,HBM4096-bit,4096,1000,512,275,PCIe 3.0 ×16
+19,RadeonR9 Nano[53](Fiji XT),August 2015$649 USD,GCN 3rd gen(28 nm),8900×106596 mm2,4096:256:64,1000,256,64,8192,512,HBM4096-bit,4096,1000,512,175,PCIe 3.0 ×16
+20,RadeonR9 Fury X[51][54](Fiji XT),June 2015$649 USD,GCN 3rd gen(28 nm),8900×106596 mm2,4096:256:64,1050,268.8,67.2,8601.6,537.6,HBM4096-bit,4096,1000,512,275,
+21,RadeonPro Duo[55][56][57][58](Fiji XT),April 2016$1499 USD,GCN 3rd gen(28 nm),2× 8900×1062× 596 mm2,2× 4096:256:64,1000,512,128,16384,1024,HBM4096-bit,2× 4096,1000,2× 512,350,
+22,Model(Codename),Release Date& Price,Architecture(Fab),TransistorsDie Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (MiB),Clock (MT/s),Band-width (GB/s),TBP (W),Bus interface
+23,Model(Codename),Release Date& Price,Architecture(Fab),TransistorsDie Size,Core,Core,Fillrate[a][b][c],Fillrate[a][b][c],Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS),Memory,Memory,Memory,Memory,TBP (W),Bus interface

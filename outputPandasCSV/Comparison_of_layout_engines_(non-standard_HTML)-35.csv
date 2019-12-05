@@ -1,0 +1,61 @@
+,Unnamed: 0,Trident[t 49],Gecko[g 110],WebKit[w 82],Presto[p 38][p 39]
+0,The canvas state,The canvas state,The canvas state,The canvas state,The canvas state
+1,save,5.0,1.8,Yes,2.0
+2,restore,5.0,1.8,Yes,2.0
+3,Transformations,Transformations,Transformations,Transformations,Transformations
+4,scale,5.0,1.8,Yes,2.0
+5,rotate,5.0,1.8,Yes,2.0
+6,translate,5.0,1.8,Yes,2.0
+7,transform,5.0,1.8,Yes,2.6[note 16][p 40][p 41][p 42]
+8,setTransform,5.0,1.8,Yes,2.6[note 16]
+9,Compositing,Compositing,Compositing,Compositing,Compositing
+10,globalAlpha,5.0,1.8,Yes,2.0
+11,globalCompositeOperation,5.0,1.8,Yes,2.0
+12,Colors and styles,Colors and styles,Colors and styles,Colors and styles,Colors and styles
+13,strokeStyle,5.0,1.8,Yes,2.0
+14,fillStyle,5.0,1.8,Yes,2.0
+15,createLinearGradient,5.0,1.8,Yes,2.0
+16,createRadialGradient,5.0,1.8,Yes,2.0
+17,createPattern,5.0,1.8,Yes,2.0
+18,Line styles,Line styles,Line styles,Line styles,Line styles
+19,lineWidth,5.0,1.8,Yes,2.0
+20,lineCap,5.0,1.8,Yes,2.0
+21,lineJoin,5.0,1.8,Yes,2.0
+22,miterLimit,5.0,1.8,Yes,2.0
+23,Shadows,Shadows,Shadows,Shadows,Shadows
+24,shadowOffsetX,5.0,1.9.1[g 111],Yes,2.4[note 17]
+25,shadowOffsetY,5.0,1.9.1[g 111],Yes,2.4[note 17]
+26,shadowBlur,5.0,1.9.1[g 111],Yes,2.4[note 17]
+27,shadowColor,5.0,1.9.1[g 111],Yes,2.4[note 17]
+28,Simple shapes,Simple shapes,Simple shapes,Simple shapes,Simple shapes
+29,clearRect,5.0,1.8,Yes,2.0
+30,fillRect,5.0,1.8,Yes,2.0
+31,strokeRect,5.0,1.8,Yes,2.0
+32,Complex shapes,Complex shapes,Complex shapes,Complex shapes,Complex shapes
+33,beginPath,5.0,1.8,Yes,2.0
+34,closePath,5.0,1.8,Yes,2.0
+35,moveTo,5.0,1.8,Yes,2.0
+36,lineTo,5.0,1.8,Yes,2.0
+37,quadraticCurveTo,5.0,1.8.1[note 18],Yes,2.0
+38,bezierCurveTo,5.0,1.8,Yes,2.0
+39,arcTo,5.0,1.8.1[g 112],Yes,2.0
+40,rect,5.0,1.8,Yes,2.0
+41,arc,5.0,1.8,Yes,2.0
+42,fill,5.0,1.8,Yes,2.0
+43,stroke,5.0,1.8,Yes,2.0
+44,clip,5.0,1.8,Yes,2.0
+45,isPointInPath,5.0,1.8,Yes,2.0
+46,Focus management,Focus management,Focus management,Focus management,Focus management
+47,drawFocusRing,No,28.0[g 113],No,No
+48,Text,Text,Text,Text,Text
+49,font,5.0,1.9.1[note 19],Yes,No
+50,textAlign,5.0,1.9.1[note 19],Yes,2.6
+51,textBaseline,5.0,1.9.1[note 19],Yes,2.6
+52,fillText,5.0,1.9.1[note 19],Yes,2.6
+53,strokeText,5.0,1.9.1[note 19],Yes,2.6
+54,measureText,5.0,1.9.1[note 19],Yes,2.6
+55,Images,Images,Images,Images,Images
+56,drawImage,5.0,1.8,Yes,2.0
+57,createImageData,5.0,1.9.1[g 115][g 116],Yes,2.7[p 43]
+58,getImageData,5.0,1.9[g 116],Yes,2.6[note 16]
+59,putImageData,5.0,2.0[g 117][g 116],Yes,2.6[note 16]

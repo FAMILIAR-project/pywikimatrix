@@ -1,0 +1,4 @@
+,Unnamed: 0,Point,Multipoint,Line,Polyline,MultiPolyline,Polygon,Multipolygon
+0,GeoJSON[1],Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,Personal Geodatabase,Yes,No,Yes,No,No,Yes,No
+2,Shapefile[2],Yes,Yes,Yes,Yes,Yes,Yes,Yes (as Polygon with multiple outer rings or as MultiPatch)

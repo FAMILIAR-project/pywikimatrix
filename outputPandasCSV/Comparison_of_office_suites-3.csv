@@ -1,0 +1,27 @@
+,Unnamed: 0,Word processing Software,Spreadsheet Software,Presentation Software,Notetaking software,Diagramming software,Raster graphics editor,Vector graphics editor,Image viewer,Formula editor,Database management software,Project management software,Desktop publishing software,Communication,Calendaring software,File hosting service
+0,Ability Office,Ability Write,Ability Spreadsheet,Ability Presentation,No,Ability Draw,Ability Photopaint,Ability Draw,Ability Photoalbum,No,Ability Database,No,No,No,No,No
+1,Apache OpenOffice,OpenOffice Writer,OpenOffice Calc,OpenOffice Impress,No,OpenOffice Draw,No,OpenOffice Draw,No,OpenOffice Math,OpenOffice Base,Import/Export capabilities with ProjectLibre and others[22],OpenOffice Draw,No,No,No
+2,Breadbox Office,Writer,Spreadsheet,No,No,No,Artist,Artist,No,No,Geofile,No,No,No,No,No
+3,Calligra Suite,Calligra Words,Calligra Sheets,Calligra Stage,Braindump,Calligra Flow,Krita,Karbon,Gwenview / Digikam[2],KFormula,Kexi,Calligra Plan,Calligra Words,No,No,No
+4,Feng Office Community Edition,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+5,GobeProductive,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+6,G Suite,Google Docs,Google Sheets,Google Slides,Google Keep,Google Drawings,Google Drawings,Google Drawings,Google Photos,No,Google Fusion Tables,No,No,Hangouts Chat/Meet,Google Calendar,Google Drive
+7,iWork,Pages,Numbers,Keynote,Notes,No,No,No,No,Yes,No,No,Pages,No,No,iCloud
+8,LibreOffice,LibreOffice Writer,LibreOffice Calc,LibreOffice Impress,No,LibreOffice Draw,LibreOffice Draw[23],LibreOffice Draw,LibreOffice Draw[23],LibreOffice Math,LibreOffice Base,Import/Export capabilities with ProjectLibre and others[22],LibreOffice Draw,No,No,No
+9,Lotus SmartSuite,Lotus Word Pro,Lotus 1-2-3,Lotus Freelance Graphics,No,Lotus Freelance Graphics,No,No,No,built in,Lotus Approach,Lotus Organizer,No,No,No,No
+10,MarinerPak,Mariner Write,Mariner Calc,No,No,No,No,No,No,No,No,No,No,No,No,No
+11,Microsoft Office,Microsoft Word,Microsoft Excel,Microsoft PowerPoint,Microsoft OneNote,Microsoft Visio(Viewer; Separate product purchase required),No,Microsoft Visio(Viewer; Separate product purchase required),Microsoft Office Picture Manager(Discontinued as of 2011;Word and PowerPoint have some functionality)[24],Equation Editor,Microsoft Access (Professional and Professional Plus),Microsoft Project (Separate product purchase required),"Microsoft Publisher (Standard, Professional and Professional Plus)",Microsoft Teams,Microsoft Outlook,OneDrive
+12,Microsoft Works (Discontinued in 2009),Microsoft Works Word Processor,Microsoft Works Spreadsheet,Microsoft Office PowerPoint(Viewer),No,No,No,No,No,No,Microsoft Works Database,No,No,No,No,No
+13,MobiSystems OfficeSuite,Word Module,Spreadsheet Module,Presentation Module,No,No,No,No,No,No,No,No,No,No,No,No
+14,NeoOffice,NeoOffice Writer,NeoOffice Calc,NeoOffice Impress,No,NeoOffice Draw,No,NeoOffice Draw,No,NeoOffice Math,NeoOffice Base,No,NeoOffice Draw,No,No,No
+15,ShareOffice,iNetOffice,EditGrid,Preezo,No,No,No,No,No,No,No,No,No,No,No,No
+16,SoftMaker Office,Textmaker,PlanMaker,Presentations,No,No,No,No,No,Yes,DataMaker(Discontinued as of 1999),No,Yes,No,No,No
+17,StarOffice,StarWriter,StarCalc,StarImpress,No,StarDraw,No,StarDraw,No,StarMath,StarBase,No,StarDraw,No,No,No
+18,TeamLab,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No
+19,TeXmacs,Yes,Yes,Yes,No,No,No,Yes,No,High quality maths typesetting,No,No,under development,No,No,No
+20,ThinkFree Office,Write,Calc,Show,No,No,No,No,No,No,No,No,No,No,No,No
+21,Tiki Wiki CMS Groupware,Tiki Wiki,Tiki Spreadsheet,Tiki Slideshow with S5 format,Tiki Notepad,Tiki Draw via SVG-edit,Tiki Draw via SVG-edit,Tiki Draw via SVG-edit,Tiki File Gallery,No,Tiki Trackers,"Tiki Trackers, Tiki Wiki and Tiki Task",No,No,No,No
+22,WordPerfect Office,WordPerfect,Quattro Pro,Corel Presentations,WordPerfect Lightning,Corel Presentations,Corel Paint Shop Pro,Corel Draw,No,Equation Editor,Paradox(in Professional version only),Yes,Yes,No,No,No
+23,WPS Office (Kingsoft Office),WPS Writer Support More than 200 Language Typesetting,WPS Spreadsheets Support More than 200 Functions,WPS Presentation,No,No,No,No,No,Equation Editor (Currently unavailable for Linux),No,No,No,No,No,No
+24,Zoho Office Suite,Zoho Writer,Zoho Sheet,Zoho Show,Zoho Notebook,No,No,No,No,No,Zoho Reports,Zoho Projects,No,No,No,No
+25,,Word processing Software,Spreadsheet Software,Presentation Software,Notetaking software,Diagramming software,Raster graphics editor,Vector graphics editor,Image viewer,Formula editor,Database management software,Project management software,Desktop publishing software,Communication,Calendaring software,File hosting service

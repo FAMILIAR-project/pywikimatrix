@@ -1,0 +1,46 @@
+,Client,Message templates,Message templates.1,Message templates.2,Message templates.3,Message templates.4,Message templates.5,Message templates individual for,"Support in message templates scripts, programming languages","Support in message templates scripts, programming languages.1","Support in message templates scripts, programming languages.2","Support in message templates scripts, programming languages.3","Support in message templates scripts, programming languages.4","Support in message templates scripts, programming languages.5","Support in message templates scripts, programming languages.6"
+0,Client,new,reply,forward,read confirmation,save,print,Message templates individual for,JavaScript,VBScript,PHP Scripts,Python,Regular expressions,Java,Other (specify)
+1,Alpine,Yes,Yes,Yes,?,?,?,any,No,No,No,No,?,No,?
+2,Becky! Internet Mail,Yes,Yes,Yes,Yes,Yes,Yes,anyaccountfolder,?,?,?,?,?,?,
+3,Citadel,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+4,Claws Mail,Yes,Yes,Yes,Yes,Yes,Yes,accountfolder,No,No,No,Yes,?,?,Perl
+5,Cone,Yes,No,No,No,No,No,?,No,No,No,No,No,No,No
+6,Courier,Yes,Yes,Yes,No,Yes,Yes,?,No,No,No,No,No,No,No
+7,Elm,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+8,eM Client,Yes,Yes,Yes,Yes,Yes,Yes,account,No,No,No,No,No,No,No
+9,Eudora,Yes,Yes,Yes,Yes,Yes,Yes,any,No,No,No,No,Yes,No,No
+10,Eureka Email,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+11,Evolution,Yes,Yes,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?
+12,Gnus,Yes,Yes,Yes,Yes,Yes,Yes,?,No,No,No,No,Yes,No,elisp
+13,GroupWise,Yes,No,No,Yes,Yes,?,?,?,?,?,?,?,?,?
+14,Hiri,Yes,Yes,Yes,No,Yes,Yes,any,No,No,No,No,No,No,No
+15,i.Scribe / InScribe,Yes,Yes,Yes,No,No,No,any,No,No,No,No,No,No,Internal macros (similar to JavaScript)
+16,IBM Notes,Yes,Yes,Yes,Yes,?,?,?,Yes,No,No,No,Yes[108],Yes,"LotusScript, Formula language"
+17,KMail,Yes,Yes,Yes,No,No,No,none,?,No,No,No,?,?,?
+18,Mailpile,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+19,Microsoft Entourage,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?,"AppleScript, Automator"
+20,Microsoft Office Outlook,Yes,Yes,Yes,Yes,?,?,?,No,No,?,No,?,No,?
+21,Mozilla Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+22,Mozilla Thunderbird,Yes,Yes[Note 1],Yes[Note 1],Yes,Yes,Yes,profile,Yes,?,?,?,?,?,?
+23,Mulberry,Yes,Yes,Yes,Yes,?,?,?,No,No,No,No,?,?,?
+24,Mutt,Yes,Yes,Yes,No,?,?,any,No,No,No,No,Yes,?,Internal macros
+25,Netscape Messenger,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+26,Netscape Messenger 9,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+27,nmh / MH,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+28,Opera Mail,No,No,No,No,No,No,,No,No,No,No,No,No,No
+29,Outlook Express,Yes,Yes,?,Yes,?,?,?,Yes,Yes,?,?,?,?,?
+30,Pegasus Mail,Yes,Yes,Yes,Yes,?,?,?,?,?,?,?,?,?,?
+31,Pine,Yes,Yes,Yes,?,?,?,any,?,No,No,?,?,No,?
+32,Pocomail,Yes,Yes,Yes,?,?,Yes,?,No,No,No,No,No,No,PocoScript
+33,RoundCube,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?
+34,SeaMonkey Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+35,SquirrelMail,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,?
+36,Sylpheed,Yes,Yes,Yes,?,?,?,?,No,No,No,No,No,?,?
+37,The Bat!,Yes,Yes,Yes,Yes,Yes,Yes,accountfolderaddress book groupcontact,Yes [Note 2],Yes [Note 3],Yes [Note 4],Yes [Note 5],Yes,PCRE 6.2,Internal and plugins macros
+38,Turnpike,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+39,Windows Live Mail,Yes[Note 6],Yes[Note 6],?,Yes[Note 6],?,?,?,Yes,No,?,?,?,?,?
+40,Windows Mail,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+41,YAM,Yes,Yes,Yes,?,Yes,Yes,?,No,No,No,No,?,?,ARexx
+42,Zimbra,Yes,Yes,Yes,Yes,Yes,Yes,any,No,No,No,No,No,?,?
+43,Client,Message templates,Message templates,Message templates,Message templates,Message templates,Message templates,Message templates individual for,"Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages"
+44,Client,new,reply,forward,read confirmation,save,print,Message templates individual for,JavaScript,VBScript,PHP Scripts,Python,Regular expressions,Java,Other (specify)

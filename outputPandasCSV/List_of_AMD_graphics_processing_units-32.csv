@@ -1,0 +1,15 @@
+,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Core,Core.1,Fillrate[a][b][c],Fillrate[a][b][c].1,Processing power[a][d](GFLOPS),Processing power[a][d](GFLOPS).1,Memory,Memory.1,Memory.2,Memory.3,TBP (W),Bus interface
+0,Model(Codename),Release Date& Price,Architecture& Fab,Transistors& Die Size,Config[e],Clock[a] (MHz),Texture (GT/s),Pixel (GP/s),Single,Double,Bus type& width,Size (GiB),Clock (MT/s),Band-width (GB/s),TBP (W),Bus interface
+1,Radeon520[79],"April 18, 2017OEM",GCN 1st gen28 nm,Unknown,320:20:45 CU,1030,20.6,4.1,659,Unknown,GDDR564-bit,12,4500,48,Unknown,Unknown
+2,Radeon530GDDR5[80],"April 18, 2017OEM",GCN 3rd gen28 nm,125 mm2,320:20:8384:24:86/5 CU,1024,24.6,8.2,655786,Unknown,GDDR564-bit,124[81],4500,48,Unknown,Unknown
+3,Radeon530DDR3[80],"April 18, 2017OEM",GCN 3rd gen28 nm,125 mm2,320:20:8384:24:86/5 CU,1024,24.6,8.2,655786,Unknown,DDR3,124[81],Unknown,Unknown,Unknown,Unknown
+4,RadeonRX 540(Lexa)[82][83],"April 18, 2017OEM",GCN 4th genSamsung/GloFo14LPP[84][f],2.2×109101 mm2,512:32:168 CU,1219,39,19.5,1248,78,GDDR5128-bit,24,6000,96,Unknown,PCIe 3.0 x8
+5,RadeonRX 550(Lexa)[85][86],"April 20, 2017$79 USD",GCN 4th genSamsung/GloFo14LPP[84][f],2.2×109101 mm2,640:40:1610 CU,1100[87]1183,35.237.9,17.618.9,11261211,70.475.7,GDDR5128-bit,24,7000,112,50,PCIe 3.0 x8
+6,Radeon550X(Lexa)[88],"April 11, 2018OEM",GCN 4th genSamsung/GloFo14LPP[84][f],2.2×109101 mm2,640:40:1610 CU,1287,51.48,20.6,1647,103,GDDR564-bit,24,7000,56,50,PCIe 3.0 x8
+7,RadeonRX 550X(Lexa)[89],"April 3, 2018$79 USD",GCN 4th genSamsung/GloFo14LPP[84][f],2.2×109101 mm2,512:40:16640:40:168/10 CU,1287,51.48,20.6,13181647,82.4103,GDDR5128-bit,24,7000,112,50,PCIe 3.0 x8
+8,RadeonRX 560D[90][91][92],July 2017Only available in China and through OEMs,GCN 4th genSamsung/GloFo14LPP[84][f],3.0×109123 mm2,896:56:1614 CU,10901175,61.065.8,17418.8,19532106,1220131.6,GDDR5128-bit,24,6000,96,65,PCIe 3.0 x8
+9,RadeonRX 560[g](Baffin)[90],October 2017$99 USD,GCN 4th genSamsung/GloFo14LPP[84][f],3.0×109123 mm2,896:56:1614 CU,10901175,61.065.8,17.418.8,19532106,122.0131.6,GDDR5128-bit,24,7000,112,60-80,PCIe 3.0 x8
+10,RadeonRX 560[g](Baffin)[93][86],May 2017$99 USD,GCN 4th genSamsung/GloFo14LPP[84][f],3.0×109123 mm2,1024:64:1616 CU,11751275,75.281.6,18.820.4,24062611,150.4163.2,GDDR5128-bit,24,7000,112,60–80,PCIe 3.0 x8
+11,RadeonRX 570(Polaris20 XL)[94][86],"April 18, 2017$169 USD",GCN 4th genSamsung/GloFo14LPP[84][f],5.7×109232 mm2,2048:128:3232 CU,11681244,149.5159.2,37.439.8,47845095,299.0318.4,GDDR5256-bit,48,7000,224,150,PCIe 3.0 x16
+12,RadeonRX 580(Polaris20 XT)[95][86],"April 18, 2017$199 USD (4 GB)$229 USD (8 GB)",GCN 4th genSamsung/GloFo14LPP[84][f],5.7×109232 mm2,2304:144:3236 CU,12571340,181.0193.0,40.242.9,57926175,362.0385.9,GDDR5256-bit,48,8000,256,185,PCIe 3.0 x16
+13,RadeonRX 590(Polaris30 XT)[96],"November 15, 2018$279 USD",GCN 4th genSamsung/GloFo12LP (14LP+)[h],5.7×109232 mm2,2304:144:3236 CU,14691545,211.5222.5,47.049.4,67697120,423.0444.9,GDDR5256-bit,8,8000,256,225,PCIe 3.0 x16

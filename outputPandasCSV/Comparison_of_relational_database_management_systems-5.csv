@@ -1,0 +1,46 @@
+,Unnamed: 0,Temporary table,Materialized view
+0,4th Dimension,Yes,No
+1,ADABAS,?,?
+2,Adaptive Server Enterprise,Yes1,Yes - see precomputed result sets
+3,Advantage Database Server,Yes,No (only common views)
+4,Altibase,Yes,No (only common views)
+5,Apache Derby,Yes,No
+6,ClustrixDB,Yes,No
+7,CUBRID,No,No
+8,DB2,Yes,Yes
+9,Empress Embedded Database,Yes,Yes
+10,EXASolution,Yes,No
+11,Firebird,Yes,No (only common views)
+12,HSQLDB,Yes,No
+13,H2,Yes,No (only common views)
+14,Informix Dynamic Server,Yes,No2
+15,Ingres,Yes,No
+16,InterBase,Yes,No
+17,Linter SQL RDBMS,Yes,Yes
+18,LucidDB,No,No
+19,MariaDB,Yes,No4
+20,MaxDB,Yes,No
+21,Microsoft Access (JET),No,No
+22,Microsoft Visual Foxpro,Yes,Yes
+23,Microsoft SQL Server,Yes,Yes
+24,Microsoft SQL Server Compact (Embedded Database),Yes,No
+25,Mimer SQL,No,No
+26,MonetDB,Yes,No
+27,MySQL,Yes,No4
+28,OpenBase SQL,Yes,Yes
+29,Oracle,Yes,Yes
+30,Oracle Rdb,Yes,Yes
+31,OpenLink Virtuoso,Yes,Yes
+32,Pervasive PSQL,Yes,No
+33,Polyhedra DBMS,No,No (only common views)
+34,PostgreSQL,Yes,Yes5
+35,Raima Database Manager,Yes,No
+36,RDM Server,Yes,No
+37,SAP HANA,Yes,?
+38,solidDB,Yes,No (only common views)
+39,SQL Anywhere,Yes,Yes
+40,SQLite,Yes,No
+41,Teradata,Yes,Yes
+42,UniData,Yes,No
+43,UniVerse,Yes,No
+44,,Temporary table,Materialized view

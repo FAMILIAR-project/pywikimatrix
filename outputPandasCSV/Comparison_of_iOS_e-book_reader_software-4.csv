@@ -1,0 +1,22 @@
+,Product,Book store(s),Book search,In-app Epub import,Import via in-app Browser,OPDS catalog,Other import via,Tag books,Sort books
+0,Apabi Reader,Yes,Yes,Yes,No,Yes,eMail (MIME type) Built-in web server,No,Yes
+1,Blio,No,No,Yes,No,No,eMail (MIME type),No,No
+2,Bluefire Reader,Free ebook libraries only,Yes,No,No,No,eMail (MIME type) iTunes File Sharing Built-in Web Server,No,Yes
+3,DL Reader,Yes,No,Yes,Yes,No,eMail (MIME type),Yes,No
+4,eBookMobi,Free ebook libraries only,Yes,Yes,Yes,No,eMail (MIME type),No,Yes
+5,eBookReader,No,No,Yes,No,No,Built-in web server,Yes,Yes
+6,i2Reader,No,Yes,Yes,Yes,Yes,Calibre (Bonjour) Built-in web server,No,Yes
+7,iBooks,Apple iBookstore,Yes,No,No,No,eMail (MIME type),No,Yes
+8,Kindle,No,No,No,No,No,iTunes File Sharing,No,No
+9,Kobo Reading App,No,No,No,No,No,eMail (MIME type),No,No
+10,KyBook,Free ebook libraries only,Yes,Yes,Yes,Yes,eMail (MIME type) Google Books Dropbox Google Drive Yandex Disk VK Docs Network folders iTunes File Sharing,Yes,Yes
+11,KyBook 2,Yes,Yes,Yes,Yes,Yes,eMail (MIME type) Google Books Dropbox Google Drive Yandex Disk OneDrive iCloud Could Mail.ru OwnCloud (WebDav) VK Docs Network folders (SMB/CIFS) Apple Folders App iTunes File Sharing,Yes,Yes
+12,MapleRead,Free ebook libraries only,Yes,Yes,Yes,Yes,Built-in web server Calibre (Bonjour) eMail (MIME type) Dropbox iTunes File Sharing,Yes,Yes
+13,Marvin,Free ebook libraries only,Yes,Yes,Yes,Yes,Calibre (Bonjour) eMail (MIME type) Dropbox iTunes File Sharing,Yes,Yes
+14,MegaReader,No,Yes,Yes,No,Yes,Calibre (Bonjour) eMail (MIME type),No,No
+15,PocketBook reader,Yes,Yes,No,Yes,Yes,iTunes File Sharing eMail (MIME type),No,Yes
+16,ShuBook,Yes,Yes,Yes,Yes,Yes,Calibre (Bonjour) eMail (MIME type) iTunes File Sharing,Yes,Yes
+17,Stanza,No,Yes,Yes,No,Yes,Calibre (Bonjour) eMail (MIME type) iTunes File Sharing,Yes,Yes
+18,uBooks XL,No,Yes,Yes,No,Yes,eMail (MIME type) iTunes File Sharing,No,Yes
+19,iBouquiniste,Free ebook libraries only,Yes,Yes,No,Yes,eMail (MIME type),No,Yes
+20,Product,Book store(s),Book search,In-app Epub import,Import via in-app Browser,OPDS catalog,Other import via,Tag books,Sort books

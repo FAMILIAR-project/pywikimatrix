@@ -1,0 +1,7 @@
+,Kernel name,DES,AES,Blowfish,Triple DES,Serpent,Twofish,CAST-128,DES-X,IDEA,RC2,RC5,SEED,Skipjack,TEA,XTEA,CAST-256,RC4,Camellia,Anubis,KHAZAD,Salsa20,FCrypt
+0,DragonFly BSD kernel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No
+1,FreeBSD kernel,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No
+2,Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,Windows NT kernel,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+4,macOS XNU Kernel,Yes,Yes,Yes,?,?,?,Yes,?,?,Yes,Yes,?,?,?,?,Yes,Yes,?,?,?,?,?
+5,Kernel name,DES,AES,Blowfish,Triple DES,Serpent,Twofish,CAST-128,DES-X,IDEA,RC2,RC5,SEED,Skipjack,TEA,XTEA,CAST-256,RC4,Camellia,Anubis,KHAZAD,Salsa20,FCrypt

@@ -1,0 +1,29 @@
+,Software,Windows,macOS,Linux,ChromeOS,BSD,Unix,iOS App,Android App,Windows App
+0,Bebop,Yes,Yes,Yes,?,Yes,Yes,No,No,No
+1,BibBase,,,,,,,?,?,?
+2,BibDesk,No,Yes,No,?,No,No,Third-party - PocketBib,?,?
+3,BibSonomy,,,,,,,?,?,?
+4,Bibus,Yes,Experimental,Yes,?,Yes,Yes,No,No,No
+5,Bookends,No,Yes,No,?,No,No,Yes,?,?
+6,Citavi,Yes,No,No,No,No,No,No,No,No
+7,CiteULike,,,,,,,?,?,?
+8,colwiz,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,No
+9,EndNote,Yes,Yes,No,No,No,No,Yes,No,No
+10,F1000Workspace,Yes,Yes,No,No,No,No,Yes,Yes,No
+11,JabRef,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+12,KBibTeX,Experimental,Experimental,Yes,?,Yes,Yes,No,No,No
+13,Mendeley,Yes,Yes,Yes,No,No,No,Yes,Yes,No
+14,Paperpile,Yes,Yes,Yes,Yes,No (requires Chromium),No (requires Chromium),in beta,in beta,No
+15,Pybliographer,Partial[11],Partial[11],Yes,?,Yes,Yes,No,No,No
+16,Qiqqa,Yes,No,No,?,No,No,No,Yes,No
+17,ReadCube (now Papers),Yes,Yes,No,Yes,No,No,Yes,Yes,Yes
+18,refbase,Yes,Yes,Yes,?,Yes,Yes,No,No,No
+19,RefDB,Yes,Yes,Yes,?,Yes,Yes,No,No,No
+20,Reference Manager,Yes[12],No,No,?,No,No,No,No,No
+21,Referencer,No,No,Yes,?,No,No,?,?,?
+22,RefWorks[13],Yes,Yes,No,Yes,Yes,?,No - but is responsive,?,No
+23,SciRef,Yes,No,No,?,No,No,?,?,?
+24,Sente,No,Yes,No,?,No,No,Yes[14],?,?
+25,Wikindx,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+26,WizFolio,Yes,Yes,Yes,?,Yes,Yes,?,?,?
+27,Zotero,Yes,Yes,Yes,?,Yes,Yes,third party,"third party - Aziz, Lite![15]",No

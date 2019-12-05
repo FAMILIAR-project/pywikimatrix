@@ -1,0 +1,27 @@
+,Unnamed: 0,Tested software version,"ODF version attribute in exported fileoffice:version=""1.X""",File type,Validation of simplenew document[5][6],Notes
+0,AbiWord,2.6.4,1.0,ODT,valid,
+1,Adobe Buzzword,"beta 3, build 600113",1.0,ODT,not valid,(errors in styles.xml and content.xml)
+2,EditGrid,11/2008,1.0,ODS,valid,
+3,Gnumeric,1.9.3,1.0,ODS,not valid,
+4,Google Docs & Spreadsheets,11/2008,1.0,"ODT, ODS","valid - ODT,different results - ODS",
+5,IBM Lotus Symphony,1.1.0,1.1,"ODT, ODS, ODP",valid,
+6,IBM Lotus Symphony,3.0.0 FP2,1.2,"ODT, ODS, ODP",,
+7,Inkscape,0.4.6,1.0,ODG,not valid,
+8,KOffice,1.6.3,attribute is missing,"ODT, ODS, ODP","valid - ODT, ODS,not valid - ODP","ODT, ODS - validODF 1.0 and 1.1"
+9,KOffice,2.1.2,1.2,"ODT, ODS, ODP",,
+10,Microsoft Office,2007 SP2,1.1,"ODT, ODS, ODP","different results - ODS,valid - ODT, ODP",
+11,Microsoft Office - SUN ODF Plugin,1.2,1.1,"ODT, ODS, ODP",valid,
+12,Microsoft Office - SUN ODF Plugin,3.1,1.2,"ODT, ODS, ODP",,
+13,Microsoft Office - OpenXML/ODF Translator Add-in,2.0,attribute is missing,"ODT, ODS, ODP","different results - ODT,valid - ODS,not valid - ODP",ODF 1.1 implemented[7]
+14,NeoOffice,2.2.5,1.0,ODT,not valid - ODT,(error in styles.xml)
+15,OpenOffice.org,2.0 - 2.3.0,1.0,"ODT, ODS, ODP",valid (tested 2.3.0),
+16,OpenOffice.org,2.3.1 - 2.4.2,1.1,"ODT, ODS, ODP",valid,
+17,OpenOffice.org,3.0,1.1 and 1.2,"ODT, ODS, ODP",valid,adjustable ODF version
+18,StarOffice,8.0 product update 10,1.1,"ODT, ODS, ODP",valid,
+19,RedOffice,4.0,1.0,"ODT, ODS, ODP",valid,
+20,TextEdit,1.5 (244),1.0,ODT,different results in validators,(settings.xml is missing[5])
+21,TextMaker,2008 rev.494,1.0,ODT,not valid,(error in styles.xml)
+22,TextMaker,2010,1.0,ODT,Yes,
+23,WordPad,6.1 (2009),attribute is missing,ODT,different results in validators,(settings.xml is missing[5] - ODF 1.0/1.1 validation)
+24,Zoho Office Suite,11/2008,1.0,"ODT, ODS, ODP","valid - ODT, ODS,not valid - ODP",
+25,,Tested software version,"ODF version attribute in exported fileoffice:version=""1.X""",File type,Validation of simplenew document[5][6],Notes

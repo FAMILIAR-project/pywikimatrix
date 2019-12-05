@@ -1,0 +1,57 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto
+0,Called as function,Called as function,Called as function,Called as function,Called as function
+1,"Date ([year [, month [, date [, hours [, minutes [, seconds [, ms ]]]]]]])",?,?,?,?
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,"new Date (year, month [, date [, hours [, minutes [, seconds [, ms ]]]]])",4.0,1.0,Yes,1.0
+4,new Date (value),4.0,1.0,Yes,1.0
+5,new Date (),4.0,1.0,Yes,1.0
+6,Properties,Properties,Properties,Properties,Properties
+7,prototype,4.0,1.0,Yes,1.0
+8,parse(string),3.0,1.0,Yes,1.0
+9,"UTC (year, month [, date [, hours [, minutes [, seconds [, ms ]]]]])",3.0,1.0,Yes,1.0
+10,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+11,constructor,4.0,1.0,Yes,1.0
+12,toString(),4.0,1.0,Yes,1.0
+13,toDateString(),4.0,1.0,Yes,1.0
+14,toTimeString(),4.0,1.0,Yes,1.0
+15,toLocaleString(),4.0,1.0,Yes,1.0
+16,toLocaleDateString(),4.0,1.0,Yes,1.0
+17,toLocaleTimeString(),4.0,1.0,Yes,1.0
+18,valueOf(),4.0,1.0,Yes,1.0
+19,getTime(),3.0,1.0,Yes,1.0
+20,getFullYear(),4.0,1.0,Yes,1.0
+21,getMonth(),3.0,1.0,Yes,1.0
+22,getUTCMonth(),4.0,1.0,Yes,1.0
+23,getDate(),3.0,1.0,Yes,1.0
+24,getUTCDate(),4.0,1.0,Yes,1.0
+25,getDay(),3.0,1.0,Yes,1.0
+26,getUTCDay(),4.0,1.0,Yes,1.0
+27,getHours(),3.0,1.0,Yes,1.0
+28,getUTCHours(),4.0,1.0,Yes,1.0
+29,getMinutes(),3.0,1.0,Yes,1.0
+30,getUTCMinutes(),4.0,1.0,Yes,1.0
+31,getSeconds(),3.0,1.0,Yes,1.0
+32,getUTCSeconds(),4.0,1.0,Yes,1.0
+33,getMilliseconds(),4.0,1.0,Yes,1.0
+34,getUTCMilliseconds(),4.0,1.0,Yes,1.0
+35,getTimezoneOffset(),4.0,1.0,Yes,1.0
+36,setTime(time),3.0,1.0,Yes,1.0
+37,setMilliseconds(ms),4.0,1.0,Yes,1.0
+38,setUTCMilliseconds(ms),4.0,1.0,Yes,1.0
+39,"setSeconds(sec [, ms])",3.0,1.0,Yes,1.0
+40,"setUTCSeconds(sec [, ms])",4.0,1.0,Yes,1.0
+41,"setMinutes(min [, sec [, ms]])",3.0,1.0,Yes,1.0
+42,"setUTCMinutes(min [, sec [, ms]])",4.0,1.0,Yes,1.0
+43,"setHours(hour [, min [, sec [, ms]]])",4.0,1.0,Yes,1.0
+44,"setUTCHours(hour [, min [, sec [, ms]]])",4.0,1.0,Yes,1.0
+45,setDate(date),4.0,1.0,Yes,1.0
+46,setUTCDate(date),4.0,1.0,Yes,1.0
+47,"setMonth(month [, date])",3.0,1.0,Yes,1.0
+48,"setUTCMonth(month [, date])",4.0,1.0,Yes,1.0
+49,"setFullYear(year [, month [, date]])",4.0,1.0,Yes,1.0
+50,"setUTCFullYear(year [, month [, date]])",4.0,1.0,Yes,1.0
+51,toUTCString(),4.0,1.0,Yes,1.0
+52,Additional properties of prototype,Additional properties of prototype,Additional properties of prototype,Additional properties of prototype,Additional properties of prototype
+53,getYear(),3.0,1.0,Yes,1.0
+54,setYear(year),3.0,1.0,Yes,1.0
+55,toGMTString(),4.0,1.0,Yes,1.0

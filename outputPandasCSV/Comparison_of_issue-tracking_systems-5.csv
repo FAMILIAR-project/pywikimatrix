@@ -1,0 +1,36 @@
+,System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others
+0,Apache Bloodhound,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Optional[70],Yes,No,No
+1,Assembla Tickets,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No
+2,Axosoft,Yes,Yes[71],No,No,No,No,Yes,Yes,No,No,"Yes VSS, Vault Sourcegear"
+3,Bugzilla,Yes[72],Yes[73],Yes,No,No,Yes,Yes,Yes,Yes,No,No
+4,Debbugs,No,No,No,No,No,No,No,No,No,No,No
+5,Faveo Helpdesk,No,No,No,No,No,No,No,No,No,No,No
+6,FogBugz,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,2[74]
+7,Fossil,No,No,No,No,No,No,No,No,Yes,No,1[75]
+8,FusionForge,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+9,GNATS,No,No,No,No,No,Yes,No,No,No,No,No
+10,HP Application Lifecycle Management,No,No,No,No,No,Yes,Yes,Yes[76],Yes,No,No
+11,IBM Rational ClearQuest,No,No,No,No,No,No,No,Yes[77],Yes,Yes,No
+12,Jira,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes[78],No[79],Yes[80]
+13,MantisBT,Yes,Yes[81],No,No,No,Yes,Yes,No,No,No,No
+14,Microsoft Dynamics CRM,No,No,No,No,No,No,No,No,No,No,No
+15,org-mode,No,No,No,No,No,No,No,No,No,No,No
+16,OTRS,No,No,No,No,No,No,No,No,No,No,No
+17,Phabricator,Yes,Yes,No,No,No,No,Yes,No,No,No,No
+18,Pivotal Tracker,Yes,No,No,No,No,Yes,Yes,No,No,No,No
+19,Redmine,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes[76],No,No,No
+20,Request Tracker,No,No,No,No,No,Yes,Yes,No,No,No,No
+21,Roundup,No,No,No,No,Yes,No,Yes,No,No,No,No
+22,StarTeam,No,No,No,No,No,No,No,No,No,No,Yes - StarTeam includes revision control
+23,Supportworks,No,No,No,No,No,No,No,No,No,No,No
+24,SysAid,No,No,No,No,No,No,Yes,No,No,No,No
+25,Team Foundation Server,Yes[82],No,Yes[83],No,No,No,Yes[84],No,No,No,Yes - TFS includes revision control
+26,TestTrack,Yes,No,No,No,No,Yes,Yes,Yes,No,No,"Yes - Surround SCM, VSS"
+27,Trac,Yes,Yes,Yes,Yes,Yes,No,Yes,Optional[70],Yes,No,No
+28,TrackerSuite.Net,No,No,No,No,No,No,No,No,No,No,No
+29,Tuleap,Yes,No,No,No,No,Yes,Yes,No,No,No,No
+30,Twproject,No,No,No,No,No,No,Yes,No,No,No,No
+31,Usersnap,No,No,No,No,No,No,No,No,No,No,No
+32,Wrike,No,No,No,No,No,No,Yes,No,No,No,No
+33,YouTrack,Yes[85],Yes[85],No,No,No,Yes[85],Yes[85],Yes[85],No,Yes[85],3[85][86]
+34,System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others

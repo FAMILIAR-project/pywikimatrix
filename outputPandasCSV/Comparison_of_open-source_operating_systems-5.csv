@@ -1,0 +1,28 @@
+,Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
+0,Linux,netfilter iptables/nftables,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,FreeBSD,"IPFW2, IPFilter, PF",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,OpenBSD,PF,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,NetBSD,"IPFilter, NPF, PF",Yes,Yes,,Yes,Yes[Note 1],Yes,Yes,Yes,Yes,Yes
+4,DragonFly BSD,"IPFW2, PF",Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,
+5,"OpenSolaris, illumos",IPFilter,Yes,Yes,,Yes,Yes,Yes,Yes,Yes[Note 2],Yes,Yes
+6,AuroraUX,IPFilter,Yes,Yes,,Yes,Yes,Yes,Yes,,Yes,Yes
+7,"Darwin, OpenDarwin",IPFW,Yes,Yes,,,,Yes,,,Yes,
+8,MINIX,,Yes,,,,,,,,Yes,
+9,FreeDOS,,Yes,,Yes,Yes,Yes,Yes,,,Yes,
+10,Genode,software IP routing,Yes,,No,No,No,Yes,Yes,,,
+11,Haiku,None,Yes,Yes,,,,Yes,,,Yes,Yes
+12,KolibriOS,None,Yes,,No,Yes,No,Yes,,,,
+13,MenuetOS,None,Yes,,No,No,No,,,,,
+14,GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel)[Note 3],Yes,Yes[Note 4],,,,Yes[Note 5],,,Yes,
+15,ReactOS,,Yes,Yes,,,,,,,,
+16,"L4, Fiasco, Pistachio",,,,,,,,,,,
+17,Plan 9,ipmux,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No
+18,AROS,,Yes,,,,,,,,,
+19,Syllable,,Yes,,,Yes,Yes,Yes,,,Yes,
+20,Inferno,ipmux,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+21,FreeRTOS,,,,,,,,,,,
+22,eCos,,Yes,Yes,,Yes,,Yes,,,Yes,
+23,RTEMS,,Yes,No,,Yes,Yes,Yes,Yes,Yes,,
+24,HelenOS,,Yes,Yes,No,No,No,Yes,No,No,No,No
+25,E/OS,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+26,Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN

@@ -1,0 +1,113 @@
+,Unit,Base,American,British,ANZAC,Soviet,French,German,Italian,Japanese
+0,Artillery,10.5 cm leFH 18,,,,,,1942 Second Edition,,
+1,Artillery,88mm Flak 36,,,,,,Europe,Europe 1940,
+2,Artillery,105mm Howitzer,Europe,Europe,Pacific 1940,Europe,Europe 1940,,,
+3,Artillery,152mm Howitzer,,,,Europe 1940 Second Edition,Europe 1940 Second Edition,,,
+4,Artillery,BL 5.5 inch,,,1942 Second Edition,,,,,
+5,Artillery,Cannone da 75/32,,,,,,,Europe 1940 Second Edition,
+6,Artillery,Ordnance QF 25 pounder,,1942 Second Edition,,,,,,
+7,Artillery,Type 92 70mm,,,,,,,Anniversary,Pacific
+8,Mechanized Infantry,M5 Half-track,Pacific 1940,Pacific 1940,Pacific 1940,,,,,
+9,Mechanized Infantry,Priest,,Pacific 1940 Second Edition,,,,,,
+10,Mechanized Infantry,Ram-Kangaroo,,,Pacific 1940 Second Edition,,,,,
+11,Mechanized Infantry,Sd.Kfz. 251,,,,,,Pacific 1940,Pacific 1940,Pacific 1940
+12,Mechanized Infantry,SPA Dovunque 35,,,,,,,Pacific 1940 Second Edition,
+13,Mechanized Infantry,Type 1,,,,,,,,Pacific 1940 Second Edition
+14,Mechanized Infantry,ZIS-42,,,,Pacific 1940,Europe 1940,,,
+15,Tank,AC Sentinel,,,Pacific 1940 Second Edition,,,,,
+16,Tank,IS-2,1941,1941,,1941,,,,
+17,Tank,M14/41,,,,,,,Anniversary,
+18,Tank,M15/42,,,,,,,Europe 1940 Second Edition,
+19,Tank,Matilda II,,Anniversary,Pacific 1940,,,,,
+20,Tank,Panther,,,,,,Europe,Europe 1940,
+21,Tank,Sherman,Europe,Europe,,,,,,
+22,Tank,T-34,,,,Pacific,Europe 1940,,,
+23,Tank,Tiger,,,,,,1941,,1941
+24,Tank,Type 95,,,,,,,,Pacific
+25,Truck,GMC 2 1/2-ton,Battle of the Bulge,,,,,,,
+26,Truck,Opel 3-ton,,,,,,Battle of the Bulge,,
+27,Antiaircraft Gun,(Generic),Guadalcanal,,,,,,,Guadalcanal
+28,Antiaircraft Gun,3.7in QFAA,,1942 Second Edition,,,,,,
+29,Antiaircraft Gun,8.8cm Flak 41,,,,,,1942 Second Edition,,
+30,Antiaircraft Gun,75mm Type 88,,,,,,,,1942 Second Edition
+31,Antiaircraft Gun,85mm M1939,,,,1942 Second Edition,Europe 1940 Second Edition,,,
+32,Antiaircraft Gun,90mm M1,1942 Second Edition,,,,,,,
+33,Antiaircraft Gun,L/70 40mm,,,Pacific 1940 Second Edition,,,,,
+34,Antiaircraft Gun,Cannone da 90/53,,,,,,,Pacific 1940 Second Edition,
+35,Transport,Baltic Timber Ship,,,,Europe 1940 Second Edition,Europe 1940 Second Edition,,,
+36,Transport,Fort class,1941,1941,,1941,,,,
+37,Transport,Hakusan Maru class,,,,,,,,Pacific
+38,Transport,Hilfskreuzer,,,,,,Europe,Anniversary,
+39,Transport,Iridio Mantovani,,,,,,,Pacific 1940 Second Edition,
+40,Transport,Liberty ship,Europe,Europe,Pacific 1940,Pacific 1940,Pacific 1940,,,
+41,Transport,Monowai,,,Pacific 1940 Second Edition,,,,,
+42,Transport,Yamazuki Maru class,,,,,,1941,,1941
+43,Destroyer,Akizuki class,,,,,,1941,,1941
+44,Destroyer,Fubuki class,,,,,,,,Pacific
+45,Destroyer,Gnevny class,,,,1942,Europe 1940,,,
+46,Destroyer,Johnston class,Europe,Europe,Pacific 1940,Europe,,,,
+47,Destroyer,Saumarez,,1942 Second Edition,,,,,,
+48,Destroyer,Soldati class,,,,,,,Pacific 1940 Second Edition,
+49,Destroyer,Sumner class,1941,1941,,1941,,,,
+50,Destroyer,Tribal class,,,Pacific 1940 Second Edition,,,,,
+51,Destroyer,Zerstörer 1934,,,,,,Europe,Anniversary,
+52,Submarine,I class,,,,,,,,Pacific
+53,Submarine,Kaichu class,,,,,,1941,,1941
+54,Submarine,Marconi class,,,,,,,Pacific 1940 Second Edition,
+55,Submarine,Ray class,Europe,Europe,Pacific 1940,Europe,Europe 1940,,,
+56,Submarine,S class,,,Pacific 1940 Second Edition,,,,,
+57,Submarine,Srednyaya class,,,,Europe 1940 Second Edition,Europe 1940 Second Edition,,,
+58,Submarine,Truculent,,1942 Second Edition,,,,,,
+59,Submarine,U class,1941,1941,,1941,,,,
+60,Submarine,Type VII,,,,,,Europe,Anniversary,
+61,Cruiser,Admiral Hipper class,,,,,,Anniversary,Anniversary,
+62,Cruiser,Kent class,,Anniversary,Pacific 1940,Anniversary,,,,
+63,Cruiser,Kirov class,,,,1942,Europe 1940,,,
+64,Cruiser,Portland class,Guadalcanal,,,,,,,
+65,Cruiser,Takao class,,,,,,,,Guadalcanal
+66,Cruiser,Zara class,,,,,,,Europe 1940 Second Edition,
+67,Carrier,Akagi,,,,,,1941,,1941
+68,Carrier,Aquila,,,,,,,Europe 1940 Second Edition,
+69,Carrier,Graf Zeppelin,,,,,,Europe,Anniversary,
+70,Carrier,Illustrious class,,Europe,Pacific 1940,Europe,Europe 1940,,,
+71,Carrier,Kostromitinova class,1941,1941,,1941,,,,
+72,Carrier,Majestic class,,,1942 Second Edition,,,,,
+73,Carrier,Shinano,,,,,,,,Pacific
+74,Carrier,Wasp,Europe,,,,,,,
+75,Battleship,Bismarck class,,,,,,Europe,Anniversary,
+76,Battleship,Gangut class,,,,1942,Europe 1940,,,
+77,Battleship,Hood,1941,1941,,1941,,,,
+78,Battleship,Iowa class,Europe,,,,,,,
+79,Battleship,Kongo class,,,,,,1941,,1941
+80,Battleship,Littorio class,,,,,,,Europe 1940 Second Edition,
+81,Battleship,Royal Oak class,,Europe,Pacific 1940,Europe,,,,
+82,Battleship,Warspite,,,1942 Second Edition,,,,,
+83,Battleship,Yamato class,,,,,,,,Pacific
+84,Fighter,C.202,,,,,,,Europe 1940 Second Edition,
+85,Fighter,CA-12,,,Pacific 1940 Second Edition,,,,,
+86,Fighter,Fw 190,,,,,,1941,,1941
+87,Fighter,Bf 109,,,,,,Anniversary,Anniversary,
+88,Fighter,MiG-3,,,,Pacific 1940 Second Edition,Pacific 1940 Second Edition,,,
+89,Fighter,P-38 Lightning,Europe,,,,,,,
+90,Fighter,P-40 Warhawk,1941,1941,,1941,,,,
+91,Fighter,Spitfire,,Europe,Pacific 1940,,,,,
+92,Fighter,Stuka,,,,,,Europe,,
+93,Fighter,Wildcat,Pacific,,,,,,,
+94,Fighter,Yak,,,,Europe,Europe 1940,,,
+95,Fighter,Zero,,,,,,,,Pacific
+96,Tactical Bomber,Dauntless,Pacific 1940,,,,,,,
+97,Tactical Bomber,Mosquito,,Pacific 1940,Pacific 1940,,,,,
+98,Tactical Bomber,SM.79,,,,,,,Europe 1940 Second Edition,
+99,Tactical Bomber,Stuka,,,,,,Europe 1940,Europe 1940,
+100,Tactical Bomber,Sturmovik,,,,Europe 1940,Europe 1940,,,
+101,Tactical Bomber,TB.Mk.I,,,Pacific 1940 Second Edition,,,,,
+102,Tactical Bomber,Val,,,,,,,,Pacific 1940
+103,Bomber,B-17,Europe,,,,,,,
+104,Bomber,Betty,,,,,,,Anniversary,Pacific
+105,Bomber,Halifax,,Europe,Pacific 1940,,,,,
+106,Bomber,He 111,,,,,,1941,,1941
+107,Bomber,Ju 88,,,,,,Europe,Europe 1940,
+108,Bomber,Lancaster,1941,1941,,1941,,,,
+109,Bomber,P.108,,,,,,,Europe 1940 Second Edition,
+110,Bomber,Pe-8,,,,Europe,Europe 1940,,,
+111,Bomber,PV-1,,,Pacific 1940 Second Edition,,,,,

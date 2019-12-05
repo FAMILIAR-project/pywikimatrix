@@ -1,0 +1,8 @@
+,Service,Tagging[Note 1],Groups,Conversation[Note 2],Private[Note 3],Private following list,RSS,Atom,Bookmarklet
+0,Tumblr,Yes,No,No,Yes,Yes,Yes,No,?
+1,Facebook,Yes,Yes,Yes,Yes,?,Yes,No,?
+2,identi.ca / GNU social,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes[7]
+3,Twitter,Yes,No,Yes,Yes,Yes,No[8],No[8],No
+4,Mastodon,Yes,No,Yes,Yes,?,No,Yes,No
+5,Misskey,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+6,micro.blog,Yes,No,Yes,No,?,Yes,No,No

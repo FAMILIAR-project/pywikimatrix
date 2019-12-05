@@ -1,0 +1,20 @@
+,Archive format,Built-in compression,Self-extracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams
+0,cpio,No1,No,Yes,Yes,No,?
+1,tar,No1,No,Yes,Yes,Some,(in Solaris implementation)
+2,dar,Yes3,No,Yes,Yes,Yes,Yes
+3,ar,No,No,No,Yes,No,?
+4,pax,No,No,Yes,Yes,Yes,?
+5,dump,No1,No,Yes,Yes,Yes,?
+6,shar,No,Yes,Yes,Yes,No,?
+7,makeself,Yes,Yes,Yes,Yes,Yes,?
+8,zip,Yes,Yes2,Yes,No,?,?
+9,rar,Yes,Yes2,Yes,No,?,Yes
+10,ace,Yes,?,Yes,No,?,?
+11,arj,Yes,Yes2,Yes,No,No,?
+12,zoo,Yes,?,Yes,No,?,?
+13,ISO 9660 (CD-ROM),No1,No,Yes,(with Rock Ridge extension),No,?
+14,cab,Yes,Yes2,?,No,?,?
+15,rpm,Yes,No,Yes,Yes,?,?
+16,deb,Yes,No,Yes,Yes,?,?
+17,7z,Yes,Yes,Yes,Yes,?,?
+18,Archive format,Built-in compression,Self-extracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams

@@ -1,0 +1,32 @@
+,Server,Security,Security.1,Security.2,Unnamed: 4,Dynamic content[a],Dynamic content[a].1,Dynamic content[a].2,Dynamic content[a].3,Dynamic content[a].4,Dynamic content[a].5,Dynamic content[a].6,Dynamic content[a].7,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18
+0,Server,basicaccessauthentication,digestaccessauthentication,SSL/TLShttps,virtualhosting,CGI,FCGI,SCGI,WSGI,JavaServlets,SSI,ISAPI,SSJS,Runs in user spaceor kernel space,Administrationconsole,IPv6,HTTP/2,QUIC,HTTP/3
+1,AOLserver,Yes,No,Yes[b][c][d][1],Yes,Yes,No,Unknown,No,No,Yes,Unknown,Unknown,user,Unknown,Unknown,Unknown,Unknown,Unknown
+2,Apache HTTP Server,Yes,Yes,Yes[e][c][2][f][3],Yes,Yes,Yes,Yes,Yes[e],No[g],Yes,Yes[h],Unknown,user,Yes[i],Yes,Yes,Unknown,Unknown
+3,Apache Tomcat,Yes,Yes,Yes[j][4],Yes,Yes,No,Unknown,No,Yes,Yes,No[k],Unknown,user,Yes,Yes[l],Yes,Unknown,Unknown
+4,Boa,No,No,Yes[m],Yes,Yes,No,Unknown,No,No,No,No,Unknown,user,Unknown,Yes,Unknown,Unknown,Unknown
+5,Caddy,Yes,No,Yes,Yes,Partial[n],Yes,No,No,No,No[o],No,No,user,No,Yes,Yes,Yes,Unknown
+6,Caucho Resin Server,Yes,Yes,paid version[c],Yes,Yes,Yes,Unknown,No,Yes,Yes,No,Unknown,user,Yes,Yes,Unknown,Unknown,Unknown
+7,Caudium,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Yes,Yes,Unknown,Unknown,user,Yes,Yes[p],Unknown,Unknown,Unknown
+8,Cherokee HTTP Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Unknown,user,Yes,Yes[5],Unknown,Unknown,Unknown
+9,HFS,Yes,No,Yes via Stunnel[6],No,No,No,Unknown,No,No,No,Unknown,Unknown,user,Unknown,No,Unknown,Unknown,Unknown
+10,Hiawatha HTTP Server,Yes,Yes,Yes[q][7],Yes,Yes,Yes,No,No,No,Yes,No,Unknown,user,Yes,Yes,Unknown,Unknown,Unknown
+11,IBM HTTP Server,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,No,Yes,No,Unknown,user,Yes,Yes,Unknown,Unknown,Unknown
+12,Internet Information Services,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No[r],Yes,Yes,Yes,kernel and user[8],Yes,Yes,Yes,Unknown,Unknown
+13,Jetty,Yes,Yes,Yes,Yes,Yes,Unknown,Unknown,No,Yes,Unknown,Unknown,Yes,user,Unknown,Unknown,Yes,Unknown,Unknown
+14,Jexus,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,user,Yes,No,Unknown,Unknown,Unknown
+15,lighttpd,Yes,Yes,Yes[c][9],Yes,Yes,Yes,Yes,Yes,No[g],Yes,No,No,user,No,Yes,No,Unknown,Unknown
+16,LiteSpeed Web Server,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,No[g],Yes,No,Unknown,user,Yes,Yes,Yes,Yes,Yes[10]
+17,Mongoose,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,user,Yes,Yes,Unknown,Unknown,Unknown
+18,Monkey HTTP Server,Yes,No,Yes[q],Yes,Yes,Yes,No,No,No,No,No,No,user,No,Yes,Unknown,Unknown,Unknown
+19,NaviServer,Yes,No,Yes,Yes,Yes,No,Unknown,No,No,Yes,Unknown,Unknown,user,Yes,Yes,Unknown,Unknown,Unknown
+20,NCSA HTTPd,Yes,Yes,Unknown,Partial[s],Yes,Unknown,Unknown,No,No,Yes,No,Unknown,user,Unknown,Unknown,Unknown,Unknown,Unknown
+21,nginx,Yes,Yes (module),Yes,Yes,No,Yes,Yes,Yes,No[11],Yes,No,Unknown,user,Yes[12],Yes[13],Yes[14],Unknown,Unknown
+22,OpenLink Virtuoso,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,user,Yes,No,No,Unknown,Unknown
+23,Oracle HTTP Server[15],Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,No,Yes,No,Unknown,user,Yes[t],Yes,Unknown,Unknown,Unknown
+24,Oracle iPlanet Web Server,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Yes,Yes,No,Yes,user,Yes,Yes,Unknown,Unknown,Unknown
+25,thttpd,Yes,Unknown,No,Yes,Yes,No,Unknown,No,No,No,No,Unknown,user,No,Yes,Unknown,Unknown,Unknown
+26,TUX web server,No,No,No,Yes,Yes,No,Unknown,No,No,No,No,Unknown,kernel,Unknown,Unknown,Unknown,Unknown,Unknown
+27,Wakanda Server,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,user,Yes,Yes,Unknown,Unknown,Unknown
+28,Xitami,Yes,Unknown,paid version,Yes,Yes,Unknown,Unknown,No,Unknown,Yes,Unknown,Unknown,user,Unknown,Unknown,Unknown,Unknown,Unknown
+29,Yaws,Yes,Unknown,Yes,Yes,Yes,Yes,Unknown,No,No,Yes,No,Unknown,user,Unknown,Yes,Unknown,Unknown,Unknown
+30,Zeus Web Server,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,No[g],Yes,Yes,Unknown,user,Yes,No,Unknown,Unknown,Unknown

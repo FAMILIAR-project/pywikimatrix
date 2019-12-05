@@ -1,0 +1,6 @@
+,IDE,Developer,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder
+0,Dolphin Smalltalk,Object Arts,MIT License,Yes,No,No,No,Yes,Yes
+1,Pharo,INRIA,MIT License,Yes,Yes,Yes,various,Yes,Yes
+2,Squeak,squeak.org,MIT License,Yes,Yes,Yes,various,Yes,Yes
+3,VisualAge,Instantiations,Proprietary,Yes,Yes,Yes,various,Yes,Yes
+4,VisualWorks,Cincom,Proprietary,Yes,Yes,Yes,various,Yes,Yes

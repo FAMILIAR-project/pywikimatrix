@@ -1,0 +1,6 @@
+,Software,Windows,Mac OS X,Linux,BSD,Unix,IIS,Apache,Notes
+0,Connectbeam,Yes,No,No,No,No,Yes,No,none
+1,Dogear,Yes,Yes,Yes,No,Yes,No,No,requires IBM WebSphere Application Server 6.1.0.13 for the web server
+2,Jumper 2.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,none
+3,Knowledge Plaza,No,No,Yes,No,No,No,No,No OS management required. Infrastructure-as-a-Service for on-premises installation.
+4,Scuttle,Yes,Yes,Yes,Yes,Yes,Yes,Yes,none

@@ -1,0 +1,23 @@
+,Audio player,AVI,ASF,QuickTime,Ogg,OGM,Matroska,MP4,MPEG-21,NUT,FLV
+0,AIMP,No,Yes,No,Yes,No,No,Partial,No,No,No
+1,Amarok,Yes,Yes,Yes,Yes,Basic,Basic,Yes,?,?,Yes
+2,Audacious,No,Yes,No,Yes,No,No,Yes,No,No,Audio only
+3,Audion,No,No,No,No,No,No,No,?,?,?
+4,cmus,No,No,No,Vorbis only,No,Basic,Yes,?,?,?
+5,Cog,No,No,No,Yes,No,No,Partial,?,?,?
+6,foobar2000,Partial[a],Yes,No,Yes,No,Yes[containernotes 1],Yes,?,?,Audio only
+7,JuK,No,No,No,Vorbis only,No,No,No,?,?,?
+8,JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes
+9,MediaMonkey,No,No,No,Vorbis only,No,No,No,?,?,?
+10,MOC,Yes,?,?,Yes,?,Yes,Yes,?,?,Yes
+11,MPXPLAY,Yes,Yes,No,Yes,?,?,Yes,?,?,?
+12,MusicBee,No,No,No,Vorbis only,No,No,AAC only,No,No,No
+13,Musicmatch Jukebox,No,No,No,No,No,No,No,?,?,?
+14,musikCube,No,No,No,Vorbis only,No,No,No,?,?,?
+15,Rhapsody,No,No,No,No,No,No,No,?,?,?
+16,Rhythmbox,No,Yes,No,Vorbis only,No,No,Yes[f],?,?,?
+17,Sonique,No[g],No,No,Yes,No,No,No,?,?,?
+18,Winamp,Yes,Yes,Yes[a],Yes,Yes,Yes,Yes,?,?,Yes
+19,XMMS,No,No,No,Vorbis only,No,No,No,?,?,?
+20,Zinf,No,No,No,Vorbis only,No,No,No,?,?,?
+21,Audio player,AVI,ASF,QuickTime,Ogg,OGM,Matroska,MP4,MPEG-21,NUT,FLV

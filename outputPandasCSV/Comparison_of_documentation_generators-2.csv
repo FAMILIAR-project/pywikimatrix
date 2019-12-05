@@ -1,0 +1,26 @@
+,Unnamed: 0,Windows,OS X,Linux,BSD,Unix
+0,Ddoc,Yes,Yes[a],Yes,Yes[a],No
+1,Document! X,Yes,No,No,No,No
+2,Doxygen,Yes,Yes,Yes,Yes,Yes
+3,Epydoc,Yes,Yes,Yes,Yes,Yes
+4,Haddock,Yes,Yes,Yes,Yes,Yes
+5,HeaderDoc,No,Yes,Yes,Yes,Yes
+6,Imagix 4D,Yes,No,Yes,No,Yes
+7,Javadoc,Yes,Yes,Yes,Yes,Yes
+8,JSDoc,Yes,Yes,Yes,Yes,Yes
+9,JsDoc Toolkit,Yes,Yes,Yes,Yes,Yes
+10,mkd,Yes,No?,Yes,Yes,Yes
+11,Natural Docs,Yes,Yes,Yes,Yes,Yes
+12,NDoc,Yes,No,No,No,No
+13,Pandoc,Yes,Yes,Yes,Yes,Yes
+14,pdoc,Yes,Yes,Yes,Yes,Yes
+15,perldoc,Yes,Yes,Yes,Yes,Yes
+16,phpDocumentor,Yes,Yes,Yes,Yes,Yes
+17,pydoc,Yes,Yes,Yes,Yes,Yes
+18,RDoc,Yes,Yes,Yes,Yes,Yes
+19,ROBODoc,Yes,Yes,Yes,Yes,Yes
+20,Sandcastle,Yes,No,No,No,No
+21,Sphinx,Yes,Yes,Yes,Yes,Yes
+22,Visual Expert,Yes,No,No,No,No
+23,VSdocman,Yes,No,No,No,No
+24,,Windows,OS X,Linux,BSD,Unix

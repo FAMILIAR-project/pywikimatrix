@@ -1,0 +1,17 @@
+,Unnamed: 0,Flat,Threaded,User selectable themes,Unread message tracking,WYSIWYG Editor,"Export, portability",Email / NNTP interface,Languages,SSO
+0,bbPress,Yes[26],,,,,No[27],Plugin[28][29],Yes[30],
+1,Beehive Forum,Yes[26],Yes[26],Partial[26],Full[26],Yes[26] (using TinyMCE),Partial[31],,,
+2,Discourse,Yes,No[32],Yes[33],Full,Real-time side-by-side preview,Full[34],Partial[35],Yes[36][37],"OAuth2[38], Custom[39]"
+3,Discuz!,,,Yes[40],,,,,,
+4,FluxBB,Yes[26],No[26],Partial[26],Session[26],No[26],,,Yes[41],
+5,FUDforum,Yes[26],Yes[26],Yes[26],Full[26],Yes[26],Partial[42],Yes[43],Yes[44],
+6,Invision Power Board,Yes[26],,Yes[26],Full[26],Yes[26],,No[45],,No[46]
+7,MyBB[47],Yes[26],Yes[26],Yes[26],Full[26],Yes[26],No[48],No[49][50],Yes[51],
+8,Phorum,Yes[26],Yes[26],Yes[26],Full[26],Yes[26],Plugin[52],,No[53],
+9,phpBB[54],Yes[26],No[26],Yes[26],Full[26],No[26],No[55],No[56][57],Yes[58],"Yes (LDAP, OAuth)[59]"
+10,PunBB[60],Yes[26],,Yes[26],Session[26],,,,No[61][62],
+11,Simple Machines Forum,Yes[26],No[26],Yes[26],Full[26],Yes[26],Partial [63],No[64],Yes[65],
+12,Thredded,Yes[19],No[19],Yes[19],Full[19],No[19],No[19],Read-only[19],Yes[19],Custom[19]
+13,Vanilla Forums,Yes[26],,Yes[26],Yes[26],Plugin[26],Plugin [66][67],,Yes[68],Yes[69]
+14,vBulletin[70],Yes[26],Yes[26],Yes[26],Full[26],Yes[26],Plugin[71][72],,No[73],
+15,XenForo,Yes[26],,Yes[26],Full[26],Yes[26],Yes[74],,Yes[75],Yes[76]

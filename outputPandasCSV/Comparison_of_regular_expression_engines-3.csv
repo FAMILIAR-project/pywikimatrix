@@ -1,0 +1,33 @@
+,Unnamed: 0,"""+"" quantifier",Negated character classes,Non-greedy quantifiers[Note 1],Shy groups[Note 2],Recursion,Look-ahead,Look-behind,Backreferences[Note 3],>9 indexable captures
+0,Boost.Regex,Yes,Yes,Yes,Yes,Yes[Note 4],Yes,Yes,Yes,Yes
+1,Boost.Xpressive,Yes,Yes,Yes,Yes,Yes[Note 5],Yes,Yes,Yes,Yes
+2,CL-PPCRE,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+3,EmEditor,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+4,FREJ,No[Note 6],No,Some[Note 6],Yes,No,No,No,Yes,Yes
+5,GLib/GRegex,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,GNU grep,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,?
+7,Haskell,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+8,Helios RXPF,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+9,ICU Regex,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+10,Java,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+11,JavaScript (ECMAScript),Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+12,JGsoft,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+13,Lua,Yes,Yes,Some[Note 7],No,No,No,No,Yes,No
+14,.NET,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+15,OCaml,Yes,Yes,No,No,No,No,No,Yes,No
+16,OmniOutliner 3.6.2,Yes,Yes,Yes,No,No,No,No,?,?
+17,PCRE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18,Perl,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+19,PHP,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+20,Python,Yes,Yes,Yes,Yes,Yes[Note 8],Yes,Yes,Yes,Yes
+21,Qt/QRegExp,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+22,RE2,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+23,Ruby / Onigmo,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+24,TRE,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+25,Vim,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+26,RGX,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+27,Tcl,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+28,TRegExpr,Yes,?,Yes,?,?,?,?,?,?
+29,XML Schema,Yes,Yes,No,,No,No,No,No,
+30,XPath 3/XQuery,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+31,XRegExp,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes

@@ -1,0 +1,5 @@
+,Kernel name,Intel,NVIDIA,AMD,ARM,Qualcomm,Imagination Technologies,Broadcom,VeriSilicon
+0,Kernel name,Intel HD/Iris Graphics,GeForce/Quadro/Tesla,Radeon,Mali,Adreno,PowerVR,VideoCore4,Vivante
+1,Linux kernel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Etnaviv
+2,Windows NT kernel,Yes,Yes,Yes,?,Windows RT,?,?,?
+3,XNU,via I/O Kit (macOS only),via I/O Kit (macOS only),via I/O Kit (macOS only),No,No,via I/O Kit (iOS only),No,No

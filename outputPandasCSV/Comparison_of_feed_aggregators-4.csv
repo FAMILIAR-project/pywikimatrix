@@ -1,0 +1,55 @@
+,Client,Pop-up,Tray notification,Browser plugin,E-mail,"""newspaper""-like",Media aggregator,Notes,Downloadable attachments
+0,Akregator,Yes,Yes,Yes (integration with konqueror),Yes,?,Yes,KDE,?
+1,Amarok,?,?,?,?,?,Yes,KDE,?
+2,AOL Explorer,?,?,,?,?,?,Discontinued; Feed support is available in Internet Explorer 7,?
+3,Avant,?,?,,?,?,?,Feed support is available in Internet Explorer 7,?
+4,Awasu,Yes,Yes,,Yes,Yes,Yes,Supports user-written plugins.,Yes
+5,BlogBridge,?,?,?,?,?,?,,?
+6,Canto,?,?,?,?,?,?,Ncurses/console based reader,?
+7,Claws Mail,Yes,Yes,Yes,Yes,?,?,RSSyl plugin needed,?
+8,CommaFeed,?,?,Yes,?,Yes,?,Web browser,?
+9,Cooliris,?,?,Yes,?,?,?,Web browser plugin,?
+10,Feed Viewer,No,No,,No,Yes,Yes,,No
+11,FeedDemon,?,Yes,?,?,Yes,?,Discontinued,?
+12,Feedreader,Yes,No,No,?,Yes,?,,?
+13,Flock,?,?,,?,?,Yes,Discontinued,?
+14,Gnus,Add-on,?,?,Yes,?,?,Emacs-based mail and news client,?
+15,IBM Lotus Notes,?,?,?,?,?,?,Studio Blog Reader is one RSS reader application for IBM Lotus Notes; Notes version 8.x introduced a native RSS reader,?
+16,Internet Explorer,?,?,,?,Yes,?,Feed support is available in Internet Explorer 7,?
+17,iTunes,?,?,?,?,?,Yes,,?
+18,Juice,?,?,?,?,?,Yes,Designed as Podcast aggregator,?
+19,K-Meleon,?,?,?,?,?,?,Web browser,?
+20,Kazehakase,?,?,,?,?,?,Web browser,?
+21,Liferea,Yes,Yes,?,?,?,?,,?
+22,Mail (OS X),?,?,?,Yes,?,?,,?
+23,Maxthon,?,?,,?,?,?,Web browser,?
+24,MediaMonkey,?,?,?,?,?,Yes,Media Player,?
+25,Microsoft Office Outlook,?,?,?,?,?,?,Feed support is available in Microsoft Office Outlook 2007,?
+26,Miro,?,?,?,?,?,Yes,Media Player,?
+27,Mozilla Firefox,Add-on,Add-on,,?,?,?,Web Browser,?
+28,Mozilla Thunderbird,?,Add-on,?,Yes,No,?,Mail Client,?
+29,NetNewsWire,?,?,?,?,?,?,,?
+30,Netscape Browser,?,?,,?,?,?,Discontinued; Web browser,?
+31,Netscape Navigator 9,Yes,?,,?,?,?,Discontinued,?
+32,NewsAccess,?,?,?,?,?,?,,?
+33,NewsBlur,?,?,?,?,?,?,,?
+34,NewsFire,?,?,?,?,?,?,,?
+35,OmniWeb,?,?,?,?,?,?,Part of the OmniWeb browser,?
+36,Opera Mail,Yes,Yes,No,Yes,No,?,,Yes
+37,Pegasus Mail,?,?,?,Yes,?,?,Pegasus Mail can convert RSS feeds to e-mails via free add-ons,?
+38,Rhythmbox,?,?,?,?,?,?,Media Player,?
+39,RSS Bandit,?,?,?,?,?,?,.NET Framework based,?
+40,RSSOwl,Yes,Yes,No,No,Yes,Yes,no longer support for Google Reader synchronization since version 2.2.0,Yes
+41,Safari,?,?,,?,Yes,?,Web Browser,?
+42,Sage,?,?,?,?,Yes,?,a Firefox extension,?
+43,SeaMonkey Mail & Newsgroups,?,?,,Yes,?,?,Part of the SeaMonkey Internet suite,?
+44,Songbird,?,?,?,?,?,Yes,Media Player,?
+45,Shiira,?,?,,?,?,?,Web browser,?
+46,Sleipnir,?,?,,?,?,?,Feed support is available in Internet Explorer 7,?
+47,The Bat!,?,?,?,Yes,No,No,Mail client; rss2mail or rss2pop3 plugin needed for versions prior to 6.4; newer versions support RSS natively,?
+48,The Old Reader,?,?,Yes,?,?,?,,?
+49,Winamp,No,?,No,No,No,Yes,Media Player,?
+50,Windows Live Mail,?,?,?,Yes,?,?,,?
+51,Zimbra,?,?,?,?,?,?,Groupware suite,?
+52,Zune,?,?,?,?,?,Yes,Media player,?
+53,Client,Pop-up,Tray notification,Browser plugin,E-mail,"""newspaper""-like",Media aggregator,Notes,Downloadable attachments

@@ -1,0 +1,12 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto
+0,Called as function,Called as function,Called as function,Called as function,Called as function
+1,Error (message),?,?,?,?
+2,Called as constructor,Called as constructor,Called as constructor,Called as constructor,Called as constructor
+3,new Error (message),5.0,1.0,Yes,1.0
+4,Properties,Properties,Properties,Properties,Properties
+5,prototype,5.0,1.0,Yes,1.0
+6,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype,Properties of prototype
+7,constructor,5.0,1.0,Yes,1.0
+8,name,5.5,1.0,Yes,1.0
+9,message,5.5,1.0,Yes,1.0
+10,toString(),5.0,1.0,Yes,1.0

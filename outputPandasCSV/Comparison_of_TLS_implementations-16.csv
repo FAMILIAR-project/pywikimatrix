@@ -1,0 +1,17 @@
+,Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT,Intel SHA
+0,Botan,Yes[209],Yes,No,Yes,No,No,
+1,cryptlib,Yes,Yes,Yes,No,,No,
+2,Crypto++,,Yes,,,,No,Yes
+3,GnuTLS,Yes,Yes,Yes,Yes[210],No,No,
+4,JSSE,Yes,Yes[211],No,No,,No,
+5,LibreSSL,No,Yes,Yes,No,,No,
+6,MatrixSSL,Yes,Yes,No,Yes,,No,
+7,mbed TLS,Yes,Yes[212],Yes,No,,No,
+8,NSS,Yes[213],Yes[214],No[215],No,,No,
+9,OpenSSL,Yes[216],Yes,Yes,Yes[217],,No,Yes
+10,RSA BSAFE Micro Edition Suite,Yes,Yes,No,Yes,No,No,Yes
+11,RSA BSAFE SSL-J [a][b],Yes,Yes,No,Yes,No,No,Yes
+12,SChannel,No,Yes,No,No,,No,
+13,Secure Transport,No,Yes[220][221],No,Yes,,No,
+14,wolfSSL,No,Yes,No,Yes,Yes,Yes[222],
+15,Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT,Intel SHA

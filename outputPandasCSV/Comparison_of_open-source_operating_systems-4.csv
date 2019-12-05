@@ -1,0 +1,28 @@
+,Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA
+0,Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,FreeBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,OpenBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+3,NetBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,DragonFly BSD,Yes,,Yes,Yes,Yes,Yes,Yes,
+5,"OpenSolaris, illumos",Yes,,Yes,Yes,Yes,Yes,No,No
+6,AuroraUX,Yes,,Yes,Yes,Yes,Yes,No,No
+7,"Darwin, OpenDarwin",Yes,,,,,,,
+8,MINIX,Yes,,Yes,,,,,
+9,FreeDOS,Yes,Yes,Yes,,,,,
+10,Genode,Yes,No,No,Yes,No,Yes,No,No
+11,Haiku,Yes,Yes,Yes,Yes,,Yes,,
+12,KolibriOS,Yes,Yes,Yes,,,,No,Yes
+13,MenuetOS,Yes,Yes,,,,,No,No
+14,GNU,Yes,,,,,,,
+15,ReactOS,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+16,"L4, Fiasco, Pistachio",,,,,,,,
+17,Plan 9,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+18,AROS,Yes,Yes,,,,,,
+19,Syllable,Yes,Yes,Yes,Yes,,,,
+20,Inferno,Yes,Yes,Yes,Yes,,Yes,No,No
+21,FreeRTOS,,,,,,,,
+22,eCos,Yes,,,Yes,,,Yes,
+23,RTEMS,Yes,Yes,Yes,Yes,No,No,No,No
+24,HelenOS,Yes,Yes,Yes,Yes,No,No,No,No
+25,E/OS,Yes,Yes,Yes,Yes,Yes,No[6],No,No
+26,Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA

@@ -1,0 +1,37 @@
+,Client,386BSD,"BSD/OS (BSD/386, BSDI)","FreeBSD, NetBSD, OpenBSD",SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
+0,Bersirc,?,?,?,?,?,?,?,?,?,?,?,?,Yes,?,No,?,?,?
+1,BitchX,?,Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],?,Yes[Note 1],Yes[Note 1],?,Yes[Note 1],Yes,Yes[Note 1],Yes,?,Yes[Note 1],Yes[Note 1],?
+2,ChatZilla,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+3,Colloquy,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+4,degesch,?,?,Yes,?,?,?,?,?,?,?,?,?,Yes,?,?,?,?,?
+5,DMDIrc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,ERC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,HexChat,?,?,Yes,Yes,?,Yes,?,Yes,Yes,?,Yes,?,Yes,?,?,?,?,Yes
+8,HydraIRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+9,IceChat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10,IRCCloud,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11,ircII,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,Yes
+12,IRCjr,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+13,Ircle,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+14,Irssi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+15,KiwiIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+16,Konversation,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,Yes
+17,KVIrc,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+18,LeafChat,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+19,LimeChat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+20,Linkinus,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+21,Mibbit,?,?,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,Yes
+22,mIRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+23,Nettalk,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+24,Opera,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Dropped,No
+25,PIRCH,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+26,PJIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+27,Quassel,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+28,qwebirc,?,?,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,Yes
+29,rcirc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+30,Smuxi,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+31,Snak,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+32,Visual IRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+33,WeeChat,?,?,Yes[Note 2],?,?,?,?,Yes,Partial[Note 3],?,Yes[Note 2],?,Yes,?,?,?,Yes[Note 2],?
+34,XChat,?,?,Yes,Yes,?,Yes,?,Yes[Note 4],Yes,?,Yes,?,Yes,?,?,?,?,Yes
+35,Client,386BSD,"BSD/OS (BSD/386, BSDI)","FreeBSD, NetBSD, OpenBSD",SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX

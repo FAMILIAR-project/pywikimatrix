@@ -1,0 +1,32 @@
+,Unnamed: 0,Trident,Gecko,WebKit,Presto[p 32]
+0,Error state,Error state,Error state,Error state,Error state
+1,MediaError,5.0 [t 43],1.9.1,?,2.5
+2,Network state,Network state,Network state,Network state,Network state
+3,src,5.0[t 1],1.9.1,?,2.5
+4,currentSrc,5.0[t 1],1.9.1,?,2.5
+5,networkState,5.0[t 1],1.9.1,?,2.5
+6,preload,5.0[t 1],2.0[note 11][g 90],?,No
+7,buffered,5.0[t 1],2.0[g 95],?,No
+8,load(),5.0[t 1],1.9.1,?,2.5
+9,canPlayType(),5.0[t 1],1.9.1,533[w 72],2.5
+10,Ready state,Ready state,Ready state,Ready state,Ready state
+11,readyState,5.0[t 1],1.9.1,?,2.5
+12,seeking,5.0[t 1],1.9.1,?,2.5
+13,Playback state,Playback state,Playback state,Playback state,Playback state
+14,currentTime,5.0[t 1],1.9.1,?,2.5
+15,startTime,5.0[t 1],No,?,2.5
+16,duration,5.0[t 1],1.9.1,?,2.5
+17,paused,5.0[t 1],1.9.1,?,2.5
+18,defaultPlaybackRate,5.0[t 1],20.0[g 96],?,No
+19,playbackRate,5.0[t 1],20.0[g 96],?,No
+20,played,5.0[t 1],15.0[g 97],?,No
+21,seekable,5.0[t 1],8.0[g 98],?,No
+22,ended,5.0[t 1],1.9.1,?,2.5
+23,autoplay,5.0[t 1],1.9.1,?,2.5
+24,loop,5.0[t 1],11.0[g 91],?,2.5
+25,play(),5.0[t 1],1.9.1,?,2.5
+26,pause(),5.0[t 1],1.9.1,?,2.5
+27,Controls,Controls,Controls,Controls,Controls
+28,controls,5.0[t 1],1.9.1,?,2.5
+29,volume,5.0[t 1],1.9.1,?,2.5
+30,muted,5.0[t 1],1.9.1,?,2.5

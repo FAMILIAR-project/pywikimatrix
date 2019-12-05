@@ -1,0 +1,13 @@
+,ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other
+0,ADCH++,Yes,Yes,"Lua, Python, Ruby",Tiger tree hash,Yes,"TIGR, PING, ADCS",
+1,ADCH++ GUI,Yes,No,Python,Tiger tree hash,Yes,"TIGR, PING, ADCS",
+2,DSHub,Yes,No,"Java, Python",Tiger tree hash,No,"TIGR, PING, ADCS",
+3,FLexHub,Linux only,No,No,Tiger tree hash,No,"TIGR, PING, ADCS",
+4,Luadch,Yes,Yes,Lua,Tiger tree hash,No,"TIGR, PING, ADCS, KEYP, ASCH, SUDP, OSNR",
+5,Nexthub,Yes,No,C#,Tiger tree hash,No,"TIGR, ADCS",
+6,uhub,Yes,Yes,C,Tiger tree hash,No,"TIGR, PING, ADCS",
+7,Qhub,?,?,?,Tiger tree hash,No,TIGR,
+8,Starlet ADC Hub,No,No,No,Tiger tree hash,No,TIGR,
+9,Starhub,?,?,?,Tiger tree hash,No,TIGR,
+10,RusHub,No,?,No,Tiger tree hash,No,TIGR,
+11,ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other

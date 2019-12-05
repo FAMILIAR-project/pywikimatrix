@@ -1,0 +1,60 @@
+,Client,Author/Developer,Operating system,Software license,User Interface
+0,Alpine,University of Washington,Cross-platform,Apache License 2.0,TUI
+1,Apple Mail,Apple,"macOS, iOS, watchOS",Proprietary,GUI (Cocoa)
+2,Balsa,Stuart Parmenter,Linux,GNU General Public License,GUI (GTK+)
+3,Becky! Internet Mail,Rimarts,Windows,Proprietary,GUI
+4,BlitzMail,Dartmouth College,,BSD licenses,GUI
+5,Citadel,citadel.org,Unix-like,GNU General Public License,Webmail
+6,Claws Mail,the Claws Mail team,Cross-platform,GNU General Public License,GUI (GTK+)
+7,Cone,Courier Mail Server developers,Unix-like,GNU General Public License,TUI
+8,Courier (formerly Calypso),"Micro Computer Systems, Inc., continued by Rose City Software",Windows,Proprietary,GUI
+9,Elm,"Dave D. Taylor, Sydney Weinstein, Bill Pemberton, Michael Elkins, Kari Hurtta",Unix-like,Free[1],TUI
+10,eM Client,eM Client Inc.,Windows,Proprietary,GUI
+11,EmailTray,Internet Promotion Agency S.A.,"Windows, Android",Proprietary,GUI
+12,Eudora OSE,Qualcomm,"Windows, macOS",Free,GUI
+13,Eureka Email,Sean O'Connor,Windows,Proprietary,GUI
+14,Evolution,The GNOME Project,Unix-like,GNU General Public License,GUI (GTK+)
+15,FirstClass,Open Text,,Proprietary,GUI
+16,Forté Agent,Mark Sidell,Windows,Proprietary,GUI
+17,Geary,Yorba Foundation,Unix-like,GNU LGPL v2.1,GUI (GTK+)
+18,GNUMail,Ludovic Marcotte and others,"Unix-like, macOS",GNU General Public License,GUI
+19,Gnus,Gnus team,Cross-platform,GNU General Public License,TUI and GUI
+20,GroupWise,Micro Focus (formerly Novell),Cross-platform,Proprietary,GUI
+21,Hiri,Hiri,Cross-platform,Proprietary,GUI
+22,"i.Scribe, InScribe",Memecode,"Windows, macOS, Linux",Proprietary,GUI
+23,IBM Notes (formerly IBM Lotus Notes),"IBM Collaboration Solutions (formerly Lotus Software), IBM","Windows, macOS, Linux",Proprietary,"GUI (Notes), Web (iNotes) and Mobile (Traveler)"
+24,IMP,Horde LLC,Cross-platform,GNU General Public License,Webmail
+25,K-9 Mail,"K-9 Dog Walkers: cketti, et al.",Android,Apache License 2.0,GUI
+26,KMail,KDE,Cross-platform,GNU General Public License,GUI (Qt)
+27,Mailbird,Mailbird,Windows,Proprietary,GUI
+28,Mailpile,Mailpile,"Linux, Windows, macOS",Affero General Public License and Apache License 2.0,Webmail
+29,mailx,?,Unix-like,BSD Licenses,TUI
+30,Microsoft Entourage,Microsoft,macOS,Proprietary,GUI
+31,Microsoft Outlook,Microsoft,"Windows, macOS",Proprietary,GUI
+32,Mozilla Mail & Newsgroups,Mozilla Foundation,,Mozilla Public License,GUI (XUL)
+33,Mozilla Thunderbird,Mozilla Foundation,Cross-platform,Mozilla Public License,GUI (XUL)
+34,Mulberry,"Cyrus Daboo (formerly Cyrusoft International, Inc./ISAMET)",Cross-platform,Apache License 2.0,GUI
+35,Mutt,Michael Elkins,Cross-platform,GNU General Public License,TUI (ncurses)
+36,Netscape Messenger,Netscape Communications,,?,GUI
+37,Netscape Messenger 9,Netscape Communications,,Mozilla Public License,GUI
+38,Nylas Mail,Nylas,"macOS, Linux, Windows",MIT,GUI
+39,nmh / MH,RAND Corporation,Unix-like,BSD Licenses,CLI
+40,Opera Mail,Opera Software,Cross-platform,Proprietary,GUI
+41,Outlook Express,Microsoft,Windows,Proprietary,GUI
+42,Pegasus Mail,David Harris,Windows,Proprietary,GUI
+43,Pine,University of Washington,Cross-platform,Free[2],TUI
+44,Pocomail,Poco Systems,Windows,Proprietary,GUI
+45,RoundCube,The RoundCube Team,Cross-platform,GNU General Public License,Webmail
+46,SeaMonkey Mail & Newsgroups,SeaMonkey Council,Cross-platform,Mozilla Public License,GUI (XUL)
+47,Spark,Readdle,macOS,Proprietary,GUI
+48,Spicebird,Synovel,"Windows, Linux, BSD",Mozilla Public License,GUI (XUL)
+49,SquirrelMail,The SquirrelMail Project Team,Cross-platform,GNU General Public License,Webmail
+50,Sylpheed,Hiroyuki Yamamoto,Cross-platform,GNU General Public License,GUI (GTK+)
+51,The Bat!,RitLabs,Windows,Proprietary,GUI
+52,Trojitá,KDE,Cross-platform,GNU General Public License,GUI (Qt)
+53,Turnpike,Thus PLC (Demon Internet),Windows,Proprietary,GUI
+54,Windows Live Mail,Microsoft,Windows,Proprietary,GUI
+55,Windows Mail,Microsoft,Windows,Proprietary,GUI
+56,YAM,YAM Open Source Team and contributing authors,AmigaOS,GNU General Public License,GUI
+57,Zimbra Desktop,Zimbra,Cross-platform,Mozilla Public License for server and ZPL for client,GUI
+58,Client,Author/Developer,Operating system,Software license,User interface

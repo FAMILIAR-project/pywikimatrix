@@ -1,0 +1,17 @@
+,OLAP server,XML for Analysis,OLE DB for OLAP,MDX,Stored procedures,Custom functions,SQL,LINQ[17],Visualization,JSON,REST API
+0,Apache Kylin,No,No,No,No,Yes,Yes,,"Superset, Zeppelin, Tableau, Qlik, Redash",Yes,Yes
+1,Druid,No,No,No,No,Yes,Druid SQL,No,"Superset, Pivot, Redash",Yes,Yes
+2,Apache Pinot (Incubating),No,No,No,No,Yes,Pinot SQL,No,Superset,Yes,Yes
+3,Essbase,Yes,Yes,Yes,Yes,Yes,No,Yes,"SmartView (Excel-AddIn), WebAnalysis, Financial Reports",?,?
+4,IBM Cognos TM1,Yes,Yes,Yes,Yes,Yes,No,Yes,"TM1 Web/TM1 Contributor, IBM Cognos Insight, IBM Performance Modeler, IBM Cognos Cafe for Excel, Cognos BI, TM1 Perspectives for Excel",Yes,Yes
+5,icCube,Yes,Yes,Yes,"Java,[18] R[19]",Yes,In the reporting,Yes,"icCube reporting and all XMLA compliant visualization tools like Excel, etc",Yes,Yes
+6,Infor BI OLAP Server,Yes,Yes,Yes,"OLAP Rules, Push Rules, Application Engine",Yes,Yes,No,Application Studio,?,?
+7,Jedox OLAP Server,Yes,Yes,Yes,"Cube Rules, SVS Triggers",Yes,No,Yes,"Microsoft Excel, Qlik, Tableau, Jedox Web, Power BI",No,Yes
+8,Kyligence,No,No,Yes,No,Yes,Yes,,"IBM Cgonos, Business Objects, OBIEE, MicroStrategy, Microsoft Excel, Microsoft Power BI, Qlik, Superset,Tableau",Yes,Yes
+9,Kyvos,Yes,Yes,Yes,No,Yes,Yes,No,"Kyvos Insights, Microsoft Excel, Qlik, Tableau, Power BI, MicroStrategy, IBM Cognos, Business Objects",Yes,Yes
+10,Microsoft Analysis Services,Yes,Yes,Yes,.NET[20],Yes[21],Yes[22],Yes,"Microsoft Excel, SharePoint, Microsoft Power BI, and 70+ other visualization tools",No,No
+11,MicroStrategy Intelligence Server,Yes,No,Yes,Yes,Yes,Yes,Yes,"Dossier, Dashboard, Reports",Yes,Yes
+12,Mondrian OLAP server,Yes,Yes[23],Yes,Yes,Yes[24],Yes,Yes,Yes [25],?,?
+13,Oracle Database OLAP Option,No,Yes[26],Yes[26],"Java, PL/SQL, OLAP DML",Yes,Yes[27],No,?,?,?
+14,SAP NetWeaver BW,Yes,Yes,Yes,No,Yes,No,Yes,?,?,?
+15,SAS OLAP Server,Yes,Yes,Yes,No,No,No,Yes,Web Report Studio,?,?

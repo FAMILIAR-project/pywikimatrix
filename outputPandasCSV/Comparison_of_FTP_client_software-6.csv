@@ -1,0 +1,48 @@
+,Client,Windows,macOS,Linux,BSD,Unix,AmigaOS,ChromeOS
+0,AbsoluteTelnet,Yes,No,No,No,No,No,No
+1,ALFTP,Yes,No,No,No,No,No,No
+2,Beyond Compare,Yes,Yes,Yes,No,No,No,No
+3,Classic FTP,Yes,Yes,No,No,No,No,No
+4,Codeanywhere (webbased),Yes,Yes,Yes,Yes,Yes,Yes,No
+5,Commander One,No,Yes,No,No,No,No,No
+6,CoreFTP,Yes,No,No,No,No,No,No
+7,CrossFTP,Yes,Yes,Yes,Yes,Yes,Yes,No
+8,cURL (CL),Yes,Yes,Yes,Yes,Yes,Yes,No
+9,CuteFTP,Yes,Yes,No,No,No,No,No
+10,Cyberduck,Yes,Yes,No,No,No,No,No
+11,Directory Opus,Yes,No,No,No,No,Yes,No
+12,ExpanDrive,Yes,Yes,No,No,No,No,No
+13,FAR Manager,Yes,No,No,No,No,No,No
+14,Fetch,No,Yes,No,No,No,No,No
+15,FileZilla,Yes,Yes,Yes,Yes,Yes,No,No
+16,FireFTP,Yes,Yes,Yes,Yes,Yes,No,No
+17,FlashFXP,Yes,No,No,No,No,No,No
+18,Fling FTP,Yes,No,No,No,No,No,No
+19,ForkLift,No,Yes,No,No,No,No,No
+20,FTP Client,No,Yes,No,No,No,No,No
+21,FTP Commander,Yes,No,No,No,No,No,No
+22,FTP Explorer,Yes,No,No,No,No,No,No
+23,FTP Voyager,Yes,No,No,No,No,No,No
+24,Fugu,No,Yes,No,No,No,No,No
+25,gFTP,No,Yes,Yes,Yes,Yes,No,No
+26,Interarchy,No,Yes,No,No,No,No,No
+27,LeechFTP,Yes,No,No,No,No,No,No
+28,lftp (CL),Yes (cygwin),Yes,Yes,Yes,Yes,No,No
+29,Macfusion,No,Yes,No,No,No,No,No
+30,Mosaic,Yes,Yes,No,No,Yes,Yes,No
+31,NcFTP (CL),Yes,Yes,Yes,Yes,Yes,Yes,No
+32,net2ftp (web-based),Yes,Yes,Yes,Yes,Yes,Yes,No
+33,pbFtpClient,Yes,No,No,No,No,Yes,No
+34,PSFTP (PuTTY) (CL),Yes,No,Yes,Yes,Yes,No,No
+35,Secure FTP,Yes,Yes,Yes,Yes,Yes,Yes,No
+36,SmartFTP,Yes,No,No,No,No,No,No
+37,Steed,Yes,No,No,No,No,No,No
+38,Sysax FTP Automation,Yes,No,No,No,No,No,No
+39,Total Commander,Yes,No,No,No,No,No,No
+40,Transmit,No,Yes,No,No,No,No,No
+41,WebDrive,Yes,Yes,No,No,No,No,No
+42,WinSCP,Yes,No,No,No,No,No,No
+43,WISE-FTP,Yes,No,No,No,No,No,No
+44,WS_FTP,Yes,No,No,No,No,No,No
+45,Yummy FTP,No,Yes,No,No,No,No,No
+46,Client,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,ChromeOS

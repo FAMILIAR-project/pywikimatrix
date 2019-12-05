@@ -1,0 +1,12 @@
+,Model,Codename,Released,Fab (nm),SATA,USB2.0 + 1.1,Parallel ATA1,RAID,NIC,WNIC,Package,TDP (W),Features / Notes
+0,AMD 480/570/580/690CrossFire Chipset,SB600,2006,130,4 × 3 Gbit/sAHCI 1.1 SATA Revision 2.0,10 + 0,1 × ATA/133,0110,No,No,548-pinFC-BGA,4.0,
+1,AMD 700 chipset series,SB700,Q1 2008,130,6 × 3 Gbit/sAHCI 1.1 SATA Revision 2.0,12 + 2,1 × ATA/133,0110,No,No,548-pinFC-BGA,4.5,DASH 1.0
+2,AMD 700 chipset series,SB700S,Q1 2008,130,6 × 3 Gbit/sAHCI 1.1 SATA Revision 2.0,12 + 2,1 × ATA/133,0110,No,No,548-pinFC-BGA,4.5,DASH 1.0Server southbridge
+3,AMD 700 chipset series,SB710,Q4 2008,130,6 × 3 Gbit/sAHCI 1.1 SATA Revision 2.0,12 + 2,1 × ATA/133,0110,No,No,548-pinFC-BGA,4.5,DASH 1.0
+4,AMD 700 chipset series,SB750,Q4 2008,130,6 × 3 Gbit/sAHCI 1.1 SATA Revision 2.0,12 + 2,1 × ATA/133,01510,No,No,548-pinFC-BGA,4.5,DASH 1.0
+5,AMD 800chipset series,SB810,Q1 2010,65,6 × 3 Gbit/sAHCI 1.2 SATA Revision 2.0,14 + 2,No,0110,10/100/1000,No,605-pinFC-BGA,6.0,
+6,AMD 800chipset series,SB850,Q1 2010,65,6 × 6 Gbit/sAHCI 1.2 SATA Revision 3.0,14 + 2,No,01510,10/100/1000,No,605-pinFC-BGA,6.0,
+7,AMD 800chipset series,SB820M,,65,6 × 6 Gbit/sAHCI 1.2 SATA Revision 3.0,14 + 2,No,01,10/100/1000,No,605-pinFC-BGA,3.4 - 5.3,mobile/embedded
+8,AMD 900chipset series,SB920,"May 30, 2011",65,6 × 6 Gbit/sAHCI 1.2 SATA Revision 3.0,14 + 2,No,0110,10/100/1000,No,605-pinFC-BGA,6.0,
+9,AMD 900chipset series,SB950,"May 30, 2011",65,6 × 6 Gbit/sAHCI 1.2 SATA Revision 3.0,14 + 2,No,01510,10/100/1000,No,605-pinFC-BGA,6.0,
+10,Model,Codename,Released,Fab (nm),SATA,USB2.0 + 1.1,Parallel ATA1,RAID,NIC,WNIC,Package,TDP (W),Features / Notes

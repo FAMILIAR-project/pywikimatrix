@@ -1,0 +1,47 @@
+,Client,IMSP,ACAP,RSS 0.91 Feeds,RSS 1.0 Feeds,RSS 2.0 Feeds,ATOM Feeds,iCalendar,MAPI/RPC,CalDAV,CardDAV
+0,Alpine,?,?,?,?,?,?,?,?,?,?
+1,Apple Mail,?,?,?,?,?,?,Yes,?,Yes,Yes
+2,Becky! Internet Mail,?,?,Yes [Note 9],Yes [Note 9],Yes [Note 9],Yes [Note 9],?,?,?,?
+3,Citadel,?,?,?,?,?,?,?,?,?,?
+4,Claws Mail,?,?,No,Yes [Note 10],Yes [Note 10],Yes [Note 10],Yes [Note 11],?,?,?
+5,Cone,No,No,No,No,No,No,No,?,?,?
+6,Courier,No,No,No,No,No,No,No,?,?,?
+7,Elm,?,?,?,?,?,?,?,?,?,?
+8,eM Client,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+9,EmailTray,No,No,No,No,No,No,No,No,?,?
+10,Eudora,No,Yes,No,No,No,No,No,?,?,?
+11,Eureka Email,?,?,?,?,?,?,?,?,?,?
+12,Evolution,No,No,No [Note 12],No [Note 12],No [Note 12],No,Yes,Yes,Yes,Yes
+13,Gnus,?,?,Yes,Yes,Yes,No,?,?,?,?
+14,GroupWise,?,No,?,?,?,?,Yes,?,?,?
+15,Hiri,No,No,No,No,No,No,No,No,No,No
+16,i.Scribe / InScribe,No,No,No,No,No,No,No,Yes,?,?
+17,IBM Lotus Notes,No,No,Yes [Note 13],Yes,Yes,Yes,Yes,?,?,?
+18,KMail,?,?,Yes [Note 14],Yes [Note 14],Yes [Note 14],Yes [Note 14],Yes [Note 15],?,Yes,Yes
+19,Mailpile,?,?,?,?,?,?,?,?,?,?
+20,Microsoft Entourage,?,?,?,?,?,?,Yes,?,?,?
+21,Microsoft Office Outlook,?,?,Yes [Note 16],Yes [Note 16],Yes [Note 16],Yes [Note 16],Yes [Note 17],Yes,No,No
+22,Mozilla Mail & Newsgroups,?,?,?,?,?,?,?,?,?,?
+23,Mozilla Thunderbird,No,No,Yes,Yes,Yes,Yes,Yes [Note 18],Yes [Note 19],Yes,Yes
+24,Mulberry,Yes,Yes,No,No,No,No,Yes,?,Yes,?
+25,Mutt,?,?,No,No,No,No,No,?,?,?
+26,Netscape Messenger,?,?,?,?,?,?,?,?,?,?
+27,Netscape Messenger 9,?,?,?,?,?,?,?,?,?,?
+28,nmh / MH,?,?,?,?,?,?,?,?,?,?
+29,Opera Mail,?,?,Yes,Yes,Yes,Yes,No,?,No,No
+30,Outlook Express,?,?,No,No,No,No,No,?,No,No
+31,Pegasus Mail,?,?,Yes [Note 5],Yes [Note 5],Yes [Note 5],?,?,?,?,?
+32,Pine,No,No,No,No,No,No,No,?,?,?
+33,Pocomail,No,No,Yes,Yes,Yes,No,No,?,?,?
+34,SeaMonkey Mail & Newsgroups,No,No,Yes,Yes,Yes,Yes,Yes [Note 18],?,?,?
+35,Spicebird,No,No,Yes,Yes,Yes,Yes,Yes [Note 18],No,?,?
+36,SquirrelMail,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?
+37,Sylpheed,No,No,No,No,No,No,No,No,?,?
+38,The Bat!,No,No,Yes [Note 20],Yes [Note 20],Yes [Note 20],Yes [Note 20],No,Yes,?,Yes
+39,Trojitá,No,No,No,No,No,No,No,No,?,?
+40,Turnpike,?,?,?,?,?,?,?,?,?,?
+41,Windows Live Mail,?,?,Yes,Yes,Yes,Yes,No,?,?,?
+42,Windows Mail,?,?,?,?,?,?,?,?,?,?
+43,YAM,No,No,No,No,No,No,No,?,?,?
+44,Zimbra,?,?,Yes,Yes,Yes,Yes,Yes,?,?,?
+45,Client,IMSP,ACAP,RSS 0.91 Feeds,RSS 1.0 Feeds,RSS 2.0 Feeds,ATOM Feeds,iCalendar,MAPI/RPC,CalDAV,CardDAV

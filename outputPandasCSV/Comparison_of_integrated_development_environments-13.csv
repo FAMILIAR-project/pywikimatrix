@@ -1,0 +1,5 @@
+,IDE,License,Written in Java only,Windows,Linux,macOS,Other platforms,GUI builder
+0,Eclipse JDT,EPL,No,Yes,Yes,Yes,"FreeBSD, JVM, Solaris",No
+1,IntelliJ IDEA,"ASLv2, proprietary",Yes,Yes,Yes,Yes,"FreeBSD, OpenBSD, Solaris",No
+2,NetBeans,"CDDL, GPL2",Yes,Yes,Yes,Yes,"OpenBSD, Solaris",Yes
+3,SlickEdit,Proprietary,No,Yes,Yes,Yes,"Solaris, Solaris SPARC, AIX, HP-UX",No

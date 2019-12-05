@@ -1,0 +1,21 @@
+,Unnamed: 0,Visual query builder,Visual schema/model/E-R diagram design,Reverse engineering,Forward engineering,ER diagram groupboxes
+0,Adminer,Yes,Yes,Yes,No,No
+1,Altova DatabaseSpy,Yes,Yes,Yes,Yes,?
+2,Database Deployment Manager,Yes,Yes,Yes,No,No
+3,Database Workbench,Yes,Yes,Yes,?,Yes
+4,DBeaver,No,Yes,Yes,No,?
+5,DBEdit,No,No,No,No,No
+6,ModelRight,No,Yes,Yes,Yes,Yes
+7,Navicat,Yes,Yes,Yes,Yes,Yes
+8,Navicat Data Modeler,Yes,Yes,Yes,Yes,Yes
+9,MySQL Workbench,Yes,Yes,Yes,Yes,Yes
+10,Oracle SQL Developer,Yes,Yes,Yes,Yes,?
+11,Orbada,No,No,No,No,No
+12,pgAdmin III,Yes,No,No,No,No
+13,phpMyAdmin,Yes,Yes,Yes,No,No
+14,SQL Database Studio,Yes,Yes,Yes,Yes,No
+15,SQL Server Management Studio,?,Yes,Yes,?,?
+16,SQLyog,Yes[18],Yes[19],Yes,Yes,?
+17,SQuirreL SQL,Yes,Yes,Yes[note 3],?,No
+18,Toad,Yes,Yes,Yes,Yes,?
+19,Toad Data Modeler,No,Yes,Yes,Yes[note 4],?

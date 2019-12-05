@@ -1,0 +1,25 @@
+,Name,H.264,ASF,WMV,DivX / Xvid,MPEG-4,AVI,QuickTime,Other formats
+0,Archos 105,No,No,Yes,No,No,No,No,No
+1,Archos 405,No[90],No,Yes,No,Yes,Yes,No[90],MPEG-2[90]
+2,Archos 5,No[90],No,Yes,Yes,Yes,Yes,No[90],"MPEG-2,[90] MKV"
+3,Archos 605 WiFi / GPS,No[90],No,Yes,Yes,Yes,Yes,No[90],MPEG-2[90]
+4,Archos 705 WiFi,No[90],No,Yes,Yes,Yes,Yes,No[90],MPEG-2[90]
+5,Cowon A3,Yes,Yes,Yes,Yes,Yes,Yes,No,"MKV, MTV, OGM, VOB, DAT, AMV, MJPEG, MPEG-1"
+6,Cowon D2,No,No,Yes,No[95],No,Yes,No,No
+7,Cowon Q5W,No,Yes,Yes,Yes,Yes,Yes,No,OGM
+8,Gigabeat T-Series,No,Yes,Yes,No[96],No[96],No[96],No[96],No
+9,GP2X F-200,No,No,No[91],Yes,Yes,Yes,No,No
+10,iPod (before Nano 6G; iPod 6G does),Yes,No,No,with plugin,Yes,with plugin,Yes,No
+11,iriver clix 2G,No,Yes,Yes,Yes,Yes,Yes,No,No
+12,PSP Slim & Lite,Yes,No,No,No,Yes,No,No,MJPEG
+13,Rio PMP300,No,No,No,No,Yes,No,No,No
+14,Samsung Galaxy Player,Yes,Yes,Yes,Yes,Yes,Yes,No,MKV
+15,Samsung T10,No,No,Yes,.svi only,Yes,No,No,No
+16,Samsung P2,No,No,Yes,.svi only,Yes,No,No,No
+17,Sansa Fuze,No,No,No,No,No,Yes,No,No
+18,Sansa Fuze+,Yes[97],No,Yes,No,No,No,No,MPEG-4 Part 14
+19,Walkman NWZ-A810 series,Yes,No,No,No,Yes,No,No,No
+20,ZEN,No[96],No,Yes,Yes,No[96],Yes,No,MJPEG
+21,ZEN Vision W,No[96],No,Yes,Yes,No[96],Yes,No,MJPEG
+22,Zune,Yes,No,Yes,Yes,Yes,Yes,No,DVR-MS[96]
+23,ZVUE 260,No,Yes,Yes,Xvid only,Yes,Yes,No,No

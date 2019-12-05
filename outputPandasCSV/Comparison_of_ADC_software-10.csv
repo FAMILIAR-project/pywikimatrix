@@ -1,0 +1,12 @@
+,Other software,Windows,Linux,OS X,Other
+0,ADCCore,Yes,?,?,Any .NET4 enabled platform
+1,DCBouncer,Yes,Yes,No,No
+2,DC-Hublink,Yes,No,No,No
+3,DCWatch,Yes,Yes,No,No
+4,Embla,Yes,Yes,Yes,Any Java enabled platform
+5,FlowLib,Yes,Yes,Yes,Any C# enabled platform
+6,NetChatLink,Yes,No,No,Runs under Wine
+7,Announcer Bot,Yes,No,No,No
+8,Certmanager,Yes,No,No,No
+9,SerieBot,Yes,Yes,Yes,Any C# enabled platform
+10,Other software,Windows,Linux,OS X,Other

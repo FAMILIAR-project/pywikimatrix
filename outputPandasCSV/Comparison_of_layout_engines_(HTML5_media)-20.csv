@@ -1,0 +1,30 @@
+,Unnamed: 0,Trident,EdgeHTML,Gecko,WebKit,Presto
+0,section,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+1,nav,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+2,article,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+3,aside,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+4,hgroup,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+5,header,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+6,footer,5.0[t 1],12,2.0[g 1][g 2],533[w 1][w 2][w 3][w 4][w 5][w 6],2.7.70
+7,ping,No,No,Disabled,Yes,No
+8,time,No,No,22.0[g 3],No,2.8.146
+9,mark,5.0[t 1],12,2.0[g 4],Yes[w 7],2.7.70
+10,"ruby,[19] rt, rp",3.1[t 2],12,38.0[g 5],533[w 8][w 9],No
+11,dialog[20],No,No,No[g 6],Only in Chrome[w 10],No
+12,figure,5.0[t 1],12,2.0[g 7],Yes[w 11],2.7.70
+13,figcaption,5.0[t 1],12,2.0[g 7],Yes[w 11],2.7.70
+14,embed,<3.1[IE 3.0],12,1.7,85,1.0
+15,video,5.0 (Partial)[t 3][t 4],12,15.0[g 8],525,2.5[a][b]
+16,audio,5.0 (Partial)[t 3][t 4],12,15.0[g 8],525,2.5[a][b]
+17,source,5.0 (Partial)[t 3][t 4],12,15.0[g 8],525,2.5[a][b]
+18,canvas,5.0 (Partial)[t 3][t 4],Partial,1.9.2[g 9],Partial,2.0[p 4]
+19,Inline MathML,No,No,2.0,No[w 12][w 13],2.1[c]
+20,Inline SVG,5.0[t 3],12,2.0,Yes[w 14],2.9.220[p 6]
+21,details,No,No,47[g 10],Yes[w 15],No
+22,summary,No,No,47[g 10],Yes[w 15],No
+23,command,No,No,No[g 11],No,No
+24,menu,No,No,8.0[g 12],No[w 16],2.8[p 7]
+25,bdi,No,No,10.0[g 13],528[w 17],No
+26,data,No,No,22.0[g 14],No,No
+27,picture,No,13,38.0[g 15],No[w 18],No
+28,,Trident,EdgeHTML,Gecko,WebKit,Presto

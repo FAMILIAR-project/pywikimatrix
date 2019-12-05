@@ -1,0 +1,39 @@
+,Client,"Windows 7, Vista","XP, 2000",NT 4.0,NT 3.x,"Me, 98",95,3.1x,ReactOS,macOS (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),"BeOS, Haiku","OS/2, eCS",AmigaOS (68k),"AmigaOS 4, MorphOS (PPC)",DOS
+0,Bersirc,Yes,Yes,?,No,?,?,No,?,?,No,No,No,No,No,No,No,No
+1,BitchX,Yes[Note 1],Yes[Note 1],Yes[Note 1],No,Yes[Note 1],Yes[Note 1],No,?,Yes,No,No,No,?,Yes,Yes,Yes,No
+2,ChatZilla,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No
+3,Colloquy,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+4,degesch,No,No,No,No,No,No,No,No,?,No,No,No,No,No,No,No,No
+5,ERC,Yes,Yes,?,No,?,?,No,?,Yes,No,No,No,No,No,?,?,?
+6,HexChat,Yes,Dropped (2.9.5),No,No,No,No,No,No,No,No,No,No,?,No,No,No,No
+7,HydraIRC,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+8,IceChat,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+9,IRCCloud,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+10,ircII,Yes[Note 1],Yes[Note 1],Yes[Note 1],No,Yes[Note 1],Yes[Note 1],No,?,Yes,No,No,No,No,No,No,?,No
+11,IRCjr,No,Yes[Note 2],Yes[Note 2],No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+12,Ircle,No,No,No,No,No,No,No,No,Yes[Note 3],Yes,Yes,Yes,No,No,No,No,No
+13,Irssi,Yes,Yes,Yes,No,Yes,Yes,No,?,Yes,No,No,No,Yes,Yes,?,Yes,No
+14,jIRCii,Yes,Yes,Yes,?,Yes,Yes,No,?,Yes,Yes,Yes,?,Yes,Yes,?,Yes,No
+15,KiwiIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+16,Konversation,Partial,Partial,Partial,No,Partial,Partial,No,?,Partial,No,No,No,No,No,No,No,No
+17,KVIrc,Yes,Yes,Yes,No,Yes,No,No,Yes[47],Yes,Yes,No,No,No,Yes[48],No,No,No
+18,LeafChat,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+19,LimeChat,No,No,No,No,No,No,No,No,Yes[Note 4],No,No,No,No,No,No,No,No
+20,Linkinus,No,No,No,No,No,No,No,No,Yes[Note 3],No,No,No,No,No,No,No,No
+21,Mibbit,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+22,mIRC,Yes,Yes,Yes,Partial,Yes,Yes,Partial,?,No,No,No,No,No,No,No,No,No
+23,Nettalk,Yes,Yes,?,No,Partial[Note 5],No,No,?,No,No,No,No,No,No,No,No,No
+24,Opera,Yes,Yes,Dropped (10.10),No,Dropped,Dropped,Dropped,No[50],Dropped[51],Dropped,Dropped,No,Dropped,Dropped,No,No,No
+25,PIRCH,Yes,Yes,Yes,?,Yes,Yes,Yes,?,No,No,No,No,No,No,No,No,No
+26,PJIRC,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+27,Quassel,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+28,qwebirc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+29,rIRC,Yes,Yes,Yes,?,?,?,?,?,No,No,No,No,No,No,No,No,No
+30,rcirc,Yes,Yes,?,?,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+31,Scrollback,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+32,Smuxi,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+33,Snak,No,No,No,No,No,No,No,No,Yes,Yes,Yes,?,No,No,No,No,No
+34,Visual IRC,Yes,Yes,Yes,No,Yes,Yes,No,?,No,No,No,No,No,No,No,No,No
+35,WeeChat,Partial[Note 1],Partial[Note 1],Partial[Note 1],No,Partial[Note 1],Partial[Note 1],No,?,Yes,No,No,No,Partial,No,No,No,No
+36,XChat,Yes,Yes,Yes,?,Yes,Yes,No,?,Yes,No,No,No,?,?,No,No,No
+37,Client,"Windows 7, Vista","XP, 2000",NT 4.0,NT 3.x,"Me, 98",95,3.1x,ReactOS,OS X (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),"BeOS, Haiku","OS/2, eCS",AmigaOS (68k),"AmigaOS 4, MorphOS (PPC)",DOS

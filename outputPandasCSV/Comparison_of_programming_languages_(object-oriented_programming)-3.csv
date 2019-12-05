@@ -1,0 +1,25 @@
+,Unnamed: 0,constructor,destructor,finalizer[12]
+0,ABAP Objects,methods constructor «importing parameter = argument»method constructor. instructions endmethod.[13],,
+1,C++ (STL),class(«parameters») «: initializers[14]» { instructions },~class() { instructions },
+2,C#,class(«parameters») { instructions },void Dispose(){ instructions },~class() { instructions }
+3,D,this(«parameters») { instructions },,~this() { instructions }
+4,eC,class() { instructions },~class() { instructions },
+5,Java,class(«parameters») { instructions },,void finalize() { instructions }
+6,Eiffel,[15],,[16]
+7,Objective-C (Cocoa),- (id)init { instructions... return self; } or - (id)initWithFoo:parameter «bar:parameter ...» { instructions... return self; },- (void)dealloc { instructions },- (void)finalize { instructions }
+8,Swift,init(«parameters») { instructions },deinit { instructions },
+9,Python,"def __init__(self«, parameters»): Tab ↹ instructions",,def __del__(self): Tab ↹ instructions
+10,Visual Basic .NET,Sub New(«parameters») instructions End Sub,Sub Dispose() instructions End Sub,Overrides Sub Finalize() instructions End Sub
+11,Xojo,Sub Constructor(«parameters») instructions End Sub,Sub Destructor() instructions End Sub,
+12,PHP,function __construct(«parameters») { instructions },function __destruct() { instructions },
+13,Perl,"sub new { my ($class«, parameters») = @_; my $self = {}; instructions ... bless($self, $class); return $self; }",sub DESTROY { my ($self) = @_; instructions },
+14,Raku,"submethod BUILD { instructions } or «multi » method new(««$self: »parameters») { self.bless(*, field1 => value1, ...); ... instructions }",submethod DESTROY { instructions },
+15,Ruby,def initialize«(parameters)» instructions end,,
+16,Windows PowerShell,,,
+17,OCaml,initializer instructions[17],,
+18,F#,do instructions or new(parameters) = expression[18],member this.Dispose() = instructions,override this.Finalize() = instructions
+19,JavaScript,function name(«parameters») { instructions }[19],,
+20,JavaScript (ES6),constructor(«parameters») { instructions },,
+21,COBOL,N/A[20],,
+22,Cobra,cue init(parameters)Tab ↹ base.initTab ↹ instructions,def disposeTab ↹ instructions,
+23,ISLISP,(defmethod initialize-object ((instance <class-name>) initvalues),,

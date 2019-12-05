@@ -1,0 +1,30 @@
+,Software,BibTeX,Copac,CSA,Endnote/Refer/BibIX,ISI,Medline,MODS XML,Ovid,PubMed,RIS,SciFinder,Other
+0,Bebop,Yes,No,No,No,No,No,No,No,No,No,No,none
+1,BibBase,Yes,No,No,No,No,No,No,No,No,No,No,none
+2,BibDesk,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,"MARC, JSTOR, Reference Miner"
+3,Biblioscape,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,?
+4,BibSonomy,Yes,No,No,Yes,No,No,No,No,No,No,No,Firefox bookmarks
+5,Bibus,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,none
+6,Bookends,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,various [3]; user-customizable
+7,Citavi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,various
+8,CiteULike,Yes,No,No,No,No,No,No,No,No,Yes,No,none
+9,colwiz,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,"with built-in browser, bookmarklet"
+10,EndNote,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,various[19]
+11,F1000Workspace,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,"EndNote XML, NBIB from PubMed, Medline, PDF"
+12,JabRef,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"BibTexML, Biblioscape, Biomail, Inspec, JSTOR, MSBib, PDF widh XMP annotations, REPEC (NEP), SilverPlatter, SixPack"
+13,KBibTeX,Yes,No,No,Yes,No,No,Depends[17],No,Yes,Yes,No,none
+14,Mendeley,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Browser bookmarks
+15,Paperpile,Yes,No,No,No,No,No,No,No,No,Yes,No,PDF
+16,Pybliographer,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,none
+17,Qiqqa,Yes,No,No,Yes,No,No,No,No,Yes,No,No,none
+18,ReadCube (now Papers),Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,PDF
+19,refbase,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,RefWorks
+20,RefDB,Yes,Yes[17],No,Yes[17],Yes[17],Yes,Yes,No,Yes,Yes,Yes[17],"MARC, risx"
+21,Reference Manager,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,various;[20] user-customizable
+22,Referencer,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,none
+23,RefWorks,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,various[21]
+24,SciRef,No,No,No,Yes,No,No,No,No,No,Yes,No,?
+25,Sente,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,"Dublin Core, Marc21 SUTRS, JSTOR, SilverPlatter"
+26,Wikindx,Yes,Depends[17],No,Yes[citation needed],Depends[17],No,Depends[17],No,Yes[citation needed],Yes[citation needed],No,"ISI, BibReX LaTeX"
+27,WizFolio,No,No,No,No,No,No,No,No,No,Yes,No,Internet Browser bookmarks[22]
+28,Zotero[23],Yes,No[24],No[24],Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,"COinS, MARC, RDF, unAPI, Browser bookmarks, Endnote XML"

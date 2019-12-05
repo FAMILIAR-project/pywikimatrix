@@ -1,0 +1,7 @@
+,Syntax,Here document,Language(s)
+0,<<EOFI have a lot of things to sayand so little time to say themEOF,Yes,"Bourne shell, Perl, PHP, Ruby"
+1,<<<EOFI have a lot of things to sayand so little time to say themEOF,Yes,PHP
+2,"@""I have a lot of things to sayand so little time to say them""@",No,Windows Powershell
+3,"""[I have a lot of things to sayand so little time to say them]""",No,Eiffel
+4,"""""""I have a lot of things to sayand so little time to say them""""""",No,"CoffeeScript, Python, Groovy, Swift"
+5,"""I have a lot of things to sayand so little time to say them""",No,Visual Basic .NET (all strings are multiline)

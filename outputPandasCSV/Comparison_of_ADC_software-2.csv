@@ -1,0 +1,14 @@
+,ADC hub,Windows,Linux,OS X,Other
+0,ADCH++,Yes,Yes,No,No
+1,ADCH++ GUI,Yes,Yes,No,Any Python enabled platform
+2,DSHub,Yes,Yes,Yes,Any Java enabled platform
+3,FlexHub,Yes,Yes,No,No
+4,Luadch,Yes,Yes,Yes,"Raspberry Pi, Synology NAS, any GCC enabled platform"
+5,Nexthub,Yes,?,No,Any C# enabled platform
+6,uhub,Yes,Yes,Yes,"BSD, Haiku, OpenWrt, Solaris"
+7,Erlhub,Yes,Yes,Yes,Any Erlang enabled platform
+8,Qhub,?,?,?,?
+9,Starlet ADC Hub,No,No,No,OpenVMS
+10,Starhub,Yes,Yes,Yes,Any Java enabled platform
+11,RusHub,Yes,Yes,Yes,"FreeBSD, Solaris"
+12,ADC hub,Windows,Linux,OS X,Other

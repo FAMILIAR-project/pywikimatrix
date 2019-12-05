@@ -1,0 +1,54 @@
+,Unnamed: 0,Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS
+0,4th Dimension,Yes,Yes,No,No,No,No,No,No,No,No
+1,ADABAS,Yes,No,Yes,No,Yes,No,Yes,No,No,No
+2,Adaptive Server Enterprise,Yes,No,Yes,Yes,Yes,No,No,No,No,No
+3,Advantage Database Server,Yes,No,Yes,No,No,No,No,No,No,No
+4,Altibase,Yes,No,Yes,No,Yes,No,No,No,No,No
+5,Apache Derby,Yes,Yes,Yes,Yes,Yes,No,Yes,?,No,No
+6,ClustrixDB,No,No,Yes,No,Yes,No,No,No,No,No
+7,CUBRID,Yes,Partial,Yes,No,No,No,No,No,No,No
+8,DB2,Yes,Yes (Express C),Yes,No,Yes,No,Yes,Yes,No,No
+9,Empress Embedded Database,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+10,EXASolution,No,No,Yes,No,No,No,No,No,No,No
+11,FileMaker,Yes,Yes,Yes,No,No,No,No,Yes,No,No
+12,Firebird,Yes,Yes,Yes,Yes,Yes,No,Maybe,No,Yes[38],No
+13,HSQLDB,Yes,Yes,Yes,Yes,Yes,No,Yes,?,?,No
+14,H2,Yes,Yes,Yes,Yes,Yes,No,Yes,?,Yes,No
+15,Informix Dynamic Server,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+16,Ingres,Yes,Yes,Yes,Yes,Yes,No,Partial,No,No,Yes[39]
+17,InterBase,Yes,Yes,Yes,No,Yes (Solaris),No,No,Yes,Yes,No
+18,Linter SQL RDBMS,Yes,Yes,Yes,Yes,Yes,No,Under Linux on IBM Z,Yes,Yes,Yes
+19,LucidDB,Yes,Yes,Yes,No,No,No,No,No,No,No
+20,MariaDB,Yes,Yes[40],Yes,Yes,Yes,No,No,?,Yes[41],No
+21,MaxDB,Yes,No,Yes,No,Yes,No,Maybe,No,No,No
+22,Microsoft Access (JET),Yes,No,No,No,No,No,No,No,No,No
+23,Microsoft Visual Foxpro,Yes,No,No,No,No,No,No,No,No,No
+24,Microsoft SQL Server,Yes,No,Yes[42],No,No,No,No,No,No,No
+25,Microsoft SQL Server Compact (Embedded Database),Yes,No,No,No,No,No,No,No,No,No
+26,Mimer SQL,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+27,MonetDB,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+28,MySQL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes[43],No
+29,Omnis Studio,Yes,Yes,Yes,No,No,No,No,No,No,No
+30,OpenBase SQL,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+31,OpenEdge,Yes,No,Yes,No,Yes,No,No,No,No,No
+32,OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+33,Oracle,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes
+34,Oracle Rdb,No,No,No,No,No,No,No,No,No,Yes
+35,Pervasive PSQL,Yes,Yes (OEM only),Yes,No,No,No,No,No,No,No
+36,Polyhedra,Yes,No,Yes,No,Yes,No,No,No,No,No
+37,PostgreSQL,Yes,Yes,Yes,Yes,Yes,Yes (MorphOS)[44],Under Linux on IBM Z[45],No,Yes,No
+38,R:Base,Yes,No,No,No,No,No,No,No,No,No
+39,Raima Database Manager,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+40,RDM Server,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+41,SAP HANA,Yes,No,Yes,No,No,No,No,No,No,No
+42,solidDB,Yes,No,Yes,No,Yes,No,Under Linux on IBM Z,No,No,No
+43,SQL Anywhere,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+44,SQLBase,Yes,No,Yes,No,No,No,No,No,No,No
+45,SQLite,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,No
+46,SQream DB,No,No,Yes,No,No,No,No,No,No,No
+47,Superbase,Yes,No,No,No,No,Yes,No,No,No,No
+48,Teradata,Yes,No,Yes,No,Yes,No,No,No,No,No
+49,Tibero,Yes,No,Yes,No,Yes,No,No,No,No,No
+50,UniData,Yes,No,Yes,No,Yes,No,No,No,No,No
+51,UniVerse,Yes,No,Yes,No,Yes,No,No,No,No,No
+52,,Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS

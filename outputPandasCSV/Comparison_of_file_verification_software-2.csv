@@ -1,0 +1,58 @@
+,Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other
+0,7-Zip,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,"CRC64, BLAKE2sp"
+1,AccuHash,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+2,BeaverSFV,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+3,CDCheck,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,"MD2, MD4, Adler 32 Gost 32, Haval, Tiger"
+4,cfv,Yes,Yes,Yes,No,No,No,No,No,?,?,?,?,?,?,?,Torrent file
+5,Checksum Compare,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+6,Checksums,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,-
+7,CHK,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,"Adler-32, BLAKE2b, BLAKE2bp, BLAKE2s, BLAKE2sp, CRC64, MD4, SHA-1 (Base32), SHA-256 (Base64), SHA-512/224, SHA-512/256"
+8,cksum,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+9,CyoHash,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,-
+10,Data Digester,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,"MD2, MD4, PGP"
+11,DeepDigest,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+12,Double Commander,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,"BLAKE2s, BLAKE2b, MD4, HAVAL"
+13,DySFV,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,No,Yes,No,No,No,No,?
+14,eXpress CheckSum Calculator,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+15,ExactFile,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,"Adler-32, GOST, MD2"
+16,FastSum,No,Yes,No,No,No,No,No,?,No,No,No,No,No,No,No,?
+17,FCIV,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+18,Febooti Hash & CRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,"MD2, MD4"
+19,FileVerifier++,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,No,Yes,Yes,Yes,Yes,No,Yes,?
+20,FlashSFV,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+21,FSUM,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Adler-32
+22,FSUM Frontend,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total 96 algorithms
+23,PowerShell'sGet-FileHash,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,MACTripleDES
+24,HashCalc,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,"MD2, MD4, Adler-32"
+25,HashCheck Shell Extension,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,MD4
+26,HashForm,?,Yes,Yes,No,Yes,No,Yes,?,No,No,No,No,No,No,No,?
+27,HashShell,?,Yes,Yes,?,Yes,?,Yes,?,No,No,No,No,No,No,No,?
+28,ilSFV,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+29,Jacksum,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Total 58 algorithms
+30,jdigest,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+31,jHashCalc,No,Yes,Yes,No,Yes,Yes,Yes,?,No,Yes,Yes,No,No,Yes,Yes,MD4
+32,MD5 File Hasher,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+33,MD5 & SHA Checksum Utility,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,?
+34,md5deep,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,?
+35,md5sum,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+36,MD5summer,No,Yes,No,No,No,No,No,No,No,?,No,?,?,No,No,?
+37,MD5 Win Verifier,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,?
+38,MultiHasher,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No
+39,QuickSFV,Yes,Yes,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+40,PeaZip,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,"Adler-32, CRC16, CRC24, CRC64, eDonkey, MD4"
+41,RapidCRC,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+42,RekSFV,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,MD4 and HAVAL
+43,RHash,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,MD4 and more
+44,SafeFileManager,?,Yes,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+45,Sigcheck,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,IMP
+46,SFV Checker,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+47,sha1sum,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,?
+48,sha3sum,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,"Keccak, SHAKE, RawSHAKE"
+49,SuperSFV,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+50,TeraCopy,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,XxHash
+51,Tom's Hash Explorer,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,"Entropy_(information_theory), Shannon's Entropy"
+52,Toolsley Hash & Validate,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,?
+53,Total Commander,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,?
+54,WinHasher,No,Yes,Yes,No,Yes,Yes,Yes,?,No,No,Yes,No,No,Yes,Yes,?
+55,wxChecksums,Yes,Yes,No,No,No,No,No,?,No,No,No,No,No,No,No,?
+56,Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other

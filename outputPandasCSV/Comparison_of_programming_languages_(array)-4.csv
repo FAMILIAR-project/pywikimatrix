@@ -1,0 +1,60 @@
+,Programming language,Default base index,Specifiable index type[13],Specifiable base index,Bound check,Multidimensional,Dynamically-sized,Vectorized operations
+0,Ada,index type[14],yes,yes,checked,yes,init[15],"some, others definable[16]"
+1,ALGOL 68,1,no[17],yes,varies,yes,yes,user definable
+2,APL,1,?,0 or 1[18],checked,yes,yes,yes
+3,AWK,1,"yes, implicitly",no,unchecked,"yes, as delimited string","yes, rehashed",no
+4,BASIC,0,?,no,checked,no,init[15],?
+5,C,0,no,no[19],unchecked,partially,"init,[15][20] heap[21]",no
+6,Ch,0,no,no,checked,"yes, also array of array[22]","init,[15][20] heap[21]",yes
+7,C++[16],0,no,no[19],unchecked,"yes, also array of array[22]",heap[21],no
+8,C#,0,no,partial[23],checked,yes,heap[21][24],yes (LINQ select)
+9,CFML,1,no,no,checked,"yes, also array of array[22]",yes,no
+10,COBOL,1,no[25],no,checked,array of array[22][26],no[27],some intrinsics
+11,Cobra,0,no,no,checked,array of array[22],heap,?
+12,Common Lisp,0,?,no,checked[28],yes,yes,yes (map or map-into)
+13,D,0,yes[29],no,varies[30],yes,yes,?
+14,F#,0,no,partial[23],checked,yes,heap[21][24],yes (map)
+15,FreeBASIC,0,no,yes,checked,yes,"init,[15] init[31]",?
+16,Fortran,1,yes,yes,varies[32],yes,yes,yes
+17,FoxPro,1,?,no,checked,yes,yes,?
+18,Go,0,no,no,checked,array of array[22],no[33],no
+19,Hack,0,yes,yes,checked,yes,yes,yes
+20,Haskell,0,yes[34],yes,checked,"yes, also array of array[22]",init[15],?
+21,IDL,0,?,no,checked,yes,yes,yes
+22,ISLISP,0,?,no,checked,yes,init[15],yes (map or map-into)
+23,J,0,?,no,checked,yes,yes,yes
+24,Java[16],0,no,no,checked,array of array[22],init[15],?
+25,JavaScript,0,no,no,checked[35],array of array[22],yes,yes
+26,Julia,1,yes,yes,checked,yes,yes,yes
+27,Lingo,1,?,?,unchecked,yes,yes,yes
+28,Ring,1,?,partial[36],checked,array of array[22],yes,?
+29,Lua,1,?,partial[36],checked,array of array[22],yes,?
+30,Mathematica,1,no,no,checked,yes,yes,yes
+31,MATLAB,1,?,no,checked,yes[37],yes,yes
+32,Nim,0,yes[38],yes,optional[39],array of array[22],yes,yes[40]
+33,Oberon,0,?,no,checked,yes,no,?
+34,Oberon-2,0,?,no,checked,yes,yes,?
+35,Objective-C[16],0,no,no,checked,array of array[22],yes,no
+36,OCaml,0,no,no,checked by default,array of array[22],init[15],?
+37,"Pascal, Object Pascal",index type[14],yes,yes,varies[41],yes,varies[42],some
+38,Perl,0,no,yes ($[),checked[35],array of array[22],yes,no[43]
+39,Raku,0,no,no,checked[35],yes,yes,yes
+40,PHP,0,yes[44],yes[44],checked[44],yes,yes,yes
+41,PL/I,1,?,yes,checked,yes,no,?
+42,Python,0,no,no,checked,array of array[22],yes,no[45]
+43,RPG,1,no,no,?,no,no,?
+44,R,1,?,?,?,?,?,?
+45,Ruby,0,no,no,checked[35],array of array[22],yes,?
+46,Sass,1,no,no,checked,array of array[22],init[30],?
+47,S-Lang,0,?,no,checked,yes,yes,yes
+48,Scala,0,no,no,checked,array of array[22],init[15],yes (map)
+49,Scheme,0,?,no,checked,array of array[22],init[15],yes (map)
+50,Smalltalk[16],1,?,no,checked,array of array[22],yes[46],?
+51,Swift,0,no,no,checked,array of array[22],yes,?
+52,Visual Basic,0,no,yes,checked,yes,yes,?
+53,Visual Basic .NET,0,no,partial[23],checked,yes,yes,yes (LINQ select)
+54,Wolfram Language,1,no,no,checked,yes,yes,yes
+55,Windows PowerShell,0,no,no,checked,yes,heap,?
+56,Xojo,0,no,no,checked,yes,yes,no
+57,XPath/XQuery,1,no,no,checked,array of array[4][22],yes,yes
+58,Programming language,Default base index,Specifiable index type[13],Specifiable base index,Bound check,Multidimensional,Dynamically-sized,Vectorized operations

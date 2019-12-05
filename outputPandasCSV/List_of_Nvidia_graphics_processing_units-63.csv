@@ -1,0 +1,41 @@
+,Model,Micro-architecture,Launch,Chips,Core clock(MHz),Shaders,Shaders.1,Shaders.2,Memory,Memory.1,Memory.2,Memory.3,Memory.4,Processing power (GFLOPS)[e],Processing power (GFLOPS)[e].1,Processing power (GFLOPS)[e].2,CUDAcomputeability[f],TDP(watts),"Notes, form_factor"
+0,Model,Micro-architecture,Launch,Chips,Core clock(MHz),Cuda cores(total),Base clock (MHz),Max boostclock (MHz)[g],Bus type,Bus width(bit),Size(GB),Clock(MT/s),Bandwidth(GB/s),Single precision(MAD+MUL),Single precision(MAD or FMA),Double precision(FMA),CUDAcomputeability[f],TDP(watts),"Notes, form_factor"
+1,Units,,,,,,MHz,MHz,,,,,,,,,,W,
+2,C870 GPU Computing Module[h],Tesla,"May 2, 2007",1× G80,600,128,1350,,GDDR3,384,1.5,1600,76.8,518.4,345.6,No,1.0,170.9,"Internal PCIe GPU (full-height, dual-slot)"
+3,D870 Deskside Computer[h],Tesla,"May 2, 2007",2× G80,600,256,1350,,GDDR3,2× 384,2× 1.5,1600,2× 76.8,1036.8,691.2,No,1.0,520,Deskside or 3U rack-mount external GPUs
+4,S870 GPU Computing Server[h],Tesla,"May 2, 2007",4× G80,600,512,1350,,GDDR3,4× 384,4× 1.5,1600,4× 76.8,2073.6,1382.4,No,1.0,,"1U rack-mount external GPUs, connect via 2× PCIe (×16)"
+5,C1060 GPU Computing Module[i],Tesla,"April 9, 2009",1× GT200,602,240,1296[174],,GDDR3,512,4,1600,102.4,933.12,622.08,77.76,1.3,187.8,"Internal PCIe GPU (full-height, dual-slot)"
+6,"S1070 GPU Computing Server ""400 configuration""[i]",Tesla,"June 1, 2008",4× GT200,602,960,1296,,GDDR3,4× 512,4× 4,1538.4,4× 98.5,3732.5,2488.3,311.0,1.3,800,"1U rack-mount external GPUs, connect via 2× PCIe (×8 or ×16)"
+7,"S1070 GPU Computing Server ""500 configuration""[i]",Tesla,,4× GT200,602,960,1440,,GDDR3,4× 512,4× 4,1538.4,4× 98.5,4147.2,2764.8,345.6,1.3,800,"1U rack-mount external GPUs, connect via 2× PCIe (×8 or ×16)"
+8,S1075 GPU Computing Server[i][175],Tesla,"June 1, 2008",4× GT200,602,960,1440,,GDDR3,4× 512,4× 4,1538.4,4× 98.5,4147.2,2764.8,345.6,1.3,,"1U rack-mount external GPUs, connect via 1× PCIe (×8 or ×16)"
+9,Quadro Plex 2200 D2 Visual Computing System[j],Tesla,,2× GT200GL,648,480,1296,,GDDR3,2× 512,2× 4,1600,2× 102.4,1866.2,1244.2,155.5,1.3,,Deskside or 3U rack-mount external GPUs with 4 dual-link DVI outputs
+10,Quadro Plex 2200 S4 Visual Computing System[j],Tesla,,4× GT200GL,648,960,1296,,GDDR3,4× 512,4× 4,1600,4× 102.4,3732.5,2488.3,311.0,1.3,1200,"1U rack-mount external GPUs, connect via 2× PCIe (×8 or ×16)"
+11,C2050 GPU Computing Module[176],Fermi,"July 25, 2011",1× GF100,575,448,1150,,GDDR5,384,3[k],3000,144,No,1030.4,515.2,2.0,247,"Internal PCIe GPU (full-height, dual-slot)"
+12,M2050 GPU Computing Module[177],Fermi,"July 25, 2011",1× GF100,575,448,1150,,GDDR5,384,3[k],3092,148.4,No,1030.4,515.2,2.0,225,"Internal PCIe GPU (full-height, dual-slot)"
+13,C2070 GPU Computing Module[176],Fermi,"July 25, 2011",1× GF100,575,448,1150,,GDDR5,384,6[k],3000,144,No,1030.4,515.2,2.0,247,"Internal PCIe GPU (full-height, dual-slot)"
+14,C2075 GPU Computing Module[178],Fermi,"July 25, 2011",1× GF100,575,448,1150,,GDDR5,384,6[k],3000,144,No,1030.4,515.2,2.0,225,"Internal PCIe GPU (full-height, dual-slot)"
+15,M2070/M2070Q GPU Computing Module[179],Fermi,"July 25, 2011",1× GF100,575,448,1150,,GDDR5,384,6[k],3132,150.336,No,1030.4,515.2,2.0,225,"Internal PCIe GPU (full-height, dual-slot)"
+16,M2090 GPU Computing Module[180],Fermi,"July 25, 2011",1× GF110,650,512,1300,,GDDR5,384,6[k],3700,177.6,No,1331.2,665.6,2.0,225,"Internal PCIe GPU (full-height, dual-slot)"
+17,S2050 GPU Computing Server,Fermi,"July 25, 2011",4× GF100,575,1792,1150,,GDDR5,4× 384,4× 3[k],3,4× 148.4,No,4121.6,2060.8,2.0,900,"1U rack-mount external GPUs, connect via 2× PCIe (×8 or ×16)"
+18,S2070 GPU Computing Server,Fermi,,4× GF100,575,1792,1150,,GDDR5,4× 384,4× 6[k],3,4× 148.4,No,4121.6,2060.8,2.0,900,"1U rack-mount external GPUs, connect via 2× PCIe (×8 or ×16)"
+19,K10 GPU accelerator[181],Kepler,"May 1, 2012",2× GK104,,3072,745,?,GDDR5,2× 256,2× 4,5000,2× 160,No,4577,190.7,3.0,225,"Internal PCIe GPU (full-height, dual-slot)"
+20,K20 GPU accelerator[182][183],Kepler,"November 12, 2012",1× GK110,,2496,706,758,GDDR5,320,5,5200,208,No,3524,1175,3.5,225,"Internal PCIe GPU (full-height, dual-slot)"
+21,K20X GPU accelerator[184],Kepler,"November 12, 2012",1× GK110,,2688,732,?,GDDR5,384,6,5200,250,No,3935,1312,3.5,235,"Internal PCIe GPU (full-height, dual-slot)"
+22,K40 GPU accelerator[185],Kepler,"October 8, 2013",1× GK110B,,2880,745,875,GDDR5,384,12[k],6000,288,No,4291–5040,1430–1680,3.5,235,"Internal PCIe GPU (full-height, dual-slot)"
+23,K80 GPU accelerator[186],Kepler,"November 17, 2014",2× GK210,,4992,560,875,GDDR5,2× 384,2× 12,5000,2× 240,No,5591–8736,1864–2912,3.7,300,"Internal PCIe GPU (full-height, dual-slot)"
+24,M4 GPU accelerator[187][188],Maxwell,"November 10, 2015",1× GM206,,1024,872,1072,GDDR5,128,4,5500,88,No,1786–2195,55.81–68.61,5.2,50–75,"Internal PCIe GPU (half-height, single-slot)"
+25,M6 GPU accelerator[189],Maxwell,"August 30, 2015",1× GM204,,1536,722,1051,GDDR5,256,8,4600,147.2,No,2218–3229,69.3–100.9,5.2,75–100,Internal MXM GPU
+26,M10 GPU accelerator[190],Maxwell,,4× GM107,,2560,1033,?,GDDR5,4× 128,4× 8,5188,4× 83,No,5289,165.3,5.2,225,"Internal PCIe GPU (full-height, dual-slot)"
+27,M40 GPU accelerator[188][191],Maxwell,"November 10, 2015",1× GM200,,3072,948,1114,GDDR5,384,12,6000,288,No,5825–6844,182.0–213.9,5.2,250,"Internal PCIe GPU (full-height, dual-slot)"
+28,M60 GPU accelerator[192],Maxwell,"August 30, 2015",2× GM204,,4096,899,1178,GDDR5,2× 256,2× 8,5000,2× 160,No,7365–9650,230.1–301.6,5.2,225–300,"Internal PCIe GPU (full-height, dual-slot)"
+29,P4 GPU accelerator[193],Pascal,"September 13, 2016",1× GP104,,2560,810,1063,GDDR5,256,8,6000,192.0,No,4147–5443,129.6–170.1,6.1,50-75,PCIe card
+30,P6 GPU accelerator[194][195],Pascal,"March 24, 2017",1× GP104-995,,2048,1012,1506,GDDR5,256,16,3003,192.2,No,6169,192.8,6.1,90,MXM card
+31,P40 GPU accelerator[193],Pascal,"September 13, 2016",1× GP102,,3840,1303,1531,GDDR5,384,24,7200,345.6,No,10007–11758,312.7–367.4,6.1,250,PCIe card
+32,P100 GPU accelerator (mezzanine)[196][197],Pascal,"April 5, 2016",1× GP100,,3584,1328,1480,HBM2,4096,16,1430,732,No,9519–10609,4760–5304,6.0,300,NVLink card
+33,P100 GPU accelerator (16 GB card)[198],Pascal,"June 20, 2016",1× GP100,,3584,1126,1303,HBM2,4096,16,1430,732,No,8071‒9340,4036‒4670,6.0,250,PCIe card
+34,P100 GPU accelerator (12 GB card)[198],Pascal,"June 20, 2016",1× GP100,,3584,1126,1303,HBM2,3072,12,1430,549,No,8071‒9340,4036‒4670,6.0,250,PCIe card
+35,V100 GPU accelerator (mezzanine)[199][200][201],Volta,,1× GV100,,5120,Unknown,1455,HBM2,4096,16 or 32,1750,900,No,14899,7450,7.0,300,NVlink card
+36,V100 GPU accelerator (PCIe card)[199][200][201],Volta,"June 21, 2017",1× GV100,,5120,Unknown,1370,HBM2,4096,16 or 32,1750,900,No,14028,7014,7.0,250,PCIe card
+37,T4 GPU accelerator (PCIe card)[202][203],Turing,"September 12, 2018",1× TU104,,2560,585,1590,GDDR6,256,16,Unknown,320,No,8100,Unknown,7.5,70,PCIe card
+38,Model,Micro-architecture,Launch,Chips,Core clock(MHz),Shaders,Shaders,Shaders,Memory,Memory,Memory,Memory,Memory,Processing power (GFLOPS)[e],Processing power (GFLOPS)[e],Processing power (GFLOPS)[e],CUDAcomputeability,TDP(watts),"Notes, form factor"
+39,Model,Micro-architecture,Launch,Chips,Core clock(MHz),Cuda cores(total),Base clock (MHz),Max boostclock (MHz)[g],Bus type,Bus width(bit),Size(GB),Clock(MT/s),Bandwidth(total)(GB/s),Single precision(MAD+MUL),Single precision(MAD or FMA),Double precision(FMA),CUDAcomputeability,TDP(watts),"Notes, form factor"

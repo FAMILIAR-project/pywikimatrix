@@ -1,0 +1,29 @@
+,UK,US
+0,accelerator,"gas [pedal], accelerator"
+1,bonnet,hood[27]
+2,boot,trunk[27][28]
+3,"mudguard, wheel arch, wing",fender[29]
+4,"hood, soft/hard top","convertible top, soft/hard top"
+5,car park,parking lot[30]
+6,driving licence,driver's license[31]
+7,dual carriageway,divided highway[27]
+8,estate car,station wagon[30]
+9,flyover,"overpass,[30] flyover"
+10,gearbox,transmission[27]
+11,hard shoulder,shoulder
+12,"hired car, hire car","rental car, rental"
+13,"juggernaut, lorry","semi, semi-truck, 18 wheeler, tractor-trailer[32]"
+14,lorry,truck[28]
+15,articulated lorry,"trailer truck, semi[30]"
+16,manual,"stick shift, manual"
+17,motorway,"freeway,[32] highway or expressway"
+18,"pavement, footpath",sidewalk[32]
+19,roadworks,"construction zone, roadwork"
+20,petrol,gasoline or gas[27]
+21,saloon,sedan[33]
+22,shield,bumper
+23,silencer,muffler[27]
+24,spanner,wrench[27][28]
+25,ticking over,idling[32]
+26,windscreen,windshield[27]
+27,car valeting,auto detailing

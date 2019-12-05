@@ -1,0 +1,14 @@
+,Family number,Family number.1,Name
+0,Decimal,Hex (h),Name
+1,06,06h,K6
+2,07,07h,K7
+3,15,0Fh,K8 / Hammer
+4,16,10h,K10
+5,17,11h,"K8 & K10 ""hybrid"""
+6,18,12h,K10 (Liano) / K12 (ARM based AMD cpu)
+7,20,14h,Bobcat
+8,21,15h,Bulldozer / Piledriver / Steamroller / Excavator
+9,22,16h,Jaguar / Puma
+10,23,17h,Zen / Zen+ / Zen 2
+11,24,18h,Hygon Dhyana
+12,25,19h,Zen 3

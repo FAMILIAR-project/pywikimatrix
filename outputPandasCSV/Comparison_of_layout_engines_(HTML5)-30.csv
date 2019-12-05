@@ -1,0 +1,23 @@
+,Unnamed: 0,Trident,Gecko[g 99],WebKit,Presto
+0,loadstart,5.0[t 44],1.9.1,?,?
+1,progress,5.0[t 44],1.9.1,?,?
+2,suspend,5.0[t 44],1.9.2,?,?
+3,abort,5.0[t 44],1.9.1,?,?
+4,error,5.0[t 44],1.9.1,?,?
+5,emptied,5.0[t 44],1.9.1,?,?
+6,stalled,5.0[t 44],8.0[g 100],?,?
+7,play,5.0[t 44],1.9.1,?,?
+8,pause,5.0[t 44],1.9.1,?,?
+9,loadedmetadata,5.0[t 44],1.9.1,?,?
+10,loadeddata,5.0[t 44],1.9.1,?,?
+11,waiting,5.0[t 44],1.9.1,?,?
+12,playing,5.0[t 44],No,?,?
+13,canplay,5.0[t 44],1.9.1,?,?
+14,canplaythrough,5.0[t 44],1.9.1,?,?
+15,seeking,5.0[t 44],1.9.1,?,?
+16,seeked,5.0[t 44],1.9.1,?,?
+17,timeupdate,5.0[t 44],1.9.1,?,?
+18,ended,5.0[t 44],1.9.1,?,?
+19,ratechange,5.0[t 44],1.9.1,?,?
+20,durationchange,5.0[t 44],1.9.1,?,?
+21,volumechange,5.0[t 44],1.9.1,?,?

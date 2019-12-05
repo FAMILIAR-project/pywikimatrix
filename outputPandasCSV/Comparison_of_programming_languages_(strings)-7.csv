@@ -1,0 +1,3 @@
+,Syntax,Variant name,Language(s)
+0,"13HHello, world!",Hollerith notation,Fortran 66
+1,(indented with whitespace),Indented with whitespace and newlines,YAML

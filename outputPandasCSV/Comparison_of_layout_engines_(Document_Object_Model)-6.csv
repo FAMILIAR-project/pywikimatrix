@@ -1,0 +1,22 @@
+,Unnamed: 0,Unnamed: 1,Trident,Tasman,Gecko,WebKit,KHTML,Presto
+0,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet,Interface StyleSheet
+1,DOM2,type,6.0,?,1.0,Yes,?,2.0
+2,DOM2,disabled,6.0,?,1.0,Yes,?,2.0
+3,DOM2,ownerNode,No,?,1.0,Yes,?,2.0
+4,DOM2,parentStyleSheet,6.0,?,1.0,Yes,?,2.0
+5,DOM2,href,8.0,?,1.0,Yes,?,2.0
+6,DOM2,title,6.0,?,1.0,Yes,?,2.0
+7,DOM2,media,Incorrect,?,1.0,Yes,?,2.0
+8,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList,Interface StyleSheetList
+9,DOM2,length,6.0,?,1.0,Yes,?,2.0
+10,DOM2,item(),6.0,?,1.0,Yes,?,2.0
+11,Interface MediaList,Interface MediaList,Interface MediaList,Interface MediaList,Interface MediaList,Interface MediaList,Interface MediaList,Interface MediaList
+12,DOM2,mediaText,No,?,1.0,Yes,?,2.0
+13,DOM2,length,No,?,1.0,Yes,?,2.0
+14,DOM2,item(),No,?,1.0,Yes,?,2.0
+15,DOM2,deleteMedium(),No,?,1.0,Yes,?,2.0
+16,DOM2,appendMedium(),No,?,1.0,Yes,?,2.0
+17,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle,Interface LinkStyle
+18,DOM2,sheet,No,?,1.0,No,?,2.0
+19,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle,Interface DocumentStyle
+20,DOM2,styleSheets,No,?,1.0,No,?,2.0

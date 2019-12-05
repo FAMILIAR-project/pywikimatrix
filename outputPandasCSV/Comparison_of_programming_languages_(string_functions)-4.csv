@@ -1,0 +1,29 @@
+,Format,Languages
+0,IF string1<string2 THEN -1 ELSE ABS (string1>string2) FI,ALGOL 68
+1,"cmp(string1, string2)",Python 2
+2,(string1 > string2) - (string1 < string2),Python
+3,"strcmp(string1, string2)","C, PHP"
+4,"std.string.cmp(string1, string2)",D
+5,"StrComp(string1, string2)","VB, Object Pascal (Delphi)"
+6,string1 cmp string2,"Perl, Raku"
+7,string1 compare: string2,"Smalltalk (Squeak, Pharo)"
+8,string1 <=> string2,Ruby
+9,string1.compare(string2),"C++ (STL), Swift (Foundation)"
+10,"compare(string1, string2)","Rexx, Seed7"
+11,"CompareStr(string1, string2)","Pascal, Object Pascal (Delphi)"
+12,string1.compareTo(string2),"Cobra, Java"
+13,string1.CompareTo(string2),"VB .NET, C#, F#"
+14,(compare string1 string2),Clojure
+15,(string= string1 string2),Common Lisp
+16,(string-compare string1 string2 p< p= p>),Scheme (SRFI 13)
+17,(string= string1 string2),ISLISP
+18,compare string1 string2,OCaml
+19,"String.compare (string1, string2)",Standard ML [3]
+20,compare string1 string2,Haskell [4]
+21,"[string]::Compare(string1, string2)",Windows PowerShell
+22,[string1 compare:string2],Objective-C (NSString * only)
+23,"LLT(string1,string2) LLE(string1,string2) LGT(string1,string2) LGE(string1,string2)",Fortran [5]
+24,string1.localeCompare(string2),JavaScript
+25,"bytes.Compare([]byte(string1), []byte(string2))",Go
+26,string compare ?-nocase? ?-length int? string1 string2,Tcl
+27,"compare(string1,string2,count)",PL/I[6]

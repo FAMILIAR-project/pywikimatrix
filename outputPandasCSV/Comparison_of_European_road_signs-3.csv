@@ -1,0 +1,48 @@
+,Unnamed: 0,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+0,Give Way ahead,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Stop ahead,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Traffic signals ahead,,,,,,,,,,,,,or,,,,,,,,,,,,,,,
+3,Roundabout ahead,,NOTUSED,,,,,,NOTUSED,,,,or,,,,,,,,,,,,,REPLACEDby signNo. 4.54,,,
+4,Two-way traffic ahead,,,,,or,,,,,,,or,,,,,,,,,,,,,,,,or
+5,Traffic queues likely ahead,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,
+6,Level crossing without barriers ahead,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,
+7,Level crossing with barriers ahead,,,,,,,,[note 1],,,NOTUSED,or,,,,,,,,,,,,,,,,
+8,Level crossing,,,,,,,,,,,NOTUSED,NOTUSED,,,,,,,,,,,,,,,,(no gates)
+9,Level crossing (multiple tracks),,,,,,,,NOTUSED,,,NOTUSED,NOTUSED,,,,,,,,,,,,,DEPRE-CATED,,,DEPRE-CATED
+10,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+11,Tram crossing,,,,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,
+12,Crossroads with priority to the right,,,,,,,,,,,,NOTUSED,,,[note 2],,,,,,,,,,,,,NOTUSED
+13,Crossroads with a minor road,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Junction with a minor side road,,,,,,,NOTUSED,NOTUSED,,,,,,,,,,,,,,,,,DISUSED,,,
+15,Merging traffic,NOTUSED,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,NOTUSED,,,,,,,NOTUSED,NOTUSED,,,NOTUSED,,NOTUSED,,,,DISUSED,NOTUSED,NOTUSED,
+16,Road narrows on both sides,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Road narrows on right (left),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Dangerous crosswinds,,,,,,,,,,,,,,,,,,,,,,or,,,DEPRE-CATED,,,
+19,Low-flying aircraft,[note 1],,,or,,,,[note 3],,,,,,,,,,,,,,,,or,DEPRE-CATED,,,or
+20,Steep descent,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Steep ascent,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,,,,,
+22,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+23,Road bump ahead,,,,,,,,NOTUSED,,,,,,,,,,,,,,,,,,,,
+24,Uneven road ahead,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Curve,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Double curve,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Slippery road surface,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Loose road surface,,,,,,,,[note 3],,,,,,,,,,,,,,,,,,,,
+29,Soft verges or dangerous shoulder,,NOTUSED,,,,,NOTUSED,[note 1],,,,,,,,,,,,,,,,,NOTUSED,,,
+30,Children,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Pedestrian crossing ahead,,,,,,,,[note 3],,,,,,,,,,,,,,,,,,,,
+32,Cyclists,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Falling rocks or debris,,,,,,,,[note 3],,,,,,,NOTUSED,,,,,,,,,,,,,
+34,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom
+35,"Caution, snow or ice",,,,,,NOTUSED,NOTUSED,[note 3] or,,,,,,,,,,,,(Belarus),,,,,[note 4],,,
+36,"Caution, fog likely",,,,,,NOTUSED,NOTUSED,NOTUSED,,,,,,,,,NOTUSED,,,NOTUSED,,,,,[note 5],,,NOTUSED
+37,Opening or swing bridge,,,,,NOTUSED,,,[note 3],,,NOTUSED,,,,,,,,,,,,,,NOTUSED,,,
+38,Unprotected quayside or riverbank,,,,,,,,[note 3],,or,,,,,,,,,,,,,,,NOTUSED,,,or
+39,Domestic animals,,,,,,,,[note 3],,,,,,,,,,,,,,,,,,,,
+40,Wild animals,,,,,,or,,,,,,,,,,,,,,,,,,,,,,
+41,Tunnel ahead,NOTUSED,NOTUSED,,,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,,,,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,,,,,,NOTUSED,,REPLACEDby signno. 4.07a[note 6][7],,,
+42,Accident area / accident ahead,NOTUSED,NOTUSED,,NOTUSED,,NOTUSED,,,NOTUSED,,NOTUSED,,,,,,,,,(Belarus),,,,,[note 7],NOTUSED,,
+43,Roadworks ahead,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Other danger,,,,,,or (Åland),,,,,,,,,,,,,,,,,,,,,,
+45,Other danger (temporary),NOTUSED,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,,NOTUSED,,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,NOTUSED,,NOTUSED,NOTUSED,NOTUSED,NOTUSED,,NOTUSED,,NOTUSED,NOTUSED,,NOTUSED,NOTUSED
+46,,Austria,Belgium,CzechRepublic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia&Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland&Liechtenstein,Turkey,Ukraine,UnitedKingdom

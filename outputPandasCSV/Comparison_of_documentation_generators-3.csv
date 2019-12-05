@@ -1,0 +1,24 @@
+,Unnamed: 0,"C, C++",Java,C#,"VB, VBScript","Delphi, Pascal",Ada,D,IDL,Access,Fortran
+0,Ddoc,No,No,No,No,No,No,Yes,No,No,No
+1,Document! X,C++/CLI only,Yes,Yes,Yes,No,No,No,Yes,Yes,No
+2,Doxygen,Yes,Yes,Yes,with Plugin[b],with Plugin[b],No,Partial,Yes,No,Yes
+3,Epydoc,No,No,No,No,No,No,No,No,No,No
+4,Haddock,No,No,No,No,No,No,No,No,No,No
+5,HeaderDoc,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+6,Imagix 4D,Yes,Yes,No,No,No,No,No,No,No,No
+7,Javadoc,No,Yes,No,No,No,No,No,No,No,No
+8,JSDoc,No,No,No,No,No,No,No,No,No,No
+9,JsDoc Toolkit,No,No,No,No,No,No,No,No,No,No
+10,Natural Docs,Partial,Partial,Yes,Partial,Partial,Partial,No,No,No,Partial
+11,NDoc,No,No,Yes,No,No,No,No,No,No,No
+12,pdoc,No,No,No,No,No,No,No,No,No,No
+13,perldoc,No,No,No,No,No,No,No,No,No,No
+14,phpDocumentor,No,No,No,No,No,No,No,No,No,No
+15,pydoc,No,No,No,No,No,No,No,No,No,No
+16,RDoc,Partial,No,No,No,No,No,No,No,No,No
+17,ROBODoc,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+18,Sphinx,Yes,with Plugin,No,No,No,with Plugin,No,No,No,with Plugin
+19,Visual Expert,No,No,Yes,No,No,No,No,No,No,No
+20,VSdocman,No,No,Yes,Yes,No,No,No,No,No,No
+21,YARD,No,No,No,No,No,No,No,No,No,No
+22,,"C, C++",Java,C#,"VB, VBScript","Delphi, Pascal",Ada,D,IDL,Access,Fortran

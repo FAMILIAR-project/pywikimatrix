@@ -1,0 +1,16 @@
+,Arrays and Collections,Java,C#
+0,Abstract data types,Yes,Yes
+1,"One-dimensional, zero-based index arrays",Yes,Yes
+2,"Multidimensional arrays, rectangular (single array)",No,Yes
+3,"Multidimensional arrays, jagged (arrays of arrays)",Yes,Yes
+4,Non-zero based arrays,No,Some
+5,Unified arrays and collections,No,Yes
+6,Maps/dictionaries,Yes,Yes
+7,Sorted dictionaries,Yes,Yes[30]
+8,Sets,Yes,Yes
+9,Sorted sets,Yes,Yes[31]
+10,Lists/vectors,Yes,Yes
+11,Queues/stacks,Yes,Yes
+12,Priority queue,Yes,Yes[32][33]
+13,Bags/multisets,Third-party library,Yes
+14,Concurrency optimized collections,Yes,Yes[34]

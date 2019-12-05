@@ -1,0 +1,37 @@
+,BitTorrent client,Windows,macOS,Linux,BSD,iOS,Android,Other
+0,ABC,Yes,No,Yes,No,No,No,No
+1,Acquisition,No,Yes,No,No,No,No,No
+2,BitComet,Yes,Yes,No,No,No,No,No
+3,BitLet,Web,Web,Web,No,No,No,No
+4,BitLord,Yes,Yes,No,No,No,No,No
+5,BitTornado,Yes,Yes,Yes,Yes,No,No,No
+6,BitTorrent,Yes,Yes,No,No,No,Yes[33],No
+7,BitTyrant,Yes,Yes,Yes,Yes,No,No,No
+8,Blog Torrent,Yes,Yes,No,No,No,No,No
+9,Deluge,Yes,Yes,Yes,Yes,No,No,Solaris
+10,FlashGet,Yes,No,No,No,No,No,No
+11,Folx,No,Yes,No,No,No,No,No
+12,Free Download Manager,Yes,Yes,No,No,No,No,No
+13,Frostwire,Yes[34],Yes[34],Yes[34],Yes[34],No[34],Yes[34],"Unix-like,[34] z/OS,[35] Solaris, OS/2, eComStation[36]"
+14,KGet,No,No,Yes,Yes,No,No,No
+15,KTorrent,No,Yes,Yes,Yes,No,No,No
+16,LimeWire,Yes,Yes,Yes,Yes,No,No,Yes[specify]
+17,Meerkat Bittorrent Client,Yes,No,No,No,No,No,No
+18,Miro,Yes,Yes,Yes,Yes,No,No,No
+19,MLDonkey,Yes,Yes,Yes,Yes,No,No,"Solaris, MorphOS"
+20,μTorrent,Yes,Yes,Web,No,No,Yes[37],No
+21,OneSwarm,Yes,Yes,Yes,No,No,No,No
+22,Opera 12,Yes[Note 1],Yes,Yes[Note 1],Yes[Note 1],No,Yes[citation needed],Solaris
+23,qBittorrent,Yes[38],Yes[38],Yes[38],Yes[38],No[38],No[39],eComStation[38]
+24,rTorrent,"Yes, through Cygwin[40]",Yes,Yes,Yes,No,No,Solaris
+25,Shareaza,Yes,No,No,No,No,No,No
+26,SymTorrent,No,No,No,No,No,No,Symbian
+27,Tixati,Yes,No,Yes,No,No,No,No
+28,Tomato Torrent,No,Yes,No,No,No,No,No
+29,Tonido,Yes,Yes,Yes,Yes,No,No,No
+30,TorrentFlux,Yes,Yes,Yes,Yes,No,No,No
+31,Transmission,Yes [Note 1],Yes,Yes,Yes,"Yes, through Cydia",No,"Solaris, OpenWrt"
+32,Tribler,Yes,Yes,Yes,Yes,No,No,No
+33,Vuze,Yes,Yes,Yes,Yes,No,Yes[41],No
+34,Xunlei,Yes,Yes,No,No,Yes,Yes[citation needed],No
+35,Name,Windows,Mac OS X,Linux,BSD,iOS,Android,Other

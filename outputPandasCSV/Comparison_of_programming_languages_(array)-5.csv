@@ -1,0 +1,10 @@
+,Language/Library,Create,Determinant,Transpose,Element,Column,Row,Eigenvalues
+0,APL,m←dims⍴x11 x12 ...,-.×m,⍉m,m[i;j] or i j⌷m,m[;j] or j⌷[2]m or j⌷⍉m,m[i;] or i⌷m,⌹⍠1⊢m
+1,Fortran,{{{1}}},,TRANSPOSE(m),"m(i,j)","m(:,j)","m(i,:)",
+2,Ch [47],{{{1}}}},determinant(m),transpose(m),m[i-1][j-1],"shape(m,0)","shape(m,1)","eigen(output, m, NULL)"
+3,Mathematica,{{{1}}}},Det[m],Transpose[m],"m[[i,j]]","m[[;;,j]]",m[[i]],Eigenvalues[m]
+4,MATLAB /GNU Octave,{{{1}}},det(m),m.',"m(i,j)","m(:,j)","m(i,:)",eig(m)
+5,NumPy,{{{1}}},linalg.det(m),m.T,"m[i-1,j-1]","m[:,j-1]","m[i-1,:]",linalg.eigvals(m)
+6,S-Lang,{{{1}}},,{{{1}}},"m[i,j]","m[*,j]","m[j,*]",
+7,SymPy,{{{1}}},,m.T,"m[i-1,j-1]",,,
+8,Wolfram Language,{{{1}}}},Det[m],Transpose[m],"m[[i,j]]","m[[;;,j]]",m[[i]],Eigenvalues[m]

@@ -1,0 +1,11 @@
+,Unnamed: 0,Trident,Tasman,Gecko,WebKit,KHTML,Presto,iCab
+0,form,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,input,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,select,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,option,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,textarea,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5,button,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,fieldset,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,label,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,legend,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,optgroup,Yes,Yes,Yes,Yes,Yes,Yes,Yes

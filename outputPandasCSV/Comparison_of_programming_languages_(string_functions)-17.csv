@@ -1,0 +1,30 @@
+,Format,Languages,Format string syntax
+0,"associate(file, string); putf(file, $formatstring$, items)",ALGOL 68,ALGOL
+1,"Format(item, formatstring)",VB,
+2,"sprintf(formatstring, items)","Perl, PHP, Raku, Ruby",C
+3,item.fmt(formatstring),Raku,C
+4,"io_lib:format(formatstring, items)",Erlang,
+5,"sprintf(outputstring, formatstring, items)",C,C
+6,"std.string.format(formatstring, items)",D,C
+7,"Format(formatstring, items)",Object Pascal (Delphi),
+8,"fmt.Sprintf(formatstring, items)",Go,C
+9,printf -v outputstring formatstring items,Bash shell,C
+10,formatstring % (items),"Python, Ruby",C
+11,formatstring.format(items),Python,.NET
+12,Printf.sprintf formatstring[13] items,"OCaml, F#",C
+13,Text.Printf.printf formatstring items,Haskell (GHC),C
+14,formatstring printf: items,Smalltalk,C
+15,"String.format(formatstring, items)",Java,C
+16,"String.Format(formatstring, items)","VB .NET, C#, F#",.NET
+17,(format formatstring items),Scheme (SRFI 28),Lisp
+18,(format nil formatstring items),Common Lisp,Lisp
+19,(format formatstring items),Clojure,Lisp
+20,formatstring -f items,Windows PowerShell,.NET
+21,"[NSString stringWithFormat:formatstring, items]",Objective-C (NSString * only),C
+22,"String(format:formatstring, items)",Swift (Foundation),C
+23,"string.format(formatstring, items) (formatstring):format(items)",Lua,C
+24,"WRITE (outputstring, formatstring) items",Fortran,Fortran
+25,put string(string) edit(items)(format),PL/I,PL/I (similar to Fortran)
+26,"String.format(formatstring, items)",Cobra,.NET
+27,format formatstring items,Tcl,C
+28,formatnumbers ⍕ items or formatstring ⎕FMT items,APL,APL

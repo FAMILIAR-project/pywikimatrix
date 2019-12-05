@@ -1,0 +1,29 @@
+,File manager,DOS,OS/2 & eCS,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,OpenVMS
+0,Directory Opus,No,No,Yes,No,No,No,No,Yes[22],No
+1,Dired,Yes[23],Yes[24],Yes[25],Yes[26],Yes,Yes,Yes,Yes[27],Yes[28]
+2,Dolphin,No,No,Needs KDE[29],Yes[30],Yes,Yes,Yes,No,No
+3,Double Commander,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+4,DOS Navigator,Yes,Yes,Yes,No,No,No,No,No,No
+5,emelFM2,No,No,No,No,Yes,Yes,Yes,No,No
+6,File Commander,No,Yes,Yes,No,Yes,Yes,Yes,No,No
+7,fman,No,No,Yes,Yes,Yes,No,No,No,No
+8,GNOME Commander,No,No,No,Yes,Yes,Yes,Yes,No,No
+9,Konqueror,No,No,Needs KDE[29],Yes[30],Yes,Yes,Yes,No,No
+10,Krusader,No,No,No,Needs X,Yes,Yes,Yes,No,No
+11,Midnight Commander,Yes,No,Yes[31],Yes[32],Yes,Yes,Yes,Yes,No
+12,muCommander,No,No,Yes,Yes,Yes,Yes,Yes,?,Yes
+13,nnn,No,No,No,Yes,Yes,Yes,Yes,No,No
+14,GNOME Files (Nautilus),No,No,No,No,Yes,Yes,Yes,No,No
+15,Nemo,No,No,No,No,Yes,Yes,Yes,No,No
+16,PathMinder,Yes,No,Yes,No,No,No,No,No,No
+17,PCManFM,No,Needs POSIX-compliant platform,Needs POSIX-compliant platform,Needs POSIX-compliant platform,Yes,Yes,Yes,No,Yes
+18,Ranger,No,No,No,Yes,Yes,Yes,Yes,No,No
+19,ROX-Filer,No,No,,,Yes,Yes,Yes,No,No
+20,Thunar,No,No,No,No,Yes,Yes,Yes,No,No
+21,Total Commander,No,No,Yes,No,Yes,No,No,No,No
+22,Volkov Commander,Yes,Yes,Yes,No,No,No,No,No,No
+23,Xandros File Manager,No,No,No,No,Yes,?,?,No,No
+24,Xfe,No,Needs X,Needs X,Needs X,Yes,Yes,Yes,Needs X[33],Yes
+25,Xfm,No,Needs X,Needs X,Needs X,Yes,Yes,Yes,No,Yes
+26,ZTreeWin,No,Yes,Yes,No,No,No,No,No,No
+27,File manager,DOS,OS/2 & eCS,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,OpenVMS

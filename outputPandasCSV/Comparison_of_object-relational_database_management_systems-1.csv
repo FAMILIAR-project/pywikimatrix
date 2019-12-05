@@ -1,0 +1,16 @@
+,Name,Vendor,License,OS,Notes
+0,Adaptive Server Enterprise,SAP,Proprietary,Cross-platform,
+1,CUBRID,NHN Corporation,GPL/BSD,"Linux, Windows",
+2,DB2,IBM,Proprietary,Cross-platform,
+3,Greenplum Database,Greenplum division of EMC Corporation,Proprietary,?,Uses PostgreSQL codebase
+4,Informix,IBM,Proprietary,Cross-platform,
+5,Caché,InterSystems,Proprietary,Cross-platform,
+6,Microsoft SQL Server,Microsoft Corporation,Proprietary,"Windows, Linux",Supports data objects in .NET languages
+7,Oracle Database,Oracle Corporation,Proprietary,"Linux, Windows, Unix",
+8,PostgreSQL,PostgreSQL Global Development Group,PostgreSQL License,Cross-platform,
+9,OpenEdge Advanced Business Language (formerly Progress 4GL),Progress Software Corporation,Proprietary,Cross-platform,
+10,Virtuoso Universal Server,OpenLink Software,GPLv2 or proprietary,Cross-platform,
+11,VMDS (Version Managed Data Store),"GE Energy, a division of General Electric",Proprietary,?,GIS for public utilities; can be stored inside Oracle Database
+12,WakandaDB,4th Dimension,AGPLv3 or proprietary,"Windows, Linux, macOS",Based on REST and server-side JavaScript
+13,XDB Enterprise Server,Micro Focus,Proprietary,"DOS, Windows NT, OS/2",
+14,Zope Object Database,Zope Corporation,Zope Public License,Cross-platform,"For Python, also included in Zope web application server"

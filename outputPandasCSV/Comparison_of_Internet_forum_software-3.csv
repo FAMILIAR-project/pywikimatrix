@@ -1,0 +1,21 @@
+,Unnamed: 0,MySQL,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Flat file
+0,bbPress[2],Yes,No,No,No,No,No,No
+1,Beehive Forum,Yes,No,No,No,No,No,No
+2,Discourse,No,Yes,No,No,No,No,No
+3,Discuz!,Yes,Yes,No,No,No,No,No
+4,FluxBB,Yes,Yes,No,No,SQLite 2[85],No,No
+5,FUDforum,Yes,Yes,Yes,Yes,Yes,Yes,No
+6,Iko,Yes,No,No,No,No,No,No
+7,Ikonboard,Yes,Yes,No,Yes,No,No,Yes
+8,Invision Power Board,Yes,No,Discontinued [86],No,No,No,No
+9,kusaba,Yes,No,No,No,No,No,No
+10,MyBB[47],Yes,Yes,No,No,Yes,No,No
+11,Phorum,Yes,No,No,No,No,No,No
+12,phpBB[54],Yes,v8.2 or newer[87][88],Yes,Yes,Yes,Discontinued,No
+13,PunBB[60],Yes,Yes,No,No,Yes,No,No
+14,Simple Machines Forum,Yes,Yes,No,No,Yes,No,No
+15,Syndie,Yes (HSQLDB),No,No,No,No,No,No
+16,Thredded[19],Yes,Yes,No,No,Yes,No,No
+17,Vanilla Forums,Yes,No,No,No,No,No,No
+18,vBulletin[70],Yes,No,No,No,No,No,No
+19,XenForo,Yes,No,No,No,No,No,No

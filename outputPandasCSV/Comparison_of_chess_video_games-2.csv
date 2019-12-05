@@ -1,0 +1,27 @@
+,Unnamed: 0,included chess engine(s),Can open/save PGN,Can import UCI[4] engines,Levels,3D or Animated pieces,Variants,Multiplayer
+0,Aquarium,"Crafty, Delfi, Rybka, Spike",Yes,Yes,"multivariation[5], uci_elo[6]",No,Chess960,No
+1,Battle Chess,,No,No,,Yes,No,
+2,Battle Chess: Game of Kings,,No,No,,Yes,No,
+3,Battle vs. Chess,Fritz,No,No,levels 1-9,Yes,,
+4,Chessaria: The Tactical Adventure,Chessaria AICE,No,No,,Yes,Yes,Yes
+5,Chess Assistant,"Dragon, Rybka",Yes,Yes,"multivariation, uci_elo[7]",No,Chess960,No
+6,Chessbase,Fritz,Yes,Yes,uci_elo[8] for analysis but no timed games,Yes,Chess960,No
+7,Chessmaster,The King,Yes,No,Personalities with Elo ratings,Yes,No,no longer supported
+8,Chess Titans,,No,No,Yes,No,No,
+9,ChessV,,,,,,,
+10,Fritz,"Rybka, earlier Pandix or Fritz",Yes,Yes,"Friend Mode[9], Handicap and Fun[10], uci_elo[11]",Yes,Chess960,
+11,Fritz and Chesster,Koenig Schwarz,,,,,,
+12,GNOME Chess,,,,,,,
+13,GNU Chess,GNU chess,Yes,No,,No,"Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina",No
+14,Hiarcs Chess Explorer,Hiarcs,Yes,Yes,uci_elo[12],No,No,No
+15,Chessbase Houdini,Houdini,Yes,Yes,"Friend Mode[13], Handicap and Fun[14], uci_elo[15]",Yes,Chess960,Yes
+16,Chessbase Junior,Junior,Yes,Yes,"Friend Mode, Handicap and Fun, uci_elo[16]",Yes,Chess960,Yes
+17,Chessbase Komodo,Komodo,Yes,Yes,"Friend Mode[17], Handicap and Fun[18], uci_elo[19]",Yes,Chess960,Yes
+18,Playchess,none,Yes,No,Other players have Elo rating,No,Chess960,Yes
+19,Play Magnus,Glaurung,Yes,No,can choose Magnus' age,No,No,No
+20,Pure Chess,,No,No,,Yes,,
+21,pyChess,"Pychess engine, Stockfish",Yes,Yes,,,,Yes
+22,Chessbase Rybka,Rybka,Yes,Yes,"Friend Mode, Handicap and Fun, uci_elo[20]",Yes,Chess960,Yes
+23,Shredder UCI GUI,Shredder,Yes,Yes,uci_elo[21],No,Chess960,No
+24,Wii Chess,Loop Express,No,No,,,,
+25,Winboard/xBoard,Crafty,Yes,via UCI2WB,No,No,"Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina",Yes

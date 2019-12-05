@@ -1,0 +1,14 @@
+,Virtual machine,Machine model,Memory management,Code security,Interpreter,JIT,AOT,Shared libraries,Common Language Object Model,Dynamic typing
+0,Android Runtime (ART),register,automatic,Yes,Yes,Yes,Yes,?,Yes,Yes
+1,Common Language Runtime (CLR),stack,automatic or manual,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,Dis (Inferno),register,automatic,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,DotGNU Portable.NET,stack,automatic or manual,Yes,Yes,Yes,Yes,Yes,Yes,No
+4,Java virtual machine (JVM),stack,automatic,Yes,Yes,Yes,Yes,Yes,Yes,Yes[1]
+5,JikesRVM,stack,automatic,Yes,Yes,Yes,Yes,?,Yes,Yes
+6,LLVM,register,manual,No,Yes,Yes,Yes,Yes,Yes,No
+7,Mono,stack,automatic or manual,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,Parrot,register,automatic,No,Yes,No[2],Yes,Yes,Yes,Yes
+9,Dalvik,register,automatic,Yes,Yes,Yes,No,?,No,No
+10,Squeak,stack,automatic,No,Yes,Yes,No,Yes,No,Yes
+11,BEAM (Erlang),register,automatic,?,Yes,Yes,Yes,Yes,Yes,Yes
+12,MoarVM,register,automatic,?,Yes,Yes,Yes,Yes,Yes,Yes

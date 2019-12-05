@@ -1,0 +1,13 @@
+,Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+0,Camera focus at specified point,2.3+[396],Yes[82],Yes[397],10+,?,1.0.4.20+[398],Yes
+1,Camera exposure metering from specified point,"No,[399] available on some phones.[400][401]",Yes[402],8.1+[403],No,No,?,No
+2,On device picture info (including Exif data),Only date and location; more with 3rd party software[404],Only date and location; more with 3rd party software[405],3rd party apps[406],Date and location[407],No,?,Yes
+3,On device picture categorization,No[408] 3rd party software like TouchWiz[409],5+[410],Yes[411],"Yes, photos can be renamed and searched",No,?,No
+4,On device picture description and search,No[412],10+: Items/objects in picture;[413]7+: Only date and location[414],Yes,Yes,No,?,No
+5,Turn off shutter sound,In silent mode[415],In silent mode[416],7.5+[417],10.2+ – In silent mode[418],In silent mode,In silent mode[419],No
+6,Picture crop,Yes,5+[420],8+[421],10+[422],No,Yes,Yes
+7,Photo rotation,Yes,5+[420],8+[421],10+[422],No,Yes,Yes
+8,Photo red-eye reduction,2.3+[423],5+[420],Yes 8.1+[424],10+[422],No,No[425],No
+9,HDR photos option,"4.2+, some manufacturers earlier[426]",Yes[427],8.1+,10.1+[428],No,No[429],Yes
+10,Photo/video import from memory cards,Yes,With Camera Connection Kit[390],Yes,Yes,Yes,Yes,Yes
+11,Video trim,2.3+,Yes,8+[430],10+[431],No,?,No

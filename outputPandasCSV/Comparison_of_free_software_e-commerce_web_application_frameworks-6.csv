@@ -1,0 +1,18 @@
+,Unnamed: 0,Coupons,Gift certificates,Membership discounts,Membership-only categories,Membership-only products,Reward points,Special offers
+0,Apache OFBiz,Yes,Yes,Yes,No,Yes,No,Yes
+1,Batavi,No,No,Yes,No,No,No,Yes
+2,Bigcommerce,Yes,Yes,Yes,Yes,Yes,3rd party module,Yes
+3,Drupal Commerce,Yes,Yes,Yes,Yes,Yes,No,Yes
+4,KonaKart,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5,LemonStand,Yes,3rd party module,Yes,Yes,Yes,No,Yes
+6,Magento,Yes,Yes,Yes,Yes,Yes,Yes (Enterprise Edition),Yes
+7,nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+8,osCommerce,Add-on,Add-on,No,No,No,No,Yes
+9,pimcore,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11,Sana Commerce,Yes,No,Yes,Yes,Yes,No,Yes
+12,Shopify,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+13,SupaDupa,Yes,Yes,No,No,No,No,Yes
+14,WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+15,Zen Cart,Yes,Yes,Yes,Add-on[32],Add-on[32],Yes[33],Yes
+16,,Coupons,Gift certificates,Membership discounts,Membership-only categories,Membership-only products,Reward points,Special offers

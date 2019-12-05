@@ -1,0 +1,33 @@
+,Format,Languages
+0,string (string'First .. string'First + n - 1),Ada
+1,"substr(string, 0, n)","AWK (changes string), Perl, PHP, Raku"
+2,"LEFT$(string,n)","BASIC, VB"
+3,"left(string,n)","VB, FreeBASIC, Ingres, Pick Basic"
+4,"strncpy(string2, string, n)",C standard library
+5,"string.substr(0,n)","C++ (STL), Raku"
+6,[string substringToIndex:n],Objective-C (NSString * only)
+7,(apply str (take n string)),Clojure
+8,string[0 .. n],D[14]
+9,"string:substr(string, start, length)",Erlang
+10,(subseq string 0 n),Common Lisp
+11,string[:n],"Cobra, Go, Python"
+12,"left(string,n «,padchar»)","Rexx, Erlang"
+13,"string[0, n] string[0..n - 1]",Ruby
+14,"string[1, n]",Pick Basic
+15,string[ .. n],Seed7
+16,"string.Substring(0,n)","VB .NET, C#, Windows PowerShell, F#"
+17,"leftstr(string, n)","Pascal, Object Pascal (Delphi)"
+18,"copy (string,1,n)",Turbo Pascal
+19,"string.substring(0,n)","Java,[15] JavaScript"
+20,(string-take string n),Scheme (SRFI 13)
+21,take n string,Haskell
+22,"String.extract (string, n, NONE)",Standard ML
+23,String.sub string 0 n,OCaml[16]
+24,string.[..n],F#
+25,"string.sub(string, 1, n) (string):sub(1, n)",Lua
+26,string first: n,"Smalltalk (Squeak, Pharo)"
+27,string(:n),Fortran
+28,"StringTake[string, n]",Mathematica[17]
+29,string («FUNCTION» LENGTH(string) - n:n),COBOL
+30,"string.substring(0, n)",Cobra
+31,n↑string.,APL
